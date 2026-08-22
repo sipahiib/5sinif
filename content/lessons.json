@@ -1,0 +1,48 @@
+{
+  "lessons": [
+    {
+      "id": "ay",
+      "title": "Ay'ın Evreleri",
+      "subject": "5. SINIF FEN BİLGİSİ",
+      "imageRoot": "pages/fen/ay",
+      "audioRoot": "audio/lessons/ay",
+      "scenes": [
+        {
+          "id": "01",
+          "title": "Ay'ın Ana Evreleri",
+          "image": "ay_1.jpg",
+          "focus": "Ay'ın evreleri",
+          "points": [
+            "Ay'ın Dünya etrafındaki hareketi sırasında Güneş'ten aldığı ışığı farklı şekillerde görürüz.",
+            "Ay'ın Dünya'dan görünen aydınlık yüzünün değişmesine Ay'ın evreleri denir.",
+            "Ay'ın ana evreleri yeni ay, ilk dördün, dolunay ve son dördündür."
+          ],
+          "firstSpeaker": "filiz",
+          "dialogue": {
+            "filiz": "Merhaba arkadaşlar! Bugün Ay'ın evrelerini öğreneceğiz.",
+            "ibrahim": "Ay'ın ana evreleri yeni ay, ilk dördün, dolunay ve son dördündür."
+          },
+          "splitSec": 3,
+          "totalSec": 7
+        },
+        {
+          "id": "02",
+          "title": "Yeni Ay ve İlk Dördün",
+          "image": "ay_1.jpg",
+          "focus": "Yeni ay ve ilk dördün",
+          "points": [
+            "Yeni ay evresinde Ay, Dünya ile Güneş arasındadır.",
+            "İlk dördünde Ay, Dünya'dan yarım daire şeklinde görülür."
+          ],
+          "firstSpeaker": "ibrahim",
+          "dialogue": {
+            "filiz": "İlk dördün evresinde Ay'ın sağ yarısı aydınlıktır.",
+            "ibrahim": "Yeni ay evresinde Ay'ı Dünya'dan göremeyiz."
+          },
+          "splitSec": 3,
+          "totalSec": 7
+        }
+      ]
+    }
+  ]
+}

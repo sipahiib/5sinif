@@ -1,0 +1,8 @@
+{
+  "name":"zit-anlamli-sozcukler-remotion",
+  "version":"1.0.0",
+  "private":true,
+  "scripts":{"start":"remotion studio","build":"remotion render src/index.tsx Tur out/tur.mp4","build:somut-soyut":"remotion render src/index.tsx SomutSoyut out/smout-soyut.mp4","build:lesson":"remotion render src/index.tsx Lesson out/lesson.mp4","generate:lesson":"python3 generate_py/generate_lesson.py content/lessons.json"},
+  "dependencies":{"@remotion/cli":"latest","react":"latest","react-dom":"latest","remotion":"latest","typescript":"latest"},
+  "devDependencies":{}
+}
