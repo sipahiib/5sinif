@@ -9,8 +9,6 @@ npx remotion studio src/index.tsx
 npx remotion render src/index.tsx ZitAnlam out/zit-anlamli-sozcukler.mp4
 ```
 
-Videoda filiz ve ibrahim karakterleri, örnekler ve özellikle “olumsuzluk ≠ zıt anlam” ayrımını anlatır.
-
 ## Yeni JPG ile ders videosu üretme
 
 Yeni bir görsel için ayrı TSX, Python veya MP3 dosyası oluşturulmaz:
