@@ -1,0 +1,42 @@
+{
+  "01": {
+    "speaker": "filiz",
+    "audio_sec": 10.25,
+    "total_sec": 10.7
+  },
+  "02": {
+    "speaker": "ibrahim",
+    "audio_sec": 11.59,
+    "total_sec": 12.04
+  },
+  "03": {
+    "speaker": "filiz",
+    "audio_sec": 11.62,
+    "total_sec": 12.07
+  },
+  "04": {
+    "speaker": "ibrahim",
+    "audio_sec": 12.41,
+    "total_sec": 12.86
+  },
+  "05": {
+    "speaker": "filiz",
+    "audio_sec": 9.07,
+    "total_sec": 9.52
+  },
+  "06": {
+    "speaker": "ibrahim",
+    "audio_sec": 10.51,
+    "total_sec": 10.96
+  },
+  "07": {
+    "speaker": "filiz",
+    "audio_sec": 11.16,
+    "total_sec": 11.61
+  },
+  "08": {
+    "speaker": "ibrahim",
+    "audio_sec": 9.62,
+    "total_sec": 10.07
+  }
+}

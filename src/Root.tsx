@@ -4,6 +4,8 @@ import {ZitAnlam, RemotionVideoConfig} from './index';
 import {SomutSoyut, SomutSoyutConfig} from './somut-soyut/SomutSoyut';
 import {LessonVideo} from './LessonVideo';
 import {getLesson, getLessonDurationInFrames} from './lesson-manifest';
+import {Nokta, NoktaConfig} from './nokta/Nokta';
+import {DogruParcasi, DogruParcasiConfig} from './dogruparcasi/DogruParcasi';
 
 const genericLesson = getLesson('ay');
 
@@ -34,7 +36,21 @@ export const Root = () => (
       height={540}
       defaultProps={{lesson: genericLesson}}
     />
+    <Composition
+      id={NoktaConfig.id}
+      component={Nokta}
+      durationInFrames={NoktaConfig.durationInFrames}
+      fps={NoktaConfig.fps}
+      width={NoktaConfig.width}
+      height={NoktaConfig.height}
+    />
+    <Composition
+      id={DogruParcasiConfig.id}
+      component={DogruParcasi}
+      durationInFrames={DogruParcasiConfig.durationInFrames}
+      fps={DogruParcasiConfig.fps}
+      width={DogruParcasiConfig.width}
+      height={DogruParcasiConfig.height}
+    />
   </>
 );
-
-
