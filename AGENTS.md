@@ -11,6 +11,8 @@
 
 ## Character assets
 
-- In every future video, use `public/images/filiz.png` and `public/images/ibrahim.png` as the Filiz and İbrahim character visuals.
-- Display these PNG characters at the same apparent size as the previous characters: use the existing 160 x 280 character box and the established scene scale (typically `0.78` in 960 x 540 videos), adjusting only for transparent padding or differing image aspect ratios so their visible body size remains matched.
+- In every future video, use `public/images/filiz_2.gif` and `public/images/ibrahim_2.gif` as the Filiz and İbrahim character visuals. Do not use the previous PNG or drawn character assets.
+- Use the cleaned, transparent 22-frame animation derived from each GIF. Do not display unused sprite cells, the original white background, black placeholder frames, or the removed black face/moustache-area artifacts.
+- Keep the character animation synchronized with the active speaker. A non-speaking character may remain on its neutral first frame while retaining the established subtle breathing motion.
+- Display these GIF-based characters at the same apparent size as the previous characters: use the existing 160 x 280 character box and the established scene scale (typically `0.78` in 960 x 540 videos), adjusting only for transparent padding or differing image aspect ratios so their visible body size remains matched.
 - Preserve the established left/right character placement and speaker roles unless a scene specifically requires a different composition.
