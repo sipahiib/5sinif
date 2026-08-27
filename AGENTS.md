@@ -13,9 +13,17 @@
 
 - In every future video, use `public/images/filiz_2.gif` and `public/images/ibrahim_2.gif` as the Filiz and İbrahim character visuals. Do not use the previous PNG or drawn character assets.
 - Use the cleaned, transparent 22-frame animation derived from each GIF. Do not display unused sprite cells, the original white background, black placeholder frames, or the removed black face/moustache-area artifacts.
-- Keep the character animation synchronized with the active speaker. A non-speaking character may remain on its neutral first frame while retaining the established subtle breathing motion.
-- Display these GIF-based characters at the same apparent size as the previous characters: use the existing 160 x 280 character box and the established scene scale (typically `0.78` in 960 x 540 videos), adjusting only for transparent padding or differing image aspect ratios so their visible body size remains matched.
+- Keep the character animation synchronized with the active speaker.
+- Show exactly one character on every lesson scene, and that visible character must provide the full narration for that scene. Show both Filiz and İbrahim only on the final scene; the non-speaking final-scene character may remain on its neutral first frame with subtle breathing motion.
+- Filiz must already be visible on frame 0 when the video starts. Load character sprite assets with a render-blocking image component so the first rendered frame cannot omit her.
+- Size and vertically position the GIF-based characters so their visible top and bottom align with the narration card height. Preserve the 160 x 280 source character box, but adjust scene scale and position as needed to fill the side column and match the card height.
 - Preserve the established left/right character placement and speaker roles unless a scene specifically requires a different composition.
+
+## Source pages and scene layout
+
+- Never place photographs or other embedded images from source JPG files under `public/pages` into a video. Use the source pages only to understand the lesson content; replace their imagery with original code-native diagrams, illustrations, or animations.
+- On every single-character scene, expand the presentation into the side where the hidden character would otherwise appear. Do not leave an unused character-sized empty area on either the left or right.
+- Keep the final two-character scene centered between Filiz and İbrahim.
 
 ## Video output organization
 
