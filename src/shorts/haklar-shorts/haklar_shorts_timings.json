@@ -1,0 +1,18 @@
+{
+  "fps": 30,
+  "question_start": 0.35,
+  "question_speech_start": 0.546,
+  "question_end": 5.134,
+  "answer_start": 9.508,
+  "answer_speech_start": 9.734,
+  "answer_end": 14.288,
+  "cta_start": 14.263,
+  "cta_speech_start": 14.468,
+  "cta_end": 17.29,
+  "total_sec": 18.745,
+  "lines": {
+    "question": "Okulda güvenli bir ortamda bulunmak hakkımızsa, bu hakkı koruyan sorumluluklarımız nelerdir?",
+    "answer": "Kurallara uymak, başkalarının haklarına saygı duymak ve okul araçlarını özenli kullanmak!",
+    "cta": "Cevabı bildiysen beğen, yeni dersler için abone ol!"
+  }
+}

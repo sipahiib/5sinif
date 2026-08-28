@@ -1,0 +1,50 @@
+{
+  "01": {
+    "speaker": "filiz",
+    "split_sec": 12.256,
+    "speech_end_sec": 24.976,
+    "total_sec": 25.396
+  },
+  "02": {
+    "speaker": "ibrahim",
+    "split_sec": 8.272,
+    "speech_end_sec": 20.632,
+    "total_sec": 21.052
+  },
+  "03": {
+    "speaker": "filiz",
+    "split_sec": 10.48,
+    "speech_end_sec": 24.376,
+    "total_sec": 24.796
+  },
+  "04": {
+    "speaker": "ibrahim",
+    "split_sec": 10.144,
+    "speech_end_sec": 21.328,
+    "total_sec": 21.748
+  },
+  "05": {
+    "speaker": "filiz",
+    "split_sec": 8.296,
+    "speech_end_sec": 20.8,
+    "total_sec": 21.22
+  },
+  "06": {
+    "speaker": "ibrahim",
+    "split_sec": 9.568,
+    "speech_end_sec": 21.28,
+    "total_sec": 21.7
+  },
+  "07": {
+    "speaker": "filiz",
+    "split_sec": 8.824,
+    "speech_end_sec": 20.464,
+    "total_sec": 20.884
+  },
+  "08": {
+    "speaker": "ibrahim",
+    "split_sec": 10.624,
+    "speech_end_sec": 21.424,
+    "total_sec": 26.424
+  }
+}
