@@ -1,0 +1,100 @@
+{
+  "fps": 30,
+  "question_start": 0.35,
+  "question_speech_start": 0.658,
+  "question_end": 3.826,
+  "countdown_start": 3.826,
+  "answer_start": 8.43,
+  "answer_speech_start": 8.826,
+  "answer_end": 11.944,
+  "cta_start": 11.758,
+  "cta_speech_start": 12.144,
+  "cta_end": 14.358,
+  "total_sec": 15.856,
+  "durations": {
+    "question": 4.488,
+    "answer": 4.56,
+    "cta": 3.648
+  },
+  "speech_windows": {
+    "question": [
+      0.308,
+      3.476
+    ],
+    "answer": [
+      0.396,
+      3.514
+    ],
+    "cta": [
+      0.386,
+      2.599
+    ]
+  },
+  "lines": {
+    "question": "Hasan'ın evde, okulda ve halk oyunlarındaki rolleri neler?",
+    "answer": "Evde çocuk, okulda öğrenci, halk oyunlarında oyuncu!",
+    "cta": "Bu tip örnekler için kanalımıza bekliyoruz!"
+  },
+  "captions": [
+    {
+      "start": 0.658,
+      "end": 1.546,
+      "text": "Hasan'ın evde"
+    },
+    {
+      "start": 1.681,
+      "end": 2.478,
+      "text": "okulda ve halk"
+    },
+    {
+      "start": 2.478,
+      "end": 3.096,
+      "text": "oyunlarındaki"
+    },
+    {
+      "start": 3.096,
+      "end": 3.826,
+      "text": "rolleri neler"
+    },
+    {
+      "start": 8.826,
+      "end": 9.65,
+      "text": "Evde çocuk"
+    },
+    {
+      "start": 9.793,
+      "end": 10.649,
+      "text": "okulda öğrenci"
+    },
+    {
+      "start": 10.803,
+      "end": 11.033,
+      "text": "halk"
+    },
+    {
+      "start": 11.033,
+      "end": 11.549,
+      "text": "oyunlarında"
+    },
+    {
+      "start": 11.549,
+      "end": 11.944,
+      "text": "oyuncu"
+    },
+    {
+      "start": 12.144,
+      "end": 13.046,
+      "text": "Bu tip örnekler"
+    },
+    {
+      "start": 13.046,
+      "end": 13.76,
+      "text": "için kanalımıza"
+    },
+    {
+      "start": 13.76,
+      "end": 14.358,
+      "text": "bekliyoruz"
+    }
+  ]
+}

@@ -29,4 +29,6 @@
 
 - Save every rendered video under `out/<video-name>/<video-name>.mp4`.
 - Create the matching `<video-name>` directory under `out` when it does not exist.
+- Save every future Shorts video under `out/shorts/<shorts-video-name>/<shorts-video-name>.mp4`; create a new matching subdirectory for each Shorts video.
+- Whenever a new non-Shorts MP4 video is created, also create a separate companion Shorts video for it.
 - Do not leave final rendered videos in the project root.

@@ -1,0 +1,372 @@
+{
+  "ay": {
+    "fps": 30,
+    "question_start": 0.35,
+    "question_speech_start": 0.622,
+    "question_end": 2.332,
+    "answer_start": 7.05,
+    "answer_speech_start": 7.332,
+    "answer_end": 10.068,
+    "cta_start": 9.882,
+    "cta_speech_start": 10.268,
+    "cta_end": 12.481,
+    "total_sec": 16.0,
+    "durations": {
+      "question": 3.0,
+      "answer": 4.08,
+      "cta": 3.648
+    },
+    "speech_windows": {
+      "question": [
+        0.272,
+        1.982
+      ],
+      "answer": [
+        0.282,
+        3.018
+      ],
+      "cta": [
+        0.386,
+        2.599
+      ]
+    },
+    "lines": {
+      "question": "Ay'ın dört ana evresi nelerdir?",
+      "answer": "Yeni ay, ilk dördün, dolunay ve son dördün.",
+      "cta": "Bu tip örnekler için kanalımıza bekliyoruz!"
+    }
+  },
+  "gunes": {
+    "fps": 30,
+    "question_start": 0.35,
+    "question_speech_start": 0.636,
+    "question_end": 3.678,
+    "answer_start": 8.366,
+    "answer_speech_start": 8.678,
+    "answer_end": 10.199,
+    "cta_start": 10.013,
+    "cta_speech_start": 10.399,
+    "cta_end": 12.613,
+    "total_sec": 16.0,
+    "durations": {
+      "question": 4.344,
+      "answer": 2.832,
+      "cta": 3.648
+    },
+    "speech_windows": {
+      "question": [
+        0.286,
+        3.328
+      ],
+      "answer": [
+        0.312,
+        1.833
+      ],
+      "cta": [
+        0.386,
+        2.599
+      ]
+    },
+    "lines": {
+      "question": "Güneş'in çapı, Dünya'nın çapının yaklaşık kaç katıdır?",
+      "answer": "Yaklaşık yüz dokuz katıdır!",
+      "cta": "Bu tip örnekler için kanalımıza bekliyoruz!"
+    }
+  },
+  "nokta": {
+    "fps": 30,
+    "question_start": 0.35,
+    "question_speech_start": 0.701,
+    "question_end": 4.063,
+    "answer_start": 8.656,
+    "answer_speech_start": 9.063,
+    "answer_end": 10.148,
+    "cta_start": 9.962,
+    "cta_speech_start": 10.348,
+    "cta_end": 12.562,
+    "total_sec": 16.0,
+    "durations": {
+      "question": 4.728,
+      "answer": 2.52,
+      "cta": 3.648
+    },
+    "speech_windows": {
+      "question": [
+        0.351,
+        3.713
+      ],
+      "answer": [
+        0.407,
+        1.492
+      ],
+      "cta": [
+        0.386,
+        2.599
+      ]
+    },
+    "lines": {
+      "question": "Boyutu olmayan ama bir konum belirten geometrik kavram nedir?",
+      "answer": "Bu kavram noktadır.",
+      "cta": "Bu tip örnekler için kanalımıza bekliyoruz!"
+    }
+  },
+  "dogruparcasi": {
+    "fps": 30,
+    "question_start": 0.35,
+    "question_speech_start": 0.748,
+    "question_end": 3.539,
+    "answer_start": 8.297,
+    "answer_speech_start": 8.539,
+    "answer_end": 9.764,
+    "cta_start": 9.578,
+    "cta_speech_start": 9.964,
+    "cta_end": 12.178,
+    "total_sec": 16.0,
+    "durations": {
+      "question": 4.224,
+      "answer": 2.496,
+      "cta": 3.648
+    },
+    "speech_windows": {
+      "question": [
+        0.398,
+        3.189
+      ],
+      "answer": [
+        0.242,
+        1.468
+      ],
+      "cta": [
+        0.386,
+        2.599
+      ]
+    },
+    "lines": {
+      "question": "İki noktayı birleştiren en kısa düz çizgiye ne denir?",
+      "answer": "Doğru parçası denir.",
+      "cta": "Bu tip örnekler için kanalımıza bekliyoruz!"
+    }
+  },
+  "isin": {
+    "fps": 30,
+    "question_start": 0.35,
+    "question_speech_start": 0.736,
+    "question_end": 4.218,
+    "answer_start": 8.851,
+    "answer_speech_start": 9.218,
+    "answer_end": 10.116,
+    "cta_start": 9.93,
+    "cta_speech_start": 10.316,
+    "cta_end": 12.53,
+    "total_sec": 16.0,
+    "durations": {
+      "question": 4.872,
+      "answer": 2.304,
+      "cta": 3.648
+    },
+    "speech_windows": {
+      "question": [
+        0.386,
+        3.868
+      ],
+      "answer": [
+        0.366,
+        1.265
+      ],
+      "cta": [
+        0.386,
+        2.599
+      ]
+    },
+    "lines": {
+      "question": "Bir noktadan başlayıp tek yönde sonsuza uzanan düz çizgi nedir?",
+      "answer": "Bu şekil ışındır.",
+      "cta": "Bu tip örnekler için kanalımıza bekliyoruz!"
+    }
+  },
+  "dogru": {
+    "fps": 30,
+    "question_start": 0.35,
+    "question_speech_start": 0.758,
+    "question_end": 4.234,
+    "answer_start": 8.851,
+    "answer_speech_start": 9.234,
+    "answer_end": 10.19,
+    "cta_start": 10.004,
+    "cta_speech_start": 10.39,
+    "cta_end": 12.603,
+    "total_sec": 16.0,
+    "durations": {
+      "question": 4.872,
+      "answer": 2.376,
+      "cta": 3.648
+    },
+    "speech_windows": {
+      "question": [
+        0.408,
+        3.884
+      ],
+      "answer": [
+        0.384,
+        1.339
+      ],
+      "cta": [
+        0.386,
+        2.599
+      ]
+    },
+    "lines": {
+      "question": "İki yönde sonsuza uzanan, uç noktası olmayan düz çizgi nedir?",
+      "answer": "Bu şekil doğrudur.",
+      "cta": "Bu tip örnekler için kanalımıza bekliyoruz!"
+    }
+  },
+  "cumle_genel": {
+    "fps": 30,
+    "question_start": 0.35,
+    "question_speech_start": 0.734,
+    "question_end": 3.618,
+    "answer_start": 8.223,
+    "answer_speech_start": 8.618,
+    "answer_end": 11.194,
+    "cta_start": 11.008,
+    "cta_speech_start": 11.394,
+    "cta_end": 13.608,
+    "total_sec": 16.0,
+    "durations": {
+      "question": 4.272,
+      "answer": 3.984,
+      "cta": 3.648
+    },
+    "speech_windows": {
+      "question": [
+        0.384,
+        3.268
+      ],
+      "answer": [
+        0.396,
+        2.972
+      ],
+      "cta": [
+        0.386,
+        2.599
+      ]
+    },
+    "lines": {
+      "question": "Bir cümlenin konusunu bulmak için hangi soruyu sorarız?",
+      "answer": "Bu cümlede neyden söz ediliyor, diye sorarız.",
+      "cta": "Bu tip örnekler için kanalımıza bekliyoruz!"
+    }
+  },
+  "es_zit_anlam": {
+    "fps": 30,
+    "question_start": 0.35,
+    "question_speech_start": 0.729,
+    "question_end": 3.659,
+    "answer_start": 8.294,
+    "answer_speech_start": 8.659,
+    "answer_end": 11.268,
+    "cta_start": 11.082,
+    "cta_speech_start": 11.468,
+    "cta_end": 13.682,
+    "total_sec": 16.0,
+    "durations": {
+      "question": 4.32,
+      "answer": 4.008,
+      "cta": 3.648
+    },
+    "speech_windows": {
+      "question": [
+        0.379,
+        3.309
+      ],
+      "answer": [
+        0.365,
+        2.974
+      ],
+      "cta": [
+        0.386,
+        2.599
+      ]
+    },
+    "lines": {
+      "question": "Ev-hane ve yaz-kış çiftlerinden hangisi zıt anlamlıdır?",
+      "answer": "Yaz ve kış zıt; ev ve hane eş anlamlıdır.",
+      "cta": "Bu tip örnekler için kanalımıza bekliyoruz!"
+    }
+  },
+  "somut_soyut": {
+    "fps": 30,
+    "question_start": 0.35,
+    "question_speech_start": 0.549,
+    "question_end": 2.574,
+    "answer_start": 7.357,
+    "answer_speech_start": 7.574,
+    "answer_end": 10.438,
+    "cta_start": 10.252,
+    "cta_speech_start": 10.638,
+    "cta_end": 12.851,
+    "total_sec": 16.0,
+    "durations": {
+      "question": 3.216,
+      "answer": 4.128,
+      "cta": 3.648
+    },
+    "speech_windows": {
+      "question": [
+        0.199,
+        2.224
+      ],
+      "answer": [
+        0.218,
+        3.081
+      ],
+      "cta": [
+        0.386,
+        2.599
+      ]
+    },
+    "lines": {
+      "question": "Sevgi sözcüğü somut mu, soyut mu?",
+      "answer": "Soyuttur; çünkü beş duyu organımızla algılayamayız.",
+      "cta": "Bu tip örnekler için kanalımıza bekliyoruz!"
+    }
+  },
+  "tur": {
+    "fps": 30,
+    "question_start": 0.35,
+    "question_speech_start": 0.724,
+    "question_end": 2.536,
+    "answer_start": 7.337,
+    "answer_speech_start": 7.536,
+    "answer_end": 8.947,
+    "cta_start": 8.761,
+    "cta_speech_start": 9.147,
+    "cta_end": 11.36,
+    "total_sec": 16.0,
+    "durations": {
+      "question": 3.192,
+      "answer": 2.616,
+      "cta": 3.648
+    },
+    "speech_windows": {
+      "question": [
+        0.374,
+        2.186
+      ],
+      "answer": [
+        0.199,
+        1.609
+      ],
+      "cta": [
+        0.386,
+        2.599
+      ]
+    },
+    "lines": {
+      "question": "Hikâyenin üç ana bölümü nelerdir?",
+      "answer": "Serim, düğüm ve çözüm.",
+      "cta": "Bu tip örnekler için kanalımıza bekliyoruz!"
+    }
+  }
+}
