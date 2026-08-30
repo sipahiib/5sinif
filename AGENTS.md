@@ -33,6 +33,14 @@
 - Whenever a new non-Shorts MP4 video is created, also create a separate companion Shorts video for it.
 - Do not leave final rendered videos in the project root.
 
+## Non-Shorts closing screen
+
+- For every future non-Shorts video, use the approved professional animated closing-screen design represented by `src/previews/cta-option-1/CtaOptionOne.tsx`.
+- Keep Filiz and İbrahim on opposite sides of the closing card. Animate the like, subscribe, and notification-bell controls in sequence with polished spring motion, cursor clicks, restrained click particles, and clear activated states.
+- Do not display the sentence "Dersi beğendiysen desteğini gösterebilirsin." on the closing screen.
+- Apply this closing-screen standard only to videos created or regenerated after this instruction. Do not retrofit existing rendered videos unless explicitly requested.
+- This closing-screen requirement never applies to Shorts videos.
+
 ## Shorts videos
 
 - In every Shorts video, İbrahim must be the only character shown. Do not use Filiz in Shorts videos.
