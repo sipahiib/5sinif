@@ -41,6 +41,16 @@
 - Apply this closing-screen standard only to videos created or regenerated after this instruction. Do not retrofit existing rendered videos unless explicitly requested.
 - This closing-screen requirement never applies to Shorts videos.
 
+## Non-Shorts YouTube channel card
+
+- In every future non-Shorts video that is at least 35 seconds long, show the approved animated YouTube channel card from 00:30 through 00:35.
+- Use the design represented by `src/previews/channel-lower-third/ChannelLowerThirdPreview.tsx`: a light rounded creator pill with the YouTube mark, channel identity, URL, and an animated action button.
+- Display the channel name as `DERSKUTUSU32`, the address as `youtube.com/@derskutusu32`, and the button label as `KANALA GİT`.
+- Keep the card visible for exactly five seconds, including its polished entrance and exit animation. Preserve the spring motion, subtle shine, progress accent, cursor click, restrained particles, and activated button state shown in the approved demo.
+- Place the card in the lower safe area without covering the visible character, narration card, essential lesson text, or diagrams. Adapt its horizontal side to the current scene when necessary.
+- Do not add spoken narration for the channel card and do not interrupt or alter the lesson narration.
+- Do not apply this channel card to Shorts videos.
+
 ## Shorts videos
 
 - In every Shorts video, İbrahim must be the only character shown. Do not use Filiz in Shorts videos.
