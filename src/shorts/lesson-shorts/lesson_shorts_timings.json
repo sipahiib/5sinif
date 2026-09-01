@@ -368,5 +368,173 @@
       "answer": "Serim, düğüm ve çözüm.",
       "cta": "Bu tip örnekler için kanalımıza bekliyoruz!"
     }
+  },
+  "kulturel_1": {
+    "fps": 30,
+    "question_start": 0.35,
+    "question_speech_start": 0.748,
+    "question_end": 5.077,
+    "answer_start": 9.819,
+    "answer_speech_start": 10.077,
+    "answer_end": 12.145,
+    "total_sec": 14.345,
+    "durations": {
+      "question": 5.76,
+      "answer": 3.36
+    },
+    "speech_windows": {
+      "question": [
+        0.398,
+        4.727
+      ],
+      "answer": [
+        0.257,
+        2.326
+      ]
+    },
+    "lines": {
+      "question": "Bir toplumun kuşaktan kuşağa aktardığı maddi ve manevi değerlerin tümüne ne denir?",
+      "answer": "Doğru cevap A şıkkı, kültürdür."
+    }
+  },
+  "kulturel_2": {
+    "fps": 30,
+    "question_start": 0.35,
+    "question_speech_start": 0.725,
+    "question_end": 3.448,
+    "answer_start": 8.188,
+    "answer_speech_start": 8.448,
+    "answer_end": 10.659,
+    "total_sec": 12.859,
+    "durations": {
+      "question": 4.128,
+      "answer": 3.504
+    },
+    "speech_windows": {
+      "question": [
+        0.375,
+        3.098
+      ],
+      "answer": [
+        0.26,
+        2.471
+      ]
+    },
+    "lines": {
+      "question": "Aşağıdakilerden hangisi manevi kültür ögesidir?",
+      "answer": "Doğru cevap B şıkkı, türkülerdir."
+    }
+  },
+  "kulturel_3": {
+    "fps": 30,
+    "question_start": 0.35,
+    "question_speech_start": 0.585,
+    "question_end": 3.736,
+    "answer_start": 8.467,
+    "answer_speech_start": 8.736,
+    "answer_end": 10.703,
+    "total_sec": 12.903,
+    "durations": {
+      "question": 4.416,
+      "answer": 3.288
+    },
+    "speech_windows": {
+      "question": [
+        0.235,
+        3.386
+      ],
+      "answer": [
+        0.268,
+        2.236
+      ]
+    },
+    "lines": {
+      "question": "Karadeniz Bölgesi ile özdeşleşen halk oyunu hangisidir?",
+      "answer": "Doğru cevap C şıkkı, horondur."
+    }
+  },
+  "kulturel_4": {
+    "fps": 30,
+    "question_start": 0.35,
+    "question_speech_start": 0.732,
+    "question_end": 4.174,
+    "answer_start": 8.92,
+    "answer_speech_start": 9.174,
+    "answer_end": 11.355,
+    "total_sec": 13.555,
+    "durations": {
+      "question": 4.848,
+      "answer": 3.456
+    },
+    "speech_windows": {
+      "question": [
+        0.382,
+        3.824
+      ],
+      "answer": [
+        0.254,
+        2.435
+      ]
+    },
+    "lines": {
+      "question": "Aşağıdakilerden hangisi geleneksel el sanatlarımızdan biridir?",
+      "answer": "Doğru cevap A şıkkı, çiniciliktir."
+    }
+  },
+  "kuvvet_1": {
+    "fps": 30,
+    "question_start": 0.35,
+    "question_speech_start": 0.704,
+    "question_end": 3.058,
+    "answer_start": 7.799,
+    "answer_speech_start": 8.058,
+    "answer_end": 10.148,
+    "total_sec": 12.348,
+    "durations": {
+      "question": 3.744,
+      "answer": 3.384
+    },
+    "speech_windows": {
+      "question": [
+        0.354,
+        2.708
+      ],
+      "answer": [
+        0.26,
+        2.35
+      ]
+    },
+    "lines": {
+      "question": "Kuvvetin birimi aşağıdakilerden hangisidir?",
+      "answer": "Doğru cevap B şıkkı, Newton'dur."
+    }
+  },
+  "kuvvet_2": {
+    "fps": 30,
+    "question_start": 0.35,
+    "question_speech_start": 0.675,
+    "question_end": 2.896,
+    "answer_start": 7.62,
+    "answer_speech_start": 7.896,
+    "answer_end": 10.213,
+    "total_sec": 12.413,
+    "durations": {
+      "question": 3.552,
+      "answer": 3.624
+    },
+    "speech_windows": {
+      "question": [
+        0.325,
+        2.546
+      ],
+      "answer": [
+        0.276,
+        2.592
+      ]
+    },
+    "lines": {
+      "question": "Kuvvetin büyüklüğünü ölçen araç hangisidir?",
+      "answer": "Doğru cevap C şıkkı, dinamometredir."
+    }
   }
 }

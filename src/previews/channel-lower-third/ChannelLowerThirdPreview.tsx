@@ -93,7 +93,7 @@ const LessonBackdrop: React.FC = () => {
   </>;
 };
 
-const ChannelLowerThird: React.FC = () => {
+export const ChannelLowerThird: React.FC = () => {
   const frame = useCurrentFrame();
   const {fps} = useVideoConfig();
   const start = 30;

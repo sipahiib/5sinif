@@ -29,9 +29,12 @@
 
 - Save every rendered video under `out/<video-name>/<video-name>.mp4`.
 - Create the matching `<video-name>` directory under `out` when it does not exist.
-- Save every future Shorts video under `out/shorts/<shorts-video-name>/<shorts-video-name>.mp4`; create a new matching subdirectory for each Shorts video.
+- Save Shorts videos under `out/shorts/<main-video-name>_shorts/`. The folder name must always consist of the main video's name followed by `_shorts` (for example, `out/shorts/kulturel_shorts/`).
+- When a main video has one companion Shorts video, name it `<main-video-name>_shorts.mp4`. When it has multiple Shorts videos, keep them in the same `_shorts` folder and number them as `<main-video-name>_shorts_1.mp4`, `<main-video-name>_shorts_2.mp4`, and so on.
 - Whenever a new non-Shorts MP4 video is created, also create a separate companion Shorts video for it.
 - Do not leave final rendered videos in the project root.
+- Never commit or push any MP4 file to GitHub. Keep all rendered MP4 outputs local, even when related source files are committed or pushed.
+- Never commit or push any MP3 file to GitHub. Keep all generated MP3 audio files local, even when related source files are committed or pushed.
 
 ## Non-Shorts closing screen
 
@@ -55,5 +58,6 @@
 
 - In every Shorts video, İbrahim must be the only character shown. Do not use Filiz in Shorts videos.
 - Do not include a like, subscribe, or other call-to-action page at the end of a Shorts video. İbrahim must not narrate a like, subscribe, or other call-to-action line. Shorts videos are exempt from any general end-of-video like/subscribe requirement.
+- Before the answer is revealed, do not display any word, label, hint, diagram caption, or other on-screen text that contains the answer or makes the correct choice obvious. Keep the question page and pre-answer visual free of answer-revealing terms such as the correct option's name, symbol, defining keyword, or instrument name.
 - After İbrahim asks the question in a Shorts video, display exactly three answer choices labeled A, B, and C. Keep all three choices visible and unmarked for five seconds.
 - After the five-second choice window, clearly indicate the correct choice while İbrahim narrates the answer. One second after the spoken answer finishes, display the text "Tebrikler!" and then end the video.
