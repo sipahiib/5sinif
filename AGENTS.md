@@ -9,6 +9,12 @@
 - Prevent overlaps, clipped text, hidden edges, abrupt movement, and unreadable compositions.
 - Before delivery, visually inspect representative frames from every scene and correct layout or animation defects.
 
+## Narration opening
+
+- In every future video, do not begin the narration with a greeting or introductory phrase such as "Merhaba arkadaşlar".
+- Start explaining the lesson topic immediately when the video begins. The first spoken sentence must directly introduce or explain the subject.
+- Apply this rule to both regular and Shorts videos created or regenerated after this instruction. Do not retrofit existing rendered videos unless explicitly requested.
+
 ## Character assets
 
 - In every future video, use `public/images/filiz_2.gif` and `public/images/ibrahim_2.gif` as the Filiz and İbrahim character visuals. Do not use the previous PNG or drawn character assets.
