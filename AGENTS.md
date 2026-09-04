@@ -42,6 +42,17 @@
 - Never commit or push any MP4 file to GitHub. Keep all rendered MP4 outputs local, even when related source files are committed or pushed.
 - Never commit or push any MP3 file to GitHub. Keep all generated MP3 audio files local, even when related source files are committed or pushed.
 
+## Companion science-infographic video
+
+- Whenever a new main, non-Shorts video is created, also create a separate supporting video with polished, high-quality science-infographic animation inspired by the general strengths of Kurzgesagt, while keeping all characters, illustrations, color language, narration, and compositions original to this project. Never copy Kurzgesagt's exact visual identity, bird characters, scenes, music, or narrator voice.
+- Give this companion video content and examples that are meaningfully different from the main video while remaining accurate, relevant, and complementary to the same lesson topic.
+- Use smooth layered motion, visual metaphors, code-native diagrams, camera movement, transitions, depth, secondary motion, and restrained particles at the project's highest animation-quality standard.
+- Use Filiz and İbrahim as the narrators in alternating page/scene order throughout this companion video. Each page/scene must have exactly one active narrator, and the narration order must alternate Filiz, İbrahim, Filiz, İbrahim, and so on. Use `public/images/filiz_2.gif` and `public/images/ibrahim_2.gif`, synchronized with the active speaker.
+- The supporting video's duration may be similar to the duration limit or overall length of the corresponding main video; prioritize a complete, well-paced complementary explanation.
+- Save the supporting video in the same directory as the main video, named `<main-video-name>_kurz.mp4`. For example, alongside `out/ay/ay.mp4`, save `out/ay/ay_kurz.mp4`.
+- Treat the supporting video as a non-Shorts video, so all applicable non-Shorts standards, including the approved channel card and closing-screen rules, continue to apply unless the user explicitly requests otherwise.
+- As with every other rendered output, never commit or push the companion MP4 or any generated MP3 audio to GitHub.
+
 ## Non-Shorts closing screen
 
 - For every future non-Shorts video, use the approved professional animated closing-screen design represented by `src/previews/cta-option-1/CtaOptionOne.tsx`.
