@@ -33,6 +33,7 @@
 
 ## Video output organization
 
+- Render every newly created or regenerated video at Full HD 1080p resolution. Use `1920 x 1080` for horizontal main and companion videos, and `1080 x 1920` for vertical Shorts or Reels videos. Do not deliver new final videos at `960 x 540`, `720p`, or another lower resolution.
 - Save every rendered video under `out/<video-name>/<video-name>.mp4`.
 - Create the matching `<video-name>` directory under `out` when it does not exist.
 - Save Shorts videos under `out/shorts/<main-video-name>_shorts/`. The folder name must always consist of the main video's name followed by `_shorts` (for example, `out/shorts/kulturel_shorts/`).
@@ -51,7 +52,9 @@
 - Do not show Filiz or İbrahim in the science-infographic companion video. Show the project's original Lumi space mascot instead, using the same original geometric character language and polished motion established in `ay_60_demo.mp4`.
 - The supporting video's duration may be similar to the duration limit or overall length of the corresponding main video; prioritize a complete, well-paced complementary explanation.
 - Save the supporting video in the same directory as the main video, named `<main-video-name>_kurz.mp4`. For example, alongside `out/ay/ay.mp4`, save `out/ay/ay_kurz.mp4`.
-- Treat the supporting video as a non-Shorts video, so all applicable non-Shorts standards, including the approved channel card and closing-screen rules, continue to apply unless the user explicitly requests otherwise.
+- Treat the supporting video as a non-Shorts video for applicable standards such as the approved channel card, but never append the regular non-Shorts closing screen to a Kurz/science-infographic companion video.
+- End every Kurz/science-infographic companion video immediately when the lesson narration and topic explanation finish. Do not add a separate closing page, call-to-action scene, or trailing end card.
+- Never show Filiz or İbrahim at the end of a Kurz/science-infographic companion video; their participation remains voice-only throughout the entire companion video.
 - As with every other rendered output, never commit or push the companion MP4 or any generated MP3 audio to GitHub.
 
 ## Non-Shorts closing screen
@@ -60,7 +63,7 @@
 - Keep Filiz and İbrahim on opposite sides of the closing card. Animate the like, subscribe, and notification-bell controls in sequence with polished spring motion, cursor clicks, restrained click particles, and clear activated states.
 - Do not display the sentence "Dersi beğendiysen desteğini gösterebilirsin." on the closing screen.
 - Apply this closing-screen standard only to videos created or regenerated after this instruction. Do not retrofit existing rendered videos unless explicitly requested.
-- This closing-screen requirement never applies to Shorts videos.
+- This closing-screen requirement never applies to Shorts videos or Kurz/science-infographic companion videos.
 
 ## Non-Shorts YouTube channel card
 
@@ -82,4 +85,5 @@
 - During that five-second choice window, show the approved `ay_shorts`/`roller_shorts` circular countdown: count visibly from 5 to 1, animate the progress ring, and display `DÜŞÜN!`. Keep the timer clear of the choices and İbrahim.
 - Separate the spoken question from any spoken answer-choice reading when necessary. The A, B, and C choice cards and the 5-second countdown must appear together on the first frame immediately after the spoken question finishes; never leave a pause, blank interval, or delayed reveal between the question and the choices.
 - Start the answer reveal and answer narration immediately when the five-second choice/countdown window ends. Recalculate all dependent timings from the actual generated audio durations instead of relying on fixed guessed offsets.
-- After the five-second choice window, clearly indicate the correct choice while İbrahim narrates the answer. One second after the spoken answer finishes, display the text "Tebrikler!" and then end the video.
+- After the five-second choice window, keep the question and all three answer choices on the same screen, following the approved `ay_shorts` answer-reveal structure. Mark and visually emphasize the correct choice directly on its existing A, B, or C card while İbrahim narrates the answer. Do not transition to or create a separate answer page, answer card, or answer screen.
+- One second after the spoken answer finishes, display the text "Tebrikler!" and then end the video.
