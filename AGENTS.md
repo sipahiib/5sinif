@@ -47,7 +47,8 @@
 - Whenever a new main, non-Shorts video is created, also create a separate supporting video with polished, high-quality science-infographic animation inspired by the general strengths of Kurzgesagt, while keeping all characters, illustrations, color language, narration, and compositions original to this project. Never copy Kurzgesagt's exact visual identity, bird characters, scenes, music, or narrator voice.
 - Give this companion video content and examples that are meaningfully different from the main video while remaining accurate, relevant, and complementary to the same lesson topic.
 - Use smooth layered motion, visual metaphors, code-native diagrams, camera movement, transitions, depth, secondary motion, and restrained particles at the project's highest animation-quality standard.
-- Use Filiz and İbrahim as the narrators in alternating page/scene order throughout this companion video. Each page/scene must have exactly one active narrator, and the narration order must alternate Filiz, İbrahim, Filiz, İbrahim, and so on. Use `public/images/filiz_2.gif` and `public/images/ibrahim_2.gif`, synchronized with the active speaker.
+- Use Filiz and İbrahim's established voices as the off-screen narrators in alternating page/scene order throughout this companion video. The narration order must alternate Filiz, İbrahim, Filiz, İbrahim, and so on.
+- Do not show Filiz or İbrahim in the science-infographic companion video. Show the project's original Lumi space mascot instead, using the same original geometric character language and polished motion established in `ay_60_demo.mp4`.
 - The supporting video's duration may be similar to the duration limit or overall length of the corresponding main video; prioritize a complete, well-paced complementary explanation.
 - Save the supporting video in the same directory as the main video, named `<main-video-name>_kurz.mp4`. For example, alongside `out/ay/ay.mp4`, save `out/ay/ay_kurz.mp4`.
 - Treat the supporting video as a non-Shorts video, so all applicable non-Shorts standards, including the approved channel card and closing-screen rules, continue to apply unless the user explicitly requests otherwise.
@@ -73,8 +74,12 @@
 
 ## Shorts videos
 
+- Keep every Shorts video in the approved bright `roller_shorts.mp4` visual language: use a light blue-to-white/soft-coral background, white rounded cards, navy headers, red/blue accents, soft shadows, and the established clean classroom composition. Never apply the dark Kurz/science-infographic color treatment to Shorts videos, even when the main or companion video uses that treatment.
 - In every Shorts video, İbrahim must be the only character shown. Do not use Filiz in Shorts videos.
 - Do not include a like, subscribe, or other call-to-action page at the end of a Shorts video. İbrahim must not narrate a like, subscribe, or other call-to-action line. Shorts videos are exempt from any general end-of-video like/subscribe requirement.
 - Before the answer is revealed, do not display any word, label, hint, diagram caption, or other on-screen text that contains the answer or makes the correct choice obvious. Keep the question page and pre-answer visual free of answer-revealing terms such as the correct option's name, symbol, defining keyword, or instrument name.
 - After İbrahim asks the question in a Shorts video, display exactly three answer choices labeled A, B, and C. Keep all three choices visible and unmarked for five seconds.
+- During that five-second choice window, show the approved `ay_shorts`/`roller_shorts` circular countdown: count visibly from 5 to 1, animate the progress ring, and display `DÜŞÜN!`. Keep the timer clear of the choices and İbrahim.
+- Separate the spoken question from any spoken answer-choice reading when necessary. The A, B, and C choice cards and the 5-second countdown must appear together on the first frame immediately after the spoken question finishes; never leave a pause, blank interval, or delayed reveal between the question and the choices.
+- Start the answer reveal and answer narration immediately when the five-second choice/countdown window ends. Recalculate all dependent timings from the actual generated audio durations instead of relying on fixed guessed offsets.
 - After the five-second choice window, clearly indicate the correct choice while İbrahim narrates the answer. One second after the spoken answer finishes, display the text "Tebrikler!" and then end the video.

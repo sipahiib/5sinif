@@ -1,0 +1,1 @@
+import React from 'react';import {Composition,registerRoot} from 'remotion';import {KutleAgirlikShorts,KutleAgirlikShortsConfig} from './KutleAgirlikShorts';const Root=()=> <Composition {...KutleAgirlikShortsConfig} component={KutleAgirlikShorts}/>;registerRoot(Root);

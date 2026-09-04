@@ -1,0 +1,15 @@
+{
+  "main": [
+    {"id":"01","page":"IMG_4100.jpg","speaker":"filiz","text":"Ağırlık, Dünya'nın cisimlere uyguladığı yer çekimi kuvvetidir. Kuvvetin yönü her zaman Dünya'nın merkezine doğrudur."},
+    {"id":"02","page":"IMG_4100.jpg","speaker":"ibrahim","text":"Ağırlık bir kuvvet olduğu için dinamometreyle ölçülür. Birimi Newton, sembolü N'dir. Dünya'nın farklı yerlerinde ağırlık değişebilir."},
+    {"id":"03","page":"IMG_4101.jpg","speaker":"filiz","text":"Kütle, cismin sahip olduğu değişmeyen madde miktarıdır. Eşit kollu teraziyle ölçülür; birimi gram ya da kilogramdır."},
+    {"id":"04","page":"IMG_4101.jpg","speaker":"ibrahim","text":"Kutuplar Dünya'nın merkezine daha yakın olduğu için ağırlık artar. Ekvatora, yüksek dağlara veya Dünya'nın merkezinden uzağa gidildikçe ağırlık azalır."},
+    {"id":"05","page":"IMG_4102.jpg","speaker":"filiz","text":"Gök cisimlerinin çekim kuvvetleri farklıdır. Kütle aynı kalırken ağırlık, bulunduğumuz gök cisminin çekimine göre değişir."},
+    {"id":"06","page":"IMG_4102.jpg","speaker":"ibrahim","text":"Ay'ın çekimi Dünya'nın yaklaşık altıda biridir. Dünya'da altı yüz Newton gelen bir kişi Ay'da yüz Newton gelir; fakat kütlesi yine altmış kilogramdır."}
+  ],
+  "kurz": [
+    {"id":"01","page":"IMG_4100.jpg","speaker":"filiz","text":"Elindeki topu bıraktığında aşağı düşer. Çünkü Dünya, topu merkezine doğru çeker. Dinamometrede gördüğün değer, bu çekimin yani ağırlığın büyüklüğüdür."},
+    {"id":"02","page":"IMG_4101.jpg","speaker":"ibrahim","text":"Şimdi aynı sırt çantasıyla deniz kıyısından yüksek bir dağa çıkalım. Çantadaki madde miktarı değişmez; fakat Dünya'nın merkezinden biraz uzaklaştığımız için ağırlığı çok az azalır."},
+    {"id":"03","page":"IMG_4102.jpg","speaker":"filiz","text":"Aynı çantayı Ay'a götürürsek kütlesi yine aynıdır. Fakat Ay daha zayıf çektiği için ağırlık altıda bire iner. Demek ki kütle cismin özelliği, ağırlık bulunduğu yerin etkisidir."}
+  ]
+}
