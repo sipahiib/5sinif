@@ -1,0 +1,137 @@
+{
+  "main": [
+    {
+      "audioFrames": 639,
+      "frames": 651
+    },
+    {
+      "audioFrames": 675,
+      "frames": 687
+    },
+    {
+      "audioFrames": 733,
+      "frames": 745
+    },
+    {
+      "audioFrames": 698,
+      "frames": 710
+    },
+    {
+      "audioFrames": 652,
+      "frames": 664
+    },
+    {
+      "audioFrames": 683,
+      "frames": 695
+    },
+    {
+      "audioFrames": 721,
+      "frames": 733
+    },
+    {
+      "audioFrames": 695,
+      "frames": 707
+    },
+    {
+      "audioFrames": 713,
+      "frames": 725
+    },
+    {
+      "audioFrames": 598,
+      "frames": 610
+    },
+    {
+      "audioFrames": 654,
+      "frames": 666
+    },
+    {
+      "audioFrames": 680,
+      "frames": 692
+    },
+    {
+      "audioFrames": 618,
+      "frames": 630
+    },
+    {
+      "audioFrames": 640,
+      "frames": 652
+    },
+    {
+      "audioFrames": 661,
+      "frames": 673
+    },
+    {
+      "audioFrames": 588,
+      "frames": 600
+    },
+    {
+      "audioFrames": 621,
+      "frames": 633
+    },
+    {
+      "audioFrames": 691,
+      "frames": 703
+    },
+    {
+      "audioFrames": 623,
+      "frames": 635
+    }
+  ],
+  "kurz": [
+    {
+      "audioFrames": 616,
+      "frames": 628
+    },
+    {
+      "audioFrames": 737,
+      "frames": 749
+    },
+    {
+      "audioFrames": 658,
+      "frames": 670
+    },
+    {
+      "audioFrames": 736,
+      "frames": 748
+    },
+    {
+      "audioFrames": 693,
+      "frames": 705
+    },
+    {
+      "audioFrames": 726,
+      "frames": 738
+    },
+    {
+      "audioFrames": 738,
+      "frames": 750
+    },
+    {
+      "audioFrames": 669,
+      "frames": 669
+    }
+  ],
+  "shorts": [
+    {
+      "qEnd": 311,
+      "reveal": 461,
+      "aEnd": 765,
+      "congrats": 765,
+      "frames": 810
+    },
+    {
+      "qEnd": 392,
+      "reveal": 542,
+      "aEnd": 926,
+      "congrats": 926,
+      "frames": 971
+    },
+    {
+      "qEnd": 240,
+      "reveal": 390,
+      "aEnd": 708,
+      "congrats": 708,
+      "frames": 753
+    }
+  ]
+}

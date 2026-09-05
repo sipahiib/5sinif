@@ -1,0 +1,503 @@
+{
+  "main": [
+    {
+      "id": "01",
+      "page": "IMG_4113.jpg",
+      "speaker": "filiz",
+      "title": "Öznel anlatım",
+      "lead": "Kişisel yargı",
+      "examples": [
+        "Bu roman çok sürükleyici.",
+        "Bence en güzel mevsim ilkbahardır."
+      ],
+      "facts": [
+        "Beğeni ve kişisel değerlendirme",
+        "Kişiden kişiye değişebilir"
+      ],
+      "text": "Öznel, yani subjektif anlatım, kişisel duygu ve düşünce içerir. Bu roman çok sürükleyici cümlesi bir beğeniyi anlatır. Bir başkası aynı romanı sıkıcı bulabilir. En güzel mevsim ilkbahardır yargısı da kişiye göre değişir. Öznel yargıları herkes için geçerli bir ölçümle kanıtlayamayız.",
+      "kind": "compare"
+    },
+    {
+      "id": "02",
+      "page": "IMG_4113.jpg",
+      "speaker": "ibrahim",
+      "title": "Nesnel anlatım",
+      "lead": "Kanıtlanabilir bilgi",
+      "examples": [
+        "Kitap 120 sayfadır.",
+        "Kitapta on bölüm vardır."
+      ],
+      "facts": [
+        "Sayılabilir, ölçülebilir, doğrulanabilir",
+        "Kişisel beğeni içermez"
+      ],
+      "text": "Nesnel, yani objektif anlatımda kişisel beğeni bulunmaz. Kitap yüz yirmi sayfadır cümlesini sayfaları sayarak kontrol edebiliriz. Kitapta on bölüm vardır bilgisi de doğrulanabilir. Bir cümleyi değerlendirirken kendine şunu sor: Bu bir kişisel yorum mu, yoksa kanıtla kontrol edilebilen bir bilgi mi?",
+      "kind": "compare"
+    },
+    {
+      "id": "03",
+      "page": "IMG_4114.jpg",
+      "speaker": "filiz",
+      "title": "Gerçek ve hayal ürünü",
+      "lead": "Yaşanması mümkün mü?",
+      "examples": [
+        "Yarın resim sergisine katılacağım.",
+        "Uçan halımla bulutları gezdim."
+      ],
+      "facts": [
+        "Gerçek: yaşamda mümkün olan",
+        "Hayal ürünü: gerçek yaşamda mümkün olmayan"
+      ],
+      "text": "Gerçek ifadeler, günlük yaşamda karşılaşabileceğimiz ve yaşanması mümkün olayları anlatır. Yarın resim sergisine katılacağım cümlesi henüz gerçekleşmemiş olsa da gerçek bir ifadedir. Uçan halımla bulutları gezdim ise hayal ürünüdür. Hayal ürünü olaylarla masal, destan ve efsane gibi metinlerde sıkça karşılaşırız.",
+      "kind": "split"
+    },
+    {
+      "id": "04",
+      "page": "IMG_4115.jpg",
+      "speaker": "ibrahim",
+      "title": "Anahtar sözcük",
+      "lead": "Metnin anlamına açılan kapı",
+      "examples": [
+        "Oyun çocukların gelişimini destekler.",
+        "Oyun • çocuk • gelişim • ihtiyaç"
+      ],
+      "facts": [
+        "Konuya ve ana düşünceye ipucu verir",
+        "Metnin temel kavramlarını bul"
+      ],
+      "text": "Anahtar sözcük, bir metnin anlatmak istediği anlam için güçlü ipucu veren temel kelimedir. Çocukların oyun yoluyla öğrenmesini, gelişmesini ve sosyalleşmesini anlatan bir paragrafta oyun, çocuk, yaşam, gelişim ve ihtiyaç anahtar sözcükler olabilir. Bu sözcükler, metnin konusunu ve ana düşüncesini bulmamıza yardım eder.",
+      "kind": "keys"
+    },
+    {
+      "id": "05",
+      "page": "IMG_4116.jpg",
+      "speaker": "filiz",
+      "title": "Benzetme",
+      "lead": "Ortak özellik üzerinden anlatım",
+      "examples": [
+        "Dişleri süt gibi bembeyazdı.",
+        "dişleri → süt"
+      ],
+      "facts": [
+        "Benzeyen: dişler • Benzetilen: süt",
+        "Benzetme yönü: beyazlık • Edat: gibi"
+      ],
+      "text": "Benzetme, bir varlığı ortak bir özellik bakımından başka bir varlığa benzeterek daha etkili anlatmaktır. Dişleri süt gibi bembeyazdı cümlesinde benzeyen dişler, kendisine benzetilen süttür. Ortak özellik beyazlık, benzetme edatı ise gibi sözcüğüdür. Anlatılmak istenen dişlerin ne kadar beyaz olduğudur.",
+      "kind": "analogy"
+    },
+    {
+      "id": "06",
+      "page": "IMG_4116.jpg",
+      "speaker": "ibrahim",
+      "title": "Benzetmeyi çözümleyelim",
+      "lead": "Hangi özellik ortak?",
+      "examples": [
+        "Ahmet bir çita kadar hızlı koşar.",
+        "Arkadaşım arı gibi çalışkandır."
+      ],
+      "facts": [
+        "Ahmet → çita • hız • kadar",
+        "Arkadaşım → arı • çalışkanlık • gibi"
+      ],
+      "text": "Ahmet bir çita kadar hızlı koşar örneğinde Ahmet çitaya benzetilir; ortak özellik hızdır ve kadar sözcüğü benzetme edatıdır. Arkadaşım arı gibi çalışkandır cümlesinde ise arkadaşım benzeyen, arı benzetilen, çalışkanlık benzetme yönüdür. Gibi, kadar ve andırmak gibi ifadeler benzetmeyi fark etmemize yardım edebilir.",
+      "kind": "analogy"
+    },
+    {
+      "id": "07",
+      "page": "IMG_4117.jpg",
+      "speaker": "filiz",
+      "title": "Konuşturma • intak",
+      "lead": "İnsan dışındaki varlık konuşur",
+      "examples": [
+        "Ağaç, “Beni koruyun!” dedi.",
+        "Saz, “Eğilirim ama kırılmam.” dedi."
+      ],
+      "facts": [
+        "Söz söyleme özelliği verilir",
+        "Konuşturmada kişileştirme de vardır"
+      ],
+      "text": "Konuşturma, insan dışındaki bir varlığı insan gibi konuşturmaktır. Bir ağacın beni koruyun demesi konuşturmadır. Kaynaktaki meşe ile sazın karşılıklı konuşması da buna örnektir. Konuşma insana ait bir özellik olduğu için, konuşturma yapılan yerde kişileştirme de bulunur. Ancak her kişileştirmede konuşma olmak zorunda değildir.",
+      "kind": "speech"
+    },
+    {
+      "id": "08",
+      "page": "IMG_4117.jpg",
+      "speaker": "ibrahim",
+      "title": "Kişileştirme • teşhis",
+      "lead": "İnsan özelliğini başka varlığa ver",
+      "examples": [
+        "Yalnız ağaç eski günleri özledi.",
+        "Ağaç, “Dostlarımı özledim.” dedi."
+      ],
+      "facts": [
+        "Özlemek: kişileştirme",
+        "Söz söylemek: ayrıca konuşturma"
+      ],
+      "text": "Kişileştirme, insana ait özellikleri insan dışındaki varlıklara vermektir. Yalnız ağaç eski günleri özledi cümlesinde ağaca özlem duygusu verilmiştir. Ağaç konuşmadığı için bu cümlede yalnız kişileştirme vardır. Ağaç, dostlarımı özledim dedi biçiminde yazarsak söz söyleme de eklenir ve konuşturma sanatı oluşur.",
+      "kind": "speech"
+    },
+    {
+      "id": "09",
+      "page": "IMG_4118.jpg",
+      "speaker": "filiz",
+      "title": "Noktanın görevleri",
+      "lead": "Cümle • kısaltma • sıra",
+      "examples": [
+        "Selim geldi.     Dr.     Alb.",
+        "3. → üçüncü     15. → on beşinci"
+      ],
+      "facts": [
+        "Tamamlanan bildirme cümlesini bitirir",
+        "Bazı kısaltmalarda ve sıra sayılarında kullanılır"
+      ],
+      "text": "Nokta, tamamlanmış bildirme cümlesinin sonuna konur: Selim geldi. Doktor ve albay gibi bazı sözcüklerin kısaltmalarının sonunda da bulunur. Sayıların ardından geldiğinde sıra anlamı verir. Üç rakamının yanındaki nokta üçüncü, on beşin yanındaki nokta on beşinci diye okunur. Her kısaltmanın sonuna nokta konmadığını da unutma.",
+      "kind": "punct"
+    },
+    {
+      "id": "10",
+      "page": "IMG_4118.jpg",
+      "speaker": "ibrahim",
+      "title": "Nokta: tarih ve saat",
+      "lead": "Sayıları birbirinden ayırır",
+      "examples": [
+        "29.5.1453",
+        "Tren 09.15’te kalktı."
+      ],
+      "facts": [
+        "Tarih: gün • ay • yıl",
+        "Saat: saat ve dakika"
+      ],
+      "text": "Tarihleri rakamlarla yazarken gün, ay ve yıl arasına nokta konabilir. Yirmi dokuz Mayıs bin dört yüz elli üç tarihi buna örnektir. Saat ve dakikayı gösteren sayılar da noktayla ayrılır. Tren dokuz on beşte kalktı cümlesinde saat dokuz nokta on beş biçiminde yazılır.",
+      "kind": "punct"
+    },
+    {
+      "id": "11",
+      "page": "IMG_4118.jpg",
+      "speaker": "filiz",
+      "title": "Nokta: işlem ve adres",
+      "lead": "Aynı işaret, farklı görev",
+      "examples": [
+        "5 · 10 = 50",
+        "tdk.gov.tr"
+      ],
+      "facts": [
+        "Matematikte çarpma",
+        "Genel ağ adreslerinde bölümleri ayırma"
+      ],
+      "text": "Nokta matematikte çarpma işareti olarak da kullanılır. Beş çarpı on eşittir elli işleminde ortadaki nokta bu görevdedir. Genel ağ adreslerinde de noktalar bulunur. Türk Dil Kurumunun adresindeki noktalar, adresin bölümlerini ayırır. İşaretin görevini, içinde bulunduğu kullanıma bakarak belirleriz.",
+      "kind": "punct"
+    },
+    {
+      "id": "12",
+      "page": "IMG_4119.jpg",
+      "speaker": "ibrahim",
+      "title": "Virgül: sıralama",
+      "lead": "Sözcükleri ve cümleleri ayır",
+      "examples": [
+        "Elma, armut, muz aldım.",
+        "Geldik, gördük, öğrendik."
+      ],
+      "facts": [
+        "Eş görevli kelime ve kelime grupları",
+        "Birbirini izleyen sıralı cümleler"
+      ],
+      "text": "Virgül, art arda sıralanan eş görevli kelime ve kelime gruplarının arasına konur. Elma, armut, muz aldım cümlesinde meyve adlarını ayırır. Geldik, gördük, öğrendik örneğinde ise sıralı cümleleri birbirinden ayırır. Aynı işaret, ilkinde sözcükleri, ikincisinde ayrı yargıları düzenlemektedir.",
+      "kind": "punct"
+    },
+    {
+      "id": "13",
+      "page": "IMG_4119.jpg",
+      "speaker": "filiz",
+      "title": "Virgül: alıntı ve ara söz",
+      "lead": "Ek bilgiyi belirginleştir",
+      "examples": [
+        "Yarın geleceğim, dedi.",
+        "Ece, sınıf arkadaşım, bize geldi."
+      ],
+      "facts": [
+        "Tırnak içine alınmayan alıntıdan sonra",
+        "Ara sözün başında ve sonunda"
+      ],
+      "text": "Tırnak içine alınmamış alıntı cümlelerinden sonra virgül kullanılır: Yarın geleceğim, dedi. Virgül, ara sözün başında ve sonunda da bulunur. Ece, sınıf arkadaşım, bize geldi örneğinde sınıf arkadaşım bölümü ek bilgidir. Bu bölümü çıkardığımızda Ece bize geldi cümlesi anlamını korur.",
+      "kind": "punct"
+    },
+    {
+      "id": "14",
+      "page": "IMG_4119.jpg",
+      "speaker": "ibrahim",
+      "title": "Virgül: hitap ve cevap",
+      "lead": "Seslenişi ve yanıtı ayır",
+      "examples": [
+        "Sevgili Öğrenciler,",
+        "Evet, seninle geliyorum."
+      ],
+      "facts": [
+        "Hitap sözlerinden sonra",
+        "Ret, kabul ve teşvik sözlerinden sonra"
+      ],
+      "text": "Virgül, hitap için kullanılan sözlerden sonra konur: Sevgili Öğrenciler. Kendinden sonraki cümleye bağlı olarak ret, kabul ya da teşvik bildiren hayır, evet, peki, tamam gibi sözlerden sonra da kullanılır. Evet, seninle geliyorum örneğinde virgül, kabul bildiren sözcüğü sonraki cümleden ayırır.",
+      "kind": "punct"
+    },
+    {
+      "id": "15",
+      "page": "IMG_4119.jpg",
+      "speaker": "filiz",
+      "title": "Virgül: anlamı netleştir",
+      "lead": "Okuyanın doğru anlamasını sağla",
+      "examples": [
+        "Çocuk, odasını topladı.",
+        "Çocuk odası"
+      ],
+      "facts": [
+        "İlk örnekte işi yapan: çocuk",
+        "İkinci örnekte bir oda türü"
+      ],
+      "text": "Virgül gerektiğinde anlam karışıklığını önler. Çocuk, odasını topladı cümlesindeki virgül, çocuk sözcüğünün işi yapan kişiyi anlattığını belirginleştirir. Çocuk odası söz grubunda ise bir oda türünden söz ederiz. Noktalama işaretlerini yalnız duraklamak için değil, anlamı doğru aktarmak için de kullanırız.",
+      "kind": "punct"
+    },
+    {
+      "id": "16",
+      "page": "IMG_4121.jpg",
+      "speaker": "ibrahim",
+      "title": "Büyük harf: temel kullanımlar",
+      "lead": "Cümle, dize ve özel ad",
+      "examples": [
+        "Bugün yeni bir kitap okudum.",
+        "Mustafa Kemal Atatürk"
+      ],
+      "facts": [
+        "Cümleler ve dizeler büyük harfle başlar",
+        "Kişi adları ve soyadları büyük harfle başlar"
+      ],
+      "text": "Cümleler ve şiir dizeleri büyük harfle başlar. Özel adların ilk harfi de büyüktür. Mustafa Kemal Atatürk örneğinde kişi adının ve soyadının her sözcüğü büyük harfle başlar. Büyük harf, cümlenin başlangıcını ya da özel bir adı fark etmemizi sağlar.",
+      "kind": "capital"
+    },
+    {
+      "id": "17",
+      "page": "IMG_4121.jpg",
+      "speaker": "filiz",
+      "title": "Büyük harf: unvan ve saygı",
+      "lead": "Kişi adına eşlik eden sözler",
+      "examples": [
+        "Dr. Ali Bey • Kaymakam Erol Bey",
+        "Sayın Bakan • Sayın Başkan"
+      ],
+      "facts": [
+        "Unvan, rütbe, saygı sözü ve lakap",
+        "Özel adın yerine kullanılan makam adı"
+      ],
+      "text": "Kişi adından önce ya da sonra gelen unvanlar, saygı sözleri, rütbe adları ve lakaplar büyük harfle başlar. Doktor Ali Bey buna örnektir. Özel adın yerine kullanılan makam adı da büyük yazılır: Heyeti Vali kabul etti. Sayın Bakan ve Sayın Başkan sözlerinde de aynı kurala dikkat ederiz.",
+      "kind": "capital"
+    },
+    {
+      "id": "18",
+      "page": "IMG_4121.jpg",
+      "speaker": "ibrahim",
+      "title": "UYARI: akrabalık sözleri",
+      "lead": "Özel ad büyük, akrabalık sözü küçük",
+      "examples": [
+        "Tülay ablama gittim.",
+        "Tülay → özel ad     abla → akrabalık"
+      ],
+      "facts": [
+        "Akrabalık bildiren kelimeler küçük harfle başlar.",
+        "Tülay ablama gittim."
+      ],
+      "text": "Akrabalık bildiren kelimeler küçük harfle başlar. Tülay ablama gittim cümlesinde Tülay özel ad olduğu için büyük harfle, abla ise akrabalık bildirdiği için küçük harfle yazılır. Kaynak sayfadaki bu uyarıyı özellikle hatırla. Kişinin adını büyük yazmak, yanındaki her sözcüğü büyük yazacağımız anlamına gelmez.",
+      "kind": "note"
+    },
+    {
+      "id": "19",
+      "page": "IMG_4121.jpg",
+      "speaker": "filiz",
+      "title": "Büyük harf: diğer özel adlar",
+      "lead": "Adın hangi gruba ait olduğunu bul",
+      "examples": [
+        "Boncuk • Türk • Türkçe",
+        "Müslümanlık • Hristiyan • Cebrail"
+      ],
+      "facts": [
+        "Hayvanlara verilen özel adlar; millet, boy ve oymak adları",
+        "Dil, lehçe, din, mezhep ve mensup adları"
+      ],
+      "text": "Hayvanlara verilen Boncuk, Pamuk gibi özel adlar büyük harfle başlar. Millet, boy ve oymak adları; dil ve lehçe adları da büyük yazılır. Türk ve Türkçe buna örnektir. Din ve mezhep adları, bunların mensuplarını bildiren sözler ile din ve mitolojiyle ilgili özel adlar da büyük harfle başlar.",
+      "kind": "capital"
+    }
+  ],
+  "kurz": [
+    {
+      "id": "01",
+      "page": "IMG_4113.jpg",
+      "speaker": "filiz",
+      "title": "İKİ FARKLI MERCEK",
+      "lead": "Yorum mu, ölçülebilir bilgi mi?",
+      "examples": [
+        "Bu köprü çok zarif.",
+        "Köprünün üç kemeri var."
+      ],
+      "facts": [
+        "Beğeni merceği → öznel",
+        "Kanıt merceği → nesnel"
+      ],
+      "text": "Bir cümleyi iki farklı mercekten inceleyelim. Bu köprü çok zarif sözü, konuşanın beğenisini gösterir. Köprünün üç kemeri var sözü ise sayarak kontrol edilir. İlk cümle öznel, ikincisi nesneldir. Bilgi merceği kanıt arar; yorum merceği kişisel bakışı görünür kılar.",
+      "kind": "compare"
+    },
+    {
+      "id": "02",
+      "page": "IMG_4114.jpg",
+      "speaker": "ibrahim",
+      "title": "MÜMKÜNLÜK KAPISI",
+      "lead": "Henüz olmamış olmak, hayal ürünü olmak değildir.",
+      "examples": [
+        "Yarın bir fidan dikeceğim.",
+        "Fidan bana teşekkür etti."
+      ],
+      "facts": [
+        "Yaşamda mümkün → gerçek ifade",
+        "İnsan gibi konuşan fidan → hayal ürünü"
+      ],
+      "text": "Bir cümleyi mümkünlük kapısından geçirelim. Yarın bir fidan dikeceğim ifadesi geleceği anlatır ama yaşanması mümkündür. Fidan bana teşekkür etti ifadesinde ise bitki insan gibi konuşur. Bu hayal ürünüdür. Gerçek ifadeyi seçerken olayın geçmişte yaşanmış olmasına değil, gerçek yaşamda mümkün olmasına bak.",
+      "kind": "split"
+    },
+    {
+      "id": "03",
+      "page": "IMG_4115.jpg",
+      "speaker": "filiz",
+      "title": "ANLAMIN TAKIMYILDIZI",
+      "lead": "Anahtar sözcükler birbirine bağlanır.",
+      "examples": [
+        "Atıkları ayır, yeniden kullan.",
+        "atık • dönüşüm • kaynak • tasarruf"
+      ],
+      "facts": [
+        "Sözcükler → konu",
+        "Konu → ana düşünceyi bulma"
+      ],
+      "text": "Bir paragrafta atıkları ayırmayı, yeniden kullanmayı ve kaynakları korumayı anlatalım. Atık, dönüşüm, kaynak ve tasarruf sözcükleri bir takım yıldızın parlak noktaları gibi birleşir. Bu anahtar sözcükler metnin geri dönüşümle ilgili olduğunu gösterir. Metnin ana düşüncesini bulurken bu bağlantılardan yararlanırız.",
+      "kind": "keys"
+    },
+    {
+      "id": "04",
+      "page": "IMG_4116.jpg",
+      "speaker": "ibrahim",
+      "title": "BENZETMENİN KÖPRÜSÜ",
+      "lead": "İki varlığı ortak bir özellik birleştirir.",
+      "examples": [
+        "Çocuk ceylan gibi çevikti.",
+        "çocuk → çeviklik → ceylan"
+      ],
+      "facts": [
+        "Benzeyen: çocuk • Benzetilen: ceylan",
+        "Ortak özellik: çeviklik • Edat: gibi"
+      ],
+      "text": "Benzetmeyi iki kıyı arasında kurulan bir köprü gibi düşün. Çocuk bir kıyıda, ceylan diğer kıyıda olsun. İkisini çeviklik özelliği birleştirir. Çocuk ceylan gibi çevikti cümlesinde çocuk benzeyen, ceylan kendisine benzetilendir. Gibi sözcüğü köprüyü kurar; çeviklik ise köprünün hangi özellik üzerinden kurulduğunu açıklar.",
+      "kind": "analogy"
+    },
+    {
+      "id": "05",
+      "page": "IMG_4117.jpg",
+      "speaker": "filiz",
+      "title": "DUYGUDAN KONUŞMAYA",
+      "lead": "Konuşturma, kişileştirmeyi de içerir.",
+      "examples": [
+        "Saat sabırsızlanıyordu.",
+        "Saat, “Hadi, geç kalıyoruz!” dedi."
+      ],
+      "facts": [
+        "İnsan duygusu → kişileştirme",
+        "Söz söyleme de varsa → konuşturma"
+      ],
+      "text": "Bir saatin sabırsızlandığını yazdığımızda ona insan duygusu veririz. Bu kişileştirmedir. Saat hadi, geç kalıyoruz dedi cümlesinde bir adım daha ileri gider, saati konuştururuz. Böylece konuşturma da oluşur. Konuşan saat kişileştirilmiştir; fakat yalnız sabırsızlanan saatin konuşması gerekmez.",
+      "kind": "speech"
+    },
+    {
+      "id": "06",
+      "page": "IMG_4118.jpg",
+      "speaker": "ibrahim",
+      "title": "NOKTANIN GÖREV İSTASYONLARI",
+      "lead": "İşaret aynı, bağlam farklı.",
+      "examples": [
+        "Ders bitti.     2. kat",
+        "12.04.2026     08.30"
+      ],
+      "facts": [
+        "Cümle sonunda → tamamlanma",
+        "Sayıların yanında → sıra, tarih veya saat"
+      ],
+      "text": "Noktayı farklı istasyonlarda çalışan küçük bir görevli olarak düşün. Ders bitti cümlesinin sonunda cümleyi tamamlar. İki rakamının ardından ikinci anlamını verir. Tarihte gün, ay ve yılı; saatte saat ve dakikayı ayırır. İşaretin biçimi değişmez, görevi çevresindeki sözcüklere ve sayılara göre değişir.",
+      "kind": "punct"
+    },
+    {
+      "id": "07",
+      "page": "IMG_4119.jpg",
+      "speaker": "filiz",
+      "title": "VİRGÜLÜN ANLAM ROTASI",
+      "lead": "Bir durak, birden fazla görev.",
+      "examples": [
+        "Aldım, okudum, anlattım.",
+        "Deniz, komşumuz, bize geldi."
+      ],
+      "facts": [
+        "Yargıları ayırma",
+        "Ek bilgiyi iki yandan çevreleme"
+      ],
+      "text": "Virgül cümlenin içindeki yön levhasıdır. Aldım, okudum, anlattım örneğinde üç yargıyı ayırır. Deniz, komşumuz, bize geldi cümlesinde ise komşumuz ara sözünü iki yandan çevreler. Ara sözü çıkarınca temel cümle kalır. Bu yüzden virgülün görevini yalnız işaretin yerine değil, ayırdığı bölümlere bakarak anlarız.",
+      "kind": "punct"
+    },
+    {
+      "id": "08",
+      "page": "IMG_4121.jpg",
+      "speaker": "ibrahim",
+      "title": "BÜYÜK HARFİN KİMLİK KARTI",
+      "lead": "Özel ad ile tür bildiren sözü ayır.",
+      "examples": [
+        "Kedim Pamuk uyuyor.",
+        "Ayşe teyzem Türkçe öğretiyor."
+      ],
+      "facts": [
+        "Pamuk ve Ayşe → özel ad",
+        "teyze → küçük • Türkçe → büyük"
+      ],
+      "text": "Kedim Pamuk uyuyor cümlesinde kedim bir türü, Pamuk ise belirli bir hayvanın özel adını bildirir. Ayşe teyzem Türkçe öğretiyor örneğinde Ayşe kişi adı, Türkçe dil adı olduğu için büyük harfle başlar. Teyze akrabalık bildirdiğinden küçük yazılır. Her sözcüğün görevini belirlemek, doğru yazımın anahtarıdır.",
+      "kind": "capital"
+    }
+  ],
+  "shorts": [
+    {
+      "question": "I: Roman on iki bölümden oluşuyor. II: Son bölümü çok etkileyici. Bu iki yargı için hangi değerlendirme doğrudur?",
+      "display": "I. Roman on iki bölümden oluşuyor.\nII. Son bölümü çok etkileyici.\n\nBu yargıların anlatımı hangisidir?",
+      "choices": [
+        "I öznel, II nesnel",
+        "İkisi de nesnel",
+        "I nesnel, II öznel",
+        "İkisi de öznel"
+      ],
+      "correct": 2,
+      "answer": "Doğru cevap C. Birinci yargı, bölümler sayılarak doğrulanabilir; nesneldir. İkinci yargı kişisel beğeni içerir; özneldir."
+    },
+    {
+      "question": "I: Deniz eski günleri özledi. II: Deniz, seni bekliyorum, dedi. Burada deniz sözcüğü su kütlesini anlatıyor. Hangi değerlendirme doğrudur?",
+      "display": "I. Deniz eski günleri özledi.\nII. Deniz, “Seni bekliyorum!” dedi.\n\nDeniz: su kütlesi. Hangisi doğrudur?",
+      "choices": [
+        "İkisinde de yalnız benzetme",
+        "I kişileştirme; II ayrıca konuşturma",
+        "İkisinde de yalnız konuşturma",
+        "I konuşturma; II yalnız benzetme"
+      ],
+      "correct": 1,
+      "answer": "Doğru cevap B. Birincide denize özlem duygusu verilmiş. İkincide deniz söz de söylüyor. Bu nedenle ikinci cümlede kişileştirmeyle birlikte konuşturma var."
+    },
+    {
+      "question": "Ece, sınıf arkadaşım, yarın gelecek cümlesindeki virgüllerle aynı görevde kullanılan virgüller hangi seçenektedir?",
+      "display": "“Ece, sınıf arkadaşım, yarın gelecek.”\n\nHangi cümlede virgüller aynı görevdedir?",
+      "choices": [
+        "Elma, armut, muz aldım.",
+        "Geldim, gördüm, döndüm.",
+        "Evet, bu akşam geleceğim.",
+        "Ankara, başkentimiz, çok kalabalık."
+      ],
+      "correct": 3,
+      "answer": "Doğru cevap D. Başkentimiz sözü, sınıf arkadaşım gibi bir ara sözdür. Her iki cümlede virgüller ek bilgiyi başından ve sonundan ayırır."
+    }
+  ]
+}

@@ -7,6 +7,9 @@
 - Use polished easing or spring motion, purposeful transitions, secondary motion, depth, and restrained particles where they improve the lesson.
 - Keep narration, active-speaker animation, visual emphasis, and scene timing synchronized.
 - Prevent overlaps, clipped text, hidden edges, abrupt movement, and unreadable compositions.
+- Before rendering any final MP4, review every scene at its intended output resolution using representative still frames and moving previews. Include frame 0, scene transitions, text and character entrances/exits, and any countdown, answer reveal, note callout, channel card, or closing animation that is present.
+- Check that all intended text, characters, and graphics actually appear; detect overlapping or clipped elements, hidden content, flicker, jitter, and unintended jumps in motion. Moving-preview inspection is required because still frames alone cannot reveal temporal animation defects.
+- Fix any detected defects and recheck the affected scenes and transitions before starting the final MP4 render. Apply this pre-render review to main videos, Kurz companions, Shorts, and Reels, including regenerated outputs.
 - Before delivery, visually inspect representative frames from every scene and correct layout or animation defects.
 
 ## Narration opening
@@ -27,12 +30,15 @@
 
 ## Source pages and scene layout
 
+- In every newly created or regenerated main lesson video, include every sentence explicitly labeled "Not" on the source lesson pages. Never omit these notes or lose their important details when adapting the lesson.
+- Present each source-page note in its relevant lesson scene as a clearly labeled "NOT" callout with distinct visual emphasis, such as a contrasting accent, border, and restrained entrance animation. Keep it readable long enough to understand, synchronize its emphasis with the explanation, and do not cover characters, lesson text, or diagrams.
 - Never place photographs or other embedded images from source JPG files under `public/pages` into a video. Use the source pages only to understand the lesson content; replace their imagery with original code-native diagrams, illustrations, or animations.
 - On every single-character scene, expand the presentation into the side where the hidden character would otherwise appear. Do not leave an unused character-sized empty area on either the left or right.
 - Keep the final two-character scene centered between Filiz and İbrahim.
 
 ## Video output organization
 
+- Keep every newly created or regenerated main lesson video at a maximum duration of 5 minutes (300 seconds), including its approved closing screen. Condense pacing and narration as needed without omitting source-page headings, important lesson points, or explicitly labeled notes. This limit applies to main videos, not Shorts; companion Kurz videos continue to follow their own duration guidance.
 - Render every newly created or regenerated video at Full HD 1080p resolution. Use `1920 x 1080` for horizontal main and companion videos, and `1080 x 1920` for vertical Shorts or Reels videos. Do not deliver new final videos at `960 x 540`, `720p`, or another lower resolution.
 - Save every rendered video under `out/<video-name>/<video-name>.mp4`.
 - Create the matching `<video-name>` directory under `out` when it does not exist.
@@ -67,7 +73,7 @@
 
 ## Non-Shorts YouTube channel card
 
-- In every future non-Shorts video that is at least 35 seconds long, show the approved animated YouTube channel card from 00:30 through 00:35.
+- In every future non-Shorts video that is at least 35 seconds long, Animate the like, subscribe, and notification-bell controls in sequence with polished spring motion, cursor clicks, restrained click particles, and clear activated states from 00:30 through 00:35.
 - Use the design represented by `src/previews/channel-lower-third/ChannelLowerThirdPreview.tsx`: a light rounded creator pill with the YouTube mark, channel identity, URL, and an animated action button.
 - Display the channel name as `DERSKUTUSU32`, the address as `youtube.com/@derskutusu32`, and the button label as `KANALA GİT`.
 - Keep the card visible for exactly five seconds, including its polished entrance and exit animation. Preserve the spring motion, subtle shine, progress accent, cursor click, restrained particles, and activated button state shown in the approved demo.
@@ -77,13 +83,13 @@
 
 ## Shorts videos
 
-- Keep every Shorts video in the approved bright `roller_shorts.mp4` visual language: use a light blue-to-white/soft-coral background, white rounded cards, navy headers, red/blue accents, soft shadows, and the established clean classroom composition. Never apply the dark Kurz/science-infographic color treatment to Shorts videos, even when the main or companion video uses that treatment.
+- Keep every Shorts video in the approved bright `kulturel_shorts_1.mp4` visual language: use a light blue-to-white/soft-coral background, white rounded cards, navy headers, red/blue accents, soft shadows, and the established clean classroom composition. Never apply the dark Kurz/science-infographic color treatment to Shorts videos, even when the main or companion video uses that treatment.
 - In every Shorts video, İbrahim must be the only character shown. Do not use Filiz in Shorts videos.
 - Do not include a like, subscribe, or other call-to-action page at the end of a Shorts video. İbrahim must not narrate a like, subscribe, or other call-to-action line. Shorts videos are exempt from any general end-of-video like/subscribe requirement.
 - Before the answer is revealed, do not display any word, label, hint, diagram caption, or other on-screen text that contains the answer or makes the correct choice obvious. Keep the question page and pre-answer visual free of answer-revealing terms such as the correct option's name, symbol, defining keyword, or instrument name.
-- After İbrahim asks the question in a Shorts video, display exactly three answer choices labeled A, B, and C. Keep all three choices visible and unmarked for five seconds.
-- During that five-second choice window, show the approved `ay_shorts`/`roller_shorts` circular countdown: count visibly from 5 to 1, animate the progress ring, and display `DÜŞÜN!`. Keep the timer clear of the choices and İbrahim.
-- Separate the spoken question from any spoken answer-choice reading when necessary. The A, B, and C choice cards and the 5-second countdown must appear together on the first frame immediately after the spoken question finishes; never leave a pause, blank interval, or delayed reveal between the question and the choices.
+- After İbrahim asks the question in a Shorts video, display exactly four answer choices labeled A, B, C and D. Keep all four choices visible and unmarked for five seconds.
+- During that five-second choice window, show the approved `kulturel_shorts_1` circular countdown: count visibly from 5 to 1, animate the progress ring, and display `DÜŞÜN!`. Keep the timer clear of the choices and İbrahim.
+- Separate the spoken question from any spoken answer-choice reading when necessary. The A, B, C and D choice cards and the 5-second countdown must appear together on the first frame immediately after the spoken question finishes; never leave a pause, blank interval, or delayed reveal between the question and the choices.
 - Start the answer reveal and answer narration immediately when the five-second choice/countdown window ends. Recalculate all dependent timings from the actual generated audio durations instead of relying on fixed guessed offsets.
-- After the five-second choice window, keep the question and all three answer choices on the same screen, following the approved `ay_shorts` answer-reveal structure. Mark and visually emphasize the correct choice directly on its existing A, B, or C card while İbrahim narrates the answer. Do not transition to or create a separate answer page, answer card, or answer screen.
-- One second after the spoken answer finishes, display the text "Tebrikler!" and then end the video.
+- After the five-second choice window, keep the question and all three answer choices on the same screen, following the approved `kulturel_shorts_1` answer-reveal structure. Mark and visually emphasize the correct choice directly on its existing A, B, C or D card while İbrahim narrates the answer. Do not transition to or create a separate answer page, answer card, or answer screen.
+- After the spoken answer finishes, display the text "Tebrikler!" and then end the video.
