@@ -1,0 +1,335 @@
+{
+  "main": [
+    {
+      "id": "01",
+      "page": "IMG_4125.jpg",
+      "speaker": "filiz",
+      "kind": "contact",
+      "title": "Sürtünme kuvveti",
+      "lead": "Temas eden yüzeyler hareketi zorlaştırabilir",
+      "points": [
+        "Temas gerektiren bir kuvvettir",
+        "Hareketi yavaşlatır veya engeller"
+      ],
+      "text": "Temas eden iki yüzey arasında, cismin hareketini zorlaştıran ya da engelleyen etkiye sürtünme kuvveti denir. Bir kutuyu zemin üzerinde iterken kutu ile zemin temas eder ve sürtünme ortaya çıkar. Bu nedenle uyguladığımız her kuvvet cismi hemen harekete geçirmeyebilir."
+    },
+    {
+      "id": "02",
+      "page": "IMG_4125.jpg",
+      "speaker": "ibrahim",
+      "kind": "direction",
+      "title": "Kuvvetlerin yönü",
+      "lead": "Sürtünme, hareket yönünün tersine etki eder",
+      "points": [
+        "Hareket sağaysa sürtünme sola",
+        "Hareket yön değiştirirse sürtünme de değişir"
+      ],
+      "text": "Bir cisim sağa doğru hareket ediyorsa sürtünme kuvveti sola doğrudur. Cisim sola hareket ettiğinde ise sürtünme sağa yönelir. Yani sürtünme kuvveti her zaman cismin hareket yönüne zıt yönde etki eder ve hareketi azaltmaya çalışır."
+    },
+    {
+      "id": "03",
+      "page": "IMG_4125.jpg",
+      "speaker": "filiz",
+      "kind": "surfaces",
+      "title": "Yüzeyin cinsi",
+      "lead": "Oyuncak araba camda kolay, halıda zor ilerler",
+      "points": [
+        "Az pürüzlü yüzey → küçük sürtünme",
+        "Çok pürüzlü yüzey → büyük sürtünme"
+      ],
+      "text": "Aynı oyuncak araba cam üzerinde daha kolay, halı üzerinde daha zor hareket eder. Camın pürüzleri az olduğu için sürtünme küçüktür. Halı, toprak ve çakıl gibi daha pürüzlü yüzeylerde ise sürtünme kuvveti büyür."
+    },
+    {
+      "id": "04",
+      "page": "IMG_4125.jpg",
+      "speaker": "ibrahim",
+      "kind": "noteSurface",
+      "title": "Yüzey notu",
+      "lead": "Pürüz miktarı sürtünmenin büyüklüğünü değiştirir",
+      "points": ["Cam, buz, yağlı zemin: küçük", "Halı, çakıl, toprak: büyük"],
+      "note": "Cam, buz ve yağlı zeminler az pürüzlü olduklarından sürtünme küçük; halı, çakıl taşı ve toprak gibi çok pürüzlü yüzeylerde sürtünme büyüktür.",
+      "text": "Önemli not: Cam, buz ve yağlı zeminler az pürüzlü olduğundan sürtünme kuvveti küçüktür. Halı, çakıl taşı ve toprak gibi çok pürüzlü yüzeylerde ise sürtünme kuvveti büyüktür. Yüzeyleri karşılaştırırken cismin aynı olmasına dikkat ederiz."
+    },
+    {
+      "id": "05",
+      "page": "IMG_4126.jpg",
+      "speaker": "filiz",
+      "kind": "weight",
+      "title": "Ağırlığın etkisi",
+      "lead": "Aynı zeminde ağır cisim daha büyük sürtünmeyle karşılaşır",
+      "points": [
+        "10 N cisim → daha küçük sürtünme",
+        "30 N cisim → daha büyük sürtünme"
+      ],
+      "text": "Aynı tahta yüzeyde duran iki cisimden ağırlığı fazla olan, yüzeye daha güçlü bastırır. Bu nedenle ağır cisme etki eden sürtünme kuvveti daha büyüktür. Hafif cisim ise aynı yüzeyde daha kolay hareket ettirilir."
+    },
+    {
+      "id": "06",
+      "page": "IMG_4126.jpg",
+      "speaker": "ibrahim",
+      "kind": "noteWeight",
+      "title": "Ağırlık notu",
+      "lead": "Yüzey aynıysa hafif olanı hareket ettirmek daha kolaydır",
+      "points": ["Yüzey cinsi aynı tutulur", "Değişken: cismin ağırlığı"],
+      "note": "Aynı yüzeylerde farklı ağırlıktaki cisimler hareket ettirildiğinde hafif olan cisim daha kolay hareket ettirilir.",
+      "text": "Önemli not: Aynı yüzeyde farklı ağırlıktaki cisimler hareket ettirildiğinde hafif olan cisim daha kolay hareket eder. Çünkü ağırlık arttıkça yüzeyler arasındaki etkileşim ve sürtünme de artar. Doğru karşılaştırma için yüzeyin cinsi değiştirilmemelidir."
+    },
+    {
+      "id": "07",
+      "page": "IMG_4126.jpg",
+      "speaker": "filiz",
+      "kind": "area",
+      "title": "Temas alanı yanılgısı",
+      "lead": "Aynı cismi farklı yüzeyleri üzerine koymak sonucu değiştirmez",
+      "points": ["Ağırlık aynı", "Yüzey cinsi aynı"],
+      "note": "Cisimlerin yere temas eden yüzeylerinin büyük veya küçük olması sürtünme kuvvetini etkilemez.",
+      "text": "Önemli not: Aynı ağırlıktaki bir cismi geniş ya da dar yüzeyi üzerine koymak, sürtünme kuvvetinin büyüklüğünü değiştirmez. Yüzeyin cinsi ve cismin ağırlığı aynı kaldığı sürece temas alanının büyük veya küçük olması sonucu etkilemez."
+    },
+    {
+      "id": "08",
+      "page": "IMG_4127.jpg",
+      "speaker": "ibrahim",
+      "kind": "threshold",
+      "title": "Hareket için kuvvet eşiği",
+      "lead": "Uygulanan kuvvet sürtünmeyi aşmalıdır",
+      "points": [
+        "Uygulanan kuvvet küçükse hareket yok",
+        "Sürtünmeden büyük kuvvet hareket başlatır"
+      ],
+      "text": "Bir buzdolabını ittiğimiz hâlde hareket ettiremeyebiliriz. Çünkü uyguladığımız kuvvet sürtünme kuvvetinden küçük kalmıştır. Cismin harekete başlayabilmesi için uygulanan kuvvetin sürtünme kuvvetinden daha büyük olması gerekir."
+    },
+    {
+      "id": "09",
+      "page": "IMG_4127.jpg",
+      "speaker": "filiz",
+      "kind": "snow",
+      "title": "Karlı yolda zincir",
+      "lead": "Tutunmak için sürtünmeyi artırırız",
+      "points": [
+        "Islak ve buzlu yolda sürtünme azalır",
+        "Zincir yüzeyi pürüzlendirir ve tutunmayı artırır"
+      ],
+      "text": "Islak, karlı ve buzlu yollarda lastik ile zemin arasındaki sürtünme azalır; aracın durması ve yön değiştirmesi zorlaşır. Lastiğe takılan zincir yüzeyi daha pürüzlü hâle getirerek sürtünmeyi artırır ve kontrollü hareket sağlar."
+    },
+    {
+      "id": "10",
+      "page": "IMG_4127.jpg",
+      "speaker": "ibrahim",
+      "kind": "wheels",
+      "title": "Tekerlek neden kolaylaştırır?",
+      "lead": "Kayma yerine yuvarlanma sürtünmesini kullanırız",
+      "points": [
+        "Tekerlek sürtünmeyi azaltır",
+        "Çanta ve ağır eşyalar kolay taşınır"
+      ],
+      "note": "Çanta, bavul, buzdolabı ve elektrik süpürgesi gibi araçlara tekerlek takarak sürtünmeyi azaltırız.",
+      "text": "Önemli not: Çanta, bavul, buzdolabı ve elektrik süpürgesi gibi araçlara tekerlek takarız. Tekerlekler kayma yerine yuvarlanmayı sağladığı için sürtünme azalır ve cisimleri hareket ettirmek kolaylaşır."
+    },
+    {
+      "id": "11",
+      "page": "IMG_4127.jpg",
+      "speaker": "filiz",
+      "kind": "brake",
+      "title": "Fren ve güvenlik",
+      "lead": "Bazı durumlarda sürtünmenin büyük olmasını isteriz",
+      "points": [
+        "Fren pabucu tekerleğe temas eder",
+        "Artan sürtünme bisikleti yavaşlatır"
+      ],
+      "text": "Bisikletin fren kolunu sıktığımızda fren pabucu tekerleğe bastırılır. Temas ve sürtünme artınca bisiklet yavaşlar. Yürümek, yazı yazmak ve araç durdurmak gibi durumlarda sürtünmenin yeterince büyük olması işimizi kolaylaştırır."
+    },
+    {
+      "id": "12",
+      "page": "IMG_4127.jpg",
+      "speaker": "ibrahim",
+      "kind": "lubrication",
+      "title": "Yağlama ve aşınma",
+      "lead": "Bazı makinelerde sürtünmeyi azaltmak isteriz",
+      "points": [
+        "Yağ, yüzeylerin doğrudan temasını azaltır",
+        "Ses, ısınma ve aşınma azalır"
+      ],
+      "text": "Kapı menteşeleri ve makine dişlileri sürtündüğünde ses, ısınma ve aşınma oluşabilir. Araya yağ sürmek yüzeylerin doğrudan temasını azaltır. Böylece parçalar daha kolay hareket eder, daha az ses çıkarır ve daha geç aşınır."
+    },
+    {
+      "id": "13",
+      "page": "IMG_4128.jpg",
+      "speaker": "filiz",
+      "kind": "air",
+      "title": "Hava direnci",
+      "lead": "Hava da hareket eden cisme karşı koyar",
+      "points": ["Hareket yönüne zıttır", "Paraşüt düşüşü yavaşlatır"],
+      "text": "Havada hareket eden cisimlerin hareketini zorlaştıran etkiye hava direnci ya da hava sürtünmesi denir. Hava direnci de hareket yönüne zıt etki eder. Paraşüt açıldığında hava ile temas artar ve kişinin düşüşü yavaşlar."
+    },
+    {
+      "id": "14",
+      "page": "IMG_4128.jpg",
+      "speaker": "ibrahim",
+      "kind": "airFactors",
+      "title": "Hız ve hava ile temas",
+      "lead": "Hız ve geniş yüzey hava direncini artırır",
+      "points": [
+        "Araç hızlandıkça hava direnci artar",
+        "Düz kâğıt, buruşturulmuş kâğıttan yavaş düşer"
+      ],
+      "text": "Bisiklet hızlandıkça yüzümüzde daha güçlü hava direnci hissederiz. Aynı boyuttaki düz ve buruşturulmuş kâğıt bırakıldığında düz kâğıdın havayla temas yüzeyi daha fazladır ve daha yavaş düşer. Hız ve temas yüzeyi hava direncini etkiler."
+    },
+    {
+      "id": "15",
+      "page": "IMG_4129.jpg",
+      "speaker": "filiz",
+      "kind": "aero",
+      "title": "Hava direncini azaltan tasarım",
+      "lead": "Ulaşım araçlarına akıcı biçimler verilir",
+      "points": [
+        "Jet, tren ve otomobiller akıcı tasarlanır",
+        "Amaç: havayı daha kolay yarıp ilerlemek"
+      ],
+      "text": "Jet, hızlı tren ve otomobil gibi ulaşım araçları hava direncinden daha az etkilenecek biçimde tasarlanır. Öndeki sivri ve akıcı şekiller havanın aracın çevresinden daha düzenli geçmesini sağlar. Böylece araç ilerlerken daha az dirençle karşılaşır."
+    },
+    {
+      "id": "16",
+      "page": "IMG_4129.jpg",
+      "speaker": "ibrahim",
+      "kind": "water",
+      "title": "Su direnci",
+      "lead": "Su içindeki hareketi zorlaştıran kuvvet",
+      "points": [
+        "Su direnci hareket yönüne zıttır",
+        "Balık ve deniz araçlarının biçimleri direnci azaltır"
+      ],
+      "text": "Su içinde hareket eden cisimlere karşı oluşan zorlaştırıcı kuvvete su direnci ya da su sürtünmesi denir. Bilye su dolu şişede havaya göre daha yavaş düşer. Balıkların, gemilerin ve denizaltıların akıcı biçimleri su direncini azaltmaya yardımcı olur."
+    }
+  ],
+  "kurz": [
+    {
+      "id": "01",
+      "speaker": "filiz",
+      "kind": "micro",
+      "title": "MİKROSKOBİK DAĞLAR",
+      "lead": "Pürüzsüz görünen yüzeyler bile yakından engebelidir.",
+      "examples": [
+        "İki yüzeyin çıkıntıları birbirine takılır",
+        "Daha derin kilitlenme → daha büyük direnç"
+      ],
+      "facts": ["Temas ölçeği küçülür", "Hareket enerjisi ısıya dönüşür"],
+      "text": "Bir masa yüzeyine mikroskopla baktığımızı düşün. Düz sandığımız bölgede minik tepeler ve çukurlar görürüz. İki yüzey hareket ederken bu çıkıntılar birbirine takılır, esner ve ısınır. Sürtünmenin kaynağını görünmeyen bu küçük ölçekte daha iyi anlayabiliriz."
+    },
+    {
+      "id": "02",
+      "speaker": "ibrahim",
+      "kind": "energy",
+      "title": "ENERJİNİN GİZLİ DÖNÜŞÜMÜ",
+      "lead": "Hareket azalırken enerji ortadan kaybolmaz.",
+      "examples": ["Kayan disk yavaşlar", "Yüzey ve disk biraz ısınır"],
+      "facts": ["Hareket enerjisi azalır", "Isı enerjisi artar"],
+      "text": "Buz üzerinde kayan bir diskin yavaşladığını izleyelim. Diskin hareket enerjisi yok olmaz; sürtünme nedeniyle yüzeylerde küçük titreşimlere ve ısıya dönüşür. Ellerimizi birbirine hızlıca sürttüğümüzde ısınmasının nedeni de aynı enerji dönüşümüdür."
+    },
+    {
+      "id": "03",
+      "speaker": "filiz",
+      "kind": "grip",
+      "title": "TUTUNMA AYAR DÜĞMESİ",
+      "lead": "Her iş için aynı miktarda sürtünme istemeyiz.",
+      "examples": [
+        "Tırmanış ayakkabısında yüksek tutunma",
+        "Kayak tabanında kontrollü düşük sürtünme"
+      ],
+      "facts": ["Güvenlik için artırılabilir", "Hız için azaltılabilir"],
+      "text": "Sürtünmeyi bir ayar düğmesi gibi düşün. Kaya tırmanışında ayakkabının yüzeye güçlü tutunmasını isteriz. Kayakta ise kontrollü biçimde kaymak için daha düşük sürtünme gerekir. Tasarımcılar malzemeyi ve yüzey dokusunu amaca göre seçer."
+    },
+    {
+      "id": "04",
+      "speaker": "ibrahim",
+      "kind": "bearing",
+      "title": "BİLYALI RULMANIN SIRRI",
+      "lead": "Kaymayı küçük yuvarlanmalara dönüştürür.",
+      "examples": [
+        "İki halka arasında dönen bilyeler",
+        "Daha az temas kayması ve daha az aşınma"
+      ],
+      "facts": ["Yuvarlanma kolaylaşır", "Makineler verimli çalışır"],
+      "text": "Bisiklet göbeğinin içinde küçük bilyelerin iki halka arasında döndüğünü hayal et. Bilyalı rulman, geniş yüzeylerin birbirinin üzerinde kayması yerine çok sayıda küçük yuvarlanma oluşturur. Bu sayede sürtünme ve aşınma azalırken dönüş kolaylaşır."
+    },
+    {
+      "id": "05",
+      "speaker": "filiz",
+      "kind": "stream",
+      "title": "AKIŞ TÜNELİ",
+      "lead": "Hava ve su, cismin çevresinden akmak zorundadır.",
+      "examples": [
+        "Küt biçimde akış kopar ve girdap büyür",
+        "Akıcı biçimde akış yüzeyi izler"
+      ],
+      "facts": ["Girdap azalır", "Direnç küçülür"],
+      "text": "Bir akış tünelinde iki farklı gövde deneyelim. Küt gövdenin arkasında büyük ve düzensiz girdaplar oluşur. Ucu yumuşakça daralan akıcı gövdede hava ya da su yüzeyi daha düzenli izler. Küçük girdaplar, daha az akış direnci anlamına gelir."
+    },
+    {
+      "id": "06",
+      "speaker": "ibrahim",
+      "kind": "parachute",
+      "title": "PARAŞÜTÜN DENGE ANI",
+      "lead": "Direnç büyürken düşüş yeni bir hıza yerleşir.",
+      "examples": [
+        "Açılan kubbe çok daha fazla hava yakalar",
+        "Yukarı yönlü direnç hızlanmayı sınırlar"
+      ],
+      "facts": ["Temas alanı büyür", "Düşüş hızı azalır"],
+      "text": "Paraşüt açıldığında geniş kubbe büyük miktarda havayı yönlendirir. Yukarı yönlü hava direnci büyür ve aşağı doğru hızlanmayı sınırlar. Bir süre sonra kişi daha düşük ve dengeli bir hızla inmeye başlar. Burada amaç direnci azaltmak değil, güvenlik için artırmaktır."
+    },
+    {
+      "id": "07",
+      "speaker": "filiz",
+      "kind": "design",
+      "title": "TEK KUVVET, İKİ TASARIM KARARI",
+      "lead": "Sürtünme bazen büyütülür, bazen küçültülür.",
+      "examples": [
+        "Fren yüzeyi: güçlü temas",
+        "Motor yatağı: yağlı ve akıcı temas"
+      ],
+      "facts": ["Kontrol için artır", "Verim için azalt"],
+      "text": "Bir mühendis aynı araçta iki zıt karar verebilir. Fren yüzeyinde güvenli duruş için sürtünmeyi artırır. Motorun hareketli yatağında enerji kaybını ve aşınmayı azaltmak için yağlama kullanır. İyi tasarım, sürtünmeyi yok etmek değil, doğru yerde doğru miktara getirmektir."
+    }
+  ],
+  "shorts": [
+    {
+      "id": "01",
+      "topic": "YÜZEY CİNSİ",
+      "question": "Özdeş ve eşit ağırlıktaki üç blok aynı hızla cam, tahta ve halı üzerinde çekiliyor. Ölçülen sürtünme kuvvetleri 2 N, 4 N ve 7 N olduğuna göre yüzeylerin pürüzlülük sırası hangisidir?",
+      "choices": [
+        "Halı < Tahta < Cam",
+        "Cam < Tahta < Halı",
+        "Tahta < Cam < Halı",
+        "Cam < Halı < Tahta"
+      ],
+      "correct": 1,
+      "answer": "Doğru cevap B. Sürtünme kuvveti büyüdükçe yüzeyin pürüzlülüğü de artar. Bu nedenle sıralama cam, tahta ve halıdır."
+    },
+    {
+      "id": "02",
+      "topic": "TEMAS ALANI",
+      "question": "Eşit ağırlıktaki özdeş iki kutu aynı halı üzerinde geniş ve dar yüzeyleri üzerine konularak çekiliyor. Diğer koşullar aynı olduğuna göre sürtünme kuvvetleri nasıl karşılaştırılır?",
+      "choices": [
+        "Geniş yüzeyde daha büyüktür",
+        "Dar yüzeyde daha büyüktür",
+        "İkisinde eşittir",
+        "Kutu hareket edemez"
+      ],
+      "correct": 2,
+      "answer": "Doğru cevap C. Aynı cisim ve aynı yüzey için temas alanının büyüklüğü sürtünme kuvvetini değiştirmez. İki durumda sürtünme eşittir."
+    },
+    {
+      "id": "03",
+      "topic": "HAVA DİRENCİ",
+      "question": "Aynı iki kâğıttan biri düz bırakılıyor, diğeri buruşturuluyor. Aynı yükseklikten bırakıldıklarında buruşturulan kâğıt önce yere ulaşıyor. Bu gözlem neyi destekler?",
+      "choices": [
+        "Ağırlık arttıkça hava direnci azalır",
+        "Temas yüzeyi arttıkça hava direnci artar",
+        "Hava direnci hareket yönündedir",
+        "Şekil hava direncini etkilemez"
+      ],
+      "correct": 1,
+      "answer": "Doğru cevap B. Düz kâğıdın havayla temas yüzeyi daha büyüktür ve daha fazla hava direnciyle karşılaşır. Bu yüzden daha geç düşer."
+    }
+  ]
+}
