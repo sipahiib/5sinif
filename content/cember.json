@@ -1,0 +1,223 @@
+{
+  "main": [
+    {
+      "id": "01",
+      "page": "IMG_4122.jpg",
+      "speaker": "filiz",
+      "kind": "perpendicular",
+      "title": "Dikme nedir?",
+      "lead": "Bir doğruyla tam 90 derecelik açı yapan doğru parçası",
+      "points": [
+        "Kesişimde dik açı oluşur",
+        "Dik açı küçük kareyle gösterilir"
+      ],
+      "text": "Bir doğruya, üzerindeki ya da dışındaki bir noktadan dik çizilen doğru parçasına dikme denir. Dikme ile doğru kesiştiğinde tam doksan derecelik bir açı oluşur. Şekildeki küçük kare, bu açının dik açı olduğunu gösterir."
+    },
+    {
+      "id": "02",
+      "page": "IMG_4122.jpg",
+      "speaker": "ibrahim",
+      "kind": "shortest",
+      "title": "En kısa yol",
+      "lead": "Bir noktadan doğruya olan uzaklığı dikme belirler",
+      "points": [
+        "Eğik parçalar daha uzundur",
+        "Uzaklık, dik parçanın uzunluğudur"
+      ],
+      "text": "Doğrunun dışındaki bir P noktasından doğruya birçok doğru parçası çizilebilir. Bunların arasında en kısa olan, doğruya dik çizilen parçadır. Bu nedenle bir noktanın doğruya uzaklığını ölçerken eğik yolları değil, dikmenin uzunluğunu kullanırız."
+    },
+    {
+      "id": "03",
+      "page": "IMG_4122.jpg",
+      "speaker": "filiz",
+      "kind": "setSquare",
+      "title": "Gönye ile dikme",
+      "lead": "Gönye, 90 derecelik köşeyi doğruya taşır",
+      "points": ["Bir kenarı doğruyla çakıştır", "Diğer dik kenar boyunca çiz"],
+      "text": "Dışarıdaki bir noktadan doğruya dikme çizmek için gönye kullanabiliriz. Gönyenin bir dik kenarını doğruyla çakıştırırız. Gönyeyi kaydırarak diğer dik kenarı noktaya getirir, o kenar boyunca çizim yaparız. Böylece doğru bir dikme elde ederiz."
+    },
+    {
+      "id": "04",
+      "page": "IMG_4122.jpg",
+      "speaker": "ibrahim",
+      "kind": "notation",
+      "title": "Diklik sembolü",
+      "lead": "AB doğru parçası, CD doğru parçasına diktir",
+      "points": ["Sembol: ⟂", "Yazılış: [AB] ⟂ [CD]"],
+      "text": "Diklik, yan yana duran yatay ve düşey iki doğruyu andıran bu sembolle gösterilir. AB doğru parçası CD doğru parçasına dikse, köşeli parantez içinde AB, diktir sembolü, köşeli parantez içinde CD biçiminde yazarız. Sembol kesişimde doksan derece bulunduğunu anlatır."
+    },
+    {
+      "id": "05",
+      "page": "IMG_4123.jpg",
+      "speaker": "filiz",
+      "kind": "circleTrace",
+      "title": "Çemberin yolculuğu",
+      "lead": "Merkeze eşit uzaklıkta dönen noktanın izi",
+      "points": [
+        "Kapalı bir eğridir",
+        "Üzerindeki bütün noktalar merkeze eşit uzaklıktadır"
+      ],
+      "text": "Çemberi, sabit bir merkez çevresinde hep aynı uzaklığı koruyarak dolaşan bir noktanın izi gibi düşünebiliriz. Nokta tam tur attığında kapalı bir eğri oluşur. Çember üzerindeki her noktanın merkeze uzaklığı aynıdır."
+    },
+    {
+      "id": "06",
+      "page": "IMG_4123.jpg",
+      "speaker": "ibrahim",
+      "kind": "radius",
+      "title": "Merkez ve yarıçap",
+      "lead": "Merkezden çembere uzanan her parça eşit uzunluktadır",
+      "points": ["Merkez bir noktadır", "Merkezden çembere uzaklık yarıçaptır"],
+      "text": "Çemberin ortasındaki sabit noktaya merkez denir. Merkezden çember üzerindeki herhangi bir noktaya çizilen doğru parçası yarıçaptır ve genellikle küçük r harfiyle gösterilir. Aynı çemberde çizilen bütün yarıçapların uzunlukları eşittir."
+    },
+    {
+      "id": "07",
+      "page": "IMG_4123.jpg",
+      "speaker": "filiz",
+      "kind": "diameter",
+      "title": "Çap ve yarıçap",
+      "lead": "Merkezden geçen çap, iki yarıçaptan oluşur",
+      "points": ["Çap çemberi iki noktada keser", "Çap = 2 × yarıçap"],
+      "text": "Çemberin iki noktasını birleştiren ve merkezden geçen doğru parçasına çap denir. Merkez, çapı iki eş yarıçapa böler. Bu yüzden çapın uzunluğu yarıçapın iki katıdır. Yarıçap dört santimetreyse çap sekiz santimetredir."
+    },
+    {
+      "id": "08",
+      "page": "IMG_4123.jpg",
+      "speaker": "ibrahim",
+      "kind": "naming",
+      "title": "Çemberi adlandırma",
+      "lead": "Çember genellikle merkez noktasının adıyla anılır",
+      "points": ["Merkez O ise: O merkezli çember", "Yarıçap uzunluğu: r"],
+      "text": "Bir çemberi adlandırırken genellikle merkez noktasının harfini kullanırız. Merkezi O olan şekle O merkezli çember deriz. Çember üzerindeki A noktasıyla merkezi birleştiren OA doğru parçası ise bu çemberin bir yarıçapıdır."
+    },
+    {
+      "id": "09",
+      "page": "IMG_4124.jpg",
+      "speaker": "filiz",
+      "kind": "circleDisk",
+      "title": "Çember mi, daire mi?",
+      "lead": "Çember sınırdır; daire sınırın içindeki alanı kapsar",
+      "points": ["Çember: kapalı eğri", "Daire: çember ve iç bölgesi"],
+      "text": "Çember ile daire birbirine yakın görünür ama aynı değildir. Çember yalnızca dıştaki kapalı sınır çizgisidir. Daire ise bu sınırın içinde kalan alanın tamamıdır. Kısaca çember daireyi çevreler, daire çemberin içini kapsar."
+    },
+    {
+      "id": "10",
+      "page": "IMG_4124.jpg",
+      "speaker": "ibrahim",
+      "kind": "examples",
+      "title": "Günlük hayatta",
+      "lead": "Kenar çizgisi ve dolu yüzey ayrımına dikkat et",
+      "points": [
+        "Yüzük ve saat çerçevesi çembere örnektir",
+        "Pizza ve madeni para daireye örnektir"
+      ],
+      "text": "Günlük hayatta bir yüzüğün kenarını, bisiklet tekerleğinin çemberini ya da saat kadranının sınırını çembere benzetebiliriz. Pizza ve madeni para gibi içi dolu yüzeyler ise daire modelidir. Nesnenin yalnız sınırına mı, tüm yüzeyine mi baktığımız önemlidir."
+    },
+    {
+      "id": "11",
+      "page": "IMG_4124.jpg",
+      "speaker": "filiz",
+      "kind": "summary",
+      "title": "Geometri özeti",
+      "lead": "Diklik uzaklığı, yarıçap ise çemberin büyüklüğünü belirler",
+      "points": [
+        "Dikme: 90° ve en kısa uzaklık",
+        "Çap: 2r • Çember sınır • Daire alan"
+      ],
+      "text": "Dikme doğruyla doksan derece yapar ve dışarıdaki noktadan doğruya en kısa yolu verir. Çemberin tüm noktaları merkeze eşit uzaklıktadır. Bu uzaklık yarıçap, merkezden geçen iki yarıçaplık parça çaptır. Son olarak çemberin sınır, dairenin ise iç bölge olduğunu unutmayalım."
+    }
+  ],
+  "kurz": [
+    {
+      "id": "01",
+      "speaker": "filiz",
+      "kind": "drone",
+      "title": "KURTARMA DRONUNUN İPİ",
+      "lead": "Havadaki yükü yola en kısa biçimde indirelim.",
+      "examples": [
+        "Eğik halat → daha çok malzeme",
+        "Düşey halat → en az malzeme"
+      ],
+      "facts": ["Halat yola dik iner", "En kısa mesafe bulunur"],
+      "text": "Bir kurtarma dronu, taşıdığı paketi dümdüz bir yola halatla indirecek. Halatın ucu yol üzerinde sağa ya da sola kaydırılırsa daha fazla halat gerekir. En az malzeme, halat yola dik indiğinde kullanılır. Böylece dikmenin en kısa mesafeyi verdiğini günlük bir durumla görürüz."
+    },
+    {
+      "id": "02",
+      "speaker": "ibrahim",
+      "kind": "robot",
+      "title": "ROBOT KOLUN AÇI KİLİDİ",
+      "lead": "İki hareket ekseni birbirine dik çalışıyor.",
+      "examples": ["Yatay ray üzerinde ilerleme", "Düşey kol ile aşağı uzanma"],
+      "facts": ["Eksenler 90° oluşturur", "Konum değişse de açı sabit"],
+      "text": "Bir fabrika robotu yatay bir ray üzerinde sağa sola ilerliyor. Paketi tutan kol ise yalnız yukarı ve aşağı hareket ediyor. Ray ile kolun yönleri her konumda doksan derece oluşturur. Diklik yalnız tek bir noktaya değil, iki yön arasındaki değişmeyen ilişkiye bağlıdır."
+    },
+    {
+      "id": "03",
+      "speaker": "filiz",
+      "kind": "ferris",
+      "title": "DÖNME DOLABIN EŞ KOLLARI",
+      "lead": "Her kabin aynı merkezden aynı uzaklıkta.",
+      "examples": [
+        "Göbek sabit kalır",
+        "Kabinler eş uzunlukta kollara bağlıdır"
+      ],
+      "facts": ["Kabinlerin yolu çemberdir", "Her kol bir yarıçap modelidir"],
+      "text": "Bir dönme dolabın bütün kabinleri ortadaki göbeğe eş uzunluktaki kollarla bağlanır. Dolap dönerken kabinler merkezden ne yaklaşır ne uzaklaşır. Bu yüzden kabinlerin izlediği kapalı yol bir çember, her bağlantı kolu da yarıçap için güçlü bir modeldir."
+    },
+    {
+      "id": "04",
+      "speaker": "ibrahim",
+      "kind": "capsules",
+      "title": "İKİ ÖLÇÜ KAPSÜLÜ BİRLEŞİYOR",
+      "lead": "Eş iki r parçasından tek bir uzunluk üretelim.",
+      "examples": ["Birinci kapsül: r", "İkinci kapsül: r"],
+      "facts": ["Birleşim: r + r", "Yeni uzunluk: 2r"],
+      "text": "Elimizde uzunlukları r olan iki eş ölçü kapsülü bulunsun. Kapsülleri uç uca eklediğimizde toplam uzunluk r artı r, yani iki r olur. Bu yeni uzunluk çemberin merkezinden geçerek iki sınır noktasını birleştirirse çapı temsil eder."
+    },
+    {
+      "id": "05",
+      "speaker": "filiz",
+      "kind": "ink",
+      "title": "MÜREKKEP DENEYİ",
+      "lead": "Çizgi ile boyanan bölge aynı şey değildir.",
+      "examples": ["Kalemin bıraktığı yuvarlak iz", "İzin içine yayılan renk"],
+      "facts": ["İnce iz → çember modeli", "Boyalı bölge → daire modeli"],
+      "text": "Yuvarlak bir kalem izi çizdiğimizi düşün. Yalnızca ince iz görünüyorsa bir çember modeli oluşur. Ardından mürekkep bu izin içine yayılıp bütün bölgeyi boyarsa daire modeli elde ederiz. Çizginin kendisiyle kapladığı bölgeyi böyle ayırabiliriz."
+    },
+    {
+      "id": "06",
+      "speaker": "ibrahim",
+      "kind": "conveyor",
+      "title": "MODEL AYIRMA BANDI",
+      "lead": "Yuvarlak nesneler iki farklı kutuya gidiyor.",
+      "examples": [
+        "Kasnak ve çember tel → sınır kutusu",
+        "Kurabiye ve düğme → yüzey kutusu"
+      ],
+      "facts": ["Sınır kutusu: çember", "Yüzey kutusu: daire"],
+      "text": "Bir model ayırma bandında yuvarlak nesneleri iki kutuya gönderelim. Kasnak ve ince çember tel yalnız sınır oluşturduğu için çember kutusuna gider. Kurabiye ve düğme yüzey kapladığı için daire kutusuna düşer. Kararı nesnenin yuvarlaklığı değil, sınır mı alan mı modellediği verir."
+    }
+  ],
+  "shorts": [
+    {
+      "id": "01",
+      "topic": "DİKLİK",
+      "question": "P noktasından d doğrusuna çizilen üç parçanın uzunlukları 6, 8 ve 10 santimetredir. P'nin d doğrusuna uzaklığı 6 santimetre olduğuna göre hangisi kesinlikle doğrudur?",
+      "choices": [
+        "10 cm'lik parça d'ye diktir",
+        "6 cm'lik parça d'ye diktir",
+        "8 cm'lik parça d'ye paraleldir",
+        "Üç parça da d'ye diktir"
+      ],
+      "correct": 1,
+      "answer": "Doğru cevap B. Bir noktadan doğruya olan uzaklık, en kısa ve doğruya dik parçanın uzunluğudur. Bu nedenle altı santimetrelik parça d doğrusuna diktir."
+    },
+    {
+      "id": "02",
+      "topic": "ÇEMBER",
+      "question": "O merkezli bir çemberin yarıçapı 5 santimetredir. A, B ve C noktalarının O'ya uzaklıkları sırasıyla 5, 7 ve 5 santimetredir. Hangi noktalar çember üzerindedir?",
+      "choices": ["Yalnız A", "Yalnız B", "A ve B", "A ve C"],
+      "correct": 3,
+      "answer": "Doğru cevap D. Çember üzerindeki bütün noktalar merkeze yarıçap kadar uzaktır. O'ya beş santimetre uzaklıktaki A ve C noktaları çember üzerindedir."
+    }
+  ]
+}
