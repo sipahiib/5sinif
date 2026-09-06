@@ -1212,52 +1212,64 @@ const ShortVisual = ({ index }: { index: number }) => {
     d = interpolate(f, [8, 42], [0, 1], clamp);
   if (index === 0)
     return (
-      <svg viewBox="0 0 850 125" width="100%" height="145">
-        <path d="M55 100H795" stroke={navy} strokeWidth="6" />
+      <svg viewBox="0 0 850 240" width="100%" height="260">
+        <defs>
+          <filter id="blockShadow" x="-30%" y="-30%" width="160%" height="180%">
+            <feDropShadow dx="0" dy="9" stdDeviation="8" floodColor="#173B66" floodOpacity=".18" />
+          </filter>
+        </defs>
         {[
-          { x: 185, n: "2 N", c: blue, s: "CAM" },
-          { x: 425, n: "4 N", c: mint, s: "TAHTA" },
-          { x: 665, n: "7 N", c: coral, s: "HALI" },
-        ].map((o) => (
-          <g key={o.x} opacity={d}>
+          { x: 150, n: "2 N", c: blue, s: "CAM", rough: 2 },
+          { x: 425, n: "4 N", c: mint, s: "TAHTA", rough: 7 },
+          { x: 700, n: "7 N", c: coral, s: "HALI", rough: 15 },
+        ].map((o, i) => {
+          const enter = pop(f, 8 + i * 7, 125);
+          const travel = Math.sin(Math.max(0, f - 22 - i * 4) / (15 + i * 3)) * (14 - i * 3);
+          return (
+          <g key={o.x} opacity={d} transform={`translate(${travel} ${(1 - enter) * 26})`}>
             <path
-              d={`M${o.x - 80} 100q15-${o.s === "HALI" ? 22 : 8} 30 0t30 0t30 0t30 0`}
+              d={`M${o.x - 103} 178q${o.rough}-${o.rough} ${o.rough * 2} 0t${o.rough * 2} 0t${o.rough * 2} 0t${o.rough * 2} 0t${o.rough * 2} 0t${o.rough * 2} 0t${o.rough * 2} 0`}
               fill="none"
               stroke={o.c}
-              strokeWidth="5"
+              strokeWidth="7"
+              strokeLinecap="round"
             />
             <rect
-              x={o.x - 43}
-              y="20"
-              width="86"
-              height="50"
-              rx="12"
-              fill="white"
-              stroke={o.c}
-              strokeWidth="3"
+              x={o.x - 57}
+              y={92 + Math.sin(f / 8 + i) * 2}
+              width="114"
+              height="76"
+              rx="18"
+              fill={`url(#meter${i})`}
+              stroke={navy}
+              strokeWidth="5"
+              filter="url(#blockShadow)"
             />
+            <defs><linearGradient id={`meter${i}`} x1="0" y1="0" x2="1" y2="1"><stop stopColor="#FFFFFF"/><stop offset="1" stopColor={`${o.c}35`}/></linearGradient></defs>
+            <line x1={o.x - 54} y1="80" x2={o.x + 50} y2="80" stroke={o.c} strokeWidth="8" strokeLinecap="round" />
+            <path d={`M${o.x + 50} 80l-18-13v26Z`} fill={o.c}/>
             <text
               x={o.x}
-              y="52"
+              y="139"
               textAnchor="middle"
               fill={o.c}
-              fontSize="21"
+              fontSize="27"
               fontWeight="900"
             >
               {o.n}
             </text>
             <text
               x={o.x}
-              y="122"
+              y="224"
               textAnchor="middle"
               fill={o.c}
-              fontSize="17"
+              fontSize="22"
               fontWeight="900"
             >
               {o.s}
             </text>
           </g>
-        ))}
+        )})}
       </svg>
     );
   if (index === 1)
@@ -1392,18 +1404,18 @@ export const Short = ({ index }: { index: number }) => {
           right: 54,
           top: 54,
           height: 82,
-          borderRadius: 25,
-          background: navy,
-          color: "white",
           display: "flex",
           alignItems: "center",
-          padding: "0 30px",
+          gap: 16,
           fontSize: 27,
           fontWeight: 950,
         }}
       >
-        FEN • {s.topic}
-        <span style={{ marginLeft: "auto", color: yellow }}>{index + 1}/3</span>
+        {index === 0 ? <>
+          <span style={{padding:"14px 24px",borderRadius:999,background:navy,color:"white",letterSpacing:1.4,boxShadow:"0 10px 28px #173B6626"}}>5. SINIF</span>
+          <span style={{padding:"14px 24px",borderRadius:999,background:"#7456B8",color:"white",letterSpacing:1.4,boxShadow:"0 10px 28px #7456B833"}}>FEN BİLİMLERİ</span>
+          <span style={{height:4,flex:1,borderRadius:99,background:"linear-gradient(90deg,#BFD9F2,transparent)"}} />
+        </> : <div style={{height:"100%",width:"100%",borderRadius:25,background:navy,color:"white",display:"flex",alignItems:"center",padding:"0 30px"}}>FEN • {s.topic}<span style={{ marginLeft: "auto", color: yellow }}>{index + 1}/3</span></div>}
       </div>
       <div
         style={{
@@ -1411,33 +1423,41 @@ export const Short = ({ index }: { index: number }) => {
           left: 38,
           right: 38,
           top: 165,
-          height: 430,
+          height: index === 0 ? 390 : 430,
           boxSizing: "border-box",
-          padding: "27px 40px 18px",
-          borderRadius: 34,
+          padding: index === 0 ? "38px 42px 30px" : "27px 40px 18px",
+          borderRadius: index === 0 ? 42 : 34,
           background: "#FFFFFFF5",
-          border: "2px solid #D4E4F2",
-          boxShadow: "0 22px 55px #173B6620",
+          border: index === 0 ? "4px solid #D4E4F2" : "2px solid #D4E4F2",
+          boxShadow: index === 0 ? "0 26px 70px #173B6629" : "0 22px 55px #173B6620",
           display: "flex",
           flexDirection: "column",
           justifyContent: "space-between",
-          fontSize: s.question.length > 170 ? 31 : 34,
+          fontSize: index === 0 ? 32 : s.question.length > 170 ? 31 : 34,
           lineHeight: 1.2,
           fontWeight: 950,
+          overflow: "hidden",
         }}
       >
-        <div>{s.question}</div>
-        <ShortVisual index={index} />
+        {index === 0 ? <>
+          <div style={{position:"absolute",right:-45,top:-55,width:220,height:220,borderRadius:"50%",background:"#7456B8",opacity:.14}} />
+          <div style={{display:"flex",gap:22,alignItems:"flex-start",position:"relative"}}>
+            <div style={{width:96,height:96,flex:"0 0 96px",borderRadius:29,background:"#F6BC46",display:"flex",alignItems:"center",justifyContent:"center",fontSize:64,color:navy,boxShadow:"0 12px 24px #F6BC464D"}}>?</div>
+            <div><div style={{fontSize:25,color:"#7456B8",letterSpacing:1.8}}>HIZLI SORU • SÜRTÜNME KUVVETİ</div><div style={{marginTop:10}}>{s.question}</div></div>
+          </div>
+          <div style={{alignSelf:"flex-start",padding:"12px 20px",borderRadius:16,background:"#EDF5FC",fontSize:20,color:navy,letterSpacing:.2}}>ÖZDEŞ CİSİMLER • AYNI HIZ • FARKLI YÜZEYLER</div>
+        </> : <><div>{s.question}</div><ShortVisual index={index} /></>}
       </div>
+      {index === 0 && <div style={{position:"absolute",left:60,right:60,top:585,height:285,transform:"scale(1.03)",transformOrigin:"top center"}}><ShortVisual index={index} /></div>}
       {choices && (
         <div
           style={{
             position: "absolute",
-            left: 90,
-            right: 90,
-            top: 625,
+            left: index === 0 ? 45 : 90,
+            right: index === 0 ? 355 : 90,
+            top: index === 0 ? 890 : 625,
             display: "grid",
-            gap: 15,
+            gap: index === 0 ? 18 : 15,
           }}
         >
           {s.choices.map((c, i) => {
@@ -1446,7 +1466,7 @@ export const Short = ({ index }: { index: number }) => {
               <div
                 key={c}
                 style={{
-                  height: 110,
+                  height: index === 0 ? 124 : 110,
                   boxSizing: "border-box",
                   padding: "16px 22px",
                   borderRadius: 22,
@@ -1494,10 +1514,10 @@ export const Short = ({ index }: { index: number }) => {
         <div
           style={{
             position: "absolute",
-            left: 155,
-            top: 1275,
-            width: 280,
-            height: 280,
+            left: index === 0 ? 205 : 155,
+            top: index === 0 ? 1495 : 1275,
+            width: index === 0 ? 320 : 280,
+            height: index === 0 ? 320 : 280,
             borderRadius: "50%",
             background: "white",
             border: "3px solid #D7E6F2",
@@ -1543,9 +1563,9 @@ export const Short = ({ index }: { index: number }) => {
       )}
       <GifCharacter
         name="ibrahim"
-        x={820}
-        y={1450}
-        scale={1.7}
+        x={index === 0 ? 960 : 820}
+        y={index === 0 ? 1010 : 1450}
+        scale={index === 0 ? 1.65 : 1.7}
         flip
         animate={speaking}
       />
@@ -1553,9 +1573,18 @@ export const Short = ({ index }: { index: number }) => {
         <div
           style={{
             position: "absolute",
-            left: 85,
-            top: 1390,
-            fontSize: 62,
+            left: index === 0 ? 45 : 85,
+            right: index === 0 ? 45 : undefined,
+            top: index === 0 ? 1545 : 1390,
+            height: index === 0 ? 250 : undefined,
+            borderRadius: index === 0 ? 48 : undefined,
+            background: index === 0 ? "linear-gradient(135deg,#FFF,#FFF1ED)" : undefined,
+            border: index === 0 ? `5px solid ${coral}` : undefined,
+            boxShadow: index === 0 ? "0 24px 65px #173B6626" : undefined,
+            display: index === 0 ? "flex" : undefined,
+            alignItems: index === 0 ? "center" : undefined,
+            justifyContent: index === 0 ? "center" : undefined,
+            fontSize: index === 0 ? 88 : 62,
             fontWeight: 950,
             color: coral,
             textShadow: "0 5px 0 white",

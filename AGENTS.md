@@ -1,99 +1,71 @@
 # Project Instructions
 
-## Video animation quality
+## Quality assurance and animation
 
-- For every future video in this project, use higher-quality animation than the current baseline.
-- Prefer smooth, layered, scene-specific motion over simple or mostly static visuals.
-- Use polished easing or spring motion, purposeful transitions, secondary motion, depth, and restrained particles where they improve the lesson.
-- Keep narration, active-speaker animation, visual emphasis, and scene timing synchronized.
-- Prevent overlaps, clipped text, hidden edges, abrupt movement, and unreadable compositions.
-- Before rendering any final MP4, review every scene at its intended output resolution using representative still frames and moving previews. Include frame 0, scene transitions, text and character entrances/exits, and any countdown, answer reveal, note callout, channel card, or closing animation that is present.
-- Check that all intended text, characters, and graphics actually appear; detect overlapping or clipped elements, hidden content, flicker, jitter, and unintended jumps in motion. Moving-preview inspection is required because still frames alone cannot reveal temporal animation defects.
-- Fix any detected defects and recheck the affected scenes and transitions before starting the final MP4 render. Apply this pre-render review to main videos, Kurz companions, Shorts, and Reels, including regenerated outputs.
-- Before delivery, visually inspect representative frames from every scene and correct layout or animation defects.
+- Use polished, scene-specific animation with smooth easing or spring motion, purposeful transitions, synchronized visual emphasis, secondary motion, depth, and restrained particles where useful.
+- Keep narration, active-speaker animation, graphics, and scene timing synchronized. Avoid static placeholder visuals, abrupt movement, flicker, jitter, clipping, hidden content, and unreadable compositions.
+- Before every final MP4 render, review the complete video at its intended output resolution using both representative stills and a moving preview. Check frame 0, scene transitions, entrances and exits, text, characters, diagrams, countdowns, answer reveals, note callouts, channel cards, and closing animations.
+- Inspect every connected or grouped graphic throughout its motion. Lines, arrows, labels, objects, and surfaces must remain correctly joined and aligned; they must not overlap unintentionally, separate, drift, jump, or leave visible gaps.
+- Fix every detected defect, rerender the affected preview, and recheck it before producing the final MP4. Apply this process to main videos, Kurz companions, Shorts, Reels, and regenerated outputs.
 
-## Narration opening
+## Narration
 
-- In every future video, do not begin the narration with a greeting or introductory phrase such as "Merhaba arkadaşlar".
-- Start explaining the lesson topic immediately when the video begins. The first spoken sentence must directly introduce or explain the subject.
-- Apply this rule to both regular and Shorts videos created or regenerated after this instruction. Do not retrofit existing rendered videos unless explicitly requested.
+- Never begin with a greeting or introductory phrase such as “Merhaba arkadaşlar.” Start explaining the lesson immediately.
+- Derive all scene, choice, countdown, reveal, and ending timings from the actual generated audio durations rather than guessed fixed offsets.
 
-## Character assets
+## Main-video characters
 
-- In every future video, use `public/images/filiz_2.gif` and `public/images/ibrahim_2.gif` as the Filiz and İbrahim character visuals. Do not use the previous PNG or drawn character assets.
-- Use the cleaned, transparent 22-frame animation derived from each GIF. Do not display unused sprite cells, the original white background, black placeholder frames, or the removed black face/moustache-area artifacts.
-- Keep the character animation synchronized with the active speaker.
-- Show exactly one character on every lesson scene, and that visible character must provide the full narration for that scene. Show both Filiz and İbrahim only on the final scene; the non-speaking final-scene character may remain on its neutral first frame with subtle breathing motion.
-- Filiz must already be visible on frame 0 when the video starts. Load character sprite assets with a render-blocking image component so the first rendered frame cannot omit her.
-- Size and vertically position the GIF-based characters so their visible top and bottom align with the narration card height. Preserve the 160 x 280 source character box, but adjust scene scale and position as needed to fill the side column and match the card height.
-- Preserve the established left/right character placement and speaker roles unless a scene specifically requires a different composition.
+- Use `public/images/filiz_2.gif` and `public/images/ibrahim_2.gif`, based on their cleaned transparent 22-frame animations. Never show unused sprite cells, old PNG/drawn characters, white backgrounds, placeholder frames, or removed black artifacts.
+- Show exactly one speaking character in each lesson scene. Alternate or preserve the established Filiz/İbrahim speaker roles, and synchronize mouth animation with the active voice.
+- Filiz must be visible on frame 0 through a render-blocking image load.
+- Show both characters only in the final main-video scene. The non-speaker may use the neutral first frame with subtle breathing motion.
+- Preserve the 160 × 280 source box and scale it to the narration card without distortion. Use the established left/right placement unless a scene requires another safe composition.
 
-## Source pages and scene layout
+## Source pages and main-video layout
 
-- In every newly created or regenerated main lesson video, include every sentence explicitly labeled "Not" on the source lesson pages. Never omit these notes or lose their important details when adapting the lesson.
-- Present each source-page note in its relevant lesson scene as a clearly labeled "NOT" callout with distinct visual emphasis, such as a contrasting accent, border, and restrained entrance animation. Keep it readable long enough to understand, synchronize its emphasis with the explanation, and do not cover characters, lesson text, or diagrams.
-- Never place photographs or other embedded images from source JPG files under `public/pages` into a video. Use the source pages only to understand the lesson content; replace their imagery with original code-native diagrams, illustrations, or animations.
-- On every single-character scene, expand the presentation into the side where the hidden character would otherwise appear. Do not leave an unused character-sized empty area on either the left or right.
-- Keep the final two-character scene centered between Filiz and İbrahim.
+- Follow source pages in numeric order and cover every heading, important teaching point, and sentence explicitly labeled “Not.”
+- Present each source note in its relevant scene as a clearly labeled `NOT` callout with a contrasting border/accent and restrained entrance animation. Keep it readable and synchronized with the explanation.
+- Use source JPGs only to understand the lesson. Never embed their photographs or page imagery; replace them with original code-native diagrams and animations.
+- In single-character scenes, expand the lesson composition into the unused side rather than leaving a character-sized empty column. Keep the final two-character scene centered between Filiz and İbrahim.
+- Keep each main lesson video at or below 300 seconds, including its closing screen.
 
-## Video output organization
+## Output and repository rules
 
-- Keep every newly created or regenerated main lesson video at a maximum duration of 5 minutes (300 seconds), including its approved closing screen. Condense pacing and narration as needed without omitting source-page headings, important lesson points, or explicitly labeled notes. This limit applies to main videos, not Shorts; companion Kurz videos continue to follow their own duration guidance.
-- Render every newly created or regenerated video at Full HD 1080p resolution. Use `1920 x 1080` for horizontal main and companion videos, and `1080 x 1920` for vertical Shorts or Reels videos. Do not deliver new final videos at `960 x 540`, `720p`, or another lower resolution.
-- Save every rendered video under `out/<video-name>/<video-name>.mp4`.
-- Create the matching `<video-name>` directory under `out` when it does not exist.
-- Save Shorts videos under `out/shorts/<main-video-name>_shorts/`. The folder name must always consist of the main video's name followed by `_shorts` (for example, `out/shorts/kulturel_shorts/`).
-- When a main video has one companion Shorts video, name it `<main-video-name>_shorts.mp4`. When it has multiple Shorts videos, keep them in the same `_shorts` folder and number them as `<main-video-name>_shorts_1.mp4`, `<main-video-name>_shorts_2.mp4`, and so on.
-- Whenever a new non-Shorts MP4 video is created, also create a separate companion Shorts video for it.
-- Do not leave final rendered videos in the project root.
-- Never commit or push any MP4 file to GitHub. Keep all rendered MP4 outputs local, even when related source files are committed or pushed.
-- Never commit or push any MP3 file to GitHub. Keep all generated MP3 audio files local, even when related source files are committed or pushed.
+- Render horizontal main and Kurz videos at `1920 × 1080`; render Shorts and Reels at `1080 × 1920`.
+- Store main and Kurz outputs together under the appropriate topic path in `out`; name the companion `<main-video-name>_kurz.mp4`.
+- Store Shorts under `out/shorts/<main-video-name>_shorts/`. Use `<main-video-name>_shorts.mp4` for one Short or numbered names such as `<main-video-name>_shorts_1.mp4` for multiple Shorts.
+- Do not leave final MP4 files in the project root.
+- Never commit or push MP4 or MP3 files to GitHub. Keep all rendered videos and generated audio local.
+- When creating a new main video, also create its Kurz companion and at least one companion Short unless the user explicitly requests otherwise.
 
-## Companion science-infographic video
+## Kurz/Lumi companion
 
-- Whenever a new main, non-Shorts video is created, also create a separate supporting video with polished, high-quality science-infographic animation inspired by the general strengths of Kurzgesagt, while keeping all characters, illustrations, color language, narration, and compositions original to this project. Never copy Kurzgesagt's exact visual identity, bird characters, scenes, music, or narrator voice.
-- Never reuse or closely imitate the main video's animation types, diagrams, scene construction, visual metaphors, transitions, or motion language in the Kurz/Lumi companion. Design a clearly distinct set of original animations and visual metaphors specifically for the companion video.
-- Do not repeat the main video's narration word for word or mirror its explanation structure. Write a meaningfully different narration using fresh examples, alternative perspectives, and complementary explanations while preserving subject accuracy and required learning outcomes.
-- Give this companion video content and examples that are meaningfully different from the main video while remaining accurate, relevant, and complementary to the same lesson topic.
-- Use smooth layered motion, visual metaphors, code-native diagrams, camera movement, transitions, depth, secondary motion, and restrained particles at the project's highest animation-quality standard.
-- Use Filiz and İbrahim's established voices as the off-screen narrators in alternating page/scene order throughout this companion video. The narration order must alternate Filiz, İbrahim, Filiz, İbrahim, and so on.
-- Do not show Filiz or İbrahim in the science-infographic companion video. Show the project's original Lumi space mascot instead, using the same original geometric character language and polished motion established in `ay_60_demo.mp4`.
-- The supporting video's duration may be similar to the duration limit or overall length of the corresponding main video; prioritize a complete, well-paced complementary explanation.
-- Save the supporting video in the same directory as the main video, named `<main-video-name>_kurz.mp4`. For example, alongside `out/ay/ay.mp4`, save `out/ay/ay_kurz.mp4`.
-- Treat the supporting video as a non-Shorts video for applicable standards such as the approved channel card, but never append the regular non-Shorts closing screen to a Kurz/science-infographic companion video.
-- End every Kurz/science-infographic companion video immediately when the lesson narration and topic explanation finish. Do not add a separate closing page, call-to-action scene, or trailing end card.
-- Never show Filiz or İbrahim at the end of a Kurz/science-infographic companion video; their participation remains voice-only throughout the entire companion video.
-- As with every other rendered output, never commit or push the companion MP4 or any generated MP3 audio to GitHub.
+- Create an original, high-quality science-infographic companion inspired only by the broad strengths of polished educational animation. Never copy Kurzgesagt’s visual identity, birds, scenes, music, characters, or narrator voice.
+- Make the companion meaningfully different from the main video: use fresh narration, examples, explanation order, visual metaphors, diagrams, transitions, compositions, and motion language.
+- Use layered code-native animation, camera movement, depth, secondary motion, and restrained particles at the project’s highest quality level.
+- Alternate the established Filiz and İbrahim voices off-screen by scene: Filiz, İbrahim, Filiz, İbrahim, and so on.
+- Never show Filiz or İbrahim. Show only the project’s original Lumi mascot in the geometric visual language established by `ay_60_demo.mp4`.
+- Include the approved channel card when applicable, but do not add the regular closing screen, CTA, trailing end card, or visible Filiz/İbrahim scene. End immediately when the lesson narration finishes.
 
-## Non-Shorts closing screen
+## Non-Shorts channel card and closing screen
 
-- For every future non-Shorts video, use the approved professional animated closing-screen design represented by `src/previews/cta-option-1/CtaOptionOne.tsx`.
-- Keep Filiz and İbrahim on opposite sides of the closing card. Animate the like, subscribe, and notification-bell controls in sequence with polished spring motion, cursor clicks, restrained click particles, and clear activated states.
-- Do not display the sentence "Dersi beğendiysen desteğini gösterebilirsin." on the closing screen.
-- Apply this closing-screen standard only to videos created or regenerated after this instruction. Do not retrofit existing rendered videos unless explicitly requested.
-- This closing-screen requirement never applies to Shorts videos or Kurz/science-infographic companion videos.
+- In every non-Shorts video lasting at least 35 seconds, show `src/previews/channel-lower-third/ChannelLowerThirdPreview.tsx` from `00:30` through `00:35` without interrupting narration.
+- Display `DERSKUTUSU32`, `youtube.com/@derskutusu32`, and `KANALA GİT`. Preserve the approved entrance/exit, shine, progress accent, cursor click, restrained particles, and activated state. Place it in a lower safe area without covering essential content.
+- End every regular non-Shorts main video with `src/previews/cta-option-1/CtaOptionOne.tsx`. Keep Filiz and İbrahim on opposite sides and animate like, subscribe, and bell controls in sequence.
+- Do not show “Dersi beğendiysen desteğini gösterebilirsin.” Do not apply the regular closing screen to Shorts or Kurz companions.
 
-## Non-Shorts YouTube channel card
+## Shorts format
 
-- In every future non-Shorts video that is at least 35 seconds long, Animate the like, subscribe, and notification-bell controls in sequence with polished spring motion, cursor clicks, restrained click particles, and clear activated states from 00:30 through 00:35.
-- Use the design represented by `src/previews/channel-lower-third/ChannelLowerThirdPreview.tsx`: a light rounded creator pill with the YouTube mark, channel identity, URL, and an animated action button.
-- Display the channel name as `DERSKUTUSU32`, the address as `youtube.com/@derskutusu32`, and the button label as `KANALA GİT`.
-- Keep the card visible for exactly five seconds, including its polished entrance and exit animation. Preserve the spring motion, subtle shine, progress accent, cursor click, restrained particles, and activated button state shown in the approved demo.
-- Place the card in the lower safe area without covering the visible character, narration card, essential lesson text, or diagrams. Adapt its horizontal side to the current scene when necessary.
-- Do not add spoken narration for the channel card and do not interrupt or alter the lesson narration.
-- Do not apply this channel card to Shorts videos.
-
-## Shorts videos
-
-- Keep every Shorts video in the approved bright `kulturel_shorts_1.mp4` visual language: use a light blue-to-white/soft-coral background, white rounded cards, navy headers, red/blue accents, soft shadows, and the established clean classroom composition. Never apply the dark Kurz/science-infographic color treatment to Shorts videos, even when the main or companion video uses that treatment.
-- In every Shorts video, İbrahim must be the only character shown. Do not use Filiz in Shorts videos.
-- Visualize every Shorts question with an original, topic-appropriate code-native diagram or illustration placed directly below the written question. Keep the visual visible when the answer choices and countdown appear whenever the layout allows. The visual must clarify the given information without revealing, highlighting, spatially implying, or otherwise making the correct answer easier to guess before the reveal.
-- Give the written question and its supporting visual strong visual priority in every Shorts layout: use a larger question card, larger question text, and a clearly enlarged diagram or illustration. Keep the answer-choice cards, choice text, and A/B/C/D badges comparatively smaller and more compact, while preserving comfortable readability and safe spacing from the countdown and İbrahim.
-- Do not include a like, subscribe, or other call-to-action page at the end of a Shorts video. İbrahim must not narrate a like, subscribe, or other call-to-action line. Shorts videos are exempt from any general end-of-video like/subscribe requirement.
-- Before the answer is revealed, do not display any word, label, hint, diagram caption, or other on-screen text that contains the answer or makes the correct choice obvious. Keep the question page and pre-answer visual free of answer-revealing terms such as the correct option's name, symbol, defining keyword, or instrument name.
-- After İbrahim asks the question in a Shorts video, display exactly four answer choices labeled A, B, C and D. Keep all four choices visible and unmarked for five seconds.
-- During that five-second choice window, show the approved `kulturel_shorts_1` circular countdown: count visibly from 5 to 1, animate the progress ring, and display `DÜŞÜN!`. Keep the timer clear of the choices and İbrahim.
-- Separate the spoken question from any spoken answer-choice reading when necessary. The A, B, C and D choice cards and the 5-second countdown must appear together on the first frame immediately after the spoken question finishes; never leave a pause, blank interval, or delayed reveal between the question and the choices.
-- Start the answer reveal and answer narration immediately when the five-second choice/countdown window ends. Recalculate all dependent timings from the actual generated audio durations instead of relying on fixed guessed offsets.
-- After the five-second choice window, keep the question and all three answer choices on the same screen, following the approved `kulturel_shorts_1` answer-reveal structure. Mark and visually emphasize the correct choice directly on its existing A, B, C or D card while İbrahim narrates the answer. Do not transition to or create a separate answer page, answer card, or answer screen.
-- After the spoken answer finishes, display the text "Tebrikler!" and then end the video.
+- Use the latest approved `surtunme_shorts_1.mp4` layout and motion language for all new or regenerated Shorts.
+- Use a bright light-blue-to-white/soft-coral background, soft decorative texture, white rounded cards, navy text, blue/red accents, soft shadows, and generous but purposeful safe spacing. Never use the dark Kurz treatment.
+- Fill the vertical frame deliberately. Scale and distribute the header, question, animation, choices, countdown, character, and success message so no large unused vertical region remains.
+- Use the approved top header: separate `5. SINIF` and subject pills followed by a subtle horizontal rule.
+- Use the approved question card: yellow question-mark badge, `HIZLI SORU • <KONU>` eyebrow, large bold question, and a short neutral information strip. The strip and all pre-answer text must not reveal or imply the answer.
+- Place a large original code-native animated illustration directly below the question card. Do not use a simplistic static diagram. Animate its meaningful parts with smooth entrance, continuous or staged motion, and secondary motion that clarifies the given information without revealing the answer.
+- Keep the illustration visible with the choices when space permits. Inspect every animation frame so objects, surfaces, arrows, labels, connectors, and related graphics never overlap unintentionally, separate, drift, misalign, or clip.
+- İbrahim is the only Shorts character. Place him at the far-right safe edge beside the answer choices and slightly lower than the animation; keep him fully inside the frame and completely clear of the illustration, choices, countdown, and success message.
+- After the spoken question ends, show exactly four compact choices labeled A, B, C, and D in a left-side column. They must appear on the first following frame together with the countdown and remain unmarked for five seconds.
+- Place the circular countdown below the choices. Count visibly from 5 to 1 with an animated progress ring and `DÜŞÜN!`, without covering the choices or İbrahim.
+- At the end of the five-second window, immediately start the answer narration. Keep the question, illustration, and all four choices on the same screen; mark and emphasize the correct choice on its existing card. Never use a separate answer screen.
+- After the spoken answer finishes, show a large `Tebrikler!` success card in the lower safe area. Use it to complete the vertical composition, then end the video. Do not add a like, subscribe, CTA, or spoken promotional line.
+- Before rendering, inspect frame 0, the illustration entrance and full motion range, the question-to-choice boundary, all five countdown states, the exact reveal frame, answer animation, character position, and the complete `Tebrikler!` state at `1080 × 1920`. Also inspect a full moving preview and correct every visual defect before final render.
