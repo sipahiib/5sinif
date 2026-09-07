@@ -1,5 +1,19 @@
 # Project Instructions
 
+## Multi-agent production workflow
+
+- Use specialist sub-agents for future video production and substantial revisions. The primary agent coordinates the work, integrates outputs, and retains final quality approval and delivery responsibility.
+- Assign these roles as needed: educational content and script; visual design; animation implementation; Kurz/Lumi creative design; educational accuracy review; visual and platform quality review.
+- The content specialist maps numbered source pages, headings, important points, and notes to age-appropriate narration and meaningful Shorts questions. The accuracy reviewer independently checks coverage, factual correctness, question clarity, correct answers, and premature answer clues.
+- The visual designer creates readable YouTube horizontal and YouTube Shorts/Instagram Reels vertical compositions. The animator implements synchronized scene-specific movement. The Kurz specialist creates the distinct narration and original Lumi animations required below.
+- The visual/platform reviewer independently inspects full-resolution stills and actual moving previews for animation quality, readability on phones, safe areas around platform controls, overlaps, clipping, disconnected graphics, drift, jitter, and timing defects. Merely rendering a preview does not count as inspecting it.
+- Start each production with a shared brief containing sources, deliverables, duration limits, output paths, scene/audio timing, and the current project standards. Give every agent a bounded task, explicit deliverables, dependencies, and owned files.
+- Run independent tasks in parallel within the available runtime capacity (currently up to three sub-agents alongside the primary agent). Schedule the six specialist roles in stages or reuse agents; do not require all roles to run simultaneously.
+- Avoid concurrent edits to the same files. The primary agent manages shared components and integration; specialists report their changes and verification evidence.
+- Have someone other than the producer review the content and visuals. Report defects with scene/frame or timecode, evidence, and the required correction; recheck affected scenes after fixes.
+- The primary agent reviews the source coverage, specialist reports, and actual previews before authorizing final render. Do not approve with unresolved material defects. After rendering, verify output dimensions, duration, audio, file integrity, and representative final frames before delivery.
+- Final approval here means internal quality approval. Publishing or uploading to YouTube or Instagram requires a separate explicit user instruction.
+
 ## Quality assurance and animation
 
 - Use polished, scene-specific animation with smooth easing or spring motion, purposeful transitions, synchronized visual emphasis, secondary motion, depth, and restrained particles where useful.
