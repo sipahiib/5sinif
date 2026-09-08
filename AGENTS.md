@@ -34,6 +34,7 @@
 - Filiz must be visible on frame 0 through a render-blocking image load.
 - Show both characters only in the final main-video scene. The non-speaker may use the neutral first frame with subtle breathing motion.
 - Preserve the 160 × 280 source box and scale it to the narration card without distortion. Use the established left/right placement unless a scene requires another safe composition.
+- Keep İbrahim inset from the right edge in every main-video scene so his complete body, shadow, and name label always remain inside the horizontal safe area; use the established slightly-left right-side placement rather than aligning him against or beyond the frame edge.
 - In every newly created or regenerated main video, place a clear name label directly below each visible character: `Filiz` below Filiz and `İbrahim` below İbrahim. Keep the label synchronized with the character's placement and fully inside the safe area without covering lesson content. Label both characters separately in the final two-character scene.
 
 ## Source pages and main-video layout
@@ -47,6 +48,7 @@
 ## Output and repository rules
 
 - Render horizontal main and Kurz videos at `1920 × 1080`; render Shorts and Reels at `1080 × 1920`.
+- Do not create thumbnail or cover images for main videos or Shorts. A dedicated robotic, topic-colored cover may be created only for the Kurz/Lumi companion when requested or included in the production brief.
 - Store main and Kurz outputs together under the appropriate topic path in `out`; name the companion `<main-video-name>_kurz.mp4`.
 - Store Shorts under `out/shorts/<main-video-name>_shorts/`. Use `<main-video-name>_shorts.mp4` for one Short or numbered names such as `<main-video-name>_shorts_1.mp4` for multiple Shorts.
 - Do not leave final MP4 files in the project root.
@@ -79,7 +81,7 @@
 - Use the approved question card: yellow question-mark badge, `HIZLI SORU • <KONU>` eyebrow, large bold question, and a short neutral information strip. The strip and all pre-answer text must not reveal or imply the answer.
 - Place a large original code-native animated illustration directly below the question card. Do not use a simplistic static diagram. Animate its meaningful parts with smooth entrance, continuous or staged motion, and secondary motion that clarifies the given information without revealing the answer.
 - Keep the illustration visible with the choices when space permits. Inspect every animation frame so objects, surfaces, arrows, labels, connectors, and related graphics never overlap unintentionally, separate, drift, misalign, or clip.
-- İbrahim is the only Shorts character. Place him at the far-right safe edge beside the answer choices and slightly lower than the animation. Scale him so his visible vertical height is approximately equal to the full height occupied by the answer-choice stack; he must not appear small. Keep him fully inside the frame and completely clear of the illustration, choices, countdown, and success message.
+- İbrahim is the only Shorts character and must remain visible continuously from frame 0 through the final frame, including the question, illustration, choices, countdown, answer reveal, and `Tebrikler!` states. Place him at the far-right safe edge beside the answer choices and slightly lower than the animation. Scale him so his visible vertical height is approximately equal to the full height occupied by the answer-choice stack; he must not appear small. Keep him fully inside the frame and completely clear of the illustration, choices, countdown, and success message.
 - After the spoken question ends, show exactly four compact choices labeled A, B, C, and D in a left-side column. They must appear on the first following frame together with the countdown and remain unmarked for five seconds.
 - Place the circular countdown below the choices. Count visibly from 5 to 1 with an animated progress ring and `DÜŞÜN!`, without covering the choices or İbrahim.
 - At the end of the five-second window, immediately start the answer narration. Keep the question, illustration, and all four choices on the same screen; mark and emphasize the correct choice on its existing card. Never use a separate answer screen.

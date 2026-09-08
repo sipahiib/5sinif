@@ -1,0 +1,171 @@
+{
+  "main": [
+    {
+      "id": "01",
+      "page": "IMG_4144.jpg",
+      "speaker": "filiz",
+      "kind": "definition",
+      "title": "Açı nasıl oluşur?",
+      "lead": "Ortak başlangıç noktalı iki ışın bir açı oluşturur.",
+      "points": ["Ortak nokta açının köşesidir", "Işınlar açının kenarlarıdır"],
+      "text": "Ortak başlangıç noktasına sahip iki ışının oluşturduğu şekle açı denir. Işınların ortak başlangıç noktası açının köşesi, ışınlar ise açının kenarlarıdır. Açı ölçüsü dereceyle gösterilir."
+    },
+    {
+      "id": "02",
+      "page": "IMG_4144.jpg",
+      "speaker": "ibrahim",
+      "kind": "naming",
+      "title": "Açıyı adlandıralım",
+      "lead": "Köşe harfi üç harfli adlandırmada ortada bulunur.",
+      "points": [
+        "ABC açısında köşe B'dir",
+        "s(∠ABC) veya m(∠ABC), açının ölçüsünü gösterir"
+      ],
+      "text": "Bir açıyı üç harfle adlandırırken köşe harfini mutlaka ortaya yazarız. Örneğin BA ve BC ışınlarının oluşturduğu açı, ABC açısı ya da CBA açısıdır. Şekilde B köşesinde yalnız bir açı varsa B açısı da diyebiliriz. s ya da m harfiyle yazılan açı ifadesi, açının ölçüsünü gösterir; doğru parçasının uzunluğuyla karıştırılmaz."
+    },
+    {
+      "id": "03",
+      "page": "IMG_4145.jpg",
+      "speaker": "filiz",
+      "kind": "types",
+      "title": "Açı türleri",
+      "lead": "Ölçü, açının türünü belirler.",
+      "points": [
+        "Dar açı 90 dereceden küçüktür",
+        "Dik 90° • Doğru 180° • Tam 360°"
+      ],
+      "text": "Sıfır dereceden büyük ve doksan dereceden küçük açılar dar açıdır. Ölçüsü tam doksan derece olan açı dik açıdır. Doksan dereceden büyük, yüz seksen dereceden küçük açılar geniş açıdır. Yüz seksen derecelik açıya doğru açı denir. Bir ışın tam tur atıp başlangıç yönüne döndüğünde üç yüz altmış derecelik tam açı oluşur."
+    },
+    {
+      "id": "04",
+      "page": "IMG_4145.jpg",
+      "speaker": "ibrahim",
+      "kind": "measure",
+      "title": "Ölçüyle karşılaştırma",
+      "lead": "Kenar uzunluğu değil, ışınların açıklığı önemlidir.",
+      "points": [
+        "Açı büyüdükçe açıklık artar",
+        "Işınları uzatmak açı ölçüsünü değiştirmez"
+      ],
+      "text": "Açının ölçüsünü ışınların uzunluğu değil, aralarındaki açıklık belirler. Aynı yöndeki ışınları uzatmak ya da kısaltmak açı ölçüsünü değiştirmez. Bu nedenle açıları karşılaştırırken kenar boylarına değil açıklıklarına bakarız."
+    },
+    {
+      "id": "05",
+      "page": "IMG_4146.jpg",
+      "speaker": "filiz",
+      "kind": "adjacent",
+      "title": "Komşu açılar",
+      "lead": "Köşeleri ve bir kenarları ortak olan açılar komşudur.",
+      "points": ["Ortak köşe bulunur", "Ortak kenarın iki yanında yer alırlar"],
+      "text": "Köşeleri ve birer kenarları ortak olan, iç bölgeleri kesişmeyen açılara komşu açılar denir. AOB ile BOC açılarının köşesi O, ortak kenarı OB ışınıdır. İki açı ortak kenarın farklı taraflarında yer alır."
+    },
+    {
+      "id": "06",
+      "page": "IMG_4147.jpg",
+      "speaker": "ibrahim",
+      "kind": "supplementary",
+      "title": "Komşu bütünler açılar",
+      "lead": "Komşu iki açının toplamı 180 dereceyse bütünlerdir.",
+      "points": [
+        "Ortak olmayan kenarlar zıt ışınlardır",
+        "Ölçüleri toplamı 180°"
+      ],
+      "text": "Komşu iki açının ölçüleri toplamı yüz seksen dereceyse bu açılar komşu bütünler açılardır. Ortak olmayan kenarlar aynı doğru üzerinde zıt yönlere uzanır. Örneğin yüz on derece ile yetmiş derecenin toplamı yüz seksen derecedir."
+    },
+    {
+      "id": "07",
+      "page": "IMG_4148.jpg",
+      "speaker": "filiz",
+      "kind": "complementary",
+      "title": "Komşu tümler açılar",
+      "lead": "Komşu iki açının toplamı 90 dereceyse tümlerdir.",
+      "points": ["Birlikte dik açı oluştururlar", "Ölçüleri toplamı 90°"],
+      "text": "Komşu iki açının ölçüleri toplamı doksan dereceyse bu açılar komşu tümler açılardır. Birlikte bir dik açı oluştururlar. Örneğin otuz beş derecelik açının tümleri elli beş derecedir; çünkü toplamları doksan derecedir."
+    },
+    {
+      "id": "08",
+      "page": "IMG_4148.jpg",
+      "speaker": "ibrahim",
+      "kind": "summary",
+      "title": "Açı ilişkileri özeti",
+      "lead": "Önce ortaklığı, sonra ölçü toplamını kontrol et.",
+      "points": [
+        "Komşu: ortak köşe ve ortak kenar",
+        "Tümler 90° • Bütünler 180°"
+      ],
+      "text": "Bir açı sorusunda önce köşeyi ve kenarları belirleriz. Komşuluk için ortak köşe, ortak kenar ve kesişmeyen iç bölgeler ararız. Ardından ölçü toplamını inceleriz: doksan derece tümleri, yüz seksen derece bütünleri gösterir."
+    }
+  ],
+  "kurz": [
+    {
+      "id": "01",
+      "speaker": "filiz",
+      "kind": "scanner",
+      "title": "LUMİ'NİN AÇI TARAYICISI",
+      "lead": "İki ışın arasındaki açıklığı ışıkla ölçelim.",
+      "examples": ["Ortak kaynak: köşe", "Işık kolları: kenarlar"],
+      "facts": ["Açıklık dereceyle ölçülür", "Kol uzunluğu sonucu değiştirmez"],
+      "text": "Lumi'nin tarayıcısından çıkan iki ışık kolu aynı noktadan başlıyor. Kollar arasındaki açıklık bir açıyı, ortak kaynak köşeyi gösteriyor. Işık kolları uzasa bile yönleri değişmedikçe açı ölçüsü aynı kalıyor. Tarayıcı bu nedenle uzunluğu değil, iki kol arasındaki dönüşü okuyor."
+    },
+    {
+      "id": "02",
+      "speaker": "ibrahim",
+      "kind": "gate",
+      "title": "DÖRT AÇILI GEÇİT",
+      "lead": "Geçidin açıklığı açı türünü belirliyor.",
+      "examples": ["Dar geçit: 90 dereceden küçük", "Dik kilit: tam 90 derece"],
+      "facts": ["Geniş açı 90° ile 180° arasında", "Düz hat 180°"],
+      "text": "Robotik geçit açıldıkça dört farklı durum oluşuyor. Doksan dereceden küçük açıklık dar, tam doksan derece dik, doksanla yüz seksen arasındaki açıklık geniş açıdır. Kollar ters yönlere uzandığında düz açı oluşur. Kol tam tur atıp başlangıç yönüne dönerse üç yüz altmış derecelik tam açı tamamlanır."
+    },
+    {
+      "id": "03",
+      "speaker": "filiz",
+      "kind": "hinge",
+      "title": "ÜÇ KOLLU EKLEM",
+      "lead": "Yan yana iki açı bir kolu paylaşıyor.",
+      "examples": ["Ortak merkez", "Ortak hareket kolu"],
+      "facts": ["İç bölgeler çakışmaz", "Açılar komşudur"],
+      "text": "Üç kollu robot ekleminde yan yana duran iki açı aynı merkezi ve ortadaki kolu paylaşıyor. Açılar birbirinin içine girmediği için bu ikili komşu açılara güçlü bir model oluşturuyor. Yalnız yan yana görünmek yetmez; ortak merkez ve paylaşılan kol birlikte bulunmalıdır."
+    },
+    {
+      "id": "04",
+      "speaker": "ibrahim",
+      "kind": "dock180",
+      "title": "180 DERECELİK ENERJİ RAYI",
+      "lead": "İki komşu açı düz bir rayı tamamlıyor.",
+      "examples": ["110° enerji bölgesi", "70° enerji bölgesi"],
+      "facts": ["110 + 70 = 180", "Komşu bütünler"],
+      "text": "Düz enerji rayı iki komşu bölgeye ayrılıyor. Bir bölge yüz on, diğeri yetmiş derece olduğunda toplam yüz seksendir. Ortak olmayan kollar zıt yönlere uzanır ve komşu bütünler açı çifti oluşur."
+    },
+    {
+      "id": "05",
+      "speaker": "filiz",
+      "kind": "dock90",
+      "title": "90 DERECELİK KÖŞE MODÜLÜ",
+      "lead": "İki komşu açı dik köşeyi paylaşıyor.",
+      "examples": ["35° birinci modül", "55° ikinci modül"],
+      "facts": ["35 + 55 = 90", "Komşu tümler"],
+      "text": "Bir dik köşe iki komşu modüle ayrılmış olsun. Birinci açı otuz beş dereceyse boşluğu tamamlayan ikinci açı elli beş derecedir. Toplam doksan olduğu için bu açılar komşu tümlerdir."
+    },
+    {
+      "id": "06",
+      "speaker": "ibrahim",
+      "kind": "decision",
+      "title": "LUMİ'NİN KARAR DEVRESİ",
+      "lead": "Ortaklık ve toplam iki ayrı denetimden geçiyor.",
+      "examples": ["Ortak köşe ve kenar var mı?", "Toplam 90 mı, 180 mi?"],
+      "facts": ["90° → tümler", "180° → bütünler"],
+      "text": "Lumi açı çiftini iki denetimden geçiriyor. Önce ortak köşe ve kenarı kontrol ederek komşuluğu belirliyor. Sonra ölçüleri topluyor: sonuç doksansa tümler, yüz seksense bütünler çıkışını seçiyor. Böylece şeklin yapısı ile sayıların toplamı ayrı ayrı doğrulanmış oluyor. Bu sıra, karmaşık sorularda bile güvenilir sonuç verir."
+    }
+  ],
+  "shorts": [
+    {
+      "id": "01",
+      "topic": "AÇI TÜRLERİ",
+      "question": "Bir açının ölçüsü, bir dik açının ölçüsünden 28 derece daha büyüktür. Bu açı hangi türdedir?",
+      "choices": ["Dar açı", "Dik açı", "Geniş açı", "Doğru açı"],
+      "correct": 2,
+      "answer": "Doğru cevap C. Dik açı doksan derecedir. Yirmi sekiz derece eklenince yüz on sekiz derece olur ve bu, geniş açıdır."
+    }
+  ]
+}
