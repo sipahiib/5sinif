@@ -1,0 +1,235 @@
+{
+  "main": [
+    {
+      "id": "01",
+      "page": "IMG_4156.jpg",
+      "speaker": "filiz",
+      "kind": "microscope",
+      "title": "Hücreye açılan pencere",
+      "lead": "Hücre, canlılık özelliği gösteren en küçük yapı birimidir.",
+      "points": [
+        "Bütün canlılar hücrelerden oluşur",
+        "Hücreleri sitoloji inceler"
+      ],
+      "text": "Hücre, canlılık özelliği gösteren en küçük yapı birimidir ve bütün canlılar hücrelerden oluşur. Hücreleri inceleyen bilim dalına sitoloji denir. Çoğu hücre gözle görülemeyecek kadar küçük olduğu için onları mikroskopla büyüterek inceleriz."
+    },
+    {
+      "id": "02",
+      "page": "IMG_4156.jpg",
+      "speaker": "ibrahim",
+      "kind": "microscopeParts",
+      "title": "Mikroskobu tanıyalım",
+      "lead": "Merceklerden ışık kaynağına kadar her bölümün bir görevi vardır.",
+      "points": [
+        "Kaba ve ince odak görüntüyü netleştirir",
+        "Objektif lensleri örneği büyütür"
+      ],
+      "text": "Mikroskopta mercekten baktığımız örnek, objektif lensleriyle büyütülür. Tabla örneği taşır; ışık kaynağı onu aydınlatır. Kaba odak ilk ayarı, ince odak ise net görüntüyü sağlar. Mikroskop kolu güvenli taşımaya, ayak da dengede durmaya yardım eder."
+    },
+    {
+      "id": "03",
+      "page": "IMG_4157.jpg",
+      "speaker": "filiz",
+      "kind": "compare",
+      "title": "Bitki ve hayvan hücresi",
+      "lead": "İkisinde de hücre zarı, sitoplazma ve çekirdek bulunur.",
+      "points": [
+        "Bitkide hücre duvarı ve kloroplast vardır",
+        "Hayvanda sentrozom bulunur"
+      ],
+      "text": "Bitki ve hayvan hücrelerinin ortak temel kısımları hücre zarı, sitoplazma ve çekirdektir. İkisinde de koful, endoplazmik retikulum, ribozom, mitokondri, lizozom ve Golgi cisimciği bulunabilir. Bitki hücresinde hücre duvarı ve kloroplast; hayvan hücresinde ise sentrozom ayırt edicidir."
+    },
+    {
+      "id": "04",
+      "page": "IMG_4158.jpg",
+      "speaker": "ibrahim",
+      "kind": "core",
+      "title": "Üç temel kısım",
+      "lead": "Zar sınırı, sitoplazma çalışma alanını, çekirdek yönetimi sağlar.",
+      "points": [
+        "Hücre zarı seçici geçirgendir",
+        "Sitoplazmanın büyük kısmı sudur"
+      ],
+      "text": "Hücre zarı, hücreyle dış ortam arasındaki madde alışverişini düzenleyen seçici geçirgen sınırdır. Hücreye şekil verir ve korur. Sitoplazma, zar ile çekirdek arasını dolduran yarı saydam akıcı sıvıdır; beslenme, solunum ve boşaltım gibi olaylar burada gerçekleşir. Çekirdek yönetim merkezidir ve kalıtsal bilgileri taşır."
+    },
+    {
+      "id": "05",
+      "page": "IMG_4159.jpg",
+      "speaker": "filiz",
+      "kind": "plant",
+      "title": "Bitkiye özgü yapılar",
+      "lead": "Hücre duvarı destekler; kloroplast besin ve oksijen üretir.",
+      "points": [
+        "Hücre duvarı tam geçirgendir",
+        "Klorofil kloroplasta yeşil renk verir"
+      ],
+      "note": "Bakteri ve mantarlarda da hücre duvarı vardır; fakat yapısı bitki hücresindekinden farklıdır.",
+      "text": "Hücre duvarı bitkiyi dış etkilerden korur ve dayanıklılık sağlar. Tam geçirgendir; hayvan hücresinde bulunmaz. Kloroplast, güneş ışığında fotosentez yaparak besin ve oksijen üretir. İçindeki klorofil nedeniyle yeşildir. Ek bilgi: bakteri ve mantarlarda da hücre duvarı vardır, fakat yapısı bitkininkinden farklıdır."
+    },
+    {
+      "id": "06",
+      "page": "IMG_4159.jpg",
+      "speaker": "ibrahim",
+      "kind": "vacuole",
+      "title": "Koful: hücrenin deposu",
+      "lead": "Besinleri ve atık maddeleri depolar.",
+      "points": ["Bitkide büyük ve az sayıda", "Hayvanda küçük ve çok sayıda"],
+      "text": "Koful, hücredeki besinleri ve besinler kullanıldıktan sonra kalan atık maddeleri depolayan, içi sıvı dolu keseciktir. Bitki hücrelerinde kofullar genellikle büyük ve az sayıda; hayvan hücrelerinde küçük ve çok sayıdadır."
+    },
+    {
+      "id": "07",
+      "page": "IMG_4160.jpg",
+      "speaker": "filiz",
+      "kind": "energy",
+      "title": "Enerji, taşıma ve üretim",
+      "lead": "Mitokondri enerji sağlar, ER taşır, ribozom protein üretir.",
+      "points": [
+        "Enerji isteyen hücrelerde mitokondri fazladır",
+        "ER hücreyi ağ gibi sarar"
+      ],
+      "text": "Mitokondri, oksijen kullanarak besinlerdeki enerjiyi açığa çıkarır. Kas ve sinir hücreleri gibi enerji ihtiyacı yüksek hücrelerde sayısı fazladır. Endoplazmik retikulum hücre zarıyla çekirdek arasında uzanan bir taşıma ağıdır. Ribozom ise protein sentezler."
+    },
+    {
+      "id": "08",
+      "page": "IMG_4161.jpg",
+      "speaker": "ibrahim",
+      "kind": "package",
+      "title": "Paketleme ve sindirim",
+      "lead": "Golgi salgıları paketler, lizozom parçalar.",
+      "points": [
+        "Golgi salgı üreten hücrelerde fazladır",
+        "Lizozom sindirim enzimleri taşır"
+      ],
+      "text": "Golgi cisimciği ter, gözyaşı, tükürük ve süt gibi salgıların oluşmasına yardım eder; salgıları küçük keseciklere paketleyip hücre dışına taşır. Lizozom, sindirim enzimleriyle büyük molekülleri parçalar; hücre içi ve dışı sindirimde görev alır ve yıpranmış hücrelerin yok edilmesine yardım eder."
+    },
+    {
+      "id": "09",
+      "page": "IMG_4161.jpg",
+      "speaker": "filiz",
+      "kind": "division",
+      "title": "Sentrozom ve bölünme",
+      "lead": "Sentrozom, hücre bölünmesinde iğ ipliklerini oluşturur.",
+      "points": [
+        "Hayvan hücresinde bulunur",
+        "Kalıtsal yapıların ayrılmasına yardım eder"
+      ],
+      "note": "Çekirdeği olmayan bazı mikroskobik canlılarda kalıtsal yapılar sitoplazmada dağınık bulunur.",
+      "text": "Sentrozom hayvan hücresinde bulunur. Hücre bölünmesi sırasında iğ ipliklerini oluşturarak kalıtsal yapıların düzenli ayrılmasına yardım eder. Biliyor musunuz? Çekirdeği olmayan bazı mikroskobik canlılarda kalıtsal bilgiyi taşıyan yapılar sitoplazmada dağınık hâlde bulunur."
+    },
+    {
+      "id": "10",
+      "page": "IMG_4156-4161",
+      "speaker": "ibrahim",
+      "kind": "summary",
+      "title": "Hücrenin iş bölümü",
+      "lead": "Her organel, yaşamın sürmesi için özel bir görev üstlenir.",
+      "points": [
+        "Yönetim • üretim • enerji • taşıma",
+        "Depolama • paketleme • sindirim • bölünme"
+      ],
+      "text": "Hücreyi uyum içinde çalışan bir şehir gibi düşünebiliriz. Çekirdek yönetir, ribozom üretir, mitokondri enerji sağlar, endoplazmik retikulum taşır, Golgi paketler, koful depolar, lizozom parçalar. Bitki hücresinin duvarı destek, kloroplastı fotosentez sağlar; hayvan hücresindeki sentrozom bölünmeye yardım eder."
+    }
+  ],
+  "kurz": [
+    {
+      "id": "01",
+      "speaker": "filiz",
+      "kind": "portal",
+      "title": "LUMİ MİKRO EVRENE İNİYOR",
+      "lead": "Bir damlanın içindeki görünmez yaşamı keşfet.",
+      "facts": [
+        "Hücre: en küçük canlı birim",
+        "Mikroskop: görünmeyeni büyütür"
+      ],
+      "text": "Lumi bir su damlasını milyarlarca kez büyük bir evrene açılan kapı gibi tarıyor. Gözümüzün seçemediği hücreler, canlıların en küçük çalışan birimleridir. Mikroskop bu görünmez ölçekteki şekilleri büyüterek ayrıntıları keşfetmemizi sağlar. Mercek ve objektif görüntüyü büyütürken ışık kaynağı örneği aydınlatır; odak ayarları da ayrıntıları netleştirir."
+    },
+    {
+      "id": "02",
+      "speaker": "ibrahim",
+      "kind": "city",
+      "title": "ÜÇ KATMANLI HÜCRE ŞEHRİ",
+      "lead": "Sınır, çalışma alanı ve komuta merkezi birlikte çalışır.",
+      "facts": ["Zar giriş çıkışı seçer", "Çekirdek bilgiyi korur"],
+      "text": "Hücre şehrinin seçici kapıları hücre zarındadır. İçerideki akışkan çalışma alanı sitoplazmadır ve organeller burada görev yapar. Merkezdeki çekirdek, yönetim komutlarını ve canlıya ait kalıtsal bilgileri saklar. Zar her maddeyi gelişigüzel içeri almaz; gerekli geçişleri denetler ve sitoplazmanın dağılmasını önleyerek bütünlüğü korur."
+    },
+    {
+      "id": "03",
+      "speaker": "filiz",
+      "kind": "factories",
+      "title": "ENERJİ VE ÜRETİM HATTI",
+      "lead": "Mitokondri, ribozom ve taşıma ağı tek sistem gibi işler.",
+      "facts": ["Mitokondri enerjiyi açığa çıkarır", "Ribozom protein üretir"],
+      "text": "Lumi'nin hücre fabrikasında mitokondriler besindeki enerjiyi kullanıma açar. Ribozomlar protein parçalarını üretir. Endoplazmik retikulum adlı kıvrımlı yollar ise maddeleri hücrenin farklı bölgelerine taşır. Enerji ihtiyacı artınca mitokondri sayısı da artabilir. Örneğin sürekli çalışan kas ve sinir hücrelerinin enerji istasyonlarına daha çok ihtiyacı vardır."
+    },
+    {
+      "id": "04",
+      "speaker": "ibrahim",
+      "kind": "logistics",
+      "title": "HÜCRENİN LOJİSTİK MERKEZİ",
+      "lead": "Golgi paketler, koful depolar, lizozom geri dönüştürür.",
+      "facts": ["Golgi: salgı paketi", "Lizozom: parçalama kapsülü"],
+      "text": "Üretilen maddeler Golgi istasyonunda keseciklere paketlenir. Kofullar besin ve atıkları depolar. Lizozomlarsa güçlü sindirim enzimleriyle büyük parçaları küçültür ve yıpranmış yapıları geri dönüşüm döngüsüne katar. Tükürük ve gözyaşı gibi salgıların üretildiği hücrelerde Golgi paketleme istasyonlarının sayısı bu nedenle daha fazladır."
+    },
+    {
+      "id": "05",
+      "speaker": "filiz",
+      "kind": "solar",
+      "title": "YEŞİL GÜÇ MODÜLÜ",
+      "lead": "Bitki hücresi güneş ışığını besine dönüştürür.",
+      "facts": [
+        "Kloroplast fotosentez yapar",
+        "Duvar sağlam bir dış iskelettir"
+      ],
+      "text": "Bitki hücresi, kloroplast adlı yeşil güç modülleriyle güneş ışığını besin enerjisine dönüştürür ve oksijen üretir. Dıştaki sert hücre duvarı dayanıklılık sağlar. Büyük koful da su ve maddeleri depolayarak hücrenin düzenini destekler. Duvar tam geçirgendir; madde seçimini ise onun iç tarafındaki seçici geçirgen hücre zarı yapar."
+    },
+    {
+      "id": "06",
+      "speaker": "ibrahim",
+      "kind": "compareLab",
+      "title": "İKİ HÜCRE, İKİ TASARIM",
+      "lead": "Ortak altyapı, farklı uzmanlıklar.",
+      "facts": [
+        "İkisinde zar, sitoplazma, çekirdek",
+        "Bitki köşeli; hayvan daha esnek"
+      ],
+      "text": "Bitki ve hayvan hücreleri aynı temel altyapıyı paylaşır: zar, sitoplazma ve çekirdek. Bitkinin duvarı ve kloroplastı onu üretime uygun kılar. Hayvan hücresinin sentrozomu bölünmede iğ ipliklerini kurar. Biçimleri farklı olsa da ortak organeller aynı yaşam ağında çalışır. Koful da ikisinde bulunur; bitkide büyük ve az, hayvanda küçük ve çok sayıdadır."
+    },
+    {
+      "id": "07",
+      "speaker": "filiz",
+      "kind": "orchestra",
+      "title": "MİKROSKOBİK ORKESTRA",
+      "lead": "Tek bir organel değil, uyumlu sistem yaşamı sürdürür.",
+      "facts": ["Her organel özelleşmiştir", "İş birliği hücreyi yaşatır"],
+      "text": "Lumi son taramada tüm organelleri bir orkestranın bölümleri gibi eşzamanlı görüyor. Biri enerji sağlarken diğeri üretir, taşır, depolar ya da temizler. Hücrenin yaşamı tek bir parçaya değil, bu mikroskobik ekibin düzenli iş birliğine dayanır. Bir organelin görevi aksadığında diğer süreçler de etkilenir; çünkü hücrenin üretim, enerji ve madde akışları birbirine bağlıdır."
+    }
+  ],
+  "shorts": [
+    {
+      "id": "01",
+      "topic": "HÜCREDE ÜRETİM HATTI",
+      "question": "Protein üretildikten sonra hücre içinde taşınıp paketleniyor. Bu süreçte görevli organellerin doğru sırası hangisidir?",
+      "choices": [
+        "Ribozom → ER → Golgi",
+        "Golgi → Ribozom → ER",
+        "ER → Golgi → Ribozom",
+        "Mitokondri → ER → Koful"
+      ],
+      "correct": 0,
+      "answer": "Doğru cevap A. Protein ribozomda üretilir, endoplazmik retikulumla taşınır ve Golgi cisimciğinde paketlenir."
+    },
+    {
+      "id": "02",
+      "topic": "BİTKİ VE HAYVAN HÜCRESİ",
+      "question": "Hücre duvarı ve kloroplastı bulunan, ayrıca büyük ve az sayıda koful taşıyan bir hücre için hangisi söylenir?",
+      "choices": [
+        "Hayvan hücresidir",
+        "Bitki hücresidir",
+        "Çekirdeği yoktur",
+        "Hücre zarı yoktur"
+      ],
+      "correct": 1,
+      "answer": "Doğru cevap B. Hücre duvarı, kloroplast ve büyük koful bitki hücresini ayırt eden özelliklerdir."
+    }
+  ]
+}

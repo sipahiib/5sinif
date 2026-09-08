@@ -48,7 +48,7 @@
 ## Output and repository rules
 
 - Render horizontal main and Kurz videos at `1920 × 1080`; render Shorts and Reels at `1080 × 1920`.
-- Do not create thumbnail or cover images for main videos or Shorts. A dedicated robotic, topic-colored cover may be created only for the Kurz/Lumi companion when requested or included in the production brief.
+- Do not create thumbnail or cover images for main videos or Shorts. Create a dedicated robotic, topic-colored cover image for every Kurz/Lumi companion as a required deliverable, even when it is not requested separately.
 - Store main and Kurz outputs together under the appropriate topic path in `out`; name the companion `<main-video-name>_kurz.mp4`.
 - Store Shorts under `out/shorts/<main-video-name>_shorts/`. Use `<main-video-name>_shorts.mp4` for one Short or numbered names such as `<main-video-name>_shorts_1.mp4` for multiple Shorts.
 - Do not leave final MP4 files in the project root.
@@ -57,10 +57,14 @@
 
 ## Kurz/Lumi companion
 
+- Create and deliver a polished `1920 × 1080` cover image for every Kurz/Lumi video. Match the lesson topic and its color palette, use Lumi or an appropriate original robotic/scientific motif, keep the title highly readable at thumbnail size, and store it beside the main and Kurz videos as `<main-video-name>_kurz_kapak.png`.
+
 - Create an original, high-quality science-infographic companion inspired only by the broad strengths of polished educational animation. Never copy Kurzgesagt’s visual identity, birds, scenes, music, characters, or narrator voice.
 - Keep each Kurz companion no more than 30% shorter than its corresponding final main video; it must be at least 70% of the main video's measured final duration, though it may be longer when the content requires it. Build the shortened narration and scene plan around the main video's actual duration, and derive every visual and scene timing from the generated Kurz audio so narration and animation remain synchronized.
 - Make the companion meaningfully different from the main video: use fresh narration, examples, explanation order, visual metaphors, diagrams, transitions, compositions, and motion language.
 - Use layered code-native animation, camera movement, depth, secondary motion, and restrained particles at the project’s highest quality level.
+- During narration, Lumi may make one deliberate directional movement per source page or lesson scene, such as top-to-bottom or right-to-left. Limit Lumi to exactly one primary traversal in each scene; keep the motion smooth, purposeful, and synchronized with that scene's explanation.
+- Reserve and verify a clear motion corridor for Lumi from the first position through the final position. At no frame may Lumi, its shadow, glow, trail, or secondary motion overlap, cover, touch, or visually collide with any text, card, diagram, label, connector, illustration, or other graphic. Inspect the complete Lumi motion path in the moving preview before final render.
 - Alternate the established Filiz and İbrahim voices off-screen by scene: Filiz, İbrahim, Filiz, İbrahim, and so on.
 - Never show Filiz or İbrahim. Show only the project’s original Lumi mascot in the geometric visual language established by `ay_60_demo.mp4`.
 - Include the approved channel card when applicable, but do not add the regular closing screen, CTA, trailing end card, or visible Filiz/İbrahim scene. End immediately when the lesson narration finishes.
@@ -81,6 +85,7 @@
 - Use the approved question card: yellow question-mark badge, `HIZLI SORU • <KONU>` eyebrow, large bold question, and a short neutral information strip. The strip and all pre-answer text must not reveal or imply the answer.
 - Place a large original code-native animated illustration directly below the question card. Do not use a simplistic static diagram. Animate its meaningful parts with smooth entrance, continuous or staged motion, and secondary motion that clarifies the given information without revealing the answer.
 - Keep the illustration visible with the choices when space permits. Inspect every animation frame so objects, surfaces, arrows, labels, connectors, and related graphics never overlap unintentionally, separate, drift, misalign, or clip.
+- Keep the answer-choice stack in a separate vertical region below the illustration. No choice card may overlap the illustration, its labels, captions, lines, shadows, or any part of its full animated motion range. Preserve a clearly visible safety gap between the illustration's lowest animated bound and the top edge of choice A, and verify that gap throughout the complete moving preview before final render.
 - İbrahim is the only Shorts character and must remain visible continuously from frame 0 through the final frame, including the question, illustration, choices, countdown, answer reveal, and `Tebrikler!` states. Place him at the far-right safe edge beside the answer choices and slightly lower than the animation. Scale him so his visible vertical height is approximately equal to the full height occupied by the answer-choice stack; he must not appear small. Keep him fully inside the frame and completely clear of the illustration, choices, countdown, and success message.
 - After the spoken question ends, show exactly four compact choices labeled A, B, C, and D in a left-side column. They must appear on the first following frame together with the countdown and remain unmarked for five seconds.
 - Place the circular countdown below the choices. Count visibly from 5 to 1 with an animated progress ring and `DÜŞÜN!`, without covering the choices or İbrahim.
