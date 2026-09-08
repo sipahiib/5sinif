@@ -1,0 +1,137 @@
+{
+  "main": [
+    {
+      "id": "01_es_anlam",
+      "speaker": "filiz",
+      "title": "Eş Anlamlı Sözcükler",
+      "lead": "Farklı sözcükler, aynı ya da çok yakın anlam",
+      "kind": "synonymCore",
+      "text": "Yazılışları ve okunuşları farklı olduğu hâlde aynı ya da çok yakın anlam taşıyan sözcüklere eş anlamlı, yani anlamdaş sözcükler denir. Bu sözcükler uygun cümlelerde birbirinin yerine kullanılabilir. Eş anlamlılık çoğunlukla Türkçe sözcüklerle dilimize başka dillerden geçmiş sözcükler arasında görülür; fakat bütün eş anlamlı çiftler için tek bir köken kuralı yoktur."
+    },
+    {
+      "id": "02_es_ornekler",
+      "speaker": "ibrahim",
+      "title": "Aynı Kavrama Açılan Sözcükler",
+      "lead": "Uygun bağlamda anlamlar örtüşür",
+      "kind": "synonymOrbits",
+      "text": "Kalp, yürek ve gönül; ev ve hane; yaşlı ve ihtiyar, kaynak sayfamızdaki eş anlam örnekleridir. Sözcüklerin görünüşü farklı olsa da uygun bağlamda aynı kavrama yaklaşırlar. Ancak kalp, yürek ve gönül sözcükleri her cümlede aynı değildir. Örneğin organ anlamındaki kalbin yerine gönül diyemeyiz."
+    },
+    {
+      "id": "03_cumlede_degisim",
+      "speaker": "filiz",
+      "title": "Cümlede Yer Değiştirme",
+      "lead": "Anlam korunuyorsa eşleştirme uygundur",
+      "kind": "sentenceSwap",
+      "text": "Eş anlamlılığı cümle içinde sınayabiliriz. “Bu yıl çok kitap okudum.” cümlesindeki yıl yerine sene geldiğinde temel anlam korunur. “Sınav için hazırlık yaptım.” cümlesinde de sınav yerine imtihan kullanılabilir. Doğru eş anlamlıyı seçerken sözcüğün cümlede üstlendiği anlamı izlemeliyiz."
+    },
+    {
+      "id": "04_baglam_uyarisi",
+      "speaker": "ibrahim",
+      "title": "Bağlama Dikkat",
+      "lead": "Sözlükte yakın olmak her cümlede değişim demek değildir",
+      "kind": "contextWarning",
+      "note": "Eş anlam, sözcüğün cümlede kazandığı anlama göre belirlenir. Bazı anlamdaş sözcükler her kullanımda birbirinin yerine geçemez.",
+      "text": "Önemli uyarı: Bir kelimenin eş anlamlısını belirlerken cümlede kazandığı anlam dikkate alınmalıdır. “Beyaz peynir” yerine “ak peynir” diyebiliriz; çünkü iki sözcük de renk bildirir. Fakat “Bu olaya kafam çok bozuldu.” cümlesini “Başım çok bozuldu.” diye değiştiremeyiz. Buradaki kafa, gerçek organ anlamında kullanılmamıştır."
+    },
+    {
+      "id": "05_eslestirme",
+      "speaker": "filiz",
+      "title": "Anlamdaş Eşleştirme Laboratuvarı",
+      "lead": "On sözcük, on uygun karşılık",
+      "kind": "matchingLab",
+      "text": "Şimdi kaynak sayfadaki sözcükleri anlamdaşlarıyla eşleştirelim: yıl, sene; imkân, olanak; deprem, zelzele; ivedi, acil; çetin, zor; anı, hatıra; fakir, yoksul; ak, beyaz; bilim insanı, bilgin ve sınav, imtihan. Ak ile beyazın renk anlamında eş olduğunu, çok anlamlı sözcüklerde ise bağlamı yeniden kontrol etmemiz gerektiğini unutmayalım."
+    },
+    {
+      "id": "06_zit_anlam",
+      "speaker": "ibrahim",
+      "title": "Karşıt Anlamlı Sözcükler",
+      "lead": "Anlam ekseninin iki karşı ucu",
+      "kind": "antonymAxis",
+      "text": "Birbirinin tersi durumları veya anlamları karşılayan sözcüklere karşıt, yani zıt anlamlı sözcükler denir. Kalın ile ince, sıcak ile soğuk gibi çiftler bir anlam ekseninin karşı uçlarını gösterir. Uygun bir cümlede karşıt sözcüğü kullandığımızda anlatılan durum ters yönde değişir."
+    },
+    {
+      "id": "07_zit_ornekler",
+      "speaker": "filiz",
+      "title": "Zıtlık Cümlede Nasıl Görünür?",
+      "lead": "Sözcük değişir, anlatılan yön tersine döner",
+      "kind": "antonymExamples",
+      "text": "Kalın, ince; zayıf, şişman; akıllı, deli; gülmek, ağlamak ve yaz, kış kaynak sayfadaki zıt anlam çiftleridir. “Bu kış çok soğuk geçti.” ile “Bu yaz çok sıcak geçti.” cümleleri karşıt durumları gösterir. “Akıllı köprü arayıncaya dek deli suyu geçer.” atasözünde de akıllı ve deli karşıt anlam oluşturur."
+    },
+    {
+      "id": "08_olumsuz_zit",
+      "speaker": "ibrahim",
+      "title": "Olumsuzluk, Zıtlık Değildir",
+      "lead": "Olumsuz biçim ile karşıt sözcüğü ayıralım",
+      "kind": "negativeTableA",
+      "note": "Bir sözcüğün olumsuz biçimi, o sözcüğün zıt anlamlısı değildir.",
+      "text": "İkinci önemli uyarı: Bir sözcüğün olumsuz biçimi ile zıt anlamlısı farklıdır. Güzelin olumsuzu “güzel değil”, zıddı çirkindir. Sulunun olumsuzu susuz, zıddı kurudur. Tatlının olumsuzu tatsız, zıddı tat bağlamında acıdır. Olumsuzluk yalnız özelliğin bulunmadığını söyler; zıtlık ise karşıt bir anlam kurar."
+    },
+    {
+      "id": "09_karar_yolu",
+      "speaker": "filiz",
+      "title": "Eş mi, Zıt mı, Olumsuz mu?",
+      "lead": "Önce bağlamı, sonra anlam ilişkisini kontrol et",
+      "kind": "decisionSummary",
+      "note": "Çıkmak–çıkmamak ve gülmek–gülmemek olumsuz biçimlerdir; çıkmak–inmek ve gülmek–ağlamak zıt anlamlı çiftlerdir.",
+      "text": "Çıkmanın olumsuzu çıkmamak, yön ve hareket bağlamındaki zıddı inmektir. Gülmenin olumsuzu gülmemek, zıddı ağlamaktır. Karar verirken üç soru soralım: Sözcükler aynı ya da çok yakın anlam mı taşıyor? Karşıt durumları mı anlatıyor? Yoksa değil sözcüğüyle ya da bir olumsuzluk ekiyle olumsuz biçim mi kurulmuş? Cümledeki anlamı kontrol ettiğimizde eş, zıt ve olumsuz biçimleri doğru ayırabiliriz."
+    }
+  ],
+  "kurz": [
+    {
+      "id": "01_anlam_galaksisi",
+      "speaker": "filiz",
+      "title": "Sözcüklerin Anlam Galaksisi",
+      "lead": "Cümle, doğru anlamın koordinatını verir",
+      "kind": "meaningGalaxy",
+      "text": "Bir sözcüğü tek başına gördüğümüzde aklımıza ilk anlamı gelebilir. Oysa cümle, sözcüğün hangi anlamda kullanıldığını belirleyen bir koordinat sistemi gibidir. Yüz sözcüğü insanın yüzünü, yüz sayısını ya da “havuzda yüz” cümlesindeki hareketi anlatabilir. Bunlar eş anlam değil, aynı sözcüğün farklı anlamlarıdır. Sözcükler arasındaki ilişkiyi bulmadan önce cümlenin bizi hangi anlama götürdüğünü keşfetmeliyiz."
+    },
+    {
+      "id": "02_baglam_prizmasi",
+      "speaker": "ibrahim",
+      "title": "Bağlam Prizması",
+      "lead": "Aynı sözcük, farklı cümlede başka ışık verir",
+      "kind": "contextPrism",
+      "text": "İnce sözcüğünü iki cümlede izleyelim. “İnce bir dal kolayca eğildi.” cümlesinde kalın olmayan bir nesne anlatılır. “İnce davranışı herkesi mutlu etti.” cümlesinde ise düşünceli ve nazik bir davranış vardır. Aynı sözcük farklı anlamlara geçtiği için yerine koyacağımız sözcük de değişir. Eş anlam ararken yalnız kelimeye değil, bütün cümleye bakarız."
+    },
+    {
+      "id": "03_kavram_kapilari",
+      "speaker": "filiz",
+      "title": "Kavrama Açılan Farklı Kapılar",
+      "lead": "Yakın sözcükler uygun bağlamda aynı sahneye ulaşır",
+      "kind": "conceptDoors",
+      "text": "Eş anlamlı sözcükleri aynı kavrama açılan farklı kapılar gibi düşünebiliriz. “Doktor hastayı muayene etti.” cümlesindeki doktor yerine hekim geldiğinde temel bilgi korunur. “Bu soruna bir çözüm bulduk.” cümlesindeki çözüm yerine çare de kullanılabilir. Yine de sözcüklerin çağrışımı ve kullanım yeri değişebilir; bu yüzden her kapının her cümleye açıldığını varsaymayız."
+    },
+    {
+      "id": "04_karsit_dunya",
+      "speaker": "ibrahim",
+      "title": "Karşıtlığın Dönüşen Dünyası",
+      "lead": "İki uç arasında bazen ara değerler vardır",
+      "kind": "contrastWorld",
+      "text": "Zıt anlam çoğu zaman bir özelliğin iki karşı yönünü gösterir. Bir odanın sıcaklığı soğuktan sıcağa giderken arada serin ve ılık değerler bulunur. Uzun ile kısa arasında da pek çok ölçü vardır. Açık ve kapalı gibi bazı çiftlerde geçiş daha keskin görünür. Zıtlığı, sözcüğün anlattığı özelliğe ve cümledeki kullanıma göre belirleriz."
+    },
+    {
+      "id": "05_degil_golgesi",
+      "speaker": "filiz",
+      "title": "“Değil” Gölgesi",
+      "lead": "Bir özelliği reddetmek karşıt uca gitmek değildir",
+      "kind": "negativeTunnel",
+      "text": "Açık ile açık değil ifadelerine bakalım. Bir kutu tamamen kapalı olabilir; kapağı aralık kaldığında da tam açık değildir. Demek ki olumsuzluk, yalnız bir özelliğin bulunmadığını söyler ve bizi otomatik olarak karşıt uca taşımaz. Hızlı değil dediğimiz bir araç yavaş olabilir, orta hızda da gidebilir. Zıtlık için cümlenin gerçekten karşıt durumu gösterip göstermediğini kontrol ederiz."
+    },
+    {
+      "id": "06_anlam_haritasi",
+      "speaker": "ibrahim",
+      "title": "Anlam Haritasında Rota Bulma",
+      "lead": "Yakınlık, karşıtlık ve olumsuzluk farklı bölgelerdir",
+      "kind": "meaningMap",
+      "text": "Bir anlam haritasında üç farklı bölge kurabiliriz. Cesur ile yiğit, uygun bağlamda aynı kavrama yaklaşır. Cesur ile korkak karşı yönleri anlatır. Cesur değil ifadesi ise yalnız cesurluk bölgesinin dışında kalır; kişi mutlaka korkak olmak zorunda değildir. İlişkinin türünü sözcüklerin biçimi değil, aralarındaki anlam bağı belirler."
+    },
+    {
+      "id": "07_lumi_tarama",
+      "speaker": "filiz",
+      "title": "Lumi’nin Anlam Tarayıcısı",
+      "lead": "Bağlamı bul, yönü karşılaştır, olumsuzluğu kontrol et",
+      "kind": "meaningScanner",
+      "text": "Bir sözcük ilişkisini çözerken üç aşama yeterlidir. Önce cümleyi okuyup sözcüğün o kullanımdaki anlamını bul. Sonra diğer sözcüğün aynı kavrama mı, karşı yöne mi gittiğini incele. Son olarak yalnız bir olumsuzluk yapısı bulunup bulunmadığını kontrol et. Doktor ve hekim uygun bağlamda eş; erken ve geç zaman bağlamında zıttır. Erken değil ise mutlaka geç demek değildir. Bağlamı merkeze aldığında bu ilişkiler kolayca ayrılır."
+    }
+  ]
+}

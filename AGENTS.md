@@ -34,6 +34,7 @@
 - Filiz must be visible on frame 0 through a render-blocking image load.
 - Show both characters only in the final main-video scene. The non-speaker may use the neutral first frame with subtle breathing motion.
 - Preserve the 160 × 280 source box and scale it to the narration card without distortion. Use the established left/right placement unless a scene requires another safe composition.
+- In every newly created or regenerated main video, place a clear name label directly below each visible character: `Filiz` below Filiz and `İbrahim` below İbrahim. Keep the label synchronized with the character's placement and fully inside the safe area without covering lesson content. Label both characters separately in the final two-character scene.
 
 ## Source pages and main-video layout
 

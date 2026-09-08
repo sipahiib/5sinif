@@ -1,0 +1,70 @@
+{
+  "main": [
+    {
+      "audioFrames": 728,
+      "frames": 740
+    },
+    {
+      "audioFrames": 679,
+      "frames": 691
+    },
+    {
+      "audioFrames": 628,
+      "frames": 640
+    },
+    {
+      "audioFrames": 736,
+      "frames": 748
+    },
+    {
+      "audioFrames": 714,
+      "frames": 726
+    },
+    {
+      "audioFrames": 592,
+      "frames": 604
+    },
+    {
+      "audioFrames": 640,
+      "frames": 652
+    },
+    {
+      "audioFrames": 727,
+      "frames": 739
+    },
+    {
+      "audioFrames": 841,
+      "frames": 853
+    }
+  ],
+  "kurz": [
+    {
+      "audioFrames": 881,
+      "frames": 893
+    },
+    {
+      "audioFrames": 789,
+      "frames": 801
+    },
+    {
+      "audioFrames": 794,
+      "frames": 806
+    },
+    {
+      "audioFrames": 747,
+      "frames": 759
+    },
+    {
+      "audioFrames": 813,
+      "frames": 825
+    },
+    {
+      "audioFrames": 766,
+      "frames": 778
+    },
+    {
+      "audioFrames": 947,
+      "frames": 947
+    }
+  ]
+}
