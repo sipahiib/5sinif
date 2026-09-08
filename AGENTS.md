@@ -56,6 +56,7 @@
 ## Kurz/Lumi companion
 
 - Create an original, high-quality science-infographic companion inspired only by the broad strengths of polished educational animation. Never copy Kurzgesagt’s visual identity, birds, scenes, music, characters, or narrator voice.
+- Keep each Kurz companion no more than 30% shorter than its corresponding final main video; it must be at least 70% of the main video's measured final duration, though it may be longer when the content requires it. Build the shortened narration and scene plan around the main video's actual duration, and derive every visual and scene timing from the generated Kurz audio so narration and animation remain synchronized.
 - Make the companion meaningfully different from the main video: use fresh narration, examples, explanation order, visual metaphors, diagrams, transitions, compositions, and motion language.
 - Use layered code-native animation, camera movement, depth, secondary motion, and restrained particles at the project’s highest quality level.
 - Alternate the established Filiz and İbrahim voices off-screen by scene: Filiz, İbrahim, Filiz, İbrahim, and so on.
@@ -73,12 +74,12 @@
 
 - Use the latest approved `surtunme_shorts_1.mp4` layout and motion language for all new or regenerated Shorts.
 - Use a bright light-blue-to-white/soft-coral background, soft decorative texture, white rounded cards, navy text, blue/red accents, soft shadows, and generous but purposeful safe spacing. Never use the dark Kurz treatment.
-- Fill the vertical frame deliberately. Scale and distribute the header, question, animation, choices, countdown, character, and success message so no large unused vertical region remains.
+- Fill the vertical frame deliberately from the top safe area through the bottom safe area. Scale and distribute the header, question, animation, choices, countdown, character, and success message so no unnecessary empty band remains at the bottom or elsewhere in the final composition.
 - Use the approved top header: separate `5. SINIF` and subject pills followed by a subtle horizontal rule.
 - Use the approved question card: yellow question-mark badge, `HIZLI SORU • <KONU>` eyebrow, large bold question, and a short neutral information strip. The strip and all pre-answer text must not reveal or imply the answer.
 - Place a large original code-native animated illustration directly below the question card. Do not use a simplistic static diagram. Animate its meaningful parts with smooth entrance, continuous or staged motion, and secondary motion that clarifies the given information without revealing the answer.
 - Keep the illustration visible with the choices when space permits. Inspect every animation frame so objects, surfaces, arrows, labels, connectors, and related graphics never overlap unintentionally, separate, drift, misalign, or clip.
-- İbrahim is the only Shorts character. Place him at the far-right safe edge beside the answer choices and slightly lower than the animation; keep him fully inside the frame and completely clear of the illustration, choices, countdown, and success message.
+- İbrahim is the only Shorts character. Place him at the far-right safe edge beside the answer choices and slightly lower than the animation. Scale him so his visible vertical height is approximately equal to the full height occupied by the answer-choice stack; he must not appear small. Keep him fully inside the frame and completely clear of the illustration, choices, countdown, and success message.
 - After the spoken question ends, show exactly four compact choices labeled A, B, C, and D in a left-side column. They must appear on the first following frame together with the countdown and remain unmarked for five seconds.
 - Place the circular countdown below the choices. Count visibly from 5 to 1 with an animated progress ring and `DÜŞÜN!`, without covering the choices or İbrahim.
 - At the end of the five-second window, immediately start the answer narration. Keep the question, illustration, and all four choices on the same screen; mark and emphasize the correct choice on its existing card. Never use a separate answer screen.
