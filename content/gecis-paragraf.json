@@ -1,0 +1,187 @@
+{
+  "main": [
+    {
+      "id": "01",
+      "page": "IMG_4185.jpg",
+      "speaker": "filiz",
+      "kind": "flow",
+      "title": "Geçiş ve bağlantı ifadeleri",
+      "lead": "Düşünceler arasında köprü kurar, anlatımın akışını düzenler.",
+      "chips": ["Bağlantı kurar", "Önemli noktayı vurgular"],
+      "text": "Geçiş ve bağlantı ifadeleri, bir metindeki düşünceler veya olaylar arasında bağ kurar. Anlatımın akışını sağlar, önemli noktaları öne çıkarır ve okurun düşünceler arasındaki ilişkiyi kolayca anlamasına yardım eder. Şimdi bu ifadelerin cümleye hangi anlamları kattığını inceleyelim."
+    },
+    {
+      "id": "02",
+      "page": "IMG_4185.jpg",
+      "speaker": "ibrahim",
+      "kind": "choice-add",
+      "title": "Seçenek ve ekleme",
+      "lead": "Bazen yolları ayırır, bazen yeni bir bilgiyi öncekinin yanına ekleriz.",
+      "chips": [
+        "ya da • veya • ister...ister",
+        "ayrıca • üstelik • hem...hem de"
+      ],
+      "text": "Seçenek bildiren ya da, veya, yahut ve ister ister ifadeleri birden fazla tercih sunar. Örneğin Ankara'ya uçak veya otobüsle gidebilirsin. Ekleme ifadeleri ise aktarılan bilgiye yenisini ekler. Ayrıca, bunun yanında, üstelik, dahası ve hem hem de bu işlevdedir. Hem dürüst hem de çalışkan cümlesinde iki özellik bir araya gelir."
+    },
+    {
+      "id": "03",
+      "page": "IMG_4185.jpg",
+      "speaker": "filiz",
+      "kind": "contrast-result",
+      "title": "Karşıtlık ve sonuç",
+      "lead": "Karşıtlık yön değiştirir; sonuç, önceki olayın ortaya çıkardığı durumu söyler.",
+      "chips": [
+        "ancak • fakat • buna rağmen",
+        "bu nedenle • böylece • dolayısıyla"
+      ],
+      "text": "Ancak, fakat, oysa, buna rağmen, ne var ki ve hâlbuki iki düşünce arasındaki karşıtlığı gösterir. Sinemaya gitmek istedim fakat ailece yemeğe gittik cümlesinde yön değişir. Sonuç ifadeleri ise önceki olayın doğurduğu sonucu bildirir. Bilgisayar bozuldu, bu nedenle işimi bitiremedim. Burada bozulma sebep, işi bitirememe sonuçtur."
+    },
+    {
+      "id": "04",
+      "page": "IMG_4186.jpg",
+      "speaker": "ibrahim",
+      "kind": "example-summary",
+      "title": "Örneklendirme ve özetleme",
+      "lead": "Örnek düşünceyi somutlaştırır; özet, ayrıntıları kısa bir sonuca toplar.",
+      "chips": ["örneğin • mesela • söz gelimi", "kısacası • özetle • yani"],
+      "text": "Örneğin, mesela ve söz gelimi anlatılanı somutlaştırır. Kendime zaman ayırırım; mesela akşamları kitap okurum. Kısacası, özetle ve yani ise anlatılanları daha kısa biçimde aktarır. Sınavlar bitti, ödevler teslim edildi; kısacası tatile hazırız. Yani sözcüğünün işlevi bağlama göre değişebilir; her kullanımını otomatik olarak özet saymamalıyız."
+    },
+    {
+      "id": "05",
+      "page": "IMG_4186.jpg",
+      "speaker": "filiz",
+      "kind": "emphasis-cause",
+      "title": "Vurgulama ve sebep",
+      "lead": "Vurgu dikkati toplar; sebep bir yargının nedenini açıklar.",
+      "chips": ["özellikle • en önemlisi", "çünkü • sebebiyle • bundan dolayı"],
+      "text": "Özellikle ve en önemlisi, okurun dikkatini belirli bir noktaya çeker. Filmi sevdim, özellikle son bölümünü soluksuz izledim. Sebep bildiren ifadeler bir yargının nedenini açıklar. Ödevimi yaptım çünkü sonra oyun oynayacaktım. Bu cümlede çünküden sonraki bölüm yapılan işin nedenidir. Bu yüzden ve bunun sonucunda ise çoğu bağlamda neden değil, sonuç bildirir."
+    },
+    {
+      "id": "06",
+      "page": "IMG_4187.jpg",
+      "speaker": "ibrahim",
+      "kind": "main-support",
+      "title": "Ana ve yardımcı düşünce",
+      "lead": "Ana düşünce paragrafın iletisidir; yardımcı düşünceler onu açıklar ve sınırlar.",
+      "chips": ["Bir ana düşünce", "Birden çok yardımcı düşünce"],
+      "text": "Her paragraf tek bir konu çevresinde ve bir ana düşünce etrafında kurulur. Ana düşünce yazarın asıl iletisidir. Yardımcı düşünceler bu iletiyi açıklar, belirginleştirir, örneklendirir veya konunun sınırlarını çizer. Bir paragrafta ana düşünce bir taneyken yardımcı düşünce sayısı birden fazla olabilir."
+    },
+    {
+      "id": "07",
+      "page": "IMG_4187.jpg",
+      "speaker": "filiz",
+      "kind": "negative",
+      "title": "Olumsuz köklü sorular",
+      "lead": "Çıkarılamaz, değinilmemiştir ve ulaşılamaz sözcüklerine dikkat et.",
+      "chips": ["Metinde olanları işaretle", "Dışarıda kalanı bul"],
+      "note": "Yardımcı düşünce soruları çoğu zaman olumsuz köklüdür; ancak her zaman böyle olmak zorunda değildir.",
+      "text": "Yardımcı düşünce soruları çoğu zaman olumsuz biçimde sorulur: Hangisi çıkarılamaz, hangisine değinilmemiştir veya hangisine ulaşılamaz? Önce seçeneklerdeki bilgileri paragrafta tek tek arayın. Metinde desteklenenleri eleyin; geriye kalan seçenek doğru cevaptır. Buradaki çoğu zaman ifadesi önemlidir: her yardımcı düşünce sorusu mutlaka olumsuz değildir."
+    },
+    {
+      "id": "08",
+      "page": "IMG_4188.jpg",
+      "speaker": "ibrahim",
+      "kind": "title",
+      "title": "Paragrafta başlık",
+      "lead": "İyi bir başlık konuyu kısa, kapsayıcı ve dikkat çekici biçimde yansıtır.",
+      "chips": [
+        "Paragrafı bütünüyle kapsar",
+        "Bir ya da birkaç kelime olabilir"
+      ],
+      "text": "Başlık, paragrafın konusunu en iyi özetleyen bir veya birkaç kelimedir. Uygun başlık bütün paragrafı kapsar; yalnızca tek bir ayrıntıya dayanmaz. İlgi uyandırıcı ve dikkat çekici olması da değerlidir. Ancak bağımsız bir paragrafın üzerinde görünür bir başlık bulunması zorunlu değildir. Soru sizden başlık istediğinde önce konuyu belirleyin, sonra en kapsayıcı seçeneği seçin."
+    }
+  ],
+  "kurz": [
+    {
+      "id": "01",
+      "speaker": "filiz",
+      "kind": "metro",
+      "title": "ANLAM METROSU",
+      "lead": "Bağlantı sözcükleri düşünceleri doğru hatta buluşturur.",
+      "facts": ["Akış", "İlişki"],
+      "text": "Lumi, düşüncelerin birer istasyon olduğu anlam metrosuna giriyor. Geçiş ve bağlantı ifadeleri, cümleler arasındaki ray makasları gibidir. Okura sıradaki bilginin seçenek mi, ekleme mi, karşıtlık mı yoksa sonuç mu olduğunu önceden haber verir."
+    },
+    {
+      "id": "02",
+      "speaker": "ibrahim",
+      "kind": "fork",
+      "title": "İKİ YOL: SEÇENEK VE EKLEME",
+      "lead": "Bir makas yolu ayırır, diğer hat yeni bilgiyi trene ekler.",
+      "facts": ["veya → seçenek", "ayrıca → ekleme"],
+      "text": "Veya ve ya da bir kavşakta iki olası yol açar. Ayrıca, üstelik ve hem hem de ise trene yeni bir vagon bağlar. Bir sözcüğü ezberlemek yetmez; cümlede seçenek mi sunduğuna, yoksa var olan düşünceye yeni bilgi mi eklediğine bakmak gerekir."
+    },
+    {
+      "id": "03",
+      "speaker": "filiz",
+      "kind": "turn",
+      "title": "YÖN DEĞİŞTİREN RAY",
+      "lead": "Karşıtlık beklentiyi kırar; sonuç önceki olayın vardığı durağı gösterir.",
+      "facts": ["fakat → karşıtlık", "dolayısıyla → sonuç"],
+      "text": "Fakat sözcüğü geldiğinde anlam treni beklenen yönden sapar. Dolayısıyla veya bu nedenle geldiğinde ise önceki olayın doğurduğu sonuca varırız. Sebep ve sonuç aynı değildir: Yağmur yağdı sebep, bu nedenle maç ertelendi sonuçtur."
+    },
+    {
+      "id": "04",
+      "speaker": "ibrahim",
+      "kind": "lens",
+      "title": "YAKINLAŞTIR VE SIKIŞTIR",
+      "lead": "Örnek ayrıntıyı görünür yapar, özet bütününü küçük bir pakete dönüştürür.",
+      "facts": ["mesela → somutlaştırır", "kısacası → toplar"],
+      "text": "Anlam galaksisinde örneğin sözcüğü bir teleskop gibi ayrıntıyı yaklaştırır. Kısacası ise çok sayıda bilgiyi tek kapsülde toplar. Yani sözcüğünü görür görmez karar vermeyiz; açıklama mı, eş anlamlı anlatım mı, yoksa özet mi kurduğunu bağlamdan çıkarırız."
+    },
+    {
+      "id": "05",
+      "speaker": "filiz",
+      "kind": "spotlight",
+      "title": "SPOT IŞIĞI VE NEDEN MOTORU",
+      "lead": "Vurgu önemli noktayı aydınlatır; sebep olayın motorunu gösterir.",
+      "facts": ["özellikle → vurgu", "çünkü → sebep"],
+      "text": "Özellikle sözcüğü bir spot ışığını önemli ayrıntıya çevirir. Çünkü ise olayın arkasındaki nedeni gösteren motordur. Bu yüzden sözü çoğunlukla motoru değil, motorun ortaya çıkardığı sonucu işaret eder. İlişkiyi iki tarafıyla okumak yanılmayı önler."
+    },
+    {
+      "id": "06",
+      "speaker": "ibrahim",
+      "kind": "orbit",
+      "title": "PARAGRAF GALAKSİSİ",
+      "lead": "Ana düşünce merkezde, yardımcı düşünceler onu açıklayan yörüngelerde.",
+      "facts": ["1 ana düşünce", "Birçok yardımcı düşünce"],
+      "text": "Bir paragrafı galaksi gibi düşünün. Ana düşünce merkezdeki yıldızdır; yardımcı düşünceler örnek, açıklama ve ayrıntı yörüngelerinde dolaşır. Çıkarılamaz veya değinilmemiştir sorusunda metnin desteklediği gezegenleri eleyip metin dışındaki seçeneği buluruz."
+    },
+    {
+      "id": "07",
+      "speaker": "filiz",
+      "kind": "label",
+      "title": "EN KAPSAYICI ETİKET",
+      "lead": "Başlık tek ayrıntıyı değil, bütün anlam sistemini temsil eder.",
+      "facts": ["Kısa", "Kapsayıcı"],
+      "text": "Son durakta paragrafın başlığını seçiyoruz. İyi başlık, yalnızca bir cümleyi değil bütün metni kapsayan kısa bir etikettir. Her paragrafın üstünde görünür bir başlık olmak zorunda değildir; fakat başlık sorusunda konu ve ana düşünceyi birlikte karşılayan seçenek en güçlü adaydır."
+    }
+  ],
+  "shorts": [
+    {
+      "id": "01",
+      "topic": "GEÇİŞ VE BAĞLANTI",
+      "question": "Elif deney raporunu tamamladı, ayrıca sunumunu hazırladı; ancak sonuç tablosunu kontrol edemedi. Bu cümledeki iki bağlantı ifadesinin işlevleri sırasıyla nedir?",
+      "choices": [
+        "Seçenek – sonuç",
+        "Ekleme – karşıtlık",
+        "Örneklendirme – sebep",
+        "Vurgulama – özetleme"
+      ],
+      "correct": 1,
+      "answer": "Doğru cevap B. Ayrıca, tamamlanan işe yeni bir bilgi ekler; ancak ise beklenen akışı değiştirerek karşıtlık kurar."
+    },
+    {
+      "id": "02",
+      "topic": "YARDIMCI DÜŞÜNCE",
+      "question": "Şehir kütüphanesi hafta sonu atölyelerinde öğrenciler kitap karakterlerini canlandırıyor, öykü yazıyor ve metinlerini arkadaşlarıyla paylaşıyor. Bu paragraftan hangisi çıkarılamaz?",
+      "choices": [
+        "Atölyeler hafta sonu yapılır.",
+        "Öğrenciler öykü yazar.",
+        "Yazılan metinler paylaşılır.",
+        "Yalnız başarılı öğrenciler katılır."
+      ],
+      "correct": 3,
+      "answer": "Doğru cevap D. Paragrafta etkinliklerin hafta sonu yapıldığı, öykü yazıldığı ve metinlerin paylaşıldığı vardır; katılımın yalnız başarılı öğrencilerle sınırlı olduğuna dair bilgi yoktur."
+    }
+  ]
+}
