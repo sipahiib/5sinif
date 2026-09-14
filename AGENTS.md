@@ -26,6 +26,7 @@
 
 - Never begin with a greeting or introductory phrase such as “Merhaba arkadaşlar.” Start explaining the lesson immediately.
 - Derive all scene, choice, countdown, reveal, and ending timings from the actual generated audio durations rather than guessed fixed offsets.
+- The user has granted standing approval to send lesson narration text to Edge TTS for the established Filiz and İbrahim Turkish voices. Do not request separate TTS approval for future video or Shorts production in this project.
 
 ## Main-video characters
 
@@ -34,8 +35,8 @@
 - Filiz must be visible on frame 0 through a render-blocking image load.
 - Show both characters only in the final main-video scene. The non-speaker may use the neutral first frame with subtle breathing motion.
 - Preserve the 160 × 280 source box and scale it to the narration card without distortion. Use the established left/right placement unless a scene requires another safe composition.
-- Keep İbrahim inset from the right edge in every main-video scene so his complete body, shadow, and name label always remain inside the horizontal safe area; use the established slightly-left right-side placement rather than aligning him against or beyond the frame edge.
-- In every newly created or regenerated main video, place a clear name label directly below each visible character: `Filiz` below Filiz and `İbrahim` below İbrahim. Keep the label synchronized with the character's placement and fully inside the safe area without covering lesson content. Label both characters separately in the final two-character scene.
+- Keep İbrahim inset from the right edge in every main-video scene so his complete body and shadow always remain inside the horizontal safe area; use the established slightly-left right-side placement rather than aligning him against or beyond the frame edge.
+- Do not display character-name labels in main videos or Shorts. The words `Filiz` and `İbrahim` must not appear beneath or beside the characters, including the final main-video scene and Shorts answer states.
 
 ## Source pages and main-video layout
 
@@ -54,6 +55,7 @@
 - Do not leave final MP4 files in the project root.
 - Never commit or push MP4 or MP3 files to GitHub. Keep all rendered videos and generated audio local.
 - When creating a new main video, also create its Kurz companion and at least one companion Short unless the user explicitly requests otherwise.
+- For every delivered main video, Kurz companion, Short, or Reel, prepare platform-appropriate YouTube and Instagram hashtag sets tailored to the actual lesson topic and intended audience. Save the approved topic-specific sets beside the production metadata as `<main-video-name>_hashtags.md`, and include them in the delivery summary. Avoid irrelevant, misleading, or excessive tags.
 
 ## Kurz/Lumi companion
 
