@@ -1,0 +1,215 @@
+{
+  "main": [
+    {
+      "id": "01",
+      "speaker": "filiz",
+      "kind": "balance",
+      "title": "Çevre sorunları ve afetler",
+      "lead": "Doğal çevrenin her parçası, canlı yaşamıyla bağlantılıdır.",
+      "points": [
+        "Kirlilik canlı türlerini ve yaşam alanlarını azaltabilir",
+        "Doğal kaynakların tükenmesi geleceği etkiler"
+      ],
+      "text": "Hava, su, toprak, bitkiler, hayvanlar ve insanlar birbirine bağlı bir çevre sistemi oluşturur. Bir parçadaki bozulma diğerlerini de etkiler. Kirlilik, yaşam alanlarının daralması ve doğal kaynakların hızla tüketilmesi canlı türlerini tehdit edebilir. Çevre sorunlarının nedenlerini anlamak, kaynakları bilinçli kullanmak ve afetlere hazırlanmak yaşanabilir bir gelecek için gereklidir."
+    },
+    {
+      "id": "02",
+      "speaker": "ibrahim",
+      "kind": "pollution",
+      "title": "Hava, su ve toprak kirliliği",
+      "lead": "Enerji üretimi, erozyon ve farklı atıklar çevre bileşenlerini etkiler.",
+      "points": [
+        "Isınma, taşıtlar ve termik santraller havayı kirletebilir",
+        "Sanayi, tehlikeli ve inşaat atıkları doğru yönetilmelidir"
+      ],
+      "text": "Konutlarda ısınma, taşıt egzozları, fabrikalar ve termik santraller hava kirliliğine yol açabilir. Erozyonla taşınan toprak ve tarlalardan gelen kimyasallar suya karışarak su kalitesini düşürebilir. Sanayi atıkları, tehlikeli atıklar ve inşaat atıkları gelişigüzel bırakıldığında toprağı ve suyu kirletir. Atıkları kaynağında azaltmak, ayırmak ve güvenli biçimde işlemek gerekir."
+    },
+    {
+      "id": "03",
+      "speaker": "filiz",
+      "kind": "climate",
+      "title": "Işık kirliliği ve küresel ısınma",
+      "lead": "Gereksiz ışık gökyüzünü; sera gazları iklim sistemini etkiler.",
+      "points": [
+        "Aydınlatmayı yalnız gereken yere yönelt",
+        "Enerji tasarrufu ve ormanları koruma çözümün parçasıdır"
+      ],
+      "text": "Gereksiz, aşırı ve yanlış yönlendirilmiş aydınlatma ışık kirliliğine yol açar; gökyüzünü görmeyi zorlaştırır, enerji tüketimini artırır ve bazı canlıların yaşam düzenini etkiler. Fosil yakıtların kullanılmasıyla artan sera gazları ise küresel ısınmayı hızlandırır. Enerjiyi verimli kullanmak, toplu taşımayı seçmek, ormanları korumak ve ışığı yalnız gerektiği yerde kullanmak çevreyi korur."
+    },
+    {
+      "id": "04",
+      "speaker": "ibrahim",
+      "kind": "hazard",
+      "title": "Afetlerin kaynakları",
+      "lead": "Afetler; yer hareketleri, hava ve iklim ya da birden çok etkenle oluşabilir.",
+      "points": [
+        "Deprem, tsunami ve kaya düşmesi yer hareketleriyle ilişkilidir",
+        "Sel, çığ, kuraklık ve don hava ve iklimle ilişkilidir"
+      ],
+      "text": "Afetleri kaynaklarına göre üç grupta inceleyebiliriz. Deprem, tsunami, heyelan ve kaya düşmesi yer hareketleriyle; sel, fırtına, çığ, kuraklık ve don hava ve iklim koşullarıyla ilişkilidir. Erozyon, çölleşme ve obruk gibi olaylarda ise yer yapısı, iklim ve insan faaliyetleri birlikte etkili olabilir. Kaynağı ve etkileyen koşulları bilmek, riske uygun önlem geliştirmemizi sağlar."
+    },
+    {
+      "id": "05",
+      "speaker": "filiz",
+      "kind": "hazard",
+      "title": "Afetlerin etkisi ve depremler",
+      "lead": "Afetlerin doğrudan ve zamanla ortaya çıkan etkileri vardır.",
+      "points": [
+        "Yıkım ve yaralanma doğrudan; göç ve ekonomik kayıp gecikmeli olabilir",
+        "Deprem heyelan, çökme ve tsunamiyi tetikleyebilir"
+      ],
+      "text": "Afetler yıkım, yaralanma ve can kaybı gibi doğrudan etkiler oluşturabilir. Barınma sorunu, göç, üretimin aksaması ve ekonomik kayıplar ise zaman içinde görülebilir. Sismograf yer hareketlerini kaydeder ve bu veriler depremin büyüklüğünü hesaplamada kullanılır. Büyüklük açığa çıkan enerjiyle, şiddet belirli bir yerdeki etkiyle ilgilidir. Depremler bazı yerlerde heyelanı, zemin çökmesini ve deniz tabanındaki hareketle tsunamiyi tetikleyebilir.",
+      "note": "17 Ağustos 1999'da Gölcük merkezli Marmara Depremi; 6 Şubat 2023'te Pazarcık merkezli ilk büyük deprem yaşandı."
+    },
+    {
+      "id": "06",
+      "speaker": "ibrahim",
+      "kind": "earthquake",
+      "title": "Deprem öncesi, sırası ve sonrası",
+      "lead": "Hazırlık önce başlar; sarsıntıda Çök, Kapan, Tutun uygulanır.",
+      "points": [
+        "Önce: eşyaları sabitle, plan ve temel ihtiyaç çantası hazırla",
+        "Sonra: güvenli tahliye; haberleşmede SMS veya internet"
+      ],
+      "text": "Depremden önce dolapları duvara sabitlemek, aile afet planı yapmak ve toplanma alanını öğrenmek gerekir. Acil durum çantasında su, dayanıklı yiyecek, fener, düdük, ilk yardım malzemesi ve önemli belge kopyaları bulunabilir; yanıcı maddeler bulunmamalıdır. Sarsıntıda koşma; camdan ve devrilebilecek eşyalardan uzaklaşıp çök, kapan ve tutun. Merdivene ya da asansöre yönelme. Sarsıntı bitince yetkililerin yönlendirmesiyle güvenli tahliye yolunu kullan. Telefon hatlarını meşgul etmemek için acil olmayan haberleşmede SMS veya interneti tercih et. Gaz ve elektrik tesisatına yalnız güvenliyse bir yetişkin müdahale etmelidir."
+    },
+    {
+      "id": "07",
+      "speaker": "filiz",
+      "kind": "water",
+      "title": "Sel, heyelan ve çığ",
+      "lead": "İklim, eğim, zemin ve yapılaşma afet riskini birlikte etkiler.",
+      "points": [
+        "Karadeniz'de yoğun yağış; Marmara'da kentleşme sel riskini artırabilir",
+        "Dik karlı yamaçlarda çığ, eğimli yağışlı zeminde heyelan riski büyür"
+      ],
+      "text": "Sel her bölgede görülebilir. Karadeniz Bölgesi'ndeki yoğun yağışlar ile Marmara Bölgesi'ndeki yoğun kentleşme ve geçirimsiz yüzeyler riski artırabilir. Dere yataklarına yapılaşmamak; bitki örtüsünü korumak, ağaçlandırma yapmak, uygun alanlarda baraj ve teraslama çalışmalarından yararlanmak riski azaltır. Sel suyuna girme; yüksek yere çık. Heyelan; eğim, bol yağış ve su tutan killi zeminlerin etkisiyle özellikle Karadeniz'de sık görülür. Çığ ise dik ve karla yüklü yamaçlarda, özellikle Doğu Anadolu'da önemli bir risktir.",
+      "note": "Eğimli arazilerde teraslama, yüzey akışını yavaşlatarak toprağın taşınmasını azaltmaya yardımcı olur."
+    },
+    {
+      "id": "08",
+      "speaker": "ibrahim",
+      "kind": "fire",
+      "title": "Erozyon ve orman yangını",
+      "lead": "Doğru tarım toprağı, erken bildirim ormanı korur.",
+      "points": [
+        "Tarlayı eğime dik sürmek ve nöbetleşe ekim erozyonu azaltır",
+        "Orman yangını şüphesini 112'ye bildir"
+      ],
+      "text": "Erozyon, toprağın su ve rüzgâr etkisiyle taşınmasıdır. Bitki örtüsünü korumak, ağaçlandırmak, tarlayı eğime dik sürmek ve nöbetleşe ekim yapmak toprağın kaybını azaltır. Orman yangınları doğal nedenlerle ya da insan ihmaliyle çıkabilir. Ormanda ateş yakmamak, izmarit atmamak ve dumanı 112 Acil Çağrı Merkezine bildirmek gerekir.",
+      "note": "Türkiye Erozyonla Mücadele, Ağaçlandırma ve Doğal Varlıkları Koruma Vakfı, 11 Eylül 1992'de Hayrettin Karaca ve A. Nihat Gökyiğit tarafından kuruldu."
+    },
+    {
+      "id": "09",
+      "speaker": "filiz",
+      "kind": "plan",
+      "title": "Obruklar ve güvenli gelecek",
+      "lead": "İç Anadolu'da kuraklık ve yer altı suyu kullanımı obruk riskini etkileyebilir.",
+      "points": [
+        "Karstik kayaçların çözünmesi yer altında boşluk oluşturabilir",
+        "Kuraklık ve aşırı yer altı suyu çekimi dengeyi bozabilir"
+      ],
+      "text": "Obruklar, özellikle İç Anadolu'da ve çözünebilen karstik kayaçların bulunduğu alanlarda görülür. Yer altında oluşan boşlukların tavanı çöktüğünde yüzeyde derin çukurlar açılabilir. İklim değişikliğinin şiddetlendirdiği kuraklık ve tarım için yer altı suyunun aşırı çekilmesi bazı alanlarda riski artırabilir. Suyu bilinçli kullanmak, bilimsel inceleme yapmak ve riskli alanlarda yapılaşmamak gerekir."
+    }
+  ],
+  "kurz": [
+    {
+      "id": "01",
+      "speaker": "filiz",
+      "kind": "web",
+      "title": "LUMİ'NİN YAŞAM AĞI",
+      "lead": "Hava, su, toprak ve canlılar aynı sistemin parçalarıdır.",
+      "facts": ["Kirlilik sınır tanımaz", "Bir değişim tüm ağı etkiler"],
+      "text": "Lumi çevreyi ayrı kutular yerine bağlı bir yaşam ağı olarak tarıyor. Havaya karışan bir kirletici yağmurla toprağa, oradan suya ve besin zincirine taşınabilir. Bu yüzden çevre sorunlarını çözerken yalnız görünen noktayı değil, bütün sistemi düşünmeliyiz."
+    },
+    {
+      "id": "02",
+      "speaker": "ibrahim",
+      "kind": "loop",
+      "title": "ATIKTAN ÖNCE TASARIM",
+      "lead": "En temiz atık, hiç oluşmayandır.",
+      "facts": ["Azalt", "Yeniden kullan", "Dönüştür"],
+      "text": "Lumi'nin döngüsünde ilk durak geri dönüşüm değil, azaltmadır. Daha az tüketmek kaynak kullanımını baştan düşürür. Sonra eşyayı yeniden kullanır, en son ayrıştırıp geri dönüştürürüz. Böylece doğrusal çöp yolu, kaynakları koruyan bir döngüye dönüşür."
+    },
+    {
+      "id": "03",
+      "speaker": "filiz",
+      "kind": "risk",
+      "title": "AFET RİSKİ DENKLEMİ",
+      "lead": "Tehlike tek başına sonucu belirlemez.",
+      "facts": ["Tehlike + maruziyet + kırılganlık", "Hazırlık riski küçültür"],
+      "text": "Lumi bir risk denklemi kuruyor. Tehlike; maruz kalan insanlar ve yapılarla, bir de onların kırılganlığıyla karşılaştığında risk büyür. Depremi durduramayız; fakat güvenli yer seçimi, sağlam yapı, sabitlenmiş eşyalar ve doğru davranışla kırılganlığı azaltabiliriz."
+    },
+    {
+      "id": "04",
+      "speaker": "ibrahim",
+      "kind": "seconds",
+      "title": "İLK SANİYELER",
+      "lead": "Doğru refleks, panikten daha hızlı olmalı.",
+      "facts": ["Çök • Kapan • Tutun", "Asansör yok"],
+      "text": "Sarsıntı başladığında Lumi'nin güvenlik alanı hemen etkinleşiyor: çök, kapan ve tutun. Pencereden, dolaptan ve düşebilecek cisimlerden uzak kal. Sarsıntı sürerken merdivene ya da asansöre koşma; bitince kontrollü biçimde tahliye ol."
+    },
+    {
+      "id": "05",
+      "speaker": "filiz",
+      "kind": "terrain",
+      "title": "SU VE YAMAÇ HAREKETİ",
+      "lead": "Harita ve uyarılar görünmeyen riski görünür yapar.",
+      "facts": ["Sel → yüksek yer", "Heyelan/çığ → riskli yamaçtan uzaklaş"],
+      "text": "Lumi araziyi üç boyutlu okuyor. Suyun birikeceği alçak bölgeler sel riskini, eğimli ve gevşek zemin heyelanı, kar yüklü dik yamaçlar çığı büyütebilir. Güvenli yer seçimi ve erken uyarı, olay başlamadan önce zaman kazandırır."
+    },
+    {
+      "id": "06",
+      "speaker": "ibrahim",
+      "kind": "kit",
+      "title": "72 SAATLİK HAZIRLIK",
+      "lead": "Planlı küçük adımlar büyük belirsizliği azaltır.",
+      "facts": ["Çanta • iletişim • buluşma yeri", "Doğru bilgi • dayanışma"],
+      "text": "Lumi son taramada bir hazırlık ağı kuruyor. Acil durum çantası, aile iletişim planı, buluşma yeri ve tatbikat birbirini tamamlıyor. Afet sonrasında doğru bilgiyi yetkili kurumlardan almak ve dayanışmak, toplumun daha hızlı toparlanmasını sağlar."
+    }
+  ],
+  "shorts": [
+    {
+      "id": "01",
+      "topic": "ÇEVRE KİRLİLİĞİ",
+      "question": "Fabrika dumanı, tarladan suya karışan kimyasal ve araziye dökülen inşaat atığı sırasıyla hangi kirliliklerle ilişkilidir?",
+      "strip": "ÜÇ KAYNAK • ÜÇ ÇEVRE BİLEŞENİ",
+      "choices": [
+        "Hava – Su – Toprak",
+        "Su – Toprak – Hava",
+        "Toprak – Hava – Su",
+        "Hava – Toprak – Su"
+      ],
+      "correct": 0,
+      "answer": "Doğru cevap A şıkkı. Duman havayı, suya karışan kimyasal suyu, araziye bırakılan atık toprağı kirletir."
+    },
+    {
+      "id": "02",
+      "topic": "DEPREM GÜVENLİĞİ",
+      "question": "Ders sırasında deprem başlayınca uygulanması gereken doğru davranış sırası hangisidir?",
+      "strip": "SINIFTA SARSINTI • DOĞRU SIRAYI SEÇ",
+      "choices": [
+        "Pencereye yaklaş – dışarı bak – koş",
+        "Camdan uzaklaş – Çök Kapan Tutun – sonra öğretmeni izle",
+        "Asansöre git – kapıyı aç – bahçeye koş",
+        "Dolaba yaklaş – eşyaları topla – merdivene çık"
+      ],
+      "correct": 1,
+      "answer": "Doğru cevap B şıkkı. Camdan uzaklaşıp çök, kapan ve tutun; sarsıntı bitince öğretmenin yönlendirmesini izle."
+    },
+    {
+      "id": "03",
+      "topic": "EROZYONU ÖNLEME",
+      "question": "Yağışlı ve eğimli bir tarım arazisinde yüzey akışını ve toprağın taşınmasını birlikte azaltan uygulama hangisidir?",
+      "strip": "EĞİMLİ ARAZİ • TOPRAĞI KORU",
+      "choices": [
+        "Bitki örtüsünü kaldırmak",
+        "Tarlayı eğim yönünde sürmek",
+        "Teraslama yapmak ve bitki örtüsünü korumak",
+        "Toprağı çıplak bırakmak"
+      ],
+      "correct": 2,
+      "answer": "Doğru cevap C şıkkı. Teraslama ve bitki örtüsü, suyun hızını keserek toprağın taşınmasını azaltır."
+    }
+  ]
+}
