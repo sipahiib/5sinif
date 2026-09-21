@@ -3,6 +3,13 @@
 ## Multi-agent production workflow
 
 - Use specialist sub-agents for future video production and substantial revisions. The primary agent coordinates the work, integrates outputs, and retains final quality approval and delivery responsibility.
+- Use a token-efficient staged workflow by default. For a standard new topic, use one content specialist, the primary agent as producer/integrator, and one combined educational-accuracy plus visual/platform QA specialist. Do not create six separate specialist agents unless the task genuinely requires that breadth.
+- For small text, positioning, arrow, timing, or single-animation corrections, the primary agent performs the fix and uses at most one narrowly scoped independent QA agent. Do not reopen content, design, and implementation roles for a localized correction.
+- Add a separate Kurz/Lumi creative specialist only when the topic requires a materially new visual language or unusually complex animation. Add a separate implementation specialist only for substantial infrastructure or reusable-template work.
+- Give sub-agents only the minimum relevant context: prefer no conversation fork or a small recent-turn fork, then provide a compact brief with exact source paths, owned files, deliverables, constraints, and acceptance checks. Do not pass long unrelated conversation history.
+- Require concise specialist reports in the form `PASS/RED`, file or timecode, evidence, and required correction. Avoid duplicated narrative summaries and overlapping reviews.
+- The primary agent owns code integration, audio generation, preview rendering, final rendering, technical verification, cleanup, and final approval. Sub-agents should not independently render the same full deliverables unless explicitly assigned.
+- After a correction, have the reviewer recheck only the changed scenes and their boundaries. The primary agent still performs the final whole-output verification required below.
 - Assign these roles as needed: educational content and script; visual design; animation implementation; Kurz/Lumi creative design; educational accuracy review; visual and platform quality review.
 - The content specialist maps numbered source pages, headings, important points, and notes to age-appropriate narration and meaningful Shorts questions. The accuracy reviewer independently checks coverage, factual correctness, question clarity, correct answers, and premature answer clues.
 - The visual designer creates readable YouTube horizontal and YouTube Shorts/Instagram Reels vertical compositions. The animator implements synchronized scene-specific movement. The Kurz specialist creates the distinct narration and original Lumi animations required below.
