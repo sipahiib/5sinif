@@ -49,6 +49,7 @@
 ## Output and repository rules
 
 - Render horizontal main and Kurz videos at `1920 × 1080`; render Shorts and Reels at `1080 × 1920`.
+- After the final outputs have passed verification, remove temporary production artifacts such as all `preview*.mp4` files and `qa`, `qa_*`, or equivalent QA-frame directories. Keep only the final deliverables, required covers, approved metadata/hashtag files, reusable source code/assets, and audio needed by the project.
 - Do not create thumbnail or cover images for main videos or Shorts. Create a dedicated robotic, topic-colored cover image for every Kurz/Lumi companion as a required deliverable, even when it is not requested separately.
 - Store main and Kurz outputs together under the appropriate topic path in `out`; name the companion `<main-video-name>_kurz.mp4`.
 - Store Shorts under `out/shorts/<main-video-name>_shorts/`. Use `<main-video-name>_shorts.mp4` for one Short or numbered names such as `<main-video-name>_shorts_1.mp4` for multiple Shorts.
