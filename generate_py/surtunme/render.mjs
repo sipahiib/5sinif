@@ -23,6 +23,7 @@ for (const [id, output] of jobs) {
       "src/surtunme/entry.tsx",
       id,
       output,
+      "--scale=0.6666666667",
       "--codec=h264",
       "--crf=18",
       "--concurrency=5",
@@ -32,3 +33,8 @@ for (const [id, output] of jobs) {
   );
   console.log(`Completed ${output}`);
 }
+execFileSync(
+  "npx",
+  ["remotion", "still", "src/surtunme/entry.tsx", "SurtunmeKurzCover", `${mainDir}/surtunme_kurz_kapak.png`, "--log=error"],
+  { stdio: "inherit" },
+);

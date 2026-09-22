@@ -10,7 +10,7 @@ import {
   useCurrentFrame,
   useVideoConfig,
 } from 'remotion';
-import {GifCharacter} from '../GifCharacter';
+import {GifCharacter} from '../../GifCharacter';
 import timing from './haklar_shorts_timings.json';
 
 const palette = {

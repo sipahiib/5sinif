@@ -9,6 +9,13 @@ npm install
 npm run start
 ```
 
+Kod doğrulaması ve commit öncesi medya denetimi:
+
+```bash
+npm run typecheck
+npm run check:media
+```
+
 Merkezi/erken dönem composition'lar `src/index.tsx` üzerinden, yeni konu aileleri ise çoğunlukla kendi `src/<konu>/entry.tsx` dosyaları üzerinden açılır. Render işleminden önce ilgili entry dosyasındaki composition kimliğini doğrulayın.
 
 Örnek merkezi render:

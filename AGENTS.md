@@ -26,4 +26,5 @@ Bu dosya kısa bir yönlendiricidir. Görevle ilgisiz standart dosyalarını oku
 - YouTube, Instagram veya başka bir platforma yükleme/yayınlama yalnızca kullanıcının ayrıca açık talimatıyla yapılır.
 - Kullanıcı açıkça istemedikçe mevcut çalışan üretim dosyaları veya teslimatlar silinmez.
 - MP3 ve MP4 dosyaları Git'e commit veya push edilmez.
+- Commit veya push öncesinde `npm run check:media` çalıştırılır; kontrol başarısızsa işlem yapılmaz. Depoda önceden izlenen eski MP3 dosyaları değiştirilmez veya yeniden stage edilmez.
 - Kullanıcının açık isteği, bu belgelerdeki varsayılan üretim paketinden ve yaratıcı tercihlerden üstündür.

@@ -1,8 +1,25 @@
 {
-  "name":"zit-anlamli-sozcukler-remotion",
-  "version":"1.0.0",
-  "private":true,
-  "scripts":{"start":"remotion studio","build":"remotion render src/index.tsx Tur out/tur.mp4 --scale=1.3333333333","build:somut-soyut":"remotion render src/index.tsx SomutSoyut out/smout-soyut.mp4 --scale=1.3333333333","build:lesson":"remotion render src/index.tsx Lesson out/lesson.mp4 --scale=1.3333333333","generate:lesson":"python3 generate_py/generate_lesson.py content/lessons.json"},
-  "dependencies":{"@remotion/cli":"latest","react":"latest","react-dom":"latest","remotion":"latest","typescript":"latest"},
-  "devDependencies":{}
+  "name": "zit-anlamli-sozcukler-remotion",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "remotion studio",
+    "build": "remotion render src/index.tsx Tur out/tur.mp4 --scale=1.3333333333",
+    "build:somut-soyut": "remotion render src/index.tsx SomutSoyut out/somut-soyut.mp4 --scale=1.3333333333",
+    "build:lesson": "remotion render src/index.tsx Lesson out/lesson.mp4 --scale=1.3333333333",
+    "generate:lesson": "python3 generate_py/generate_lesson.py content/lessons.json",
+    "check:media": "node scripts/check-staged-media.mjs",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "remotion": "latest",
+    "typescript": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0"
+  }
 }

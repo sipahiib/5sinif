@@ -24,7 +24,7 @@ const sceneTexts = [
   {id: '06', title: 'Sözcükleri doğru sıralayalım', image: 'cumle-olustur.jpg', focus: 'Birinci uygulama', points: ['Karışık sözcükleri anlamlı ve kurallı cümleye dönüştürürüz.', 'göstergesidir / mutluluğun / gülümsemek / en / çok', 'Gülümsemek mutluluğun en çok göstergesidir.']},
   {id: '07', title: 'Cümle oluşturma uygulaması', image: 'cumle-olustur.jpg', focus: 'Diğer örnekler', points: ['saygı / sağlıklı / iletişimin / vazgeçilmez / unsurudur', 'Saygı sağlıklı iletişimin vazgeçilmez unsurudur.', 'toplumsal / yardımlaşma / huzuru / artırır', 'Toplumsal yardımlaşma huzuru artırır.']},
   {id: '08', title: 'Tebrikler!', image: 'cumle-olustur.jpg', focus: 'Dersi tamamladın', points: ['Cümlenin konusunu ve ana düşüncesini bulabilirsin.', 'Eksik cümleleri anlam ve yapıya uygun tamamlayabilirsin.', 'Karışık sözcüklerle anlamlı ve kurallı cümleler oluşturabilirsin.']},
-].map((scene) => ({...scene, audio: `cumle_${scene.id}`, firstSpeaker: scene.id === '02' || scene.id === '04' || scene.id === '06' ? 'ibrahim' as const : 'filiz' as const, splitSec: timings[scene.id].split_sec, totalSec: timings[scene.id].total_sec}));
+].map((scene) => ({...scene, audio: `cumle_${scene.id}`, firstSpeaker: scene.id === '02' || scene.id === '04' || scene.id === '06' ? 'ibrahim' as const : 'filiz' as const, splitSec: timings[scene.id as keyof typeof timings].split_sec, totalSec: timings[scene.id as keyof typeof timings].total_sec}));
 
 const Scene: React.FC<{scene: Scene}> = ({scene}) => {
   const frame = useCurrentFrame();

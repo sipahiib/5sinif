@@ -19,6 +19,7 @@ for (const [id, output] of [
       "src/aci/entry.tsx",
       id,
       output,
+      "--scale=0.6666666667",
       "--codec=h264",
       "--crf=18",
       "--concurrency=5",
@@ -27,14 +28,8 @@ for (const [id, output] of [
     { stdio: "inherit" },
   );
 }
-for (const [id, output] of [
-  ["AciThumbnail", `${mainDir}/aci_kapak.png`],
-  ["AciKurzThumbnail", `${mainDir}/aci_kurz_kapak.png`],
-  ["AciShortsThumbnail1", `${shortsDir}/aci_shorts_1_kapak.png`],
-]) {
-  execFileSync(
-    "npx",
-    ["remotion", "still", "src/aci/entry.tsx", id, output, "--log=error"],
-    { stdio: "inherit" },
-  );
-}
+execFileSync(
+  "npx",
+  ["remotion", "still", "src/aci/entry.tsx", "AciKurzCover", `${mainDir}/aci_kurz_kapak.png`, "--log=error"],
+  { stdio: "inherit" },
+);

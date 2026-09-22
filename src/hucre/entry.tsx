@@ -1,5 +1,6 @@
 import React from "react";
-import { Composition, registerRoot } from "remotion";
+import { Composition, Still, registerRoot } from "remotion";
+import { KurzCover } from "../components/KurzCover";
 import timings from "./timings.json";
 import { Kurz, Main, Short, kurzDuration, mainDuration } from "./Video";
 
@@ -20,6 +21,13 @@ const Root = () => (
       height={1080}
       fps={30}
       durationInFrames={kurzDuration()}
+    />
+    <Still
+      id="HucreKurzCover"
+      component={KurzCover}
+      defaultProps={{subject: "FEN BİLİMLERİ", title: "HÜCRE", accent: "#6ce5d0", secondary: "#a897ff"}}
+      width={1280}
+      height={720}
     />
     {timings.shorts.map((t, i) => (
       <Composition

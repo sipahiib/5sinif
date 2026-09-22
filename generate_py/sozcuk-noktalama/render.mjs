@@ -31,6 +31,7 @@ for (const [id, output] of jobs) {
       `src/sozcuk-noktalama/${qa ? "qa-entry" : "entry"}.tsx`,
       id,
       output,
+      "--scale=0.6666666667",
       "--codec=h264",
       "--crf=18",
       "--concurrency=5",
@@ -39,4 +40,11 @@ for (const [id, output] of jobs) {
     { stdio: "inherit" },
   );
   console.log(`Completed ${output}`);
+}
+if (!qa) {
+  execFileSync(
+    "npx",
+    ["remotion", "still", "src/sozcuk-noktalama/entry.tsx", "SozcukNoktalamaKurzCover", `${dir}/sozcuk-noktalama_kurz_kapak.png`, "--log=error"],
+    { stdio: "inherit" },
+  );
 }

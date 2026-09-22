@@ -20,6 +20,7 @@ for (const [id, output] of [
       "src/hucre/entry.tsx",
       id,
       output,
+      "--scale=0.6666666667",
       "--codec=h264",
       "--crf=18",
       "--concurrency=5",
@@ -28,3 +29,8 @@ for (const [id, output] of [
     { stdio: "inherit" },
   );
 }
+execFileSync(
+  "npx",
+  ["remotion", "still", "src/hucre/entry.tsx", "HucreKurzCover", `${mainDir}/hucre_kurz_kapak.png`, "--log=error"],
+  { stdio: "inherit" },
+);

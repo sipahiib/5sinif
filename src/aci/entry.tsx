@@ -1,7 +1,8 @@
 import React from "react";
-import { Composition, registerRoot } from "remotion";
+import { Composition, Still, registerRoot } from "remotion";
+import { KurzCover } from "../components/KurzCover";
 import timings from "./timings.json";
-import { Cover, Kurz, Main, Short, kurzDuration, mainDuration } from "./Video";
+import { Kurz, Main, Short, kurzDuration, mainDuration } from "./Video";
 
 const Root = () => (
   <>
@@ -21,23 +22,12 @@ const Root = () => (
       fps={30}
       durationInFrames={kurzDuration()}
     />
-    <Composition
-      id="AciThumbnail"
-      component={Cover}
-      defaultProps={{ variant: "main" as const, index: 0 }}
-      width={1920}
-      height={1080}
-      fps={30}
-      durationInFrames={1}
-    />
-    <Composition
-      id="AciKurzThumbnail"
-      component={Cover}
-      defaultProps={{ variant: "kurz" as const, index: 0 }}
-      width={1920}
-      height={1080}
-      fps={30}
-      durationInFrames={1}
+    <Still
+      id="AciKurzCover"
+      component={KurzCover}
+      defaultProps={{subject: "MATEMATİK", title: "AÇILAR", accent: "#65e4d6", secondary: "#8267e8"}}
+      width={1280}
+      height={720}
     />
     {timings.shorts.map((t, i) => (
       <Composition
@@ -49,18 +39,6 @@ const Root = () => (
         height={1920}
         fps={30}
         durationInFrames={t.frames}
-      />
-    ))}
-    {timings.shorts.map((_, i) => (
-      <Composition
-        key={`cover-${i}`}
-        id={`AciShortsThumbnail${i + 1}`}
-        component={Cover}
-        defaultProps={{ variant: "short" as const, index: i }}
-        width={1080}
-        height={1920}
-        fps={30}
-        durationInFrames={1}
       />
     ))}
   </>
