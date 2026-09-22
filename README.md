@@ -1,33 +1,42 @@
-# 5. Sınıf Türkçe
+# 5. Sınıf Eğitim Videoları
 
-Bu proje Remotion ile 60 saniyelik, 960x540 eğitim videosu üretir.
+Bu depo Türkçe, matematik, fen bilimleri ve sosyal bilgiler konuları için Remotion tabanlı eğitim videoları üretir. Bir konu; yatay ana video, Kurz/Lumi eşlikçisi ve dikey Shorts/Reels çıktıları içerebilir.
 
-## Çalıştırma
+## Kurulum ve önizleme
+
 ```bash
 npm install
-npx remotion studio src/index.tsx
-npx remotion render src/index.tsx ZitAnlam out/zit-anlamli-sozcukler.mp4
+npm run start
 ```
 
-## Yeni JPG ile ders videosu üretme
+Merkezi/erken dönem composition'lar `src/index.tsx` üzerinden, yeni konu aileleri ise çoğunlukla kendi `src/<konu>/entry.tsx` dosyaları üzerinden açılır. Render işleminden önce ilgili entry dosyasındaki composition kimliğini doğrulayın.
 
-Yeni bir görsel için ayrı TSX, Python veya MP3 dosyası oluşturulmaz:
-
-1. JPG dosyasını `public/pages/` altındaki uygun klasöre koyun.
-2. `content/lessons.json` içindeki ilgili derse bir `scene` ekleyin. `image`, `title`, `focus`, `points`, `firstSpeaker` ve iki konuşmacının `dialogue` metinlerini doldurun.
-3. Sesleri ve ölçülmüş süreleri üretin:
+Örnek merkezi render:
 
 ```bash
-python3 -m pip install -r requirements.txt
-npm run generate:lesson -- --lesson ay
+npx remotion render src/index.tsx ZitAnlam out/zit-anlamli-sozcukler.mp4 --scale=1.3333333333
 ```
 
-4. Videoyu render edin:
+Konuya özel üretimler için `generate_py/<konu>/` altındaki ses, zamanlama ve render yardımcılarını; uygulama kodu için `src/<konu>/` klasörünü kullanın.
 
-```bash
-npm run build:lesson
-```
+## Proje yapısı
 
-Sesler `public/audio/lessons/<ders-id>/`, timing dosyaları ise `content/timings/` altına otomatik yazılır. Yeni dersler aynı merkezi `Lesson` composition üzerinden çalışır.
+- `src/`: Remotion composition ve ortak bileşenler
+- `generate_py/`: ses, zamanlama ve konuya özel üretim yardımcıları
+- `public/images/`: ortak karakter ve görsel varlıklar
+- `public/pages/`: yalnızca ders içeriğini anlamak için kaynak sayfalar
+- `public/audio/`: yerel üretilen anlatım sesleri
+- `content/`: ders verileri, zamanlamalar ve metadata
+- `out/`: yerel final video ve Kurz kapak çıktıları
+- `docs/agent-rules/`: formata göre ajan üretim standartları
 
-Şu an merkezi manifestte örnek olarak Ay dersi tanımlıdır; diğer konu sahneleri de aynı JSON sözleşmesine taşınarak bu akışı kullanır.
+Kaynak ders sayfaları final videoya fotoğraf olarak gömülmez; içerikleri özgün kod tabanlı diyagram ve animasyonlarla yeniden oluşturulur.
+
+## Teslimat biçimleri
+
+- Ana video, Kurz/Lumi ve yatay kapaklar: `1280 × 720`
+- Shorts ve Reels: `720 × 1280`
+
+MP3 ve MP4 dosyaları yerel tutulur ve Git'e eklenmez. Ayrıntılı üretim kuralları için kök `AGENTS.md` yönlendirmesini izleyin.
+
+Eski composition'ların mantıksal tuvali 960×540 veya 1920×1080 kalabilir. Teslimat çözünürlüğü render sırasında `--scale` ile ayarlanır: 960×540 yatay tuval için `1.3333333333`, 1920×1080 veya 1080×1920 tuval için `0.6666666667` kullanılır.
