@@ -14,6 +14,7 @@ Bu belge ana video, Kurz/Lumi, Shorts ve Reels için ortak kuralları içerir. F
 - Her sahnede konuya özgü, amacı anlaşılır animasyon kullan. Akıcı easing/spring, eşzamanlı vurgu, uygun ikincil hareket ve gerektiğinde ölçülü derinlik/parçacık ekle.
 - Statik yer tutucu, ani hareket, titreme, flicker, kırpılma, gizli içerik ve okunaksız kompozisyon bırakma.
 - Bağlı çizgi, ok, etiket, nesne ve yüzeyleri bütün hareket aralığında incele; ayrılma, kayma, sıçrama, istenmeyen temas veya boşluk oluşmamalıdır.
+- Oklar ve bağlayıcı çizgiler metinlerin, ikonların, kalkanların, düğümlerin veya başka şekillerin üzerinden geçmemeli ve birbirleriyle üst üste binmemelidir. Her bağlantıya ayrı, okunabilir bir koridor ver; çizgiyi hedef şeklin merkezinde değil dış sınırında bitir ve ok ucunu hedefe doğru düzgün yönlendir.
 
 ## Zorunlu QA
 
@@ -27,7 +28,7 @@ Bu belge ana video, Kurz/Lumi, Shorts ve Reels için ortak kuralları içerir. F
 - Kalıcı çözünürlük standardı: bütün yatay videolar ve kapaklar `1280 × 720`; bütün dikey Shorts/Reels videoları `720 × 1280` teslim edilir. Kullanıcı açıkça farklı bir çözünürlük istemedikçe daha yüksek çözünürlük kullanma.
 - Eski composition'ların mantıksal tuvalini körlemesine değiştirme. En-boy oranını koruyarak Remotion `--scale` değerini hedef çözünürlüğe göre hesapla ve final dosyasını `ffprobe` ile doğrula.
 - Ana ve Kurz çıktıları ilgili konu klasöründe `out` altında birlikte tutulur. Kurz adı `<ana-video-adı>_kurz.mp4` olur.
-- Shorts çıktıları `out/shorts/<ana-video-adı>_shorts/` altında tutulur. Tek Short `<ana-video-adı>_shorts.mp4`, birden fazlası `_shorts_1`, `_shorts_2` biçiminde adlandırılır.
+- Shorts çıktıları `out/shorts/<ana-video-adı>_shorts/` altında tutulur. Tek Short `<ana-video-adı>_shorts.mp4`, birden fazlası `<ana-video-adı>_shorts_1.mp4`, `<ana-video-adı>_shorts_2.mp4` biçiminde adlandırılır. Ana video ve Kurz ise dersin ilgili konu klasöründe birlikte tutulur; örneğin `out/sosyal/<ana-video-adı>/`.
 - Final MP4'ü proje kökünde bırakma.
 - Yalnızca mevcut üretime ait geçici `preview*.mp4` ve `qa*` kare klasörlerini, final doğrulaması geçtikten sonra temizle. Başka konuya ait dosyalara dokunma.
 - Her teslim edilen format için konuya ve hedef kitleye uygun YouTube ve Instagram hashtag kümeleri hazırla; `<ana-video-adı>_hashtags.md` adıyla üretim metadatasının yanında sakla.

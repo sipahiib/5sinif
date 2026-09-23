@@ -1,0 +1,78 @@
+{
+  "main": [
+    {
+      "audioFrames": 634,
+      "frames": 646
+    },
+    {
+      "audioFrames": 763,
+      "frames": 775
+    },
+    {
+      "audioFrames": 824,
+      "frames": 836
+    },
+    {
+      "audioFrames": 941,
+      "frames": 953
+    },
+    {
+      "audioFrames": 818,
+      "frames": 830
+    },
+    {
+      "audioFrames": 723,
+      "frames": 735
+    },
+    {
+      "audioFrames": 715,
+      "frames": 727
+    },
+    {
+      "audioFrames": 851,
+      "frames": 863
+    }
+  ],
+  "kurz": [
+    {
+      "audioFrames": 498,
+      "frames": 510
+    },
+    {
+      "audioFrames": 465,
+      "frames": 477
+    },
+    {
+      "audioFrames": 402,
+      "frames": 414
+    },
+    {
+      "audioFrames": 428,
+      "frames": 440
+    },
+    {
+      "audioFrames": 377,
+      "frames": 389
+    },
+    {
+      "audioFrames": 379,
+      "frames": 379
+    }
+  ],
+  "shorts": [
+    {
+      "qEnd": 148,
+      "reveal": 298,
+      "aEnd": 733,
+      "congrats": 733,
+      "frames": 778
+    },
+    {
+      "qEnd": 152,
+      "reveal": 302,
+      "aEnd": 656,
+      "congrats": 656,
+      "frames": 701
+    }
+  ]
+}

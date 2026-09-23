@@ -16,6 +16,8 @@
 - İki karakteri birlikte yalnızca ana videonun kapanış bölümünde göster. Konuşmayan karakter nötr ilk kare ve hafif nefes hareketi kullanabilir.
 - `160 × 280` kaynak kutusunun oranını bozma. İbrahim'i sağ kenardan içeride tut; gövdesi ve gölgesi yatay güvenli alanın dışına çıkmamalıdır.
 - Karakterlerin altında veya yanında `Filiz` ve `İbrahim` ad etiketlerini gösterme.
+- Filiz ve İbrahim'in konuşma sprite'larında gövde, baş, ayak ve gölge kareler arasında yukarı-aşağı sıçramamalıdır. Karakter karelerini yarı saydam üst üste bindirerek çapraz harmanlama yapma; bu yöntem parlama/yanıp sönme üretir. Her anda tek, tam opak sprite karesi göster ve nefes hareketini düşük genlikli, kesintisiz easing/sinüs ile ilerlet.
+- Ana ders sahnelerinde sağ üst veya başka bir köşede sahne/sayfa numarası gösterme.
 
 ## Kanal kartı ve kapanış
 

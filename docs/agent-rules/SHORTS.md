@@ -3,6 +3,7 @@
 ## Görsel sistem ve çözünürlük
 
 - Final Shorts/Reels videosunu `720 × 1280` teslim et.
+- Shorts çıktısını `out/shorts/<ana-video-adı>_shorts/` altındaki konuya özel klasöre kaydet. Ana video ve Kurz kendi ders/konu klasöründe kalır. Birden fazla Short için dosya adlarında `_shorts_1`, `_shorts_2` sırasını kullan.
 - Açık mavi–beyaz/yumuşak mercan arka plan, hafif doku, beyaz yuvarlak kartlar, lacivert yazı, mavi/kırmızı vurgular ve yumuşak gölgeler kullan. Koyu Kurz görünümünü kullanma.
 - Referans uygulama olarak repoda izlenen güncel Shorts ortak bileşenlerini ve bu belgedeki kuralları kullan. `out` altındaki bir MP4'ü tek doğruluk kaynağı sayma.
 - Dikey alanı üst güvenli bölgeden alt güvenli bölgeye bilinçli doldur; gereksiz boş bant bırakma.
