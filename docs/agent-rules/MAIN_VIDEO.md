@@ -13,9 +13,11 @@
 - Yalnızca `public/images/filiz_2.gif` ve `public/images/ibrahim_2.gif` içindeki temiz, şeffaf 22 karelik animasyonları kullan. Eski PNG/çizim, beyaz zemin, boş sprite hücresi veya siyah artefakt gösterme.
 - Filiz frame 0'da render-blocking yüklemeyle görünür olmalıdır.
 - Her ders sahnesinde tam bir konuşan karakter göster; Filiz/İbrahim sırasını koru veya uygun biçimde dönüşümlü kullan. Ağız hareketi aktif sesle eşzamanlı olmalıdır.
+- Ana ders sahnelerinde Filiz'i sol, İbrahim'i sağ güvenli kenarda göster; karakter konuşurken içerik alanını karşı tarafa genişlet.
 - İki karakteri birlikte yalnızca ana videonun kapanış bölümünde göster. Konuşmayan karakter nötr ilk kare ve hafif nefes hareketi kullanabilir.
 - `160 × 280` kaynak kutusunun oranını bozma. İbrahim'i sağ kenardan içeride tut; gövdesi ve gölgesi yatay güvenli alanın dışına çıkmamalıdır.
 - Karakterlerin altında veya yanında `Filiz` ve `İbrahim` ad etiketlerini gösterme.
+- Karakter kartının altında dekoratif kırmızı–mavi renk çizgisi gösterme.
 - Filiz ve İbrahim'in konuşma sprite'larında gövde, baş, ayak ve gölge kareler arasında yukarı-aşağı sıçramamalıdır. Karakter karelerini yarı saydam üst üste bindirerek çapraz harmanlama yapma; bu yöntem parlama/yanıp sönme üretir. Her anda tek, tam opak sprite karesi göster ve nefes hareketini düşük genlikli, kesintisiz easing/sinüs ile ilerlet.
 - Ana ders sahnelerinde sağ üst veya başka bir köşede sahne/sayfa numarası gösterme.
 
@@ -24,5 +26,6 @@
 - Video en az 35 saniyeyse `src/previews/channel-lower-third/ChannelLowerThirdPreview.tsx` bileşenini `00:30–00:35` arasında anlatımı kesmeden göster.
 - Kartta `DERSKUTUSU32`, `youtube.com/@derskutusu32` ve `KANALA GİT` bulunur. Onaylı giriş/çıkış, shine, ilerleme vurgusu, tıklama ve aktif durum korunur; kart temel içeriği kapatmaz.
 - Her normal ana videoyu `src/previews/cta-option-1/CtaOptionOne.tsx` ile bitir. Filiz ve İbrahim karşılıklı konumlanır; beğen, abone ve zil sırasıyla canlanır.
+- Kapanış bileşenini ana videonun mantıksal tuvalini tamamen dolduracak ölçekte göster; küçük bir kart veya yarım tuval görünümü bırakma.
 - “Dersi beğendiysen desteğini gösterebilirsin.” cümlesini kullanma.
 - Ana video için ayrıca kapak/thumbnail üretme.
