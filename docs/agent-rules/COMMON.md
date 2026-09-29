@@ -8,6 +8,7 @@ Bu belge ana video, Kurz/Lumi, Shorts ve Reels için ortak kuralları içerir. F
 - Anlatıma selamlama veya “Merhaba arkadaşlar” gibi girişlerle başlama; doğrudan derse gir.
 - Sahne, konuşma, seçim, sayaç, cevap ve bitiş zamanlarını tahminî sabitlerden değil üretilen gerçek ses sürelerinden türet.
 - Filiz ve İbrahim için yerleşik Türkçe Edge TTS seslerine ders metni gönderme izni vardır; yeniden izin isteme.
+- Filiz ve İbrahim'in ana video, Kurz/Lumi, Shorts ve Reels dahil bütün seslendirmelerini Edge TTS `rate="-2%"` ile üret. Kullanıcı açıkça farklı bir hız istemedikçe başka hız kullanma.
 
 ## Görsel ve hareket kalitesi
 

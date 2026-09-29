@@ -1,0 +1,186 @@
+{
+  "main": [
+    {
+      "speaker": "filiz",
+      "title": "Geçmişin izlerini nasıl okuruz?",
+      "kind": "dig",
+      "lead": "Arkeolojik kazılar, yazıdan önceki yaşamı buluntularla aydınlatır.",
+      "points": [
+        "Yerleşmeler, mezarlar, araçlar ve resimler incelenir",
+        "Arkeoloji kazı buluntularını araştırır; bunu yapan uzmana arkeolog denir"
+      ],
+      "note": "Arkeoloji geçmiş toplumların maddi kalıntılarını inceler; arkeolog bu araştırmayı yapan uzmandır.",
+      "text": "Anadolu'nun ilk yerleşmelerindeki sosyal hayatı geçmişten kalan izlerle öğreniriz. Arkeologlar yerleşim yerlerini, mezarları, araç gereçleri ve doğal yaşam alanlarını araştırır. Özellikle yazıdan önceki dönem için arkeolojik kazıların buluntuları çok önemlidir. Not: Arkeoloji geçmiş toplumların maddi kalıntılarını inceler; arkeolog bu araştırmayı yapan uzmandır."
+    },
+    {
+      "speaker": "ibrahim",
+      "title": "Yazı, çağları ayıran eşik",
+      "kind": "timeline",
+      "lead": "Yazının icadı, tarih öncesi ile tarihî çağlar arasındaki sınırdır.",
+      "points": [
+        "Yazıdan önce: tarih öncesi • yazıdan sonra: tarihî çağlar",
+        "Tarih öncesinde taş, toprak, maden; tarihî çağlarda etkili olaylar"
+      ],
+      "note": "Milat; milattan önce ve milattan sonra yıllarını ayıran başka bir zaman başlangıcıdır. Yazının icadıyla aynı tarih değildir.",
+      "text": "Tarihi daha kolay incelemek için çağlara ayırırız. Yazının icadı yaklaşık milattan önce üç bin iki yüz yılına yerleştirilir. Yazıdan önceki dönem tarih öncesi, sonraki dönem tarihî çağlar olarak adlandırılır. Tarih öncesinde kullanılan taş, toprak ve maden gibi malzemeler; tarihî çağlarda ise toplumları etkileyen olaylar çağ ayrımında kullanılmıştır. Not: Milat, milattan önce ve milattan sonra yıllarını ayırır. Bu, yazının icadıyla aynı eşik değildir."
+    },
+    {
+      "speaker": "filiz",
+      "title": "Milat ve tarihî çağlar",
+      "kind": "eras",
+      "lead": "Çağ bir zaman dilimidir; Milat, MÖ ve MS zaman yönünü gösterir.",
+      "points": [
+        "İlk Çağ → Orta Çağ → Yeni Çağ → Yakın Çağ",
+        "375, 1453, 1789: ders şemasındaki çağ dönüm noktaları"
+      ],
+      "note": "Milattan Önce, milattan önceki yılları; Milattan Sonra, milattan sonraki yılları belirtir.",
+      "text": "Çağ, bir zaman dilimidir. Ders şemasında tarihî çağlar İlk Çağ, Orta Çağ, Yeni Çağ ve Yakın Çağ olarak sıralanır. Üç yüz yetmiş beş, bin dört yüz elli üç ve bin yedi yüz seksen dokuz, bu şemadaki dönüm noktalarıdır. Milat ise Hazreti İsa'nın doğumunu temel alan zaman başlangıcıdır. Not: Milattan Önce bu başlangıçtan önceki, Milattan Sonra da sonraki yılları anlatır."
+    },
+    {
+      "speaker": "ibrahim",
+      "title": "Göçebelikten yerleşik yaşama",
+      "kind": "settle",
+      "lead": "Su ve verimli toprak, insanları kalıcı yerleşmelere çekti.",
+      "points": [
+        "Önce avcı-toplayıcı yaşam, mağaralar ve taş aletler",
+        "Sonra tarım, hayvan evcilleştirme, köy, şehir ve ticaret"
+      ],
+      "note": "Karain ve Yarımburgaz mağaraları, Anadolu'da eski yaşam izleri taşır.",
+      "text": "İlk insanlar avcılık ve toplayıcılıkla geçinir, sık sık yer değiştirirdi. Mağaralarda ve ağaç kovuklarında barındılar; taş aletler yaptılar ve mağara resimleri bıraktılar. İklimin elverişli olduğu su kenarlarında tarım başlayınca hayvanlar da evcilleştirildi. Köyler, sonra şehirler ve ticaret gelişti. Not: Antalya'daki Karain ile İstanbul'daki Yarımburgaz mağaraları eski yaşam izleri taşır."
+    },
+    {
+      "speaker": "filiz",
+      "title": "Bereketli Hilal ve höyük",
+      "kind": "layers",
+      "lead": "Verimli topraklar yerleşmeleri büyüttü; üst üste kurulan köyler höyük oluşturdu.",
+      "points": [
+        "Mümbit, yani Bereketli Hilal: Dicle-Fırat çevresi ve Mezopotamya",
+        "Höyük: farklı dönemlerin yerleşim katmanlarından oluşan tepe"
+      ],
+      "note": "Höyük doğal bir tepe gibi görünebilir; içinde üst üste birikmiş yerleşim kalıntıları bulunur.",
+      "text": "Dicle ve Fırat çevresinden Güneydoğu Anadolu ve Mezopotamya'ya uzanan verimli alan, Mümbit yani Bereketli Hilal olarak anılır. İlk yerleşmeler için su ve verimli toprak belirleyiciydi. İnsanlar aynı yerde tekrar tekrar ev kurunca eski yapıların üzerinde yeni katmanlar birikti. Not: Bu üst üste yerleşim kalıntılarından oluşan tepeye höyük denir."
+    },
+    {
+      "speaker": "ibrahim",
+      "title": "Çayönü: üretime geçiş",
+      "kind": "cayonu",
+      "lead": "Diyarbakır Ergani'de avcı-toplayıcı yaşamdan tarım köyüne geçiş izlenir.",
+      "points": [
+        "Planlı, taş döşeli ve ızgara planlı yapılar",
+        "Buğday, mercimek, baklagiller; koyun ve keçi"
+      ],
+      "note": "Çayönü, tarım ve hayvancılığın gelişimini gösteren önemli bir yerleşmedir.",
+      "text": "Diyarbakır'ın Ergani ilçesindeki Çayönü, avcı-toplayıcı yaşamdan tarım ve hayvancılığa geçişi gösterir. Burada planlı, taş döşeli ve ızgara planlı yapılar bulunmuştur. Buğday, mercimek ve başka baklagiller yetiştirilmiş; koyun ve keçi beslenmiştir. Boynuzdan yapılmış orak sapı gibi buluntular, üretim hayatını anlamamıza yardım eder. Not: Çayönü, tarıma geçişi izleyebildiğimiz önemli yerleşmelerden biridir."
+    },
+    {
+      "speaker": "filiz",
+      "title": "Çatalhöyük: çatıdan giriş",
+      "kind": "catalhoyuk",
+      "lead": "Konya Çumra'da bitişik kerpiç evlerin kapıları çatılardaydı.",
+      "points": [
+        "Tek katlı, bitişik evlere merdivenle çatıdan girilirdi",
+        "Duvar resimleri ve çanak çömlek sosyal yaşama ışık tutar"
+      ],
+      "note": "Çatalhöyük UNESCO Dünya Mirası Listesi'ndedir; erken kentleşmenin önemli örneklerindendir.",
+      "text": "Konya'nın Çumra ilçesindeki Çatalhöyük'te evler tek katlı, bitişik ve kerpiçten yapılmıştı. Sokak düzeyinde kapı yerine, çatıdaki açıklıktan merdivenle içeri girilirdi. Duvar resimleri ve çanak çömlek buluntuları insanların günlük hayatını ve inançlarını anlamamıza yardım eder. Not: Çatalhöyük UNESCO Dünya Mirası Listesi'ndedir ve erken kentleşmenin önemli örneklerindendir."
+    },
+    {
+      "speaker": "ibrahim",
+      "title": "Hacılar: seramikte izler",
+      "kind": "hacilar",
+      "lead": "Burdur yakınındaki yerleşmede tarım, hayvancılık ve çömlekçilik görülür.",
+      "points": [
+        "Kare ve dikdörtgen planlı kerpiç evler; arpa ve buğday",
+        "Köpek, koyun, keçi, sığır; el yapımı geometrik boyalı seramik"
+      ],
+      "note": "Hacılar'ın boyalı çanak çömlekleri, dönemin üretim ve süsleme becerisini gösterir.",
+      "text": "Burdur yakınındaki Hacılar yerleşmesinde kare ve dikdörtgen planlı kerpiç evler vardı. İnsanlar arpa ve buğday yetiştirmiş; köpek, koyun, keçi ve sığır gibi hayvanlarla yaşamıştır. Elle yapılan, geometrik desenlerle boyanan seramikler bu yerin ayırt edici buluntularıdır. Not: Çanak çömlekler yalnız eşya değil, dönemin üretim ve süsleme becerisine dair kanıttır."
+    },
+    {
+      "speaker": "filiz",
+      "title": "Göbeklitepe: anıtsal buluşma alanı",
+      "kind": "gobekli",
+      "lead": "Şanlıurfa yakınındaki yaklaşık 12 bin yıllık yapılar, ritüeller hakkında düşündürür.",
+      "points": [
+        "T biçimli dikilitaşlarla çevrili anıtsal yapılar",
+        "2018'den beri UNESCO Dünya Mirası Listesi'nde"
+      ],
+      "note": "Göbeklitepe bir kent ya da sıradan konut alanı olarak anlatılmaz; anıtsal ritüel yapılarıyla öne çıkar.",
+      "text": "Şanlıurfa yakınındaki Göbeklitepe, yaklaşık on iki bin yıllık anıtsal yapılarıyla dikkat çeker. T biçimli dikilitaşlar, insanların birlikte yürüttüğü ritüeller hakkında ipuçları verir. Bu bulgular, büyük dinî yapıların ancak tarımdan ve kalıcı yerleşmeden sonra ortaya çıktığı düşüncesini tartışmaya açmıştır. Göbeklitepe iki bin on sekizde UNESCO Dünya Mirası Listesi'ne alındı. Not: Burayı bir kent ya da sıradan konut alanı gibi düşünmemeliyiz."
+    }
+  ],
+  "kurz": [
+    {
+      "speaker": "filiz",
+      "title": "TOPRAĞIN HAFIZASI",
+      "kind": "dig",
+      "facts": ["Kazı → buluntu → yorum", "Yazı öncesinin izleri"],
+      "text": "Lumi toprağın katmanlarına bakıyor: bir taş alet, bir ocak, bir duvar. Arkeologlar bu buluntulardan yazıdan önceki yaşamı anlamaya çalışır. Yazının icadı tarih öncesiyle tarihî çağlar arasında sınırdır; milat ise ayrı bir zaman başlangıcıdır."
+    },
+    {
+      "speaker": "ibrahim",
+      "title": "YERLEŞME ZİNCİRİ",
+      "kind": "settle",
+      "facts": ["Su + verimli toprak", "Tarım → köy → ticaret"],
+      "text": "Bir su damlası verimli toprağa düşüyor; avcı-toplayıcı grubun yanında tarlalar, evcil hayvanlar ve köyler beliriyor. Bereketli Hilal bu değişimin önemli bölgelerinden. Aynı yerde üst üste kurulan yerleşimlerin biriktirdiği tepeye höyük denir."
+    },
+    {
+      "speaker": "filiz",
+      "title": "ÇAYÖNÜ / ÇATALHÖYÜK",
+      "kind": "compare1",
+      "facts": ["Ergani: üretime geçiş", "Çumra: çatıdan giriş"],
+      "text": "Lumi iki farklı izi karşılaştırıyor. Diyarbakır Ergani'deki Çayönü, tarım ve hayvancılığa geçişi; planlı ve ızgara biçimli yapıları gösteriyor. Konya Çumra'daki Çatalhöyük'te ise bitişik kerpiç evlere çatıdan merdivenle giriliyordu."
+    },
+    {
+      "speaker": "ibrahim",
+      "title": "HACILAR / GÖBEKLİTEPE",
+      "kind": "compare2",
+      "facts": ["Burdur: boyalı seramik", "Şanlıurfa: T dikilitaşlar"],
+      "text": "Burdur'daki Hacılar, el yapımı geometrik boyalı seramikleri ve tarım hayatıyla akılda kalır. Şanlıurfa'daki Göbeklitepe'nin T biçimli anıtsal dikilitaşlarıysa ritüelleri düşündürür. Bu alanı bir kent olarak görmeyiz; buluntular, yerleşme ve inanç ilişkisinin sandığımızdan karmaşık olduğunu gösterir."
+    }
+  ],
+  "kurz2": [
+    {
+      "speaker": "filiz",
+      "title": "TOPRAK KONUŞUYOR",
+      "kind": "layers",
+      "text": "Toprak açıldıkça taş aletler, çanaklar ve duvar izleri geçmişi anlatır."
+    },
+    {
+      "speaker": "ibrahim",
+      "title": "BİR TOHUM, BİR KÖY",
+      "kind": "seed",
+      "text": "Su ve verimli toprak, avcı toplayıcıları tarıma ve kalıcı köylere taşıdı."
+    },
+    {
+      "speaker": "filiz",
+      "title": "ÜÇ YER, ÜÇ İPUCU",
+      "kind": "sites",
+      "text": "Çayönü tarımı, Hacılar boyalı seramiği, Çatalhöyük çatıdan girilen bitişik evleri gösterir."
+    },
+    {
+      "speaker": "ibrahim",
+      "title": "TAŞLARIN ÇEMBERİ",
+      "kind": "ritual",
+      "text": "Göbeklitepe'nin T dikilitaşları, yerleşme ve inanç ilişkisinin çok erken kurulduğunu düşündürür."
+    }
+  ],
+  "shorts": [
+    {
+      "topic": "ÇATALHÖYÜK",
+      "question": "Hangi Anadolu yerleşmesinde bitişik evlere çatıdaki açıklıktan merdivenle girilirdi?",
+      "strip": "YERLEŞME • MİMARİ • İPUCU",
+      "choices": ["Çayönü", "Hacılar", "Çatalhöyük", "Göbeklitepe"],
+      "correct": 2,
+      "answer": "Doğru cevap C: Çatalhöyük. Konya Çumra'daki bitişik kerpiç evlere çatıdan girilirdi. Çayönü tarıma geçiş, Hacılar boyalı seramik, Göbeklitepe T biçimli dikilitaşlarla öne çıkar."
+    },
+    {
+      "topic": "İLK YERLEŞMELER",
+      "question": "Yaklaşık on iki bin yıllık, T biçimli anıtsal dikilitaşlarıyla tanınan alan hangisidir?",
+      "strip": "ARKEOLOJİ • ZAMAN • YAPI",
+      "choices": ["Hacılar", "Göbeklitepe", "Çatalhöyük", "Çayönü"],
+      "correct": 1,
+      "answer": "Doğru cevap B: Göbeklitepe. Şanlıurfa yakınındaki bu alan, yaklaşık on iki bin yıllık T biçimli anıtsal dikilitaşlarıyla tanınır. Burayı bir kent ya da sıradan konut alanı olarak değil, ritüel yapılarıyla öne çıkan bir alan olarak düşünmeliyiz."
+    }
+  ]
+}
