@@ -39,20 +39,36 @@
   ],
   "kurz": [
     {
-      "audioFrames": 532,
-      "frames": 544
+      "audioFrames": 505,
+      "frames": 517
     },
     {
-      "audioFrames": 515,
-      "frames": 527
+      "audioFrames": 531,
+      "frames": 543
+    },
+    {
+      "audioFrames": 562,
+      "frames": 574
     },
     {
       "audioFrames": 510,
       "frames": 522
     },
     {
-      "audioFrames": 621,
-      "frames": 621
+      "audioFrames": 577,
+      "frames": 589
+    },
+    {
+      "audioFrames": 669,
+      "frames": 681
+    },
+    {
+      "audioFrames": 525,
+      "frames": 537
+    },
+    {
+      "audioFrames": 710,
+      "frames": 710
     }
   ],
   "shorts": [

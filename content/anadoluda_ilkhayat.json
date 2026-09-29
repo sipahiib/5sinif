@@ -113,30 +113,58 @@
     {
       "speaker": "filiz",
       "title": "TOPRAĞIN HAFIZASI",
-      "kind": "dig",
+      "kind": "layers",
       "facts": ["Kazı → buluntu → yorum", "Yazı öncesinin izleri"],
-      "text": "Lumi toprağın katmanlarına bakıyor: bir taş alet, bir ocak, bir duvar. Arkeologlar bu buluntulardan yazıdan önceki yaşamı anlamaya çalışır. Yazının icadı tarih öncesiyle tarihî çağlar arasında sınırdır; milat ise ayrı bir zaman başlangıcıdır."
+      "text": "Lumi toprağı bir hafıza kitabı gibi açıyor. Taş alet, ocak, çanak ve duvar izleri yan yana gelince yazıdan önceki hayat görünür oluyor. Arkeoloji bu maddi kalıntıları inceler; bu araştırmayı yapan uzmana arkeolog denir."
     },
     {
       "speaker": "ibrahim",
-      "title": "YERLEŞME ZİNCİRİ",
-      "kind": "settle",
-      "facts": ["Su + verimli toprak", "Tarım → köy → ticaret"],
-      "text": "Bir su damlası verimli toprağa düşüyor; avcı-toplayıcı grubun yanında tarlalar, evcil hayvanlar ve köyler beliriyor. Bereketli Hilal bu değişimin önemli bölgelerinden. Aynı yerde üst üste kurulan yerleşimlerin biriktirdiği tepeye höyük denir."
+      "title": "İKİ AYRI ZAMAN EŞİĞİ",
+      "kind": "timeline",
+      "facts": ["Yazı: yaklaşık MÖ 3200", "Milat ayrı bir başlangıç"],
+      "text": "Zaman çizgisinde iki eşiği karıştırmıyoruz. Yazının yaklaşık milattan önce üç bin iki yüz yılında icadı, tarih öncesiyle tarihî çağları ayırır. Milat ise milattan önce ve milattan sonra yıllarını ayıran başka bir başlangıçtır."
     },
     {
       "speaker": "filiz",
-      "title": "ÇAYÖNÜ / ÇATALHÖYÜK",
-      "kind": "compare1",
-      "facts": ["Ergani: üretime geçiş", "Çumra: çatıdan giriş"],
-      "text": "Lumi iki farklı izi karşılaştırıyor. Diyarbakır Ergani'deki Çayönü, tarım ve hayvancılığa geçişi; planlı ve ızgara biçimli yapıları gösteriyor. Konya Çumra'daki Çatalhöyük'te ise bitişik kerpiç evlere çatıdan merdivenle giriliyordu."
+      "title": "GÖÇEBELİKTEN KÖYE",
+      "kind": "seed",
+      "facts": ["Avcı-toplayıcı yaşam", "Tarım • hayvancılık • köy"],
+      "text": "Başlangıçta insanlar avcılık ve toplayıcılıkla geçiniyor, mağaralarda barınıyor ve sık sık yer değiştiriyordu. Su kaynaklarının çevresinde tarım başlayınca hayvanlar evcilleştirildi. Kalıcı köyler, üretim, iş bölümü ve ticaret böyle gelişti."
     },
     {
       "speaker": "ibrahim",
-      "title": "HACILAR / GÖBEKLİTEPE",
-      "kind": "compare2",
-      "facts": ["Burdur: boyalı seramik", "Şanlıurfa: T dikilitaşlar"],
-      "text": "Burdur'daki Hacılar, el yapımı geometrik boyalı seramikleri ve tarım hayatıyla akılda kalır. Şanlıurfa'daki Göbeklitepe'nin T biçimli anıtsal dikilitaşlarıysa ritüelleri düşündürür. Bu alanı bir kent olarak görmeyiz; buluntular, yerleşme ve inanç ilişkisinin sandığımızdan karmaşık olduğunu gösterir."
+      "title": "BEREKETLİ HİLAL VE HÖYÜK",
+      "kind": "mound",
+      "facts": ["Dicle–Fırat çevresi", "Üst üste yerleşim katmanları"],
+      "text": "Dicle ve Fırat çevresinden Mezopotamya'ya uzanan verimli kuşak, Bereketli Hilal olarak bilinir. İnsanlar aynı yerde yeniden ev kurdukça eski yapıların üzerinde katmanlar birikti. Bu yerleşim tepelerine höyük denir."
+    },
+    {
+      "speaker": "filiz",
+      "title": "ÇAYÖNÜ: ÜRETİMİN PLANI",
+      "kind": "cayonu",
+      "facts": ["Diyarbakır • Ergani", "Izgara plan • tarım • hayvancılık"],
+      "text": "Diyarbakır Ergani'deki Çayönü, avcı toplayıcı yaşamdan üretime geçişi gösterir. Planlı, taş döşeli ve ızgara biçimli yapılar kuruldu. Buğday, mercimek ve baklagiller yetiştirildi; koyun ve keçi beslendi. Boynuzdan orak sapı da üretimin kanıtıdır."
+    },
+    {
+      "speaker": "ibrahim",
+      "title": "ÇATALHÖYÜK: ÇATIDAKİ KAPI",
+      "kind": "catalhoyuk",
+      "facts": ["Konya • Çumra", "Bitişik kerpiç evler"],
+      "text": "Konya Çumra'daki Çatalhöyük'te tek katlı kerpiç evler birbirine bitişikti. Sokak düzeyinde kapı yoktu; eve çatıdaki açıklıktan merdivenle giriliyordu. Duvar resimleri ve çanak çömlekler günlük hayatı ve inançları anlamamızı sağlar. Burası erken kentleşmenin önemli örneklerindendir."
+    },
+    {
+      "speaker": "filiz",
+      "title": "HACILAR: SERAMİKTEKİ İZ",
+      "kind": "hacilar",
+      "facts": ["Burdur", "Boyalı geometrik seramik"],
+      "text": "Burdur yakınındaki Hacılar'da kare ve dikdörtgen kerpiç evler vardı. İnsanlar arpa ve buğday yetiştiriyor; koyun, keçi ve sığır besliyordu. Elle yapılan geometrik desenli seramikler, üretim becerisini ve estetik anlayışı bugüne taşır."
+    },
+    {
+      "speaker": "ibrahim",
+      "title": "GÖBEKLİTEPE: TAŞLARIN ÇEMBERİ",
+      "kind": "ritual",
+      "facts": ["Yaklaşık 12 bin yıl", "T dikilitaşlar • ortak ritüel"],
+      "text": "Şanlıurfa yakınındaki Göbeklitepe, yaklaşık on iki bin yıllık anıtsal yapılarıyla dikkat çeker. T biçimli dikilitaşlar ortak ritüelleri düşündürür. Bu alanı kent ya da sıradan konut olarak görmeyiz. Bulgular, büyük ritüel yapılarla tarım ve yerleşme arasındaki ilişkinin sanılandan daha karmaşık olduğunu gösterir."
     }
   ],
   "kurz2": [

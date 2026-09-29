@@ -38,8 +38,14 @@ async def main():
     out = ROOT / "src/anadoluda-ilkhayat/timings.json"
     shorts_only = "--shorts-only" in sys.argv
     kurz2_only = "--kurz2-only" in sys.argv
-    timings = json.loads(out.read_text()) if shorts_only or kurz2_only else {"main": [], "kurz": [], "shorts": []}
-    if not shorts_only and not kurz2_only:
+    kurz_only = "--kurz-only" in sys.argv
+    timings = json.loads(out.read_text()) if shorts_only or kurz2_only or kurz_only else {"main": [], "kurz": [], "shorts": []}
+    if kurz_only:
+        timings["kurz"] = []
+        for i, scene in enumerate(DATA["kurz"]):
+            audio = await make(scene["text"], scene["speaker"], BASE / "kurz" / f"{i+1:02d}.mp3")
+            timings["kurz"].append({"audioFrames": audio, "frames": audio + (0 if i == len(DATA["kurz"])-1 else 12)})
+    elif not shorts_only and not kurz2_only:
         for group in ("main", "kurz"):
             for i, scene in enumerate(DATA[group]):
                 af = await make(scene["text"], scene["speaker"], BASE / group / f"{i+1:02d}.mp3")
@@ -48,6 +54,8 @@ async def main():
     kurz_frames = sum(t["frames"] for t in timings["kurz"])
     if main_frames > 9000:
         raise RuntimeError(f"Ana video 300 saniyeyi aşıyor: {main_frames / FPS:.1f}s")
+    if kurz_frames < math.ceil(main_frames * .50):
+        raise RuntimeError(f"Kurz %50 alt sınırının altında: {kurz_frames/main_frames:.1%}")
     if kurz_frames > math.floor(main_frames * .70):
         raise RuntimeError(f"Kurz %70 sınırını aşıyor: {kurz_frames/main_frames:.1%}")
     if kurz2_only:
@@ -61,7 +69,7 @@ async def main():
         for i, audio in enumerate(audio_frames):
             tail = remaining // len(audio_frames) + (1 if i < remaining % len(audio_frames) else 0)
             timings["kurz2"].append({"audioFrames": audio, "frames": audio + tail})
-    elif shorts_only or not kurz2_only:
+    elif shorts_only:
         timings["shorts"] = []
         for i, item in enumerate(DATA["shorts"], 1):
             target = BASE / "shorts" / str(i)
@@ -74,6 +82,8 @@ async def main():
     out.write_text(json.dumps(timings, ensure_ascii=False, indent=2) + "\n")
     if kurz2_only:
         print(f"kurz2={sum(x['frames'] for x in timings['kurz2'])/FPS:.1f}s audio={sum(x['audioFrames'] for x in timings['kurz2'])/FPS:.1f}s")
+    elif kurz_only:
+        print(f"kurz={sum(x['frames'] for x in timings['kurz'])/FPS:.1f}s")
     else:
         print(f"main={main_frames/FPS:.1f}s kurz={kurz_frames/FPS:.1f}s short={timings['shorts'][0]['frames']/FPS:.1f}s")
 

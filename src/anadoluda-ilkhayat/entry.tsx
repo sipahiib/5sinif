@@ -1,7 +1,7 @@
 import React from "react";
 import { Composition, registerRoot } from "remotion";
-import { Main, Kurz, Short, mainDuration, kurzDuration } from "./Video";
-import { Kurz2 } from "./Kurz2";
+import { Main, Short, mainDuration } from "./Video";
+import { Kurz2, VividKurz, vividKurzDuration } from "./Kurz2";
 import timings from "./timings.json";
 const Root = () => (
   <>
@@ -15,11 +15,11 @@ const Root = () => (
     />
     <Composition
       id="AnadoludaIlkHayatKurz"
-      component={Kurz}
+      component={VividKurz}
       width={1920}
       height={1080}
       fps={30}
-      durationInFrames={kurzDuration()}
+      durationInFrames={vividKurzDuration()}
     />
     <Composition
       id="AnadoludaIlkHayatKurz2"
