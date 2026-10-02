@@ -5,10 +5,10 @@ Bu dosya kısa bir yönlendiricidir. Görevle ilgisiz standart dosyalarını oku
 ## Göreve göre okunacak kurallar
 
 1. Her video üretimi veya video değişikliğinde önce `docs/agent-rules/COMMON.md` dosyasını oku.
-2. Ana video için ayrıca `docs/agent-rules/MAIN_VIDEO.md` dosyasını oku.
+2. Ana video için ayrıca `docs/agent-rules/MAIN_VIDEO.md` ve `design.md` dosyalarını oku.
 3. Kurz/Lumi için ayrıca `docs/agent-rules/KURZ_LUMI.md` dosyasını oku.
 4. Shorts veya Reels için ayrıca `docs/agent-rules/SHORTS.md` dosyasını oku.
-5. Yeni bir ana video istenirse, kullanıcı aksini söylemedikçe ana video + Kurz/Lumi + en az bir Short üretileceğinden dört dosyanın tamamını oku.
+5. Yeni bir ana video istenirse, kullanıcı aksini söylemedikçe ana video + Kurz/Lumi + en az bir Short üretileceğinden dört profil/ortak kural dosyasının tamamını ve `design.md` dosyasını oku.
 6. Yalnızca dokümantasyon, altyapı veya video dışı kod değişikliğinde sadece görevle doğrudan ilgili dosyaları incele; video standartlarını gereksiz yere yükleme.
 
 ## Üretim ölçeği ve ajan kullanımı

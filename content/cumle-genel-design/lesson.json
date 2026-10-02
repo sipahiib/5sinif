@@ -1,0 +1,231 @@
+[
+  {
+    "id": "tamamlama",
+    "title": "Eksik parçayı bul",
+    "speaker": "filiz",
+    "kind": "intro",
+    "theme": "light",
+    "parts": [
+      "Cümleyi tamamlamak, eksik parçayı yerine yerleştirmektir. Boşluk başta, ortada ya da sonda olabilir.",
+      "Sözcük veya sözcük öbeği seçeriz. Parça hem anlama hem cümlenin yapısına uymalıdır.",
+      "Sözcük anlamı, deyimler ve sözcük türleri doğru parçayı bulmamıza yardım eder."
+    ]
+  },
+  {
+    "id": "ogretmen",
+    "title": "Anlamı takip et",
+    "speaker": "ibrahim",
+    "kind": "fill",
+    "theme": "light",
+    "before": "",
+    "answer": "Öğretmen",
+    "after": "yeni nesillerin yetişmesinde\nen önemli görevi üstlenir.",
+    "hint": "Kimden söz ediliyor?",
+    "parts": [
+      "Yeni nesillerin yetişmesinde en önemli görevi üstlenir. Kimden söz edildiği eksik.",
+      "Öğretmen sözcüğüyle tamamlayabiliriz. Öğretmen, yeni nesillerin yetişmesinde en önemli görevi üstlenir."
+    ]
+  },
+  {
+    "id": "mucit",
+    "title": "Yapıya da dikkat et",
+    "speaker": "filiz",
+    "kind": "fill",
+    "theme": "dark",
+    "before": "Ampulü bulan",
+    "answer": "mucit",
+    "after": "o zamanlar oldukça gençti.",
+    "hint": "Boşluğa bir kişi adı veya kişi bildiren sözcük gelir.",
+    "parts": [
+      "Kaynak alıştırmada, ampulü bulan, boşluk, o zamanlar oldukça gençti, deniyor. Bir kişi bildiren sözcük arıyoruz.",
+      "Mucit sözcüğü boşluğa uyar. Burada tarih bilgisini değil, cümlenin yapısını inceliyoruz."
+    ]
+  },
+  {
+    "id": "renk",
+    "title": "Sözcükler birlikte anlam kazanır",
+    "speaker": "ibrahim",
+    "kind": "fill",
+    "theme": "light",
+    "before": "Ressamın bu resminde\nâdeta bir",
+    "answer": "renk",
+    "after": "cümbüşü yaşanıyor.",
+    "hint": "Renk cümbüşü → pek çok rengin bir arada olması",
+    "parts": [
+      "Ressamın bu resminde âdeta bir, boşluk, cümbüşü yaşanıyor. Resim ve cümbüş sözcüklerini düşün.",
+      "Renk sözcüğü anlamı tamamlar. Renk cümbüşü, birçok rengin bir arada bulunmasıdır."
+    ]
+  },
+  {
+    "id": "calismak",
+    "title": "Sondaki boşluğu tamamla",
+    "speaker": "filiz",
+    "kind": "fill",
+    "theme": "light",
+    "before": "Başarmanın tek yolu",
+    "answer": "çalışmaktır.",
+    "after": "",
+    "hint": "Çalışmak → çalışmaktır: yargı tamamlanır.",
+    "parts": [
+      "Başarmanın tek yolu, diye başlayan cümlenin sonu eksik. Yargıyı tamamlamalıyız.",
+      "Çalışmaktır diyebiliriz. Düzenli çalışmaktır ifadesi de sözcük öbeğiyle tamamlamaya örnektir."
+    ]
+  },
+  {
+    "id": "sair",
+    "title": "Birden fazla uygun cevap olabilir",
+    "speaker": "ibrahim",
+    "kind": "fill",
+    "theme": "dark",
+    "before": "",
+    "answer": "Şair",
+    "after": "şiirinde hüzünlü bir tablo çizer.",
+    "hint": "Seçimini cümlenin tamamını okuyarak kontrol et.",
+    "parts": [
+      "Şiirinde hüzünlü bir tablo çizer. Başına şair sözcüğünü getirebiliriz.",
+      "Farklı uygun cevaplar olabilir. Cümlenin tamamını okuyup anlamı ve yapıyı kontrol et."
+    ]
+  },
+  {
+    "id": "cumle",
+    "title": "Bir sözcük de cümle olabilir",
+    "speaker": "filiz",
+    "kind": "definition",
+    "theme": "light",
+    "parts": [
+      "Cümle; bir düşünceyi, duyguyu, dileği, isteği, haberi veya öneriyi tam bir yargıyla anlatır.",
+      "Bir sözcükten ya da sözcük dizisinden oluşabilir. Geldim, tek başına bir cümledir. Bugün okula geldim de bir cümledir."
+    ]
+  },
+  {
+    "id": "konu",
+    "title": "Konu: Neyden söz ediliyor?",
+    "speaker": "ibrahim",
+    "kind": "topic",
+    "theme": "light",
+    "parts": [
+      "Konu, üzerinde durulan duygu veya düşüncedir. Bu cümlede neyden söz ediliyor, diye sorarız.",
+      "Çocuğa küçük şeylerden zevk almasını öğreten, ona büyük bir servet bırakmış olur.",
+      "Konu, küçük şeylerle mutlu olmanın önemi. Konuyu sözcük ya da sözcük öbeğiyle belirtiriz; tam bir cümleyle yazmayız."
+    ]
+  },
+  {
+    "id": "mesaj",
+    "title": "Ana düşünce: Mesaj ne?",
+    "speaker": "filiz",
+    "kind": "message",
+    "theme": "dark",
+    "parts": [
+      "Ana düşünce, verilmek istenen mesajdır. Konuyla ilgili vurgulanmak istenen nedir, diye sorarız.",
+      "Düşünmediğim zaman, yaşamadığım zamandır. Düşünmek ve yaşamak anahtar sözcüklerine dikkat et.",
+      "Mesaj: Düşünmek hayati önem taşır. Ana düşünce bir yargı bildirir."
+    ]
+  },
+  {
+    "id": "ayrim",
+    "title": "Konu ile mesajı ayır",
+    "speaker": "ibrahim",
+    "kind": "compare",
+    "theme": "light",
+    "parts": [
+      "Konu, düşünmenin önemi. Bu bir sözcük öbeği.",
+      "Ana düşünce, düşünmek hayati önem taşır. Bu, tam bir yargı. Konu ne hakkında olduğunu, ana düşünce mesajı söyler."
+    ]
+  },
+  {
+    "id": "yuklem",
+    "title": "Cümleyi anlamına göre kur",
+    "speaker": "filiz",
+    "kind": "predicate",
+    "theme": "light",
+    "parts": [
+      "Sözcükleri anlam ilişkisine göre birleştiririz. Kurallı cümlede yüklem, yani yargıyı taşıyan bölüm, sondadır.",
+      "Ödevlerini unutunca arkadaşını aradı. Yüklem, aradı. Değerlerine her zaman sahip çıkan biridir. Yüklem, biridir.",
+      "Her cümle kurallı değildir. Bu alıştırmalarda anlamlı ve kurallı cümle oluşturuyoruz."
+    ]
+  },
+  {
+    "id": "gulmek",
+    "title": "Sözcükleri yerine taşı",
+    "speaker": "ibrahim",
+    "kind": "order",
+    "theme": "dark",
+    "words": [
+      "göstergesidir",
+      "mutluluğun",
+      "gülümsemek",
+      "en",
+      "çok"
+    ],
+    "order": [
+      2,
+      3,
+      4,
+      1,
+      0
+    ],
+    "parts": [
+      "Göstergesidir, mutluluğun, gülümsemek, en, çok. Birlikte anlam kazanan sözcükleri bul: en çok.",
+      "Gülümsemek en çok mutluluğun göstergesidir. Yüklem sonda. Sıra: üç, dört, beş, iki, bir."
+    ]
+  },
+  {
+    "id": "saygi",
+    "title": "Anlam bağlarını koru",
+    "speaker": "filiz",
+    "kind": "order",
+    "theme": "light",
+    "words": [
+      "unsurudur",
+      "sağlıklı",
+      "iletişimin",
+      "saygı",
+      "vazgeçilmez"
+    ],
+    "order": [
+      3,
+      1,
+      2,
+      4,
+      0
+    ],
+    "parts": [
+      "Unsurudur, sağlıklı, iletişimin, saygı, vazgeçilmez. Sağlıklı iletişim sözcüklerinin anlam bağına dikkat et.",
+      "Saygı, sağlıklı iletişimin vazgeçilmez unsurudur. Sıra: dört, iki, üç, beş, bir."
+    ]
+  },
+  {
+    "id": "yardim",
+    "title": "Son kez birlikte sıralayalım",
+    "speaker": "ibrahim",
+    "kind": "order",
+    "theme": "light",
+    "words": [
+      "toplumsal",
+      "yardımlaşma",
+      "huzuru",
+      "artırır"
+    ],
+    "order": [
+      1,
+      0,
+      2,
+      3
+    ],
+    "parts": [
+      "Toplumsal, yardımlaşma, huzuru, artırır. Artırır sözcüğü yargıyı tamamlıyor.",
+      "Yardımlaşma toplumsal huzuru artırır. Sıra: iki, bir, üç, dört. Yüklem sonda."
+    ]
+  },
+  {
+    "id": "ozet",
+    "title": "Dört adımda cümle",
+    "speaker": "filiz",
+    "kind": "recap",
+    "theme": "dark",
+    "parts": [
+      "Tamamlarken anlam ve yapıyı birlikte kontrol et. Konuyu bulurken neyden söz edildiğini sor.",
+      "Ana düşüncede mesajı bul. Kurallı cümle oluştururken anlam bağlarını koru ve yüklemi sona getir."
+    ]
+  }
+]

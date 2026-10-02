@@ -1,0 +1,470 @@
+{
+  "fps": 30,
+  "lessonFrames": 8772,
+  "durationInFrames": 8982,
+  "scenes": [
+    {
+      "id": "tamamlama",
+      "title": "Eksik parçayı bul",
+      "speaker": "filiz",
+      "kind": "intro",
+      "theme": "light",
+      "parts": [
+        {
+          "text": "Cümleyi tamamlamak, eksik parçayı yerine yerleştirmektir. Boşluk başta, ortada ya da sonda olabilir.",
+          "audio": "audio/turkce/cumle-genel-design/tamamlama-0-ec4cb839.mp3",
+          "from": 0,
+          "frames": 249,
+          "seconds": 8.28
+        },
+        {
+          "text": "Sözcük veya sözcük öbeği seçeriz. Parça hem anlama hem cümlenin yapısına uymalıdır.",
+          "audio": "audio/turkce/cumle-genel-design/tamamlama-1-f8e510f5.mp3",
+          "from": 257,
+          "frames": 228,
+          "seconds": 7.584
+        },
+        {
+          "text": "Sözcük anlamı, deyimler ve sözcük türleri doğru parçayı bulmamıza yardım eder.",
+          "audio": "audio/turkce/cumle-genel-design/tamamlama-2-2d31d536.mp3",
+          "from": 493,
+          "frames": 186,
+          "seconds": 6.168
+        }
+      ],
+      "from": 0,
+      "frames": 697
+    },
+    {
+      "id": "ogretmen",
+      "title": "Anlamı takip et",
+      "speaker": "ibrahim",
+      "kind": "fill",
+      "theme": "light",
+      "before": "",
+      "answer": "Öğretmen",
+      "after": "yeni nesillerin yetişmesinde\nen önemli görevi üstlenir.",
+      "hint": "Kimden söz ediliyor?",
+      "parts": [
+        {
+          "text": "Yeni nesillerin yetişmesinde en önemli görevi üstlenir. Kimden söz edildiği eksik.",
+          "audio": "audio/turkce/cumle-genel-design/ogretmen-0-083409a9.mp3",
+          "from": 0,
+          "frames": 224,
+          "seconds": 7.44
+        },
+        {
+          "text": "Öğretmen sözcüğüyle tamamlayabiliriz. Öğretmen, yeni nesillerin yetişmesinde en önemli görevi üstlenir.",
+          "audio": "audio/turkce/cumle-genel-design/ogretmen-1-64681b5a.mp3",
+          "from": 232,
+          "frames": 272,
+          "seconds": 9.048
+        }
+      ],
+      "from": 697,
+      "frames": 522
+    },
+    {
+      "id": "mucit",
+      "title": "Yapıya da dikkat et",
+      "speaker": "filiz",
+      "kind": "fill",
+      "theme": "dark",
+      "before": "Ampulü bulan",
+      "answer": "mucit",
+      "after": "o zamanlar oldukça gençti.",
+      "hint": "Boşluğa bir kişi adı veya kişi bildiren sözcük gelir.",
+      "parts": [
+        {
+          "text": "Kaynak alıştırmada, ampulü bulan, boşluk, o zamanlar oldukça gençti, deniyor. Bir kişi bildiren sözcük arıyoruz.",
+          "audio": "audio/turkce/cumle-genel-design/mucit-0-545dac0c.mp3",
+          "from": 0,
+          "frames": 276,
+          "seconds": 9.192
+        },
+        {
+          "text": "Mucit sözcüğü boşluğa uyar. Burada tarih bilgisini değil, cümlenin yapısını inceliyoruz.",
+          "audio": "audio/turkce/cumle-genel-design/mucit-1-16b552e5.mp3",
+          "from": 284,
+          "frames": 232,
+          "seconds": 7.728
+        }
+      ],
+      "from": 1219,
+      "frames": 534
+    },
+    {
+      "id": "renk",
+      "title": "Sözcükler birlikte anlam kazanır",
+      "speaker": "ibrahim",
+      "kind": "fill",
+      "theme": "light",
+      "before": "Ressamın bu resminde\nâdeta bir",
+      "answer": "renk",
+      "after": "cümbüşü yaşanıyor.",
+      "hint": "Renk cümbüşü → pek çok rengin bir arada olması",
+      "parts": [
+        {
+          "text": "Ressamın bu resminde âdeta bir, boşluk, cümbüşü yaşanıyor. Resim ve cümbüş sözcüklerini düşün.",
+          "audio": "audio/turkce/cumle-genel-design/renk-0-f968701e.mp3",
+          "from": 0,
+          "frames": 263,
+          "seconds": 8.76
+        },
+        {
+          "text": "Renk sözcüğü anlamı tamamlar. Renk cümbüşü, birçok rengin bir arada bulunmasıdır.",
+          "audio": "audio/turkce/cumle-genel-design/renk-1-addc6718.mp3",
+          "from": 271,
+          "frames": 225,
+          "seconds": 7.488
+        }
+      ],
+      "from": 1753,
+      "frames": 514
+    },
+    {
+      "id": "calismak",
+      "title": "Sondaki boşluğu tamamla",
+      "speaker": "filiz",
+      "kind": "fill",
+      "theme": "light",
+      "before": "Başarmanın tek yolu",
+      "answer": "çalışmaktır.",
+      "after": "",
+      "hint": "Çalışmak → çalışmaktır: yargı tamamlanır.",
+      "parts": [
+        {
+          "text": "Başarmanın tek yolu, diye başlayan cümlenin sonu eksik. Yargıyı tamamlamalıyız.",
+          "audio": "audio/turkce/cumle-genel-design/calismak-0-1c31df4d.mp3",
+          "from": 0,
+          "frames": 211,
+          "seconds": 7.008
+        },
+        {
+          "text": "Çalışmaktır diyebiliriz. Düzenli çalışmaktır ifadesi de sözcük öbeğiyle tamamlamaya örnektir.",
+          "audio": "audio/turkce/cumle-genel-design/calismak-1-4559f16f.mp3",
+          "from": 219,
+          "frames": 237,
+          "seconds": 7.872
+        }
+      ],
+      "from": 2267,
+      "frames": 474
+    },
+    {
+      "id": "sair",
+      "title": "Birden fazla uygun cevap olabilir",
+      "speaker": "ibrahim",
+      "kind": "fill",
+      "theme": "dark",
+      "before": "",
+      "answer": "Şair",
+      "after": "şiirinde hüzünlü bir tablo çizer.",
+      "hint": "Seçimini cümlenin tamamını okuyarak kontrol et.",
+      "parts": [
+        {
+          "text": "Şiirinde hüzünlü bir tablo çizer. Başına şair sözcüğünü getirebiliriz.",
+          "audio": "audio/turkce/cumle-genel-design/sair-0-ed030bca.mp3",
+          "from": 0,
+          "frames": 206,
+          "seconds": 6.864
+        },
+        {
+          "text": "Farklı uygun cevaplar olabilir. Cümlenin tamamını okuyup anlamı ve yapıyı kontrol et.",
+          "audio": "audio/turkce/cumle-genel-design/sair-1-4edc9fc1.mp3",
+          "from": 214,
+          "frames": 232,
+          "seconds": 7.704
+        }
+      ],
+      "from": 2741,
+      "frames": 464
+    },
+    {
+      "id": "cumle",
+      "title": "Bir sözcük de cümle olabilir",
+      "speaker": "filiz",
+      "kind": "definition",
+      "theme": "light",
+      "parts": [
+        {
+          "text": "Cümle; bir düşünceyi, duyguyu, dileği, isteği, haberi veya öneriyi tam bir yargıyla anlatır.",
+          "audio": "audio/turkce/cumle-genel-design/cumle-0-944e248b.mp3",
+          "from": 0,
+          "frames": 213,
+          "seconds": 7.08
+        },
+        {
+          "text": "Bir sözcükten ya da sözcük dizisinden oluşabilir. Geldim, tek başına bir cümledir. Bugün okula geldim de bir cümledir.",
+          "audio": "audio/turkce/cumle-genel-design/cumle-1-7c1b3d59.mp3",
+          "from": 221,
+          "frames": 304,
+          "seconds": 10.128
+        }
+      ],
+      "from": 3205,
+      "frames": 543
+    },
+    {
+      "id": "konu",
+      "title": "Konu: Neyden söz ediliyor?",
+      "speaker": "ibrahim",
+      "kind": "topic",
+      "theme": "light",
+      "parts": [
+        {
+          "text": "Konu, üzerinde durulan duygu veya düşüncedir. Bu cümlede neyden söz ediliyor, diye sorarız.",
+          "audio": "audio/turkce/cumle-genel-design/konu-0-33adb09b.mp3",
+          "from": 0,
+          "frames": 250,
+          "seconds": 8.304
+        },
+        {
+          "text": "Çocuğa küçük şeylerden zevk almasını öğreten, ona büyük bir servet bırakmış olur.",
+          "audio": "audio/turkce/cumle-genel-design/konu-1-3cddc38b.mp3",
+          "from": 258,
+          "frames": 188,
+          "seconds": 6.24
+        },
+        {
+          "text": "Konu, küçük şeylerle mutlu olmanın önemi. Konuyu sözcük ya da sözcük öbeğiyle belirtiriz; tam bir cümleyle yazmayız.",
+          "audio": "audio/turkce/cumle-genel-design/konu-2-b67b802b.mp3",
+          "from": 454,
+          "frames": 291,
+          "seconds": 9.672
+        }
+      ],
+      "from": 3748,
+      "frames": 763
+    },
+    {
+      "id": "mesaj",
+      "title": "Ana düşünce: Mesaj ne?",
+      "speaker": "filiz",
+      "kind": "message",
+      "theme": "dark",
+      "parts": [
+        {
+          "text": "Ana düşünce, verilmek istenen mesajdır. Konuyla ilgili vurgulanmak istenen nedir, diye sorarız.",
+          "audio": "audio/turkce/cumle-genel-design/mesaj-0-19021aa5.mp3",
+          "from": 0,
+          "frames": 246,
+          "seconds": 8.184
+        },
+        {
+          "text": "Düşünmediğim zaman, yaşamadığım zamandır. Düşünmek ve yaşamak anahtar sözcüklerine dikkat et.",
+          "audio": "audio/turkce/cumle-genel-design/mesaj-1-442a9e57.mp3",
+          "from": 254,
+          "frames": 234,
+          "seconds": 7.8
+        },
+        {
+          "text": "Mesaj: Düşünmek hayati önem taşır. Ana düşünce bir yargı bildirir.",
+          "audio": "audio/turkce/cumle-genel-design/mesaj-2-c3354abf.mp3",
+          "from": 496,
+          "frames": 192,
+          "seconds": 6.384
+        }
+      ],
+      "from": 4511,
+      "frames": 706
+    },
+    {
+      "id": "ayrim",
+      "title": "Konu ile mesajı ayır",
+      "speaker": "ibrahim",
+      "kind": "compare",
+      "theme": "light",
+      "parts": [
+        {
+          "text": "Konu, düşünmenin önemi. Bu bir sözcük öbeği.",
+          "audio": "audio/turkce/cumle-genel-design/ayrim-0-c2b6b5ec.mp3",
+          "from": 0,
+          "frames": 160,
+          "seconds": 5.304
+        },
+        {
+          "text": "Ana düşünce, düşünmek hayati önem taşır. Bu, tam bir yargı. Konu ne hakkında olduğunu, ana düşünce mesajı söyler.",
+          "audio": "audio/turkce/cumle-genel-design/ayrim-1-593ecf34.mp3",
+          "from": 168,
+          "frames": 330,
+          "seconds": 10.968
+        }
+      ],
+      "from": 5217,
+      "frames": 516
+    },
+    {
+      "id": "yuklem",
+      "title": "Cümleyi anlamına göre kur",
+      "speaker": "filiz",
+      "kind": "predicate",
+      "theme": "light",
+      "parts": [
+        {
+          "text": "Sözcükleri anlam ilişkisine göre birleştiririz. Kurallı cümlede yüklem, yani yargıyı taşıyan bölüm, sondadır.",
+          "audio": "audio/turkce/cumle-genel-design/yuklem-0-b72375e1.mp3",
+          "from": 0,
+          "frames": 270,
+          "seconds": 8.976
+        },
+        {
+          "text": "Ödevlerini unutunca arkadaşını aradı. Yüklem, aradı. Değerlerine her zaman sahip çıkan biridir. Yüklem, biridir.",
+          "audio": "audio/turkce/cumle-genel-design/yuklem-1-b32e5d22.mp3",
+          "from": 278,
+          "frames": 340,
+          "seconds": 11.328
+        },
+        {
+          "text": "Her cümle kurallı değildir. Bu alıştırmalarda anlamlı ve kurallı cümle oluşturuyoruz.",
+          "audio": "audio/turkce/cumle-genel-design/yuklem-2-cdf21f6c.mp3",
+          "from": 626,
+          "frames": 225,
+          "seconds": 7.488
+        }
+      ],
+      "from": 5733,
+      "frames": 869
+    },
+    {
+      "id": "gulmek",
+      "title": "Sözcükleri yerine taşı",
+      "speaker": "ibrahim",
+      "kind": "order",
+      "theme": "dark",
+      "words": [
+        "göstergesidir",
+        "mutluluğun",
+        "gülümsemek",
+        "en",
+        "çok"
+      ],
+      "order": [
+        2,
+        3,
+        4,
+        1,
+        0
+      ],
+      "parts": [
+        {
+          "text": "Göstergesidir, mutluluğun, gülümsemek, en, çok. Birlikte anlam kazanan sözcükleri bul: en çok.",
+          "audio": "audio/turkce/cumle-genel-design/gulmek-0-28696b1b.mp3",
+          "from": 0,
+          "frames": 281,
+          "seconds": 9.336
+        },
+        {
+          "text": "Gülümsemek en çok mutluluğun göstergesidir. Yüklem sonda. Sıra: üç, dört, beş, iki, bir.",
+          "audio": "audio/turkce/cumle-genel-design/gulmek-1-1a570f3b.mp3",
+          "from": 289,
+          "frames": 299,
+          "seconds": 9.96
+        }
+      ],
+      "from": 6602,
+      "frames": 606
+    },
+    {
+      "id": "saygi",
+      "title": "Anlam bağlarını koru",
+      "speaker": "filiz",
+      "kind": "order",
+      "theme": "light",
+      "words": [
+        "unsurudur",
+        "sağlıklı",
+        "iletişimin",
+        "saygı",
+        "vazgeçilmez"
+      ],
+      "order": [
+        3,
+        1,
+        2,
+        4,
+        0
+      ],
+      "parts": [
+        {
+          "text": "Unsurudur, sağlıklı, iletişimin, saygı, vazgeçilmez. Sağlıklı iletişim sözcüklerinin anlam bağına dikkat et.",
+          "audio": "audio/turkce/cumle-genel-design/saygi-0-4196cdf2.mp3",
+          "from": 0,
+          "frames": 273,
+          "seconds": 9.096
+        },
+        {
+          "text": "Saygı, sağlıklı iletişimin vazgeçilmez unsurudur. Sıra: dört, iki, üç, beş, bir.",
+          "audio": "audio/turkce/cumle-genel-design/saygi-1-e1f43bb6.mp3",
+          "from": 281,
+          "frames": 232,
+          "seconds": 7.728
+        }
+      ],
+      "from": 7208,
+      "frames": 531
+    },
+    {
+      "id": "yardim",
+      "title": "Son kez birlikte sıralayalım",
+      "speaker": "ibrahim",
+      "kind": "order",
+      "theme": "light",
+      "words": [
+        "toplumsal",
+        "yardımlaşma",
+        "huzuru",
+        "artırır"
+      ],
+      "order": [
+        1,
+        0,
+        2,
+        3
+      ],
+      "parts": [
+        {
+          "text": "Toplumsal, yardımlaşma, huzuru, artırır. Artırır sözcüğü yargıyı tamamlıyor.",
+          "audio": "audio/turkce/cumle-genel-design/yardim-0-58adb76b.mp3",
+          "from": 0,
+          "frames": 237,
+          "seconds": 7.896
+        },
+        {
+          "text": "Yardımlaşma toplumsal huzuru artırır. Sıra: iki, bir, üç, dört. Yüklem sonda.",
+          "audio": "audio/turkce/cumle-genel-design/yardim-1-4c617c78.mp3",
+          "from": 245,
+          "frames": 276,
+          "seconds": 9.192
+        }
+      ],
+      "from": 7739,
+      "frames": 539
+    },
+    {
+      "id": "ozet",
+      "title": "Dört adımda cümle",
+      "speaker": "filiz",
+      "kind": "recap",
+      "theme": "dark",
+      "parts": [
+        {
+          "text": "Tamamlarken anlam ve yapıyı birlikte kontrol et. Konuyu bulurken neyden söz edildiğini sor.",
+          "audio": "audio/turkce/cumle-genel-design/ozet-0-c817b97c.mp3",
+          "from": 0,
+          "frames": 226,
+          "seconds": 7.512
+        },
+        {
+          "text": "Ana düşüncede mesajı bul. Kurallı cümle oluştururken anlam bağlarını koru ve yüklemi sona getir.",
+          "audio": "audio/turkce/cumle-genel-design/ozet-1-9aef7261.mp3",
+          "from": 234,
+          "frames": 242,
+          "seconds": 8.064
+        }
+      ],
+      "from": 8278,
+      "frames": 494
+    }
+  ]
+}
