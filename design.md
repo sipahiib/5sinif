@@ -11,6 +11,7 @@ Google Labs DESIGN.md yaklaşımından renk, tipografi ve bileşen kurallarını
 ## Görsel sistem
 
 - Tuval: 1280×720, 16:9, 30 fps. YouTube ve Instagram için tek ortak MP4.
+- Süre: Ana videoların sabit üst süre sınırı yoktur. Kaynak kapsamını ve anlaşılır öğretim temposunu esas al; kullanıcının açık süre talimatını uygula.
 - Arka plan: kullanıcının kalıcı tercihi gereği bütün ana video sahnelerinde, ara sahnelerde ve kapanışta düz beyaz (#FFFFFF) kullan. Koyu, siyah veya renkli tam ekran arka plan ve açık/koyu tema dönüşümü kullanma. Mevcut bileşenleri kullanırken de bu tercihi koru.
 - Renkler: mürekkep #101820 (metin), beyaz #FFFFFF (arka plan), turkuaz #3AD6C5 ve amber #FFB454 (içerik vurguları). Turkuaz değişim/yeni, amber dikkat/tarih için; renk tek başına anlam taşımasın.
 - Tipografi: ücretsiz ve lisansı kaydedilmiş Inter veya eşdeğer açık lisanslı sans; tarihlerde monospace. 1280×720 tuval için başlangıç aralıkları: başlık 54–70 px, destek metni 28–36 px; kaynak etiketi en az 28 px. Boyutları içerik ve karakter yerleşimine göre belirle; final 1280×720 çıktıda ve küçük ekran görünümünde okunabilirliği doğrula.

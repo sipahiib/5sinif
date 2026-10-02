@@ -1,0 +1,54 @@
+[
+  {
+    "file": "out/turkce/atasozu-deyim/atasozu-deyim.mp4",
+    "seconds": 417.258667,
+    "dimensions": [
+      1280,
+      720
+    ],
+    "fps": "30/1",
+    "audio": "aac",
+    "sample_rate": "48000",
+    "sha256": "54eeb03502ac9ed02957233b8e0c87beee0ef22c2ff8f5850f424981b44cad81",
+    "decode": "PASS"
+  },
+  {
+    "file": "out/turkce/atasozu-deyim/atasozu-deyim_kurz.mp4",
+    "seconds": 218.325333,
+    "dimensions": [
+      1280,
+      720
+    ],
+    "fps": "30/1",
+    "audio": "aac",
+    "sample_rate": "48000",
+    "sha256": "ecb5e018b12c520fd120f60ed774eb70c61a07eff2b1216fd96caa685d72f701",
+    "decode": "PASS"
+  },
+  {
+    "file": "out/shorts/turkce/atasozu-deyim_shorts/atasozu-deyim_shorts_1.mp4",
+    "seconds": 24.853333,
+    "dimensions": [
+      720,
+      1280
+    ],
+    "fps": "30/1",
+    "audio": "aac",
+    "sample_rate": "48000",
+    "sha256": "c8b7119348e3207699c57504e862f500cbe4bc624eaa544af768dd855b2bf36f",
+    "decode": "PASS"
+  },
+  {
+    "file": "out/shorts/turkce/atasozu-deyim_shorts/atasozu-deyim_shorts_2.mp4",
+    "seconds": 21.354667,
+    "dimensions": [
+      720,
+      1280
+    ],
+    "fps": "30/1",
+    "audio": "aac",
+    "sample_rate": "48000",
+    "sha256": "fb4a50243993a67394aabf0453ae2ee08ff786b0f3c04fd006bab0ea3aecde7d",
+    "decode": "PASS"
+  }
+]

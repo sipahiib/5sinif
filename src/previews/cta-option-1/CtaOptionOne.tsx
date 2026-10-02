@@ -69,7 +69,7 @@ const Orb: React.FC<{x: number; y: number; size: number; delay: number; color: s
   return <div style={{position: 'absolute', left: x, top: y + float, width: size, height: size, borderRadius: '50%', background: color, opacity: .52, boxShadow: `0 10px 24px ${color}`}}/>;
 };
 
-export const CtaOptionOne: React.FC = () => {
+export const CtaOptionOne: React.FC<{whiteBackground?: boolean}> = ({whiteBackground = false}) => {
   const frame = useCurrentFrame();
   const {fps} = useVideoConfig();
   const cardIn = spring({frame, fps, config: {damping: 17, stiffness: 82, mass: .8}});
@@ -89,11 +89,13 @@ export const CtaOptionOne: React.FC = () => {
   const shine = interpolate(frame, [33, 85], [-100, 570], clamp);
   const exitGlow = interpolate(frame, [175, 205], [0, 1], clamp);
 
-  return <AbsoluteFill style={{fontFamily: 'Trebuchet MS, Arial, sans-serif', overflow: 'hidden', color: colors.ink, background: `radial-gradient(circle at 50% 25%, #FFFFFF 0, #F2F8FF 42%, #DCEBFA 100%)`}}>
+  return <AbsoluteFill style={{fontFamily: 'Trebuchet MS, Arial, sans-serif', overflow: 'hidden', color: colors.ink, background: whiteBackground ? '#FFFFFF' : `radial-gradient(circle at 50% 25%, #FFFFFF 0, #F2F8FF 42%, #DCEBFA 100%)`}}>
+    {!whiteBackground && <>
     <div style={{position: 'absolute', inset: 0, opacity: .26, backgroundImage: 'linear-gradient(rgba(45,115,199,.18) 1px, transparent 1px), linear-gradient(90deg, rgba(45,115,199,.18) 1px, transparent 1px)', backgroundSize: '36px 36px', maskImage: 'linear-gradient(to bottom, black, transparent 85%)'}}/>
     <div style={{position: 'absolute', left: -95, top: -120, width: 380, height: 380, borderRadius: '50%', border: '70px solid rgba(233,79,95,.08)'}}/>
     <div style={{position: 'absolute', right: -120, bottom: -190, width: 430, height: 430, borderRadius: '50%', border: '85px solid rgba(45,115,199,.09)'}}/>
     <Orb x={88} y={52} size={14} delay={0} color="#F7B84B"/><Orb x={824} y={75} size={19} delay={18} color="#E94F5F"/><Orb x={740} y={446} size={11} delay={34} color="#2D73C7"/><Orb x={163} y={454} size={9} delay={52} color="#62C4AA"/>
+    </>}
 
     <div style={{position: 'absolute', left: 184, top: 58, width: 592, height: 390, borderRadius: 35, background: 'rgba(255,255,255,.94)', border: '2px solid rgba(255,255,255,.98)', boxShadow: '0 28px 65px rgba(23,59,102,.18), inset 0 0 0 1px rgba(45,115,199,.08)', transform: `translateY(${(1-cardIn)*28}px) scale(${.94 + cardIn*.06})`, opacity: cardIn, overflow: 'hidden'}}>
       <div style={{position: 'absolute', left: -30, right: -30, top: -88, height: 180, borderRadius: '50%', background: 'linear-gradient(100deg, rgba(45,115,199,.13), rgba(233,79,95,.1))'}}/>
@@ -132,7 +134,7 @@ export const CtaOptionOne: React.FC = () => {
     <Burst start={113} x={588} y={311} color={colors.red}/>
     <Burst start={148} x={698} y={311} color="#F7B84B"/>
 
-    <div style={{position: 'absolute', left: 0, right: 0, bottom: 0, height: 14, background: `linear-gradient(90deg, ${colors.red}, #F7B84B 42%, ${colors.blue} 72%, ${colors.navy})`}}/>
+    {!whiteBackground && <div style={{position: 'absolute', left: 0, right: 0, bottom: 0, height: 14, background: `linear-gradient(90deg, ${colors.red}, #F7B84B 42%, ${colors.blue} 72%, ${colors.navy})`}}/>}
   </AbsoluteFill>;
 };
 

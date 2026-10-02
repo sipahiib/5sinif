@@ -1,0 +1,773 @@
+{
+  "fps": 30,
+  "main": {
+    "scenes": [
+      {
+        "id": "isim",
+        "title": "Varlığın adı mı, yapılan iş mi?",
+        "kind": "book",
+        "parts": [
+          {
+            "speaker": "filiz",
+            "text": "İsim, canlı veya cansız varlıkları ve kavramları karşılar: Atatürk, saygı, sevgi, okul. İsimler özelliklerine göre türlere ayrılır.",
+            "headline": "İsim: Varlık veya kavram adı",
+            "detail": "Atatürk · saygı · sevgi · okul",
+            "audio": "audio/turkce/atasozu-deyim/main-isim-0-11a1396df6.mp3",
+            "frames": 327,
+            "seconds": 10.896,
+            "from": 0
+          },
+          {
+            "text": "Masadan kitaplarımı aldım. Masa ve kitap varlık adıdır. Kardeşim okuldan geldi. Kardeş ve okul isimdir. Tatilde Bodruma gideceğiz. Bodrum bir yer adıdır.",
+            "headline": "Masa · kitap · kardeş · okul · Bodrum",
+            "detail": "Varlık adlarını cümlede de tanıyabiliriz.",
+            "speaker": "filiz",
+            "audio": "audio/turkce/atasozu-deyim/main-isim-1-7c98375d6b.mp3",
+            "frames": 481,
+            "seconds": 16.008,
+            "from": 333
+          },
+          {
+            "speaker": "filiz",
+            "text": "Fiil; iş, oluş, hareket veya durum bildirir, zaman ve kişi ekleri alır. İçmek, okumak, gezmek, yazmak örneklerdir.",
+            "headline": "Fiil: İş, oluş, hareket veya durum",
+            "detail": "İçmek · okumak · gezmek · yazmak",
+            "audio": "audio/turkce/atasozu-deyim/main-isim-2-de6b8a1896.mp3",
+            "frames": 292,
+            "seconds": 9.72,
+            "from": 820
+          },
+          {
+            "text": "Yazın bu kitabı okudum. Seni öğleye kadar okulda beklemiş. Bu sözlerimi bir kenara yaz. Okudum, beklemiş ve yaz, cümlelerin fiilleridir.",
+            "headline": "Okudum · beklemiş · yaz",
+            "detail": "Fiil, cümlenin eylemini veya durumunu bildirir.",
+            "speaker": "filiz",
+            "audio": "audio/turkce/atasozu-deyim/main-isim-3-2668396a61.mp3",
+            "frames": 372,
+            "seconds": 12.384,
+            "from": 1118
+          },
+          {
+            "speaker": "filiz",
+            "text": "Fiili tanımak için köküne mak veya mek getirmeyi deneyebiliriz: açtım, açmak. Kitapmak ise anlamlı değildir.",
+            "headline": "Oku → okumak ✓",
+            "detail": "Kitap → kitapmak ✕",
+            "audio": "audio/turkce/atasozu-deyim/main-isim-4-b8a3e14a0c.mp3",
+            "frames": 298,
+            "seconds": 9.912,
+            "from": 1496
+          }
+        ],
+        "from": 0,
+        "frames": 1806
+      },
+      {
+        "id": "turuygulama",
+        "title": "Cümledeki sözcüğün türünü bul",
+        "kind": "sort",
+        "parts": [
+          {
+            "text": "Yarın Türkçe sınavına gireceğim. Türkçe bir isim. Yağmur yağdığı için şemsiyemi açtım. Açtım fiil. Misafirlere çay ikram ettim. Misafirlere isimdir.",
+            "headline": "Türkçe → isim · açtım → fiil",
+            "detail": "Misafirlere → isim",
+            "speaker": "ibrahim",
+            "audio": "audio/turkce/atasozu-deyim/main-turuygulama-0-f9d5bac908.mp3",
+            "frames": 504,
+            "seconds": 16.8,
+            "from": 0
+          },
+          {
+            "text": "İnsanlara nezaket göstermelisin. Nezaket bir kavramın adıdır. Kitaplarımı dolaba yerleştirdim. Yerleştirdim fiildir. Kırmızı eldivenleri bebeğe çok yakışmış. Yakışmış fiil. Babamla balık avlamaya gittik. Balık isimdir.",
+            "headline": "Nezaket ve balık → isim",
+            "detail": "Yerleştirdim ve yakışmış → fiil",
+            "speaker": "ibrahim",
+            "audio": "audio/turkce/atasozu-deyim/main-turuygulama-1-755153cdcf.mp3",
+            "frames": 712,
+            "seconds": 23.712,
+            "from": 510
+          }
+        ],
+        "from": 1806,
+        "frames": 1234
+      },
+      {
+        "id": "soru",
+        "title": "Soru işareti: Soru ve belirsizlik",
+        "kind": "question",
+        "parts": [
+          {
+            "speaker": "filiz",
+            "text": "Soru eki veya sözü taşıyan cümlelerin sonuna soru işareti gelir: Ne zaman tükenecek bu yollar, arabacı? Bilinmeyen veya kesin olmayan yer ve tarih bilgilerinde de soru işareti kullanılabilir.",
+            "headline": "Ne zaman tükenecek bu yollar, arabacı?",
+            "detail": "Kesin olmayan bilgi: 1240 (?)",
+            "audio": "audio/turkce/atasozu-deyim/main-soru-0-e6ba517991.mp3",
+            "frames": 435,
+            "seconds": 14.472,
+            "from": 0
+          },
+          {
+            "speaker": "filiz",
+            "text": "Uyarı: Soru anlamlı sıralı ve bağlı cümlelerde soru işareti en sona konur.",
+            "headline": "UYARI: Soru işareti en sonda",
+            "detail": "Çok yakından mı bu sesler, çok uzaklardan mı?",
+            "audio": "audio/turkce/atasozu-deyim/main-soru-1-a2ce23a797.mp3",
+            "frames": 175,
+            "seconds": 5.832,
+            "from": 441
+          }
+        ],
+        "from": 3040,
+        "frames": 628
+      },
+      {
+        "id": "unlem",
+        "title": "Ünlem: Duygu, seslenme, uyarı",
+        "kind": "exclaim",
+        "parts": [
+          {
+            "speaker": "ibrahim",
+            "text": "Ünlem; sevinç, kıvanç, acı, korku veya şaşmayı belirtir. Seslenme, hitap ve uyarıdan sonra da kullanılır.",
+            "headline": "Hava ne kadar da sıcak! Aşk olsun!",
+            "detail": "Ordular! İlk hedefiniz Akdeniz’dir, ileri!",
+            "audio": "audio/turkce/atasozu-deyim/main-unlem-0-fc2f6f22fb.mp3",
+            "frames": 299,
+            "seconds": 9.936,
+            "from": 0
+          },
+          {
+            "speaker": "ibrahim",
+            "text": "Bir sözün hemen ardından parantez içindeki ünlem, alay veya küçümseme anlamı katar.",
+            "headline": "Adam, akıllı (!) olduğunu söylüyor.",
+            "detail": "(!) → alay veya küçümseme",
+            "audio": "audio/turkce/atasozu-deyim/main-unlem-1-21aa5a4f63.mp3",
+            "frames": 199,
+            "seconds": 6.624,
+            "from": 305
+          }
+        ],
+        "from": 3668,
+        "frames": 516
+      },
+      {
+        "id": "noktalama",
+        "title": "İşareti anlamına göre seç",
+        "kind": "punctuation",
+        "parts": [
+          {
+            "text": "Etkinliğe bizimle birlikte katılmayı düşünür müsün? Soru işareti. Arkadaşlar! Projeyi yarına kadar bitirmek için sıkı çalışmalıyız. Seslenmeden sonra ünlem; haber cümlesinin sonunda nokta.",
+            "headline": "Düşünür müsün? · Arkadaşlar!",
+            "detail": "Haber cümlesinin sonunda nokta.",
+            "speaker": "filiz",
+            "audio": "audio/turkce/atasozu-deyim/main-noktalama-0-6223eca9cc.mp3",
+            "frames": 497,
+            "seconds": 16.536,
+            "from": 0
+          },
+          {
+            "text": "Mesleğiniz? Bu sözde soru anlamı var. Yaşasın! Kuzenim hafta sonu bizde kalacak. Sevinç ünlemle, haber noktayla tamamlanır.",
+            "headline": "Mesleğiniz? · Yaşasın!",
+            "detail": "Soru anlamı veya duyguya dikkat et.",
+            "speaker": "filiz",
+            "audio": "audio/turkce/atasozu-deyim/main-noktalama-1-9500fe62ec.mp3",
+            "frames": 391,
+            "seconds": 13.032,
+            "from": 503
+          },
+          {
+            "text": "Sınavı bir saatte, parantez içinde soru işareti, bitirmiş: Bilgiye kuşku. Satrançta ne kadar usta olduğunu, parantez içinde ünlem, gördük: Alay anlamı.",
+            "headline": "1 saatte (?) → kuşku",
+            "detail": "Usta olduğunu (!) → alay",
+            "speaker": "filiz",
+            "audio": "audio/turkce/atasozu-deyim/main-noktalama-2-c7b7a42a2c.mp3",
+            "frames": 351,
+            "seconds": 11.688,
+            "from": 900
+          },
+          {
+            "text": "Bunları söyleyen annem mi, kardeşim mi, ablam mı? Aralarda virgül, en sonda tek soru işareti kullanılır.",
+            "headline": "Annem mi, kardeşim mi, ablam mı?",
+            "detail": "Sıralı soru: ?, ?, ? değil; virgül, virgül, soru işareti.",
+            "speaker": "filiz",
+            "audio": "audio/turkce/atasozu-deyim/main-noktalama-3-4f9ad94040.mp3",
+            "frames": 256,
+            "seconds": 8.52,
+            "from": 1257
+          }
+        ],
+        "from": 4184,
+        "frames": 1525
+      },
+      {
+        "id": "atasozu",
+        "title": "Geçmişten gelen kısa öğütler",
+        "kind": "heritage",
+        "parts": [
+          {
+            "speaker": "ibrahim",
+            "text": "Atasözleri, uzun gözlem ve deneyimlerden doğan, halka mal olmuş özlü sözlerdir. Az sözle çok şey anlatır; öğüt veya genel yaşam bilgisi verir.",
+            "headline": "Deneyim → özlü söz → öğüt",
+            "detail": "Atasözü",
+            "audio": "audio/turkce/atasozu-deyim/main-atasozu-0-b46d0eba16.mp3",
+            "frames": 363,
+            "seconds": 12.096,
+            "from": 0
+          },
+          {
+            "speaker": "ibrahim",
+            "text": "Ne ekersen onu biçersin, davranışlarının sonuçlarıyla karşılaşacağını anlatır. Ağaç yaş iken eğilir, eğitimin küçük yaşta daha etkili olduğunu vurgular.",
+            "headline": "Ne ekersen onu biçersin.",
+            "detail": "Ağaç yaş iken eğilir.",
+            "audio": "audio/turkce/atasozu-deyim/main-atasozu-1-a7945ace5b.mp3",
+            "frames": 353,
+            "seconds": 11.736,
+            "from": 369
+          }
+        ],
+        "from": 5709,
+        "frames": 734
+      },
+      {
+        "id": "kalip",
+        "title": "Kalıbı koru",
+        "kind": "lock",
+        "parts": [
+          {
+            "speaker": "filiz",
+            "text": "Atasözleri kalıplaşmıştır. Sözcüklerin yerini veya sözcükleri keyfî biçimde değiştiremeyiz.",
+            "headline": "Kalıplaşmış söz",
+            "detail": "Sözcükleri keyfî değiştirme.",
+            "audio": "audio/turkce/atasozu-deyim/main-kalip-0-0335e969b7.mp3",
+            "frames": 231,
+            "seconds": 7.68,
+            "from": 0
+          },
+          {
+            "speaker": "filiz",
+            "text": "Minareyi çalan kılıfını hazırlar, doğru biçimdir. Kılıfını yerine örtüyü yazarsak atasözünün kalıbı bozulur.",
+            "headline": "Minareyi çalan kılıfını hazırlar.",
+            "detail": "Kılıfını → örtüyü: kalıp bozulur.",
+            "audio": "audio/turkce/atasozu-deyim/main-kalip-1-89c409d487.mp3",
+            "frames": 254,
+            "seconds": 8.448,
+            "from": 237
+          }
+        ],
+        "from": 6443,
+        "frames": 503
+      },
+      {
+        "id": "anlam",
+        "title": "Gerçek mi, mecaz mı?",
+        "kind": "grapes",
+        "parts": [
+          {
+            "speaker": "ibrahim",
+            "text": "Atasözleri genellikle mecaz anlamlıdır. Üzüm üzüme baka baka kararır, insanların birbirinden etkilenmesini anlatır.",
+            "headline": "Üzüm üzüme baka baka kararır.",
+            "detail": "Mecaz: İnsanlar birbirinden etkilenir.",
+            "audio": "audio/turkce/atasozu-deyim/main-anlam-0-4c70b38818.mp3",
+            "frames": 292,
+            "seconds": 9.72,
+            "from": 0
+          },
+          {
+            "speaker": "ibrahim",
+            "text": "Gerçek anlamlı olanları da vardır: Dost ile ye iç, alışveriş etme. Ayağını yorganına göre uzat ise hem gerçek hem mecaz düşünülebilir; harcamalarını imkânlarına göre yapmayı öğütler.",
+            "headline": "Ayağını yorganına göre uzat.",
+            "detail": "Harcamanı imkânına göre yap.",
+            "audio": "audio/turkce/atasozu-deyim/main-anlam-1-117670667d.mp3",
+            "frames": 432,
+            "seconds": 14.4,
+            "from": 298
+          }
+        ],
+        "from": 6946,
+        "frames": 742
+      },
+      {
+        "id": "eslesme1",
+        "title": "Atasözünü anlamıyla eşleştir",
+        "kind": "clock",
+        "parts": [
+          {
+            "speaker": "filiz",
+            "text": "Vakit nakittir: Zaman değerlidir, boşa harcanmamalıdır. Yanlış hesap Bağdattan döner: Yanlışlık geç de olsa düzeltilebilir.",
+            "headline": "Vakit nakittir.",
+            "detail": "Zaman değerlidir.",
+            "audio": "audio/turkce/atasozu-deyim/main-eslesme1-0-cea1488b1a.mp3",
+            "frames": 301,
+            "seconds": 10.032,
+            "from": 0
+          },
+          {
+            "speaker": "filiz",
+            "text": "Yerin kulağı var: Gizli konuşulanlar beklenmedik bir yoldan duyulabilir.",
+            "headline": "Yerin kulağı var.",
+            "detail": "Gizli konuşmalar duyulabilir.",
+            "audio": "audio/turkce/atasozu-deyim/main-eslesme1-1-316096beb5.mp3",
+            "frames": 167,
+            "seconds": 5.544,
+            "from": 307
+          }
+        ],
+        "from": 7688,
+        "frames": 486
+      },
+      {
+        "id": "eslesme2",
+        "title": "Üç atasözü, üç anlam",
+        "kind": "balance",
+        "parts": [
+          {
+            "speaker": "ibrahim",
+            "text": "Yavuz hırsız ev sahibini bastırır: Suçlu kişi, zarar verdiği kişiyi suçlayıp bastırmaya çalışır.",
+            "headline": "Yavuz hırsız ev sahibini bastırır.",
+            "detail": "Suçlu, karşısındakini suçlar.",
+            "audio": "audio/turkce/atasozu-deyim/main-eslesme2-0-9f2a818b78.mp3",
+            "frames": 237,
+            "seconds": 7.872,
+            "from": 0
+          },
+          {
+            "speaker": "ibrahim",
+            "text": "Ya bu deveyi gütmeli ya bu diyardan gitmeli: Koşullara uymalı veya ayrılmalı.",
+            "headline": "Ya bu deveyi gütmeli\nya bu diyardan gitmeli.",
+            "detail": "Koşullara uy veya ayrıl.",
+            "audio": "audio/turkce/atasozu-deyim/main-eslesme2-1-485b362277.mp3",
+            "frames": 180,
+            "seconds": 6.0,
+            "from": 243
+          },
+          {
+            "speaker": "ibrahim",
+            "text": "Var varlatır, yok söyletir: Varlık yeni imkânlar sağlar; yokluk yakınmaya yol açar.",
+            "headline": "Var varlatır, yok söyletir.",
+            "detail": "Varlık imkân; yokluk yakınma getirir.",
+            "audio": "audio/turkce/atasozu-deyim/main-eslesme2-2-7ab8338a8f.mp3",
+            "frames": 212,
+            "seconds": 7.056,
+            "from": 429
+          }
+        ],
+        "from": 8174,
+        "frames": 653
+      },
+      {
+        "id": "deyim",
+        "title": "Bir durumu canlı anlat",
+        "kind": "speech",
+        "parts": [
+          {
+            "speaker": "filiz",
+            "text": "Deyimler, bir durumu veya davranışı anlatan kalıplaşmış sözlerdir. Anlatıma canlılık, güzellik ve çekicilik katar. Türkçe, deyimler bakımından zengin bir dildir.",
+            "headline": "Deyim: Durum veya davranış",
+            "detail": "Anlatıma canlılık katar.",
+            "audio": "audio/turkce/atasozu-deyim/main-deyim-0-175274b6e3.mp3",
+            "frames": 385,
+            "seconds": 12.816,
+            "from": 0
+          },
+          {
+            "speaker": "filiz",
+            "text": "Dört elle sarılmak, bir işe büyük gayretle yönelmektir. Göz kulak olmak, ilgilenip korumaktır.",
+            "headline": "Dört elle sarılmak",
+            "detail": "Göz kulak olmak",
+            "audio": "audio/turkce/atasozu-deyim/main-deyim-1-7a7df6406e.mp3",
+            "frames": 234,
+            "seconds": 7.776,
+            "from": 391
+          }
+        ],
+        "from": 8827,
+        "frames": 637
+      },
+      {
+        "id": "deyimkalip",
+        "title": "Deyimin kalıbı da önemlidir",
+        "kind": "puzzle",
+        "parts": [
+          {
+            "speaker": "ibrahim",
+            "text": "Deyimler genellikle söz öbeğidir. Cümle biçiminde de olabilir: Dostlar alışverişte görsün. Bu ne perhiz, bu ne lahana turşusu.",
+            "headline": "Söz öbeği veya cümle",
+            "detail": "Dostlar alışverişte görsün.",
+            "audio": "audio/turkce/atasozu-deyim/main-deyimkalip-0-90dee488cc.mp3",
+            "frames": 353,
+            "seconds": 11.76,
+            "from": 0
+          },
+          {
+            "speaker": "ibrahim",
+            "text": "Kalıptaki sözcükler keyfî değiştirilmez. Ancak kişi ve zaman çekimi yapılabilir: Kardeşime göz kulak oldum, deyimi bozmaz.",
+            "headline": "Göz kulak olmak → göz kulak oldum",
+            "detail": "Kişi ve zaman çekimi kalıbı bozmaz.",
+            "audio": "audio/turkce/atasozu-deyim/main-deyimkalip-1-c866eace0d.mp3",
+            "frames": 311,
+            "seconds": 10.344,
+            "from": 359
+          }
+        ],
+        "from": 9464,
+        "frames": 682
+      },
+      {
+        "id": "deyimanlam",
+        "title": "Deyimler hep mecaz değildir",
+        "kind": "targets",
+        "parts": [
+          {
+            "speaker": "filiz",
+            "text": "Bir taşla iki kuş vurmak, tek işle iki sonuç elde etmektir. Kafa yormak, çok düşünmektir. Bunlar mecaz anlamlıdır.",
+            "headline": "Tek iş → iki sonuç",
+            "detail": "Kafa yormak: Çok düşünmek",
+            "audio": "audio/turkce/atasozu-deyim/main-deyimanlam-0-029bd367f0.mp3",
+            "frames": 309,
+            "seconds": 10.296,
+            "from": 0
+          },
+          {
+            "speaker": "filiz",
+            "text": "Hem suçlu hem güçlü ve çoğu gitti azı kaldı, kaynakta gerçek anlamlı örneklerdir. Yalnız mecaz oluşuna bakarak deyim ile atasözünü ayıramayız.",
+            "headline": "Gerçek anlamlı örnekler de var.",
+            "detail": "Hem suçlu hem güçlü · Çoğu gitti azı kaldı",
+            "audio": "audio/turkce/atasozu-deyim/main-deyimanlam-1-65aa3e1774.mp3",
+            "frames": 351,
+            "seconds": 11.688,
+            "from": 315
+          }
+        ],
+        "from": 10146,
+        "frames": 678
+      },
+      {
+        "id": "deyimeslesme1",
+        "title": "Deyimin anlattığı durumu bul",
+        "kind": "arrow",
+        "parts": [
+          {
+            "speaker": "ibrahim",
+            "text": "Ok yaydan çıkmak, geri dönüşü olmayan bir işe girişmektir. Ortalığı birbirine katmak, kargaşa çıkarmaktır.",
+            "headline": "Ok yaydan çıkmak",
+            "detail": "Geri dönüşü olmayan iş",
+            "audio": "audio/turkce/atasozu-deyim/main-deyimeslesme1-0-b74d49bd96.mp3",
+            "frames": 288,
+            "seconds": 9.576,
+            "from": 0
+          },
+          {
+            "speaker": "ibrahim",
+            "text": "Burun kıvırmak, önemsememek ve küçümsemektir.",
+            "headline": "Burun kıvırmak",
+            "detail": "Önemsememek, küçümsemek",
+            "audio": "audio/turkce/atasozu-deyim/main-deyimeslesme1-1-2885cc826f.mp3",
+            "frames": 135,
+            "seconds": 4.488,
+            "from": 294
+          }
+        ],
+        "from": 10824,
+        "frames": 441
+      },
+      {
+        "id": "deyimeslesme2",
+        "title": "Anlamı bağlamla kontrol et",
+        "kind": "budget",
+        "parts": [
+          {
+            "speaker": "filiz",
+            "text": "Etekleri tutuşmak, çok telaşlanmaktır. Açık vermek, bu alıştırmada gelirin gideri karşılamamasıdır.",
+            "headline": "Etekleri tutuşmak → telaşlanmak",
+            "detail": "Açık vermek → gelir gideri karşılamaz.",
+            "audio": "audio/turkce/atasozu-deyim/main-deyimeslesme2-0-d4b3dee348.mp3",
+            "frames": 246,
+            "seconds": 8.184,
+            "from": 0
+          },
+          {
+            "speaker": "filiz",
+            "text": "Baklayı ağzından çıkarmak, gizli tuttuğunu açıklamaktır.",
+            "headline": "Baklayı ağzından çıkarmak",
+            "detail": "Gizli tuttuğunu açıklamak",
+            "audio": "audio/turkce/atasozu-deyim/main-deyimeslesme2-1-0326297760.mp3",
+            "frames": 133,
+            "seconds": 4.416,
+            "from": 252
+          }
+        ],
+        "from": 11265,
+        "frames": 397
+      },
+      {
+        "id": "fark",
+        "title": "Öğüt mü, belirli bir durum mu?",
+        "kind": "compare",
+        "parts": [
+          {
+            "speaker": "ibrahim",
+            "text": "Atasözü, genel yaşam bilgisi veya öğüt verir. Deyim, belirli bir durumu anlatır; genel bir kural veya öğüt vermeyi amaçlamaz.",
+            "headline": "Atasözü: Genel bilgi veya öğüt",
+            "detail": "Deyim: Belirli durum veya davranış",
+            "audio": "audio/turkce/atasozu-deyim/main-fark-0-50c46d65be.mp3",
+            "frames": 333,
+            "seconds": 11.088,
+            "from": 0
+          },
+          {
+            "speaker": "ibrahim",
+            "text": "İkisi de kalıplaşmıştır. Karar verirken sözün ne anlattığını düşün; yalnızca cümle biçimine veya mecaz anlama bakma.",
+            "headline": "İkisi de kalıplaşmıştır.",
+            "detail": "Karar verirken anlam ve amacı incele.",
+            "audio": "audio/turkce/atasozu-deyim/main-fark-1-67000283d6.mp3",
+            "frames": 293,
+            "seconds": 9.744,
+            "from": 339
+          }
+        ],
+        "from": 11662,
+        "frames": 644
+      }
+    ],
+    "lessonFrames": 12306,
+    "durationInFrames": 12516
+  },
+  "kurz": {
+    "scenes": [
+      {
+        "id": "k0a",
+        "title": "Adlar ve hareketler",
+        "kind": "sort",
+        "speaker": "filiz",
+        "text": "Lumi bir kitabı açıyor. Kitap, varlığın adı; isim. Açıyor, yapılan işi anlatıyor; fiil. Sevgi ve saygı da kavram adı oldukları için isimdir. Fiiller zaman ve kişi ekleri alabilir. Fiili tanımak için köküne mak veya mek getirmeyi deneyebiliriz: açtım, açmak. Türkçe, nezaket ve balık isim; açtım ve yerleştirdim fiildir.",
+        "caption": "İsim: Ad / Fiil: İş, oluş, hareket, durum",
+        "parts": [
+          {
+            "speaker": "filiz",
+            "text": "Lumi bir kitabı açıyor. Kitap, varlığın adı; isim. Açıyor, yapılan işi anlatıyor; fiil. Sevgi ve saygı da kavram adı oldukları için isimdir. Fiiller zaman ve kişi ekleri alabilir. Fiili tanımak için köküne mak veya mek getirmeyi deneyebiliriz: açtım, açmak. Türkçe, nezaket ve balık isim; açtım ve yerleştirdim fiildir.",
+            "headline": "Adlar ve hareketler",
+            "detail": "İsim: Ad / Fiil: İş, oluş, hareket, durum",
+            "audio": "audio/turkce/atasozu-deyim/kurz-k0a-0-da05a70ae9.mp3",
+            "frames": 853,
+            "seconds": 28.416,
+            "from": 0
+          }
+        ],
+        "from": 0,
+        "frames": 853
+      },
+      {
+        "id": "k0b",
+        "title": "Cümlenin sesini gör",
+        "kind": "question",
+        "speaker": "ibrahim",
+        "text": "Kitabı açtın mı? Soru işareti. Yaşasın! Sevinci anlatan ünlem. Ünlem seslenme ve uyarıda da kullanılır. Parantez içindeki ünlem alayı, soru işareti belirsiz bilgiyi gösterebilir. Bağlı sorularda soru işareti en sondadır. Mesleğiniz sözü de tek başına soru anlamı taşır. Yaşasın, sevinci bildirir. Haber cümlesini noktayla bitiririz.",
+        "caption": "? → soru / ! → duygu, seslenme, uyarı",
+        "parts": [
+          {
+            "speaker": "ibrahim",
+            "text": "Kitabı açtın mı? Soru işareti. Yaşasın! Sevinci anlatan ünlem. Ünlem seslenme ve uyarıda da kullanılır. Parantez içindeki ünlem alayı, soru işareti belirsiz bilgiyi gösterebilir. Bağlı sorularda soru işareti en sondadır. Mesleğiniz sözü de tek başına soru anlamı taşır. Yaşasın, sevinci bildirir. Haber cümlesini noktayla bitiririz.",
+            "headline": "Cümlenin sesini gör",
+            "detail": "? → soru / ! → duygu, seslenme, uyarı",
+            "audio": "audio/turkce/atasozu-deyim/kurz-k0b-0-42e284ba38.mp3",
+            "frames": 998,
+            "seconds": 33.24,
+            "from": 0
+          }
+        ],
+        "from": 853,
+        "frames": 998
+      },
+      {
+        "id": "k1",
+        "title": "Sözlerin iki görevi",
+        "kind": "roads",
+        "speaker": "filiz",
+        "text": "Sözlerin iki yolu var. Biri, ortak deneyimlerden çıkan genel bir öğüde gider: atasözü. Diğeri, yaşanan belirli bir durumu canlı anlatır: deyim. İkisi de kalıplaşmıştır. Ne ekersen onu biçersin, davranışların sonucunu hatırlatır. Ağaç yaş iken eğilir, erken eğitimin önemini vurgular. Atasözleri az sözle çok şey anlatır.",
+        "caption": "Genel öğüt / belirli durum",
+        "parts": [
+          {
+            "speaker": "filiz",
+            "text": "Sözlerin iki yolu var. Biri, ortak deneyimlerden çıkan genel bir öğüde gider: atasözü. Diğeri, yaşanan belirli bir durumu canlı anlatır: deyim. İkisi de kalıplaşmıştır. Ne ekersen onu biçersin, davranışların sonucunu hatırlatır. Ağaç yaş iken eğilir, erken eğitimin önemini vurgular. Atasözleri az sözle çok şey anlatır.",
+            "headline": "Sözlerin iki görevi",
+            "detail": "Genel öğüt / belirli durum",
+            "audio": "audio/turkce/atasozu-deyim/kurz-k1-0-ff3cf403a3.mp3",
+            "frames": 811,
+            "seconds": 27.024,
+            "from": 0
+          }
+        ],
+        "from": 1851,
+        "frames": 811
+      },
+      {
+        "id": "k2",
+        "title": "Öğüdü bir bütçede gör",
+        "kind": "budget",
+        "speaker": "ibrahim",
+        "text": "Ayağını yorganına göre uzat. Yorganın sınırı gibi, bütçenin de sınırı var. Bu atasözü harcamanı imkânına göre yapmanı öğütler. Küçük bir görüntü büyük bir yaşam dersini taşır. Açık vermek ise bütçede gelirin gideri karşılamamasıdır; bu bağlamda bir deyimdir.",
+        "caption": "İmkânın kadar harca.",
+        "parts": [
+          {
+            "speaker": "ibrahim",
+            "text": "Ayağını yorganına göre uzat. Yorganın sınırı gibi, bütçenin de sınırı var. Bu atasözü harcamanı imkânına göre yapmanı öğütler. Küçük bir görüntü büyük bir yaşam dersini taşır. Açık vermek ise bütçede gelirin gideri karşılamamasıdır; bu bağlamda bir deyimdir.",
+            "headline": "Öğüdü bir bütçede gör",
+            "detail": "İmkânın kadar harca.",
+            "audio": "audio/turkce/atasozu-deyim/kurz-k2-0-f4489ca8b6.mp3",
+            "frames": 658,
+            "seconds": 21.912,
+            "from": 0
+          }
+        ],
+        "from": 2662,
+        "frames": 658
+      },
+      {
+        "id": "k3",
+        "title": "Tek hamle, iki sonuç",
+        "kind": "targets",
+        "speaker": "filiz",
+        "text": "Lumi tek düğmeye bastı; iki lamba yandı. Bir taşla iki kuş vurmak, tek işle iki sonuç elde etmektir. Gerçek kuşlara taş atmak gerekmez; bu deyim bir başarı durumunu canlandırır. Dört elle sarılmak, işe gayretle yönelmek; kafa yormak, çok düşünmektir. Göz kulak olmak ise ilgilenip korumaktır.",
+        "caption": "Bir iş, iki sonuç",
+        "parts": [
+          {
+            "speaker": "filiz",
+            "text": "Lumi tek düğmeye bastı; iki lamba yandı. Bir taşla iki kuş vurmak, tek işle iki sonuç elde etmektir. Gerçek kuşlara taş atmak gerekmez; bu deyim bir başarı durumunu canlandırır. Dört elle sarılmak, işe gayretle yönelmek; kafa yormak, çok düşünmektir. Göz kulak olmak ise ilgilenip korumaktır.",
+            "headline": "Tek hamle, iki sonuç",
+            "detail": "Bir iş, iki sonuç",
+            "audio": "audio/turkce/atasozu-deyim/kurz-k3-0-49b41526a7.mp3",
+            "frames": 689,
+            "seconds": 22.944,
+            "from": 0
+          }
+        ],
+        "from": 3320,
+        "frames": 689
+      },
+      {
+        "id": "k4",
+        "title": "Birbirimize benzeriz",
+        "kind": "grapes",
+        "speaker": "ibrahim",
+        "text": "Üzüm üzüme baka baka kararır. İnsanlar çevrelerinden etkilenir: mecaz. Her atasözü ve deyim mecazlı değildir. Dost ile ye iç, alışveriş etme, gerçek anlamlı bir atasözüdür. Hem suçlu hem güçlü ve çoğu gitti azı kaldı da gerçek anlamlı deyim örnekleridir. Anlamı bağlamdan kontrol ederiz.",
+        "caption": "Her kalıplaşmış söz mecaz değildir.",
+        "parts": [
+          {
+            "speaker": "ibrahim",
+            "text": "Üzüm üzüme baka baka kararır. İnsanlar çevrelerinden etkilenir: mecaz. Her atasözü ve deyim mecazlı değildir. Dost ile ye iç, alışveriş etme, gerçek anlamlı bir atasözüdür. Hem suçlu hem güçlü ve çoğu gitti azı kaldı da gerçek anlamlı deyim örnekleridir. Anlamı bağlamdan kontrol ederiz.",
+            "headline": "Birbirimize benzeriz",
+            "detail": "Her kalıplaşmış söz mecaz değildir.",
+            "audio": "audio/turkce/atasozu-deyim/kurz-k4-0-c065ed26f2.mp3",
+            "frames": 780,
+            "seconds": 25.992,
+            "from": 0
+          }
+        ],
+        "from": 4009,
+        "frames": 780
+      },
+      {
+        "id": "k5",
+        "title": "Kalıp, anlamın anahtarı",
+        "kind": "puzzle",
+        "speaker": "filiz",
+        "text": "Kalıplaşmış söz bir anahtardır. Sözcükleri keyfî değiştirirsen kalıp bozulur. Kılıfını yerine örtüyü kullanamazsın. Göz kulak olmak deyimini göz kulak oldum diye çekimlemek ise kalıbı bozmaz. Cümle biçiminde deyimler de vardır: Dostlar alışverişte görsün. Bu ne perhiz, bu ne lahana turşusu. Biçim tek başına ayırt etmeye yetmez.",
+        "caption": "Kalıbı koru; çekim değişebilir.",
+        "parts": [
+          {
+            "speaker": "filiz",
+            "text": "Kalıplaşmış söz bir anahtardır. Sözcükleri keyfî değiştirirsen kalıp bozulur. Kılıfını yerine örtüyü kullanamazsın. Göz kulak olmak deyimini göz kulak oldum diye çekimlemek ise kalıbı bozmaz. Cümle biçiminde deyimler de vardır: Dostlar alışverişte görsün. Bu ne perhiz, bu ne lahana turşusu. Biçim tek başına ayırt etmeye yetmez.",
+            "headline": "Kalıp, anlamın anahtarı",
+            "detail": "Kalıbı koru; çekim değişebilir.",
+            "audio": "audio/turkce/atasozu-deyim/kurz-k5-0-9648e2d09f.mp3",
+            "frames": 811,
+            "seconds": 27.024,
+            "from": 0
+          }
+        ],
+        "from": 4789,
+        "frames": 811
+      },
+      {
+        "id": "k6",
+        "title": "Son karar: Söz ne yapıyor?",
+        "kind": "clock",
+        "speaker": "ibrahim",
+        "text": "Vakit nakittir, zamanın değerini öğütler. Etekleri tutuşmak, telaşı anlatır. Ayrımda sözün görevini sor: genel bir öğüt mü, belirli bir durum mu? Sadece mecaz anlamına veya cümle biçimine bakma. Yanlış hesap Bağdattan döner, yanlışın düzeltilebileceğini söyler. Baklayı ağzından çıkarmak ise gizli tuttuğunu açıklamaktır. Genel mesaj ile belirli durumu ayır.",
+        "caption": "Öğüt mü, durum mu?",
+        "parts": [
+          {
+            "speaker": "ibrahim",
+            "text": "Vakit nakittir, zamanın değerini öğütler. Etekleri tutuşmak, telaşı anlatır. Ayrımda sözün görevini sor: genel bir öğüt mü, belirli bir durum mu? Sadece mecaz anlamına veya cümle biçimine bakma. Yanlış hesap Bağdattan döner, yanlışın düzeltilebileceğini söyler. Baklayı ağzından çıkarmak ise gizli tuttuğunu açıklamaktır. Genel mesaj ile belirli durumu ayır.",
+            "headline": "Son karar: Söz ne yapıyor?",
+            "detail": "Öğüt mü, durum mu?",
+            "audio": "audio/turkce/atasozu-deyim/kurz-k6-0-4fd42a3636.mp3",
+            "frames": 948,
+            "seconds": 31.584,
+            "from": 0
+          }
+        ],
+        "from": 5600,
+        "frames": 948
+      }
+    ],
+    "lessonFrames": 6548,
+    "durationInFrames": 6548
+  },
+  "shorts": [
+    {
+      "id": "s1",
+      "topic": "ATASÖZÜ",
+      "question": "Mert harçlığını ilk gün bitirdi. Hangi atasözü ona uygun bir öğüt verir?",
+      "choices": [
+        "Etekleri tutuşmak",
+        "Burun kıvırmak",
+        "Ayağını yorganına göre uzat.",
+        "Baklayı ağzından çıkarmak"
+      ],
+      "correct": 2,
+      "visual": "budget",
+      "answer": "C seçeneği: Ayağını yorganına göre uzat. Harcamalarını imkânlarına göre yapmasını öğütler. Diğer seçenekler deyimdir.",
+      "q": {
+        "audio": "audio/turkce/atasozu-deyim/short-1-q-9895f3fa2f.mp3",
+        "frames": 210,
+        "seconds": 6.984
+      },
+      "a": {
+        "audio": "audio/turkce/atasozu-deyim/short-1-a-f789fd5af0.mp3",
+        "frames": 339,
+        "seconds": 11.28
+      },
+      "qEnd": 210,
+      "reveal": 360,
+      "answerEnd": 699,
+      "durationInFrames": 744
+    },
+    {
+      "id": "s2",
+      "topic": "DEYİM",
+      "question": "Elif kardeşine göz kulak oldu. Bu deyim ne anlatır?",
+      "choices": [
+        "İlgilenip korumak",
+        "Yeni gözlük almak",
+        "Bir sırrı açıklamak",
+        "Harcamaları azaltmak"
+      ],
+      "correct": 0,
+      "visual": "watch",
+      "answer": "A seçeneği: İlgilenip korumak. Göz kulak olmak, birine dikkatle bakıp onu korumayı anlatan deyimdir.",
+      "q": {
+        "audio": "audio/turkce/atasozu-deyim/short-2-q-5c2928bbd6.mp3",
+        "frames": 176,
+        "seconds": 5.856
+      },
+      "a": {
+        "audio": "audio/turkce/atasozu-deyim/short-2-a-58e2614fe6.mp3",
+        "frames": 268,
+        "seconds": 8.928
+      },
+      "qEnd": 176,
+      "reveal": 326,
+      "answerEnd": 594,
+      "durationInFrames": 639
+    }
+  ]
+}

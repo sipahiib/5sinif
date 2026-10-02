@@ -2,7 +2,7 @@
 
 ## Teknik sınırlar
 
-- Final ana video `1280 × 720` teslim edilir ve kapanış dahil en fazla 300 saniye sürer.
+- Final ana video `1280 × 720` teslim edilir. Ana videolar için sabit bir üst süre sınırı yoktur; önceki 5 dakika / 300 saniye sınırı kaldırılmıştır. Süreyi kaynak kapsamı, öğretim ihtiyacı ve anlaşılır anlatım temposuna göre belirle; kullanıcı belirli bir süre isterse onu uygula. Kapanışı toplam süreye dahil et.
 - Kaynak sayfaları numara sırasıyla işle; her başlığı, önemli öğretim noktasını ve açıkça `Not` olarak işaretlenen her cümleyi kapsa.
 - Kaynaktaki her notu ilgili sahnede, okunaklı ve anlatımla eşzamanlı `NOT` çağrısı olarak göster.
 - Tek karakterli ders sahnelerinde içeriği kullanılmayan yana doğru genişlet; karakter genişliğinde boş kolon bırakma.
