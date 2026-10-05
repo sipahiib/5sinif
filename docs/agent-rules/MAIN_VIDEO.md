@@ -1,5 +1,12 @@
 # Ana Video Profili
 
+## Tasarım ve sunum kalitesi
+
+- Her ana video ilgi çekici, profesyonel ve yüksek kaliteli bir sunum olmalıdır.
+- İçeriği tasarlarken tasarımcı (designer) rolünde incele; görsel hiyerarşi, tipografi, renk, kompozisyon, anlatım temposu ve animasyonların öğretime katkısını birlikte değerlendir.
+- Profesyonel sunum örneklerini tersine mühendislikle çözümle; etkili tasarım ilkelerini konuya uygun, özgün bir sunuma dönüştür.
+- Bu sunum kalitesini ücretli araç kullanmadan, ücretsiz araçlar ve mevcut proje olanaklarıyla sağla.
+
 ## Teknik sınırlar
 
 - Final ana video `1280 × 720` teslim edilir. Ana videolar için sabit bir üst süre sınırı yoktur; önceki 5 dakika / 300 saniye sınırı kaldırılmıştır. Süreyi kaynak kapsamı, öğretim ihtiyacı ve anlaşılır anlatım temposuna göre belirle; kullanıcı belirli bir süre isterse onu uygula. Kapanışı toplam süreye dahil et.
