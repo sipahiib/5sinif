@@ -17,6 +17,8 @@ Bu belge ana video, Kurz/Lumi, Shorts ve Reels için ortak kuralları içerir. F
 - Bağlı çizgi, ok, etiket, nesne ve yüzeyleri bütün hareket aralığında incele; ayrılma, kayma, sıçrama, istenmeyen temas veya boşluk oluşmamalıdır.
 - Oklar ve bağlayıcı çizgiler metinlerin, ikonların, kalkanların, düğümlerin veya başka şekillerin üzerinden geçmemeli ve birbirleriyle üst üste binmemelidir. Her bağlantıya ayrı, okunabilir bir koridor ver; çizgiyi hedef şeklin merkezinde değil dış sınırında bitir ve ok ucunu hedefe doğru düzgün yönlendir.
 
+- Ok başlarını dolu üçgen olarak çiz; üçgen ucu çizginin bitiş noktasında, ekseni çizginin son yönüyle aynı doğrultuda olsun. Çizgi üçgenin tabanına içeriden bağlansın; ayrık ok başı, ters yön veya hedefin içine taşan uç bırakma.
+
 ## Zorunlu QA
 
 - Final MP4'ten önce videoyu hedef çözünürlükte hem temsilî tam çözünürlük kareleriyle hem de hareketli preview ile gerçekten izle.

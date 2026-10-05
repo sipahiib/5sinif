@@ -1,0 +1,41 @@
+[
+  {
+    "file": "out/fen/isik-yayilmasi/isik-yayilmasi.mp4",
+    "seconds": 370.048,
+    "dimensions": [
+      1280,
+      720
+    ],
+    "fps": "30/1",
+    "audio": "aac",
+    "sample_rate": "48000",
+    "sha256": "5d54071f3df45bde2245dfe29bc90db10732c3f527dec1f5e6e0d27cd70dd2ce",
+    "decode": "PASS"
+  },
+  {
+    "file": "out/fen/isik-yayilmasi/isik-yayilmasi_kurz.mp4",
+    "seconds": 192.896,
+    "dimensions": [
+      1280,
+      720
+    ],
+    "fps": "30/1",
+    "audio": "aac",
+    "sample_rate": "48000",
+    "sha256": "de5887500cb2c091024c879243367721b3d968049cb404ef5dca1a5b65c89738",
+    "decode": "PASS"
+  },
+  {
+    "file": "out/shorts/fen/isik-yayilmasi_shorts/isik-yayilmasi_shorts.mp4",
+    "seconds": 26.986667,
+    "dimensions": [
+      720,
+      1280
+    ],
+    "fps": "30/1",
+    "audio": "aac",
+    "sample_rate": "48000",
+    "sha256": "e75fb5bfc09cf5b9f48775f3ae0ae28380542ec40c3e9bbb0269c233929bd6ca",
+    "decode": "PASS"
+  }
+]

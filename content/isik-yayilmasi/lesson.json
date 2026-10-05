@@ -1,0 +1,246 @@
+{
+  "sourceFiles": [
+    "IMG_4177.jpg",
+    "IMG_4178.jpg",
+    "IMG_4179.jpg",
+    "IMG_4180.jpg"
+  ],
+  "main": [
+    {
+      "id": "kaynak",
+      "title": "Işık kaynağı nedir?",
+      "kind": "sources",
+      "parts": [
+        {
+          "speaker": "filiz",
+          "text": "Işığın yayılmasını anlamak için önce kaynağını tanıyalım. Kendi ışığını üreten varlıklara ışık kaynağı denir. Güneş gündüz çevremizi aydınlatır. Geceleri ise başka ışık kaynaklarından yararlanırız. Bir cismin parlak görünmesi, onun mutlaka kendi ışığını ürettiği anlamına gelmez.",
+          "headline": "Kendi ışığını üreten varlık",
+          "detail": "Parlak görünen her cisim ışık kaynağı değildir."
+        },
+        {
+          "speaker": "filiz",
+          "text": "İnsanlar ampulden önce meşale, mum ve gaz lambasıyla çevrelerini aydınlatıyordu. Bugün el feneri ve ampul gibi araçlar kullanıyoruz. Işık kaynaklarını doğal ve yapay olmak üzere iki grupta inceleyebiliriz.",
+          "headline": "Geçmişten bugüne aydınlatma",
+          "detail": "Ampulden önce: meşale, mum, gaz lambası"
+        }
+      ]
+    },
+    {
+      "id": "dogal",
+      "title": "Doğal ışık kaynakları",
+      "kind": "natural",
+      "parts": [
+        {
+          "speaker": "ibrahim",
+          "text": "Doğal ışık kaynakları doğada bulunan ve kendiliğinden ışık üreten kaynaklardır. Güneş ve diğer yıldızlar bu gruptadır. Şimşek, yıldırım ve ateş böceği de doğal ışık kaynaklarına örnektir. Ateş böceğinin ışığı insan yapımı bir lambadan gelmez.",
+          "headline": "Güneş • yıldız • şimşek",
+          "detail": "Yıldırım ve ateş böceği de doğal kaynaklardır."
+        },
+        {
+          "speaker": "ibrahim",
+          "text": "Doğal sınıflandırması, ışık üretiminin insan tarafından hazırlanmış bir araçla gerçekleşmemesine dayanır. Güneş bir yıldızdır; hem Güneş hem diğer yıldızlar kendi ışıklarını üretir. Bu yüzden onları doğal kaynaklar arasında sayarız.",
+          "headline": "Güneş de bir yıldızdır.",
+          "detail": "Doğal kaynaklar kendi ışıklarını üretir."
+        }
+      ]
+    },
+    {
+      "id": "yapay",
+      "title": "Yapay ışık kaynakları",
+      "kind": "artificial",
+      "parts": [
+        {
+          "speaker": "filiz",
+          "text": "İnsanlar tarafından yapılmış ve ışık verebilen kaynaklara yapay ışık kaynakları denir. Mum, el feneri, meşale, ampul ve gaz lambası bu gruptadır. Doğal ve yapay kaynakların ortak özelliği ışık üretmeleridir. Ayrıldıkları nokta, insan tarafından yapılmış olup olmamalarıdır.",
+          "headline": "Mum • fener • meşale",
+          "detail": "Ampul ve gaz lambası da yapay kaynaklardır."
+        },
+        {
+          "speaker": "filiz",
+          "text": "Kısa bir karşılaştırma yapalım. Ateş böceği doğada ışık üretir, doğal kaynaktır. El feneri insanların ürettiği bir araçtır, yapay kaynaktır. Sınıflandırmada ışığın rengine veya kaynağın büyüklüğüne değil, kaynağın nasıl oluştuğuna bakarız.",
+          "headline": "Ateş böceği: doğal / Fener: yapay",
+          "detail": "Ölçüt: insan yapımı olup olmaması"
+        }
+      ]
+    },
+    {
+      "id": "yayilma",
+      "title": "Işık doğrusal yayılır",
+      "kind": "straight",
+      "parts": [
+        {
+          "speaker": "ibrahim",
+          "text": "Aynı ve homojen ortamda ışık doğrusal olarak yayılır. Kaynaktan çıkan ışığı düz çizgilerle gösteririz. Bir mumun ışığı farklı yönlere yayılabilir; ama her bir ışının yolu doğrusaldır. Her yöne yayılmak, tek bir ışının kıvrılarak yol alması demek değildir.",
+          "headline": "Farklı yönler, düz yollar",
+          "detail": "Her bir ışın doğrusal ilerler."
+        },
+        {
+          "speaker": "ibrahim",
+          "text": "El feneri ışığı belirli bir bölgeye yönlendirir. Karanlık bir yerde feneri bir cisme tuttuğumuzda, ışığın ulaştığı yer aydınlanır. Işığın doğrudan önündeki opak cismin arkasına kıvrılarak geçtiğini düşünmeyiz. Bu, doğrusal yayılmayı anlamak için önemli bir örnektir.",
+          "headline": "El feneri ışığı yönlendirir.",
+          "detail": "Işığın doğrudan ulaştığı bölge aydınlanır."
+        }
+      ]
+    },
+    {
+      "id": "isin",
+      "title": "Işın: bir çizim modeli",
+      "kind": "ray",
+      "parts": [
+        {
+          "speaker": "filiz",
+          "text": "Işığın izlediği yolu basit ışın çizimleriyle gösteririz. Işın, ince bir çizgi ve yayılma yönünü belirten okla çizilen geometrik bir modeldir. Çizdiğimiz çizgi gerçek bir ip veya çubuk değildir; ışığın hareketini anlamamıza yardımcı olur.",
+          "headline": "Çizgi: yol / Ok: yön",
+          "detail": "Işın, ışığın yolunu gösteren geometrik modeldir."
+        },
+        {
+          "speaker": "filiz",
+          "text": "Işık ışınını kaynaktan başlayarak yayılma yönüne doğru çizeriz. Okun ucu kaynaktan uzaklaşan yönü gösterir. Şimdi sağa ilerleyen ışının okuna bakalım. Çizgi ile üçgen ok başı aynı doğrultudadır. Okun yönü, ışığın hangi tarafa ilerlediğini açıkça anlatır.",
+          "headline": "Ok, yayılma yönünü gösterir.",
+          "detail": "Kaynak → ışığın ilerlediği yön"
+        }
+      ]
+    },
+    {
+      "id": "demet",
+      "title": "Birlikte: ışın demeti",
+      "kind": "bundle",
+      "parts": [
+        {
+          "speaker": "ibrahim",
+          "text": "Bir kaynaktan çıkan ışığı tek bir çizgiyle sınırlamayız. Kaynağın farklı noktalarından ve farklı yönlere yayılan çok sayıda ışın birlikte ışın demetlerini oluşturur. Ampulün çevresindeki oklar aynı kaynaktan uzaklaşır. Her birinin yönü farklı olsa da her çizgi düzdür.",
+          "headline": "Çok sayıda ışın → ışın demeti",
+          "detail": "Her ok kaynaktan uzaklaşır."
+        },
+        {
+          "speaker": "ibrahim",
+          "text": "Çizimlerde ışınların sadece bir bölümünü gösteririz. Bu, ışığın yalnızca çizdiğimiz yönlerde yayıldığı anlamına gelmez. Ampul geniş bir bölgeyi aydınlatırken el fenerinin yapısı ışığı daha dar bir bölgeye yönlendirir. İkisinde de doğrusal yolları izleriz.",
+          "headline": "Çizim, yayılmayı sadeleştirir.",
+          "detail": "Ampul: geniş bölge / Fener: yönlendirilmiş demet"
+        }
+      ]
+    },
+    {
+      "id": "engel",
+      "title": "Opak engel ışığı geçirmez",
+      "kind": "barrier",
+      "parts": [
+        {
+          "speaker": "filiz",
+          "text": "Işık, karşısına opak bir engel çıkmadığı sürece yayılmaya devam eder. Opak madde ışığı geçirmeyen maddedir. Kaynaktaki kutuyu düşünelim: üst bölümdeki ampul, ışığının ulaşabildiği yerleri aydınlatır. Araya yerleştirilen karton, ışığın alt bölüme doğrudan geçmesini engeller.",
+          "headline": "Karton ışığı geçirmez.",
+          "detail": "Üst bölüm aydınlık; alt bölüm doğrudan ışık almaz."
+        },
+        {
+          "speaker": "filiz",
+          "text": "Burada ışığın kartonun içinden devam ettiğini gösteren bir ok çizmeyiz. Işınları engelin önünde sonlandırırız. Engel arkasının doğrudan aydınlanmaması, ışığın doğrusal yayılmasıyla ilişkilidir. Opak engel üzerinde ışık yansıyabilir veya soğurulabilir; engelin içinden geçmez.",
+          "headline": "Işın, opak engelin içinden geçmez.",
+          "detail": "Doğrudan gelen ışığın yolu engelde kesilir."
+        }
+      ]
+    },
+    {
+      "id": "boru",
+      "title": "Düz ve kıvrımlı boru deneyi",
+      "kind": "tube",
+      "parts": [
+        {
+          "speaker": "ibrahim",
+          "text": "Yiğit ve Irmak, boruların bir ucuna el feneri tutup diğer ucundan bakıyor. Yiğit düz borunun ucundaki ışığı görebiliyor. Çünkü ışık kaynağı ile göz arasında açık ve doğrusal bir yol bulunuyor. Borunun düz olması bu yolu koruyor.",
+          "headline": "Yiğit: düz boruda ışığı görür.",
+          "detail": "Kaynak ile göz arasında açık, düz yol"
+        },
+        {
+          "speaker": "ibrahim",
+          "text": "Irmak ise kıvrımlı boruda aynı ışığı göremiyor. Bu deneyde ışığı yönlendiren bir ayna kullanılmıyor. Işık borunun dönüşlerini izleyerek kıvrılmaz; borunun duvarıyla karşılaşır. Düz ve kıvrımlı boru arasındaki fark, doğrusal yayılmayı gösterir.",
+          "headline": "Irmak: kıvrımlı boruda göremez.",
+          "detail": "Işık, borunun dönüşlerini takip etmez."
+        }
+      ]
+    },
+    {
+      "id": "bosluk",
+      "title": "EK BİLGİ: ışık boşlukta yayılır",
+      "kind": "space",
+      "parts": [
+        {
+          "speaker": "filiz",
+          "text": "Ek bilgi: Işık boşlukta da yayılabilir. Güneşten gelen ışık uzayın boşluğundan geçerek Dünya’ya ulaşır. Bu nedenle ışığın yayılması için mutlaka hava gerekmez. Işığın boşluktaki hızı yaklaşık saniyede üç yüz bin kilometredir.",
+          "headline": "EK BİLGİ • Boşlukta da yayılır.",
+          "detail": "Boşlukta hız ≈ 300.000 km/s"
+        },
+        {
+          "speaker": "filiz",
+          "text": "Aynı homojen ortamda ışığın hızı sabittir. Farklı ortamlarda ise ışığın hızı değişebilir. Bugünkü çizimlerimiz, aynı ortam içinde doğrusal yayılmayı anlatıyor. Kaynağı tanıdık, okların yönünü öğrendik ve opak engelle düz boru deneyini bu bilgilerle açıkladık.",
+          "headline": "Aynı ortamda sabit; farklı ortamda değişebilir.",
+          "detail": "Kaynak • düz yol • yön oku • engel"
+        }
+      ]
+    }
+  ],
+  "kurz": [
+    {
+      "id": "k0",
+      "title": "Işığın üretim atölyesi",
+      "kind": "sources",
+      "caption": "Doğal veya yapay: ikisi de ışık üretir.",
+      "speaker": "filiz",
+      "text": "Bir gece şehrini hayal et: gökte yıldızlar, sokakta lambalar. İkisi de ışık üretir, ama aynı grupta değildir. Doğada kendiliğinden ışık üreten Güneş, diğer yıldızlar, şimşek, yıldırım ve ateş böceği doğal kaynaklardır. İnsanların yaptığı mum, meşale, fener, ampul ve gaz lambası ise yapay kaynaklardır. Parlak görünen bir şeyin mutlaka kaynak olduğunu sanma; kendi ışığını üretip üretmediğine bak."
+    },
+    {
+      "id": "k1",
+      "title": "Yollar çoğalır, ışın kıvrılmaz",
+      "kind": "radial",
+      "caption": "Her yön ayrı; her yol düz.",
+      "speaker": "ibrahim",
+      "text": "Lumi’nin ışık merkezinden farklı yönlere düz yollar açılıyor. Kaynak birçok yöne ışık gönderebilir. Bu, bir ışının yol boyunca sağa sola döndüğü anlamına gelmez. Aynı homojen ortamda her ışın doğrusal ilerler. El fenerinin yapısı bu yolları dar bir bölgede toplar; mum veya ampul ise daha geniş çevreyi aydınlatabilir. Her yöne yayılma ile tek bir ışının düz yolu arasındaki farkı koru."
+    },
+    {
+      "id": "k2",
+      "title": "Oklar ışığın pusulası",
+      "kind": "ray",
+      "caption": "Üçgen uç, ilerleme yönünü gösterir.",
+      "speaker": "filiz",
+      "text": "Bir ışının çizgisi yolunu, ok başı da yönünü gösterir. Çizdiğimiz ışın gerçek bir ip değildir; ışığın hareketi için kullandığımız geometrik modeldir. Başlangıcı kaynağa yerleştirir, oku kaynaktan uzaklaşan yöne çeviririz. Şimdi ışık sağa gidiyor: üçgen uç da sağa bakıyor. Kaynağın farklı noktalarından çıkan çok sayıdaki ışını birlikte düşündüğümüzde ışın demetini elde ederiz. Ok başının çizgiden ayrı durmaması gerekir. Birlikte, aynı doğrultuda ve ilerleme yönünde bir model oluştururlar."
+    },
+    {
+      "id": "k3",
+      "title": "Karton kapıda yol biter",
+      "kind": "barrier",
+      "caption": "Opak engelden doğrudan geçiş yok.",
+      "speaker": "ibrahim",
+      "text": "Bir ışık kutusunun üst katında ampul yanıyor. Üst bölüm ışık alırken kartondan ayırıcı alt bölüme geçişi kapatıyor. Karton opaktır; ışığı geçirmez. Çizdiğimiz yollar kartona ulaşır, içinden devam etmez. Işığın engel arkasına kendi kendine kıvrılarak gittiğini göstermeyiz. Işık engelde yansıyabilir veya soğurulabilir. Bu çizimde takip ettiğimiz doğrudan yol burada sona erer."
+    },
+    {
+      "id": "k4",
+      "title": "Dönemeç testi",
+      "kind": "tube",
+      "caption": "Düz yol açık; dönüşte doğrudan yol kesilir.",
+      "speaker": "filiz",
+      "text": "İki boru, tek soru: fenerin ışığı diğer uçtan görülebilir mi? Yiğit’in düz borusunda kaynak ile göz arasında açık bir çizgi var; ışığı görür. Irmak’ın kıvrımlı borusunda ise dönüşün duvarı bu çizgiyi keser. Aynayla yönlendirme yapılmayan bu deneyde ışık borunun kıvrımını takip etmez; Irmak ışığı göremez. Bu sonuç, aynı ortamda ışığın düz yol boyunca ilerlemesiyle açıklanır."
+    },
+    {
+      "id": "k5",
+      "title": "Uzayda hava şart değil",
+      "kind": "space",
+      "caption": "Boşlukta ≈ 300.000 km/s",
+      "speaker": "ibrahim",
+      "text": "Son yolculuk uzayda: Güneş ışığı boşluktan geçip Dünya’ya ulaşır. Işık için mutlaka hava gerekmez. Boşluktaki hızı yaklaşık saniyede üç yüz bin kilometredir. Aynı homojen ortamda hızı sabittir; farklı ortamlarda değişebilir. Bir çizimi okurken üç şeye bak: ışığı hangi kaynak üretiyor, ok nereye yöneliyor, doğrudan yolun önünde opak bir engel var mı? Bu üç soru, ışığın yayılmasını anlamana yardım eder."
+    }
+  ],
+  "shorts": [
+    {
+      "question": "Yiğit düz, Irmak kıvrımlı borudan fenerin ışığına bakıyor. Ayna kullanılmıyor. Kim ışığı görür?",
+      "answer": "Doğru cevap A. Yalnız Yiğit ışığı görür. Düz boruda açık bir yol vardır. Işık, Irmak’ın borusundaki dönüşü takip etmez.",
+      "choices": [
+        "Yalnız Yiğit",
+        "Yalnız Irmak",
+        "İkisi de",
+        "Hiçbiri"
+      ],
+      "correct": 0,
+      "topic": "IŞIĞIN YAYILMASI",
+      "visual": "shorttube"
+    }
+  ]
+}
