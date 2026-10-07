@@ -1,0 +1,75 @@
+{
+  "fps": 30,
+  "durationInFrames": 807,
+  "scenes": [
+    {
+      "id": "opening",
+      "text": "Yeni konular eklendi. YouTube’dan takip edin",
+      "audio": "audio/promos/story-yeni-konular/opening-e9583ff6e8.wav",
+      "audioSeconds": 3.614966,
+      "audioFrames": 109,
+      "from": 0,
+      "frames": 177,
+      "voiceFrom": 3,
+      "voiceEnabled": false
+    },
+    {
+      "id": "force",
+      "text": "Kuvvet",
+      "audio": "audio/promos/story-yeni-konular/force-046647ed89.wav",
+      "audioSeconds": 0.409955,
+      "audioFrames": 13,
+      "from": 177,
+      "frames": 115,
+      "voiceFrom": 3,
+      "voiceEnabled": false
+    },
+    {
+      "id": "angles",
+      "text": "Açılar",
+      "audio": "audio/promos/story-yeni-konular/angles-ecb5140177.wav",
+      "audioSeconds": 0.449864,
+      "audioFrames": 14,
+      "from": 292,
+      "frames": 115,
+      "voiceFrom": 3,
+      "voiceEnabled": false
+    },
+    {
+      "id": "culture",
+      "text": "Kültürel özellikler",
+      "audio": "audio/promos/story-yeni-konular/culture-d6509fc410.wav",
+      "audioSeconds": 1.141202,
+      "audioFrames": 35,
+      "from": 407,
+      "frames": 115,
+      "voiceFrom": 3,
+      "voiceEnabled": false
+    },
+    {
+      "id": "words",
+      "text": "Somut ve soyut",
+      "audio": "audio/promos/story-yeni-konular/words-3fedc96983.wav",
+      "audioSeconds": 0.906825,
+      "audioFrames": 28,
+      "from": 522,
+      "frames": 115,
+      "voiceFrom": 3,
+      "voiceEnabled": false
+    },
+    {
+      "id": "closing",
+      "text": "Ders Kutusu'nu YouTube'da izle, abone ol",
+      "audio": "audio/promos/story-yeni-konular/closing-2ab88f4208.wav",
+      "audioSeconds": 2.448571,
+      "audioFrames": 74,
+      "from": 637,
+      "frames": 170,
+      "voiceFrom": 3,
+      "voiceEnabled": false
+    }
+  ],
+  "revision": 2,
+  "narrationEnabled": false,
+  "extraSecondsPerScene": 2
+}
