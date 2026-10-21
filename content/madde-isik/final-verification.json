@@ -1,0 +1,59 @@
+{
+  "fps": 30,
+  "files": [
+    {
+      "group": "main",
+      "path": "out/fen/madde-isik/madde-isik.mp4",
+      "width": 1280,
+      "height": 720,
+      "frames": 13825,
+      "seconds": 460.885333,
+      "video": "h264",
+      "audio": "aac",
+      "sampleRate": "48000",
+      "bytes": 32068277,
+      "sha256": "636df15f6d74c903645a90e2d3ade6e2405ea51c1c3065649c72e0985126500f",
+      "fullDecode": "PASS"
+    },
+    {
+      "group": "kurz",
+      "path": "out/fen/madde-isik/madde-isik_kurz.mp4",
+      "width": 1280,
+      "height": 720,
+      "frames": 7636,
+      "seconds": 254.592,
+      "video": "h264",
+      "audio": "aac",
+      "sampleRate": "48000",
+      "bytes": 22929000,
+      "sha256": "c603ffb7de382905a0840b9ed24bf9484085b885340256794dbdc47bc03ce323",
+      "fullDecode": "PASS"
+    },
+    {
+      "group": "short",
+      "path": "out/shorts/fen/madde-isik_shorts/madde-isik_shorts.mp4",
+      "width": 720,
+      "height": 1280,
+      "frames": 842,
+      "seconds": 28.117333,
+      "video": "h264",
+      "audio": "aac",
+      "sampleRate": "48000",
+      "bytes": 1983807,
+      "sha256": "91a626dba5d683e68bd957869eb675f64325481d6a38da859ffb8290dee1bab5",
+      "fullDecode": "PASS"
+    }
+  ],
+  "kurzMainRatio": 0.5523977045283843,
+  "shortCountdownSeconds": 5,
+  "review": {
+    "independentStatic": "PASS",
+    "rootFinalFrames": "PASS",
+    "representativeMotionPreview": "PASS",
+    "qaFrameCounts": {
+      "main": 53,
+      "kurz": 49,
+      "short1": 15
+    }
+  }
+}

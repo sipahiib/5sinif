@@ -1,0 +1,4346 @@
+{
+  "fps": 30,
+  "main": {
+    "scenes": [
+      {
+        "id": "karsilastir",
+        "title": "Her madde aynı mı geçirir?",
+        "kind": "compare",
+        "parts": [
+          {
+            "speaker": "filiz",
+            "text": "Aynı güneş ışığı üç aracın penceresine ulaşsın. Birinin penceresi temiz cam, diğerinin yarı saydam plastik poşet, üçüncüsününki kartonla kaplı olsun. Camlı aracın içi aydınlık, poşetli aracın içi daha loş olur. Karton kaplı pencereden ise içeri doğrudan ışık geçmez.",
+            "headline": "Cam • poşet • karton",
+            "detail": "Aynı ışık, farklı sonuç",
+            "audio": "audio/fen/madde-isik/main-karsilastir-0-6d90b93696.mp3",
+            "frames": 628,
+            "seconds": 20.904,
+            "words": [],
+            "from": 0
+          },
+          {
+            "speaker": "filiz",
+            "text": "Evlerde tül ve kalın perdeyi farklı amaçlarla kullanmamız da bununla ilgilidir. Gün ışığının ne kadarını içeri almak istediğimizi seçeriz. Maddeler ışığı aynı oranda geçirmez. Işığı geçirme özelliklerine göre saydam, yarı saydam ve saydam olmayan, yani opak olarak sınıflandırılır.",
+            "headline": "Üç temel grup",
+            "detail": "Saydam • yarı saydam • opak",
+            "audio": "audio/fen/madde-isik/main-karsilastir-1-0c4bd2905f.mp3",
+            "frames": 664,
+            "seconds": 22.104,
+            "words": [],
+            "from": 634
+          }
+        ],
+        "from": 0,
+        "frames": 1310
+      },
+      {
+        "id": "saydam",
+        "title": "Saydam maddeler",
+        "kind": "transparent",
+        "parts": [
+          {
+            "speaker": "ibrahim",
+            "text": "Üzerine gelen görünür ışığın büyük bölümünü geçiren ve arkasındaki cisimlerin net görülmesini sağlayan maddelere saydam madde denir. Temiz pencere camından dışarı baktığımızda ağacın yapraklarını seçebiliriz. Cam arada olsa bile ayrıntılar görünür; yalnızca aydınlık görmekten daha fazlası vardır.",
+            "headline": "Işık geçer, ayrıntı görünür",
+            "detail": "Saydam maddelerin arkasını net görürüz.",
+            "audio": "audio/fen/madde-isik/main-saydam-0-69a0747c95.mp3",
+            "frames": 636,
+            "seconds": 21.192,
+            "words": [],
+            "from": 0
+          },
+          {
+            "speaker": "ibrahim",
+            "text": "Temiz hava, duru su, renksiz şeffaf plastik ve temiz cam saydam örnekleridir. Burada örneklerin özellikleri önemlidir: her plastik şeffaf değildir, her su da duru değildir. Bir maddeyi yalnız adına bakarak değil, ışığı nasıl geçirdiğini ve arkasını nasıl gösterdiğini inceleyerek sınıflandırırız.",
+            "headline": "Cam • hava • şeffaf plastik • su",
+            "detail": "Örneğin türüne ve durumuna bak.",
+            "audio": "audio/fen/madde-isik/main-saydam-1-a39f3c1047.mp3",
+            "frames": 666,
+            "seconds": 22.2,
+            "words": [],
+            "from": 642
+          }
+        ],
+        "from": 1310,
+        "frames": 1320
+      },
+      {
+        "id": "yari-saydam",
+        "title": "Yarı saydam maddeler",
+        "kind": "translucent",
+        "parts": [
+          {
+            "speaker": "filiz",
+            "text": "Gelen ışığın bir kısmını geçiren, fakat arkasındaki ayrıntıları net göstermeyen maddeler yarı saydamdır. Buzlu camın ardında aydınlık veya bir siluet görebiliriz; yüzün ayrıntılarını seçemeyiz. Burada ışık geçmesi, görüntünün net olmasıyla aynı şey değildir. İki özelliği birlikte değerlendirmeliyiz.",
+            "headline": "Işık geçer, ayrıntı kaybolur",
+            "detail": "Yarı saydam: aydınlık var, net görüntü yok.",
+            "audio": "audio/fen/madde-isik/main-yari-saydam-0-6a663f873f.mp3",
+            "frames": 703,
+            "seconds": 23.424,
+            "words": [],
+            "from": 0
+          },
+          {
+            "speaker": "filiz",
+            "text": "Buzlu cam, bazı plastik poşetler, yağlı kâğıt ve içi kabarcıklı ya da bulanık buz bu gruba örnek olabilir. Ancak temiz ve berrak buz saydam olabilir. Poşetin malzemesi, rengi ve kalınlığı da sonucu değiştirir. Örnekleri bütün buzlara veya bütün poşetlere genellemeyelim.",
+            "headline": "Buzlu cam • poşet • buz • yağlı kâğıt",
+            "detail": "Bütün buzlar ve poşetler aynı değildir.",
+            "audio": "audio/fen/madde-isik/main-yari-saydam-1-a91c272c8e.mp3",
+            "frames": 628,
+            "seconds": 20.904,
+            "words": [],
+            "from": 709
+          }
+        ],
+        "from": 2630,
+        "frames": 1349
+      },
+      {
+        "id": "opak",
+        "title": "Opak maddeler",
+        "kind": "opaque",
+        "parts": [
+          {
+            "speaker": "ibrahim",
+            "text": "Üzerine gelen görünür ışığı diğer tarafa geçirmeyen maddelere saydam olmayan ya da opak madde denir. Tahta, duvar, karton ve mukavva günlük örneklerdir. Kartonu gözümüzle bir nesnenin arasına koyduğumuzda, nesneden gelen ışığın doğrudan gözümüze ulaşmasını engelleriz ve arkasını göremeyiz.",
+            "headline": "Görünür ışık geçmez",
+            "detail": "Tahta • duvar • karton • mukavva",
+            "audio": "audio/fen/madde-isik/main-opak-0-2809c5bf8c.mp3",
+            "frames": 648,
+            "seconds": 21.6,
+            "words": [],
+            "from": 0
+          },
+          {
+            "speaker": "ibrahim",
+            "text": "Opak olmak, maddenin mutlaka siyah olması anlamına gelmez. Beyaz bir duvar da opaktır. Işık yüzeyden yansıyabilir veya madde tarafından soğurulabilir; ama içinden karşı tarafa geçmez. Böylece renk ile ışık geçirme özelliğinin farklı ölçütler olduğunu anlarız. Açık renkli karton da opak olabilir.",
+            "headline": "Renk, saydamlık ölçütü değildir.",
+            "detail": "Beyaz duvar da opaktır.",
+            "audio": "audio/fen/madde-isik/main-opak-1-39b2f65fcb.mp3",
+            "frames": 741,
+            "seconds": 24.696,
+            "words": [],
+            "from": 654
+          }
+        ],
+        "from": 3979,
+        "frames": 1407
+      },
+      {
+        "id": "yapi",
+        "title": "Madde ve yapı sonucu değiştirir",
+        "kind": "structure",
+        "parts": [
+          {
+            "speaker": "filiz",
+            "text": "Bir cismin ışığı geçirip geçirmemesi, yapıldığı maddeye ve yapısına bağlıdır. Yüzeyin pürüzlendirilmesi, renk verilmesi veya iç yapının değişmesi aynı adı taşıyan iki örneğin farklı davranmasına yol açabilir. Temiz düz cam net görüntü verirken buzlu cam ayrıntıları dağıtır.",
+            "headline": "Madde • yüzey • iç yapı",
+            "detail": "Aynı ad, her zaman aynı özellik değildir.",
+            "audio": "audio/fen/madde-isik/main-yapi-0-ae0f963394.mp3",
+            "frames": 623,
+            "seconds": 20.736,
+            "words": [],
+            "from": 0
+          },
+          {
+            "speaker": "filiz",
+            "text": "Kalınlık da geçen ışık miktarını etkileyebilir. Fakat kalın bir camın mutlaka yarı saydam olacağını söyleyemeyiz. Kalın ve berrak cam yine net görüntü verebilir. Daha az ışık geçmesi tek başına yeterli değildir; arkasındaki görüntünün netliğine de bakarız. Sınıflandırmayı gözlenen örneğe göre yaparız.",
+            "headline": "Kalın cam her zaman yarı saydam değildir.",
+            "detail": "Işık miktarıyla birlikte netliği incele.",
+            "audio": "audio/fen/madde-isik/main-yapi-1-603202aa59.mp3",
+            "frames": 702,
+            "seconds": 23.376,
+            "words": [],
+            "from": 629
+          }
+        ],
+        "from": 5386,
+        "frames": 1343
+      },
+      {
+        "id": "sis",
+        "title": "Ortamın saydamlığı",
+        "kind": "fog",
+        "parts": [
+          {
+            "speaker": "ibrahim",
+            "text": "Bu özellik yalnız katı eşyalarda görülmez; ışığın ilerlediği ortam için de geçerlidir. Sis olmayan temiz havada uzaktaki nesneleri daha rahat seçeriz. Sisli havada ise küçük su damlacıkları ışığı farklı yönlere saçar. Far ışığının yolu ve çevredeki nesneler farklı görünür.",
+            "headline": "Temiz hava ve sisli hava",
+            "detail": "Sis damlacıkları ışığı saçar.",
+            "audio": "audio/fen/madde-isik/main-sis-0-298fecb060.mp3",
+            "frames": 653,
+            "seconds": 21.744,
+            "words": [],
+            "from": 0
+          },
+          {
+            "speaker": "ibrahim",
+            "text": "Sis yoğunlaştıkça uzak nesnelerden gözümüze doğrudan ulaşan ışık azalır ve görüş zorlaşır. Bu nedenle sisli ortam yarı saydam gibi davranabilir; çok yoğun olduğunda arkası görünmeyebilir. Buradaki sınıflandırma ortamın yoğunluğuna ve baktığımız mesafeye bağlıdır. Havanın her koşulda aynı açıklıkta olduğunu varsaymayız.",
+            "headline": "Yoğun sis, daha zor görüş",
+            "detail": "Ortamın yoğunluğu ve mesafe önemlidir.",
+            "audio": "audio/fen/madde-isik/main-sis-1-8bef5a4add.mp3",
+            "frames": 736,
+            "seconds": 24.504,
+            "words": [],
+            "from": 659
+          }
+        ],
+        "from": 6729,
+        "frames": 1407
+      },
+      {
+        "id": "x-isinlari",
+        "title": "NOT: Görünür ışık ve X ışınları",
+        "kind": "xray",
+        "parts": [
+          {
+            "speaker": "filiz",
+            "text": "Not: Buraya kadar saydamlık ve opaklığı görünür ışık için konuştuk. X ışınları, yani röntgen ışınları, görünür ışıktan farklıdır. Görünür ışığa opak olan bazı yapılardan geçebilirler. Örneğin insan vücudundaki bazı dokular X ışınlarını geçirebilir; bütün dokular aynı miktarda geçirmez.",
+            "headline": "NOT • X ışınları farklıdır.",
+            "detail": "Görünür ışığa opak bazı yapılardan geçebilir.",
+            "audio": "audio/fen/madde-isik/main-x-isinlari-0-179ae660e2.mp3",
+            "frames": 689,
+            "seconds": 22.944,
+            "words": [],
+            "from": 0
+          },
+          {
+            "speaker": "filiz",
+            "text": "Bu bilgi, opaklığın hangi ışınımdan söz ettiğimize bağlı olduğunu gösterir. Bir tahtanın görünür ışığı geçirmediğini öğrenmek, bütün ışınım türleri hakkında aynı sonucu vermemize yetmez. Dersimizdeki cam, perde ve gölge karşılaştırmalarına dönerken yeniden görünür ışığı esas alıyoruz. Röntgen ışınlarını gözümüzle göremeyiz.",
+            "headline": "Opaklık, ışınım türüne bağlıdır.",
+            "detail": "Bu dersteki gölgeler: görünür ışık",
+            "audio": "audio/fen/madde-isik/main-x-isinlari-1-647154bb04.mp3",
+            "frames": 740,
+            "seconds": 24.648,
+            "words": [],
+            "from": 695
+          }
+        ],
+        "from": 8136,
+        "frames": 1447
+      },
+      {
+        "id": "tam-golge",
+        "title": "Tam gölge nasıl oluşur?",
+        "kind": "shadow",
+        "parts": [
+          {
+            "speaker": "ibrahim",
+            "text": "Işık kaynağının önüne opak bir cisim koyduğumuzda, cismin arkasında kaynaktan doğrudan ışık alamayan bir bölge oluşur. Bu karanlık bölgeye tam gölge denir. Işık aynı homojen ortamda doğrusal ilerlediği ve opak cisimden geçemediği için arkasındaki bölgeye doğrudan ulaşamaz.",
+            "headline": "Opak engelin arkasında tam gölge",
+            "detail": "Doğrusal yayılma + ışığı geçirmeyen cisim",
+            "audio": "audio/fen/madde-isik/main-tam-golge-0-baa0a44d8e.mp3",
+            "frames": 607,
+            "seconds": 20.232,
+            "words": [],
+            "from": 0
+          },
+          {
+            "speaker": "ibrahim",
+            "text": "Bir lamba, el ve duvar düşünelim. Elin engellediği ışık yolları duvarda karanlık bir alan bırakır. Elimizi farklı biçimlere soktuğumuzda kuş veya başka bir hayvanı andıran gölgeler oluşturabiliriz. Gölgede gördüğümüz şey elin rengi değil, ışığın ulaşamadığı bölgenin dış sınırıdır.",
+            "headline": "Elin biçimi, gölgenin sınırını değiştirir.",
+            "detail": "Kaynak → opak cisim → perde",
+            "audio": "audio/fen/madde-isik/main-tam-golge-1-3435a6832a.mp3",
+            "frames": 655,
+            "seconds": 21.816,
+            "words": [],
+            "from": 613
+          }
+        ],
+        "from": 9583,
+        "frames": 1280
+      },
+      {
+        "id": "golgenin-sekli",
+        "title": "Gölgenin biçimi ve belirginliği",
+        "kind": "shape",
+        "parts": [
+          {
+            "speaker": "filiz",
+            "text": "Gölgenin sınırı cismin ışığı hangi bölgelerde engellediğine bağlıdır; bu yüzden cisme benzer. Noktasal kaynakla kurulan basit düzende, perdeye paralel bir daire levha daire, kare levha kare gölge verir. Cismin duruşu değişirse gölgenin biçimi de değişebilir.",
+            "headline": "Gölge, cismin dış sınırını taşır.",
+            "detail": "Daire → daire / Kare → kare",
+            "audio": "audio/fen/madde-isik/main-golgenin-sekli-0-5a25b32049.mp3",
+            "frames": 581,
+            "seconds": 19.344,
+            "words": [
+              {
+                "type": "WordBoundary",
+                "offset": 1010000,
+                "duration": 5357080,
+                "text": "Gölgenin"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 6367500,
+                "duration": 3443750,
+                "text": "sınırı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 9811250,
+                "duration": 4209160,
+                "text": "cismin"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 14020410,
+                "duration": 3316250,
+                "text": "ışığı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 17464160,
+                "duration": 3316250,
+                "text": "hangi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 20780410,
+                "duration": 6505000,
+                "text": "bölgelerde"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 27285830,
+                "duration": 7525410,
+                "text": "engellediğine"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 34811250,
+                "duration": 5740000,
+                "text": "bağlıdır"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 43740000,
+                "duration": 1657910,
+                "text": "bu"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 45397910,
+                "duration": 4209160,
+                "text": "yüzden"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 49607080,
+                "duration": 3188750,
+                "text": "cisme"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 52795830,
+                "duration": 5229580,
+                "text": "benzer"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 70280410,
+                "duration": 5229580,
+                "text": "Noktasal"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 75510000,
+                "duration": 4464160,
+                "text": "kaynakla"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 79974580,
+                "duration": 4336660,
+                "text": "kurulan"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 84311250,
+                "duration": 3188750,
+                "text": "basit"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 87500000,
+                "duration": 5484580,
+                "text": "düzende"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 94897910,
+                "duration": 4209160,
+                "text": "perdeye"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 99234580,
+                "duration": 4209160,
+                "text": "paralel"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 103443750,
+                "duration": 892910,
+                "text": "bir"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 104336660,
+                "duration": 4081660,
+                "text": "daire"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 108418330,
+                "duration": 3316250,
+                "text": "levha"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 111734580,
+                "duration": 4464160,
+                "text": "daire"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 118112080,
+                "duration": 2423330,
+                "text": "kare"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 120535830,
+                "duration": 3316250,
+                "text": "levha"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 123852080,
+                "duration": 2423330,
+                "text": "kare"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 126275410,
+                "duration": 3316250,
+                "text": "gölge"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 129591660,
+                "duration": 3954160,
+                "text": "verir"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 150765410,
+                "duration": 4209160,
+                "text": "Cismin"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 154974580,
+                "duration": 3698750,
+                "text": "duruşu"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 158673330,
+                "duration": 5867500,
+                "text": "değişirse"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 164540830,
+                "duration": 4974580,
+                "text": "gölgenin"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 169515410,
+                "duration": 3698750,
+                "text": "biçimi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 173214160,
+                "duration": 1275410,
+                "text": "de"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 174490000,
+                "duration": 7397910,
+                "text": "değişebilir"
+              }
+            ],
+            "from": 0
+          },
+          {
+            "speaker": "filiz",
+            "text": "Gölge yalnız opak cisimlerde görülmez. Yarı saydam ve saydam cisimlerin de gölgeleri olabilir; ancak bunlar opak cisimlerin gölgeleri kadar koyu ve belirgin olmayabilir. Saydam camın oluşturduğu zayıf gölgeyi fark etmek zor olabilir. Dolayısıyla saydam madde hiç gölge oluşturmaz demek doğru değildir.",
+            "headline": "Saydam cisimlerin de gölgesi olabilir.",
+            "detail": "Gölge zayıf veya daha az belirgin olabilir.",
+            "audio": "audio/fen/madde-isik/main-golgenin-sekli-1-661c2b7454.mp3",
+            "frames": 701,
+            "seconds": 23.352,
+            "words": [
+              {
+                "type": "WordBoundary",
+                "offset": 1010000,
+                "duration": 4336660,
+                "text": "Gölge"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 5347080,
+                "duration": 4336660,
+                "text": "yalnız"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 9811250,
+                "duration": 2678750,
+                "text": "opak"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 12617500,
+                "duration": 6632500,
+                "text": "cisimlerde"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 19250000,
+                "duration": 6377500,
+                "text": "görülmez"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 38902910,
+                "duration": 2423330,
+                "text": "Yarı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 41326660,
+                "duration": 4974160,
+                "text": "saydam"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 46300830,
+                "duration": 1275410,
+                "text": "ve"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 47576660,
+                "duration": 4336660,
+                "text": "saydam"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 51913330,
+                "duration": 5612080,
+                "text": "cisimlerin"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 57525410,
+                "duration": 1275410,
+                "text": "de"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 58800830,
+                "duration": 5357080,
+                "text": "gölgeleri"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 64158330,
+                "duration": 5229580,
+                "text": "olabilir"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 74107080,
+                "duration": 3954160,
+                "text": "ancak"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 78061250,
+                "duration": 3316250,
+                "text": "bunlar"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 81377500,
+                "duration": 2806250,
+                "text": "opak"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 84311250,
+                "duration": 4974580,
+                "text": "cisimlerin"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 89413330,
+                "duration": 5357080,
+                "text": "gölgeleri"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 94770410,
+                "duration": 3316250,
+                "text": "kadar"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 98214160,
+                "duration": 3061250,
+                "text": "koyu"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 101530410,
+                "duration": 1530410,
+                "text": "ve"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 103061250,
+                "duration": 4209160,
+                "text": "belirgin"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 107397910,
+                "duration": 7015410,
+                "text": "olmayabilir"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 131377500,
+                "duration": 4591660,
+                "text": "Saydam"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 136097080,
+                "duration": 2806250,
+                "text": "camın"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 139158330,
+                "duration": 6377500,
+                "text": "oluşturduğu"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 145535830,
+                "duration": 3188750,
+                "text": "zayıf"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 148724580,
+                "duration": 4464160,
+                "text": "gölgeyi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 153188750,
+                "duration": 2806250,
+                "text": "fark"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 155995000,
+                "duration": 3316250,
+                "text": "etmek"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 159311250,
+                "duration": 2295830,
+                "text": "zor"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 161607080,
+                "duration": 5102080,
+                "text": "olabilir"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 177550830,
+                "duration": 6760000,
+                "text": "Dolayısıyla"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 184311250,
+                "duration": 4591660,
+                "text": "saydam"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 188902910,
+                "duration": 3443750,
+                "text": "madde"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 192347080,
+                "duration": 2168330,
+                "text": "hiç"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 194770410,
+                "duration": 3316250,
+                "text": "gölge"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 198086660,
+                "duration": 6632500,
+                "text": "oluşturmaz"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 204719580,
+                "duration": 2933750,
+                "text": "demek"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 207780410,
+                "duration": 2678750,
+                "text": "doğru"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 210459160,
+                "duration": 5740000,
+                "text": "değildir"
+              }
+            ],
+            "from": 587
+          }
+        ],
+        "from": 10863,
+        "frames": 1300
+      },
+      {
+        "id": "uzaklik",
+        "title": "Uzaklık değişirse gölge değişir",
+        "kind": "distance",
+        "parts": [
+          {
+            "speaker": "ibrahim",
+            "text": "Şimdi noktasal ışık kaynağı, opak cisim ve perde aynı doğrultuda olsun. Cisimle perde sabitken kaynağı cisme yaklaştırırsak perdedeki tam gölge büyür. Işık yolları cismin kenarlarından daha geniş açılarla geçer. Her karşılaştırmada yalnız bir konumu değiştirerek sonuca bakalım.",
+            "headline": "Kaynak cisme yaklaşır → gölge büyür",
+            "detail": "Cisim ve perde sabit.",
+            "audio": "audio/fen/madde-isik/main-uzaklik-0-a53171e2ed.mp3",
+            "frames": 658,
+            "seconds": 21.912,
+            "words": [
+              {
+                "type": "WordBoundary",
+                "offset": 1010000,
+                "duration": 3571250,
+                "text": "Şimdi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 4709160,
+                "duration": 5867500,
+                "text": "noktasal"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 10576660,
+                "duration": 2550830,
+                "text": "ışık"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 13127500,
+                "duration": 5484580,
+                "text": "kaynağı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 20652910,
+                "duration": 3316250,
+                "text": "opak"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 23969580,
+                "duration": 3953750,
+                "text": "cisim"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 27923330,
+                "duration": 1402910,
+                "text": "ve"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 29454160,
+                "duration": 3571250,
+                "text": "perde"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 33025410,
+                "duration": 3188750,
+                "text": "aynı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 36214160,
+                "duration": 5612080,
+                "text": "doğrultuda"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 41826660,
+                "duration": 4081660,
+                "text": "olsun"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 57652910,
+                "duration": 7397910,
+                "text": "Cisimle"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 65178750,
+                "duration": 3826250,
+                "text": "perde"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 69005000,
+                "duration": 6632500,
+                "text": "sabitken"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 75637910,
+                "duration": 4719160,
+                "text": "kaynağı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 80357080,
+                "duration": 3954160,
+                "text": "cisme"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 84311250,
+                "duration": 8928750,
+                "text": "yaklaştırırsak"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 93367500,
+                "duration": 5357080,
+                "text": "perdedeki"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 98724580,
+                "duration": 2550830,
+                "text": "tam"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 101402910,
+                "duration": 3443750,
+                "text": "gölge"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 104847080,
+                "duration": 2933750,
+                "text": "büyür"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 119770410,
+                "duration": 4591660,
+                "text": "Işık"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 124362080,
+                "duration": 4209160,
+                "text": "yolları"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 128571250,
+                "duration": 3826660,
+                "text": "cismin"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 132397910,
+                "duration": 8545830,
+                "text": "kenarlarından"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 141071250,
+                "duration": 2550830,
+                "text": "daha"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 143622500,
+                "duration": 3316250,
+                "text": "geniş"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 146938750,
+                "duration": 4719580,
+                "text": "açılarla"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 151658330,
+                "duration": 4336660,
+                "text": "geçer"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 167729580,
+                "duration": 3443750,
+                "text": "Her"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 172321250,
+                "duration": 9949160,
+                "text": "karşılaştırmada"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 182270410,
+                "duration": 4464160,
+                "text": "yalnız"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 186734580,
+                "duration": 1913330,
+                "text": "bir"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 188647910,
+                "duration": 3699160,
+                "text": "konumu"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 192347080,
+                "duration": 6377500,
+                "text": "değiştirerek"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 198724580,
+                "duration": 3954160,
+                "text": "sonuca"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 202678750,
+                "duration": 4847080,
+                "text": "bakalım"
+              }
+            ],
+            "from": 0
+          },
+          {
+            "speaker": "ibrahim",
+            "text": "İkinci denemede kaynakla perde sabit kalsın. Cismi kaynağa yaklaştırdığımızda gölge yine büyür; perdeye yaklaştırdığımızda küçülür. Böylece gölgenin büyüklüğünün yalnız cismin boyuna bağlı olmadığını görürüz. Madde ışığı geçirir mi, dış sınırı nasıldır, kaynakla cisim ve perde nerede durur? Gölgeyi bu sorularla açıklarız.",
+            "headline": "Cisim kaynağa yaklaşır → gölge büyür",
+            "detail": "Kaynak ve perde sabit.",
+            "audio": "audio/fen/madde-isik/main-uzaklik-1-939e4d80af.mp3",
+            "frames": 776,
+            "seconds": 25.848,
+            "words": [
+              {
+                "type": "WordBoundary",
+                "offset": 1010000,
+                "duration": 5229580,
+                "text": "İkinci"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 6240000,
+                "duration": 4719160,
+                "text": "denemede"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 10959160,
+                "duration": 5612080,
+                "text": "kaynakla"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 16699160,
+                "duration": 3443750,
+                "text": "perde"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 20142910,
+                "duration": 4209160,
+                "text": "sabit"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 24607080,
+                "duration": 4974580,
+                "text": "kalsın"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 41199160,
+                "duration": 5867500,
+                "text": "Cismi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 47193750,
+                "duration": 4081660,
+                "text": "kaynağa"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 51275410,
+                "duration": 10714160,
+                "text": "yaklaştırdığımızda"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 61990000,
+                "duration": 4081250,
+                "text": "gölge"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 66071250,
+                "duration": 2550830,
+                "text": "yine"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 68622500,
+                "duration": 3443750,
+                "text": "büyür"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 73979580,
+                "duration": 4847080,
+                "text": "perdeye"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 78826660,
+                "duration": 10203750,
+                "text": "yaklaştırdığımızda"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 89030410,
+                "duration": 4847080,
+                "text": "küçülür"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 105867500,
+                "duration": 7015000,
+                "text": "Böylece"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 112882500,
+                "duration": 5612080,
+                "text": "gölgenin"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 118495000,
+                "duration": 5357080,
+                "text": "büyüklüğünün"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 123852080,
+                "duration": 4209160,
+                "text": "yalnız"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 128061250,
+                "duration": 3954160,
+                "text": "cismin"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 132015410,
+                "duration": 3443750,
+                "text": "boyuna"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 135459160,
+                "duration": 3188750,
+                "text": "bağlı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 138647910,
+                "duration": 5612080,
+                "text": "olmadığını"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 144260000,
+                "duration": 5484580,
+                "text": "görürüz"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 160841660,
+                "duration": 4847080,
+                "text": "Madde"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 165816250,
+                "duration": 3316250,
+                "text": "ışığı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 169132500,
+                "duration": 4591660,
+                "text": "geçirir"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 173724580,
+                "duration": 1785830,
+                "text": "mi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 177168330,
+                "duration": 2423330,
+                "text": "dış"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 179591660,
+                "duration": 3571250,
+                "text": "sınırı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 183163330,
+                "duration": 6250000,
+                "text": "nasıldır"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 191709160,
+                "duration": 5612080,
+                "text": "kaynakla"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 197321250,
+                "duration": 3826660,
+                "text": "cisim"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 201147910,
+                "duration": 1275410,
+                "text": "ve"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 202550830,
+                "duration": 3699160,
+                "text": "perde"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 206250000,
+                "duration": 3826660,
+                "text": "nerede"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 210076660,
+                "duration": 3061250,
+                "text": "durur"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 224745000,
+                "duration": 8163330,
+                "text": "Gölgeyi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 232908330,
+                "duration": 1530410,
+                "text": "bu"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 234438750,
+                "duration": 5740000,
+                "text": "sorularla"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 240178750,
+                "duration": 6887910,
+                "text": "açıklarız"
+              }
+            ],
+            "from": 664
+          }
+        ],
+        "from": 12163,
+        "frames": 1452
+      }
+    ],
+    "lessonFrames": 13615,
+    "durationInFrames": 13825
+  },
+  "kurz": {
+    "scenes": [
+      {
+        "id": "k0",
+        "title": "Lumi’nin ışık gümrüğü",
+        "kind": "gates",
+        "caption": "Işık geçişi: açık, dağınık, kapalı.",
+        "speaker": "filiz",
+        "text": "Lumi üç kapılı bir ışık gümrüğü kuruyor. İlk kapıdan geçen ışık, arkasındaki yıldızın ayrıntılarını koruyor: saydam kapı. İkincisinde aydınlık var, yıldızın çizgileri bulanık: yarı saydam kapı. Üçüncüsü görünür ışığı geçirmiyor: opak kapı. Penceresi temiz camla kaplı araç aydınlık olurken, yarı saydam poşetle kaplı olan daha loş kalır; karton kaplı pencereden doğrudan ışık geçmez. Tül ile kalın perdeyi seçerken de içeri girecek ışığı ve dışarıdan görünmeyi düşünürüz. Ölçüt kapının rengi değil, ışığın ve görüntünün başına gelenlerdir.",
+        "parts": [
+          {
+            "speaker": "filiz",
+            "text": "Lumi üç kapılı bir ışık gümrüğü kuruyor. İlk kapıdan geçen ışık, arkasındaki yıldızın ayrıntılarını koruyor: saydam kapı. İkincisinde aydınlık var, yıldızın çizgileri bulanık: yarı saydam kapı. Üçüncüsü görünür ışığı geçirmiyor: opak kapı. Penceresi temiz camla kaplı araç aydınlık olurken, yarı saydam poşetle kaplı olan daha loş kalır; karton kaplı pencereden doğrudan ışık geçmez. Tül ile kalın perdeyi seçerken de içeri girecek ışığı ve dışarıdan görünmeyi düşünürüz. Ölçüt kapının rengi değil, ışığın ve görüntünün başına gelenlerdir.",
+            "headline": "Lumi’nin ışık gümrüğü",
+            "detail": "Işık geçişi: açık, dağınık, kapalı.",
+            "audio": "audio/fen/madde-isik/kurz-k0-0-d2edacc0f2.mp3",
+            "frames": 1184,
+            "seconds": 39.456,
+            "words": [
+              {
+                "type": "WordBoundary",
+                "offset": 1010000,
+                "duration": 3188750,
+                "text": "Lumi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 4199160,
+                "duration": 1785830,
+                "text": "üç"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 6622500,
+                "duration": 3571250,
+                "text": "kapılı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 10193750,
+                "duration": 1402910,
+                "text": "bir"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 11597080,
+                "duration": 2933330,
+                "text": "ışık"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 14530410,
+                "duration": 3826660,
+                "text": "gümrüğü"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 18484580,
+                "duration": 4974580,
+                "text": "kuruyor"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 34183750,
+                "duration": 1785830,
+                "text": "İlk"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 36352080,
+                "duration": 4336660,
+                "text": "kapıdan"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 40688750,
+                "duration": 3443750,
+                "text": "geçen"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 44132500,
+                "duration": 3188750,
+                "text": "ışık"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 48597080,
+                "duration": 6632500,
+                "text": "arkasındaki"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 55229580,
+                "duration": 4336660,
+                "text": "yıldızın"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 59566250,
+                "duration": 6505000,
+                "text": "ayrıntılarını"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 66071250,
+                "duration": 4591660,
+                "text": "koruyor"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 72321250,
+                "duration": 4847080,
+                "text": "saydam"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 77295830,
+                "duration": 3188750,
+                "text": "kapı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 91964160,
+                "duration": 7015410,
+                "text": "İkincisinde"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 98979580,
+                "duration": 5229580,
+                "text": "aydınlık"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 104209160,
+                "duration": 2806250,
+                "text": "var"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 108673330,
+                "duration": 4591660,
+                "text": "yıldızın"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 113265410,
+                "duration": 4974580,
+                "text": "çizgileri"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 118240000,
+                "duration": 3954160,
+                "text": "bulanık"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 124362080,
+                "duration": 2168330,
+                "text": "yarı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 126530410,
+                "duration": 4464160,
+                "text": "saydam"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 130995000,
+                "duration": 3316250,
+                "text": "kapı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 145790830,
+                "duration": 5102080,
+                "text": "Üçüncüsü"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 150892910,
+                "duration": 4081660,
+                "text": "görünür"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 154974580,
+                "duration": 3188750,
+                "text": "ışığı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 158163330,
+                "duration": 6505000,
+                "text": "geçirmiyor"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 166836660,
+                "duration": 2678750,
+                "text": "opak"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 169515410,
+                "duration": 3443750,
+                "text": "kapı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 183545830,
+                "duration": 5357080,
+                "text": "Penceresi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 188902910,
+                "duration": 3188750,
+                "text": "temiz"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 192091660,
+                "duration": 3188750,
+                "text": "camla"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 195408330,
+                "duration": 3316250,
+                "text": "kaplı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 198724580,
+                "duration": 2678750,
+                "text": "araç"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 201658330,
+                "duration": 4336660,
+                "text": "aydınlık"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 205995000,
+                "duration": 5484580,
+                "text": "olurken"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 213902910,
+                "duration": 2168330,
+                "text": "yarı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 216071250,
+                "duration": 4209160,
+                "text": "saydam"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 220408330,
+                "duration": 4081660,
+                "text": "poşetle"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 224617500,
+                "duration": 3061250,
+                "text": "kaplı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 227678750,
+                "duration": 2933750,
+                "text": "olan"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 230739580,
+                "duration": 2550830,
+                "text": "daha"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 233418330,
+                "duration": 2678750,
+                "text": "loş"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 236224580,
+                "duration": 3061250,
+                "text": "kalır"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 241964160,
+                "duration": 4209160,
+                "text": "karton"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 246173330,
+                "duration": 2933750,
+                "text": "kaplı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 249107080,
+                "duration": 5995000,
+                "text": "pencereden"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 255102080,
+                "duration": 4209160,
+                "text": "doğrudan"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 259438750,
+                "duration": 2423330,
+                "text": "ışık"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 261989580,
+                "duration": 5484580,
+                "text": "geçmez"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 281760000,
+                "duration": 1785830,
+                "text": "Tül"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 283545830,
+                "duration": 1785830,
+                "text": "ile"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 285459160,
+                "duration": 2933750,
+                "text": "kalın"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 288392910,
+                "duration": 4591660,
+                "text": "perdeyi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 292984580,
+                "duration": 6250000,
+                "text": "seçerken"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 299234580,
+                "duration": 1020410,
+                "text": "de"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 300255000,
+                "duration": 3188750,
+                "text": "içeri"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 303443750,
+                "duration": 3954160,
+                "text": "girecek"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 307525410,
+                "duration": 3954160,
+                "text": "ışığı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 311989580,
+                "duration": 1530410,
+                "text": "ve"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 313520410,
+                "duration": 5739580,
+                "text": "dışarıdan"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 319260000,
+                "duration": 4464160,
+                "text": "görünmeyi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 323724580,
+                "duration": 6377500,
+                "text": "düşünürüz"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 343622500,
+                "duration": 3443750,
+                "text": "Ölçüt"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 347066250,
+                "duration": 3954160,
+                "text": "kapının"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 351020410,
+                "duration": 3188750,
+                "text": "rengi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 354209160,
+                "duration": 3954160,
+                "text": "değil"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 359183750,
+                "duration": 4081660,
+                "text": "ışığın"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 363265410,
+                "duration": 1275410,
+                "text": "ve"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 364540830,
+                "duration": 5357080,
+                "text": "görüntünün"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 369897910,
+                "duration": 3571250,
+                "text": "başına"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 373469580,
+                "duration": 7908330,
+                "text": "gelenlerdir"
+              }
+            ],
+            "from": 0
+          }
+        ],
+        "from": 0,
+        "frames": 1184
+      },
+      {
+        "id": "k1",
+        "title": "Örnekleri kontrol et",
+        "kind": "samples",
+        "caption": "Malzemenin adı tek başına yetmez.",
+        "speaker": "ibrahim",
+        "text": "Şimdi Lumi’nin örnek bandı ilerliyor. Temiz hava, duru su, şeffaf plastik ve temiz cam net görüş sağlayabilir. Buzlu cam, yağlı kâğıt, bazı poşetler ve bulanık buzda ise ayrıntılar kaybolur. Tahta, duvar, karton ve mukavva görünür ışığın yolunu kapatır. Fakat bütün plastikleri veya bütün buzları aynı kutuya atamayız. Berrak buz saydam olabilir. Yapı, yüzey, renk ve kalınlık sonucu etkiler. Kalın cam da mutlaka yarı saydam değildir; kalın ama berrak bir camın arkasını hâlâ net görebiliriz.",
+        "parts": [
+          {
+            "speaker": "ibrahim",
+            "text": "Şimdi Lumi’nin örnek bandı ilerliyor. Temiz hava, duru su, şeffaf plastik ve temiz cam net görüş sağlayabilir. Buzlu cam, yağlı kâğıt, bazı poşetler ve bulanık buzda ise ayrıntılar kaybolur. Tahta, duvar, karton ve mukavva görünür ışığın yolunu kapatır. Fakat bütün plastikleri veya bütün buzları aynı kutuya atamayız. Berrak buz saydam olabilir. Yapı, yüzey, renk ve kalınlık sonucu etkiler. Kalın cam da mutlaka yarı saydam değildir; kalın ama berrak bir camın arkasını hâlâ net görebiliriz.",
+            "headline": "Örnekleri kontrol et",
+            "detail": "Malzemenin adı tek başına yetmez.",
+            "audio": "audio/fen/madde-isik/kurz-k1-0-462c69979d.mp3",
+            "frames": 1240,
+            "seconds": 41.328,
+            "words": [
+              {
+                "type": "WordBoundary",
+                "offset": 1010000,
+                "duration": 3699160,
+                "text": "Şimdi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 4836660,
+                "duration": 4209160,
+                "text": "Lumi’nin"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 9173330,
+                "duration": 3699160,
+                "text": "örnek"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 13000000,
+                "duration": 3443750,
+                "text": "bandı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 16443750,
+                "duration": 6122500,
+                "text": "ilerliyor"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 34693750,
+                "duration": 4974580,
+                "text": "Temiz"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 39668330,
+                "duration": 3061250,
+                "text": "hava"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 45025410,
+                "duration": 2933750,
+                "text": "duru"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 47959160,
+                "duration": 2806250,
+                "text": "su"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 52806250,
+                "duration": 5484580,
+                "text": "şeffaf"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 58418330,
+                "duration": 5229580,
+                "text": "plastik"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 63775410,
+                "duration": 1402910,
+                "text": "ve"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 65306250,
+                "duration": 3826250,
+                "text": "temiz"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 69132500,
+                "duration": 2806250,
+                "text": "cam"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 71938750,
+                "duration": 2168330,
+                "text": "net"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 74362080,
+                "duration": 2550830,
+                "text": "görüş"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 76913330,
+                "duration": 7525410,
+                "text": "sağlayabilir"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 96300830,
+                "duration": 5740000,
+                "text": "Buzlu"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 102168330,
+                "duration": 3699160,
+                "text": "cam"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 107142910,
+                "duration": 3698750,
+                "text": "yağlı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 110841660,
+                "duration": 3571250,
+                "text": "kâğıt"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 116836660,
+                "duration": 4081660,
+                "text": "bazı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 120918330,
+                "duration": 5995000,
+                "text": "poşetler"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 126913330,
+                "duration": 1147910,
+                "text": "ve"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 128061250,
+                "duration": 4209160,
+                "text": "bulanık"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 132270410,
+                "duration": 3188750,
+                "text": "buzda"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 135459160,
+                "duration": 2550830,
+                "text": "ise"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 138010000,
+                "duration": 6760000,
+                "text": "ayrıntılar"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 144770410,
+                "duration": 5484580,
+                "text": "kaybolur"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 162245000,
+                "duration": 4847080,
+                "text": "Tahta"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 169132500,
+                "duration": 3954160,
+                "text": "duvar"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 174745000,
+                "duration": 4846660,
+                "text": "karton"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 179591660,
+                "duration": 1275410,
+                "text": "ve"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 180867500,
+                "duration": 5229580,
+                "text": "mukavva"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 186097080,
+                "duration": 3953750,
+                "text": "görünür"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 190050830,
+                "duration": 3061250,
+                "text": "ışığın"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 193112080,
+                "duration": 3061250,
+                "text": "yolunu"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 196173330,
+                "duration": 5357080,
+                "text": "kapatır"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 213265410,
+                "duration": 6760000,
+                "text": "Fakat"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 220408330,
+                "duration": 3316250,
+                "text": "bütün"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 223852080,
+                "duration": 7270410,
+                "text": "plastikleri"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 231250000,
+                "duration": 3188750,
+                "text": "veya"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 234566250,
+                "duration": 2933750,
+                "text": "bütün"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 237500000,
+                "duration": 4209160,
+                "text": "buzları"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 241709160,
+                "duration": 2933750,
+                "text": "aynı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 244642910,
+                "duration": 3698750,
+                "text": "kutuya"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 248341660,
+                "duration": 6122500,
+                "text": "atamayız"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 265816250,
+                "duration": 7652910,
+                "text": "Berrak"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 273469580,
+                "duration": 2040410,
+                "text": "buz"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 275510000,
+                "duration": 4336660,
+                "text": "saydam"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 279847080,
+                "duration": 5229580,
+                "text": "olabilir"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 296811250,
+                "duration": 4464160,
+                "text": "Yapı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 302933750,
+                "duration": 4847080,
+                "text": "yüzey"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 309056250,
+                "duration": 2678750,
+                "text": "renk"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 312117500,
+                "duration": 1147910,
+                "text": "ve"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 313392910,
+                "duration": 4846660,
+                "text": "kalınlık"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 318239580,
+                "duration": 3826660,
+                "text": "sonucu"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 322066250,
+                "duration": 5484580,
+                "text": "etkiler"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 339285830,
+                "duration": 5102080,
+                "text": "Kalın"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 344387910,
+                "duration": 2933330,
+                "text": "cam"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 347321250,
+                "duration": 1147910,
+                "text": "da"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 348469580,
+                "duration": 5229580,
+                "text": "mutlaka"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 353699160,
+                "duration": 2040410,
+                "text": "yarı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 355739580,
+                "duration": 4847080,
+                "text": "saydam"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 360586660,
+                "duration": 5484580,
+                "text": "değildir"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 368112080,
+                "duration": 3699160,
+                "text": "kalın"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 371811250,
+                "duration": 2295830,
+                "text": "ama"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 374107080,
+                "duration": 4081660,
+                "text": "berrak"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 378316250,
+                "duration": 1913330,
+                "text": "bir"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 380229580,
+                "duration": 3188750,
+                "text": "camın"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 383418330,
+                "duration": 5229580,
+                "text": "arkasını"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 388647910,
+                "duration": 3954160,
+                "text": "hâlâ"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 392602080,
+                "duration": 1913330,
+                "text": "net"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 394770410,
+                "duration": 7015410,
+                "text": "görebiliriz"
+              }
+            ],
+            "from": 0
+          }
+        ],
+        "from": 1184,
+        "frames": 1240
+      },
+      {
+        "id": "k2",
+        "title": "Görüş denizinde sis",
+        "kind": "fogsea",
+        "caption": "Sis artınca doğrudan görüş azalır.",
+        "speaker": "filiz",
+        "text": "Lumi’nin gözlem gemisi önce temiz havada ilerliyor; uzaktaki işaret net. Sonra minik sis damlacıkları sahneye doluşuyor. Damlacıklar ışığı farklı yönlere saçar; uzaktaki işaretten gelen doğrudan ışık azalır. Sis yoğunlaştıkça görüş zorlaşır, ortam yarı saydam gibi davranabilir; çok yoğun olduğunda arkası görünmeyebilir. Sonuç, sisin yoğunluğuna ve baktığımız uzaklığa da bağlıdır. Demek ki yalnız elde tuttuğumuz eşyalar değil, içinden baktığımız ortamlar da ışığın geçişini etkiler. Araba farının sisli ve temiz havadaki görünüşünün değişmesi bunun günlük bir örneğidir.",
+        "parts": [
+          {
+            "speaker": "filiz",
+            "text": "Lumi’nin gözlem gemisi önce temiz havada ilerliyor; uzaktaki işaret net. Sonra minik sis damlacıkları sahneye doluşuyor. Damlacıklar ışığı farklı yönlere saçar; uzaktaki işaretten gelen doğrudan ışık azalır. Sis yoğunlaştıkça görüş zorlaşır, ortam yarı saydam gibi davranabilir; çok yoğun olduğunda arkası görünmeyebilir. Sonuç, sisin yoğunluğuna ve baktığımız uzaklığa da bağlıdır. Demek ki yalnız elde tuttuğumuz eşyalar değil, içinden baktığımız ortamlar da ışığın geçişini etkiler. Araba farının sisli ve temiz havadaki görünüşünün değişmesi bunun günlük bir örneğidir.",
+            "headline": "Görüş denizinde sis",
+            "detail": "Sis artınca doğrudan görüş azalır.",
+            "audio": "audio/fen/madde-isik/kurz-k2-0-3cc4130685.mp3",
+            "frames": 1274,
+            "seconds": 42.456,
+            "words": [
+              {
+                "type": "WordBoundary",
+                "offset": 1010000,
+                "duration": 4081660,
+                "text": "Lumi’nin"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 5219580,
+                "duration": 4719160,
+                "text": "gözlem"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 9938750,
+                "duration": 4209160,
+                "text": "gemisi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 14402910,
+                "duration": 3443750,
+                "text": "önce"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 17847080,
+                "duration": 3188750,
+                "text": "temiz"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 21035830,
+                "duration": 3316250,
+                "text": "havada"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 24352080,
+                "duration": 6250000,
+                "text": "ilerliyor"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 32897910,
+                "duration": 4974580,
+                "text": "uzaktaki"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 37872500,
+                "duration": 4719580,
+                "text": "işaret"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 42719580,
+                "duration": 2550830,
+                "text": "net"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 57015410,
+                "duration": 3826250,
+                "text": "Sonra"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 60841660,
+                "duration": 3316250,
+                "text": "minik"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 64158330,
+                "duration": 2423330,
+                "text": "sis"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 66581660,
+                "duration": 6760000,
+                "text": "damlacıkları"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 73341660,
+                "duration": 4719580,
+                "text": "sahneye"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 78061250,
+                "duration": 5995000,
+                "text": "doluşuyor"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 95025410,
+                "duration": 6505000,
+                "text": "Damlacıklar"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 101530410,
+                "duration": 3188750,
+                "text": "ışığı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 104847080,
+                "duration": 3571250,
+                "text": "farklı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 108418330,
+                "duration": 4081660,
+                "text": "yönlere"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 112500000,
+                "duration": 4464160,
+                "text": "saçar"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 120025410,
+                "duration": 4847080,
+                "text": "uzaktaki"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 124872500,
+                "duration": 6505000,
+                "text": "işaretten"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 131377500,
+                "duration": 3188750,
+                "text": "gelen"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 134566250,
+                "duration": 4209160,
+                "text": "doğrudan"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 138902910,
+                "duration": 2550830,
+                "text": "ışık"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 141454160,
+                "duration": 4591660,
+                "text": "azalır"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 158800830,
+                "duration": 2933750,
+                "text": "Sis"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 161862080,
+                "duration": 7142910,
+                "text": "yoğunlaştıkça"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 169005000,
+                "duration": 2933750,
+                "text": "görüş"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 171938750,
+                "duration": 5484580,
+                "text": "zorlaşır"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 180484580,
+                "duration": 3699160,
+                "text": "ortam"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 184311250,
+                "duration": 2040830,
+                "text": "yarı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 186352080,
+                "duration": 4591660,
+                "text": "saydam"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 190943750,
+                "duration": 1913330,
+                "text": "gibi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 192857080,
+                "duration": 7397910,
+                "text": "davranabilir"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 203188750,
+                "duration": 2168330,
+                "text": "çok"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 205612080,
+                "duration": 2550830,
+                "text": "yoğun"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 208418330,
+                "duration": 4591660,
+                "text": "olduğunda"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 213010000,
+                "duration": 4464160,
+                "text": "arkası"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 217474580,
+                "duration": 8163330,
+                "text": "görünmeyebilir"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 238265410,
+                "duration": 3826660,
+                "text": "Sonuç"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 243367500,
+                "duration": 3826250,
+                "text": "sisin"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 247193750,
+                "duration": 6122500,
+                "text": "yoğunluğuna"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 253443750,
+                "duration": 1402910,
+                "text": "ve"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 254847080,
+                "duration": 5995000,
+                "text": "baktığımız"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 260969580,
+                "duration": 4846660,
+                "text": "uzaklığa"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 265816250,
+                "duration": 1020410,
+                "text": "da"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 266836660,
+                "duration": 6122500,
+                "text": "bağlıdır"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 285586660,
+                "duration": 3316250,
+                "text": "Demek"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 288902910,
+                "duration": 1530410,
+                "text": "ki"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 290433750,
+                "duration": 3954160,
+                "text": "yalnız"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 294387910,
+                "duration": 2806250,
+                "text": "elde"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 297321250,
+                "duration": 5229580,
+                "text": "tuttuğumuz"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 302550830,
+                "duration": 5612080,
+                "text": "eşyalar"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 308163330,
+                "duration": 3826660,
+                "text": "değil"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 314285830,
+                "duration": 4719160,
+                "text": "içinden"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 319005000,
+                "duration": 5484580,
+                "text": "baktığımız"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 324489580,
+                "duration": 5484580,
+                "text": "ortamlar"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 329974580,
+                "duration": 892910,
+                "text": "da"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 330867500,
+                "duration": 3316250,
+                "text": "ışığın"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 334183750,
+                "duration": 4464160,
+                "text": "geçişini"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 338647910,
+                "duration": 4974580,
+                "text": "etkiler"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 358163330,
+                "duration": 3061250,
+                "text": "Araba"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 361224580,
+                "duration": 4081660,
+                "text": "farının"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 365306250,
+                "duration": 4336660,
+                "text": "sisli"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 369642910,
+                "duration": 1402910,
+                "text": "ve"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 371045830,
+                "duration": 3188750,
+                "text": "temiz"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 374234580,
+                "duration": 4591660,
+                "text": "havadaki"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 378826660,
+                "duration": 6122500,
+                "text": "görünüşünün"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 384949160,
+                "duration": 5995000,
+                "text": "değişmesi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 391071250,
+                "duration": 2933750,
+                "text": "bunun"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 394132500,
+                "duration": 3443750,
+                "text": "günlük"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 397576660,
+                "duration": 1147910,
+                "text": "bir"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 398724580,
+                "duration": 5995000,
+                "text": "örneğidir"
+              }
+            ],
+            "from": 0
+          }
+        ],
+        "from": 2424,
+        "frames": 1274
+      },
+      {
+        "id": "k3",
+        "title": "Işınım için farklı bilet",
+        "kind": "spectrum",
+        "caption": "NOT • X ışınları görünür ışık değildir.",
+        "speaker": "ibrahim",
+        "text": "Işık gümrüğünde şimdi farklı bir bilet var: X ışını. Not: Röntgen ışınları görünür ışık değildir ve görünür ışığa opak bazı yapılardan geçebilir. Vücuttaki dokular bunları aynı miktarda geçirmez. Yani opak derken hangi ışınımdan söz ettiğimizi bilmeliyiz. Bir nesnenin görünür ışığı durdurması, bütün ışınımları durdurduğu anlamına gelmez. Lumi bu bileti ayrı rafa kaldırıyor; gözümüzle görebildiğimiz ışığın yolculuğuna dönüyoruz. Pencere, karton ve duvar karşılaştırmalarımızda kullandığımız ışık türü yine görünür ışık. Bu ayrımı gölge deneyinde de koruyoruz.",
+        "parts": [
+          {
+            "speaker": "ibrahim",
+            "text": "Işık gümrüğünde şimdi farklı bir bilet var: X ışını. Not: Röntgen ışınları görünür ışık değildir ve görünür ışığa opak bazı yapılardan geçebilir. Vücuttaki dokular bunları aynı miktarda geçirmez. Yani opak derken hangi ışınımdan söz ettiğimizi bilmeliyiz. Bir nesnenin görünür ışığı durdurması, bütün ışınımları durdurduğu anlamına gelmez. Lumi bu bileti ayrı rafa kaldırıyor; gözümüzle görebildiğimiz ışığın yolculuğuna dönüyoruz. Pencere, karton ve duvar karşılaştırmalarımızda kullandığımız ışık türü yine görünür ışık. Bu ayrımı gölge deneyinde de koruyoruz.",
+            "headline": "Işınım için farklı bilet",
+            "detail": "NOT • X ışınları görünür ışık değildir.",
+            "audio": "audio/fen/madde-isik/kurz-k3-0-2e0dad0bce.mp3",
+            "frames": 1312,
+            "seconds": 43.728,
+            "words": [
+              {
+                "type": "WordBoundary",
+                "offset": 1010000,
+                "duration": 4464160,
+                "text": "Işık"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 5474580,
+                "duration": 5357080,
+                "text": "gümrüğünde"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 10831660,
+                "duration": 3316250,
+                "text": "şimdi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 14147910,
+                "duration": 4209160,
+                "text": "farklı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 18357080,
+                "duration": 1913330,
+                "text": "bir"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 20270410,
+                "duration": 2806250,
+                "text": "bilet"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 23204160,
+                "duration": 2423330,
+                "text": "var"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 27285830,
+                "duration": 2423330,
+                "text": "X"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 29836660,
+                "duration": 3443750,
+                "text": "ışını"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 45152910,
+                "duration": 1913330,
+                "text": "Not"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 50255000,
+                "duration": 4464160,
+                "text": "Röntgen"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 54719580,
+                "duration": 4464160,
+                "text": "ışınları"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 59183750,
+                "duration": 3954160,
+                "text": "görünür"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 63392910,
+                "duration": 2806250,
+                "text": "ışık"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 66199160,
+                "duration": 5357080,
+                "text": "değildir"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 72576660,
+                "duration": 1275410,
+                "text": "ve"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 73852080,
+                "duration": 3826660,
+                "text": "görünür"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 77678750,
+                "duration": 3571250,
+                "text": "ışığa"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 82015410,
+                "duration": 3188750,
+                "text": "opak"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 85331660,
+                "duration": 3571250,
+                "text": "bazı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 88902910,
+                "duration": 6122500,
+                "text": "yapılardan"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 95025410,
+                "duration": 6122500,
+                "text": "geçebilir"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 112882500,
+                "duration": 7652910,
+                "text": "Vücuttaki"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 120535830,
+                "duration": 4846660,
+                "text": "dokular"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 125382500,
+                "duration": 4209160,
+                "text": "bunları"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 129591660,
+                "duration": 3443750,
+                "text": "aynı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 133035830,
+                "duration": 4719160,
+                "text": "miktarda"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 137755000,
+                "duration": 6887910,
+                "text": "geçirmez"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 156122500,
+                "duration": 6122500,
+                "text": "Yani"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 162245000,
+                "duration": 3698750,
+                "text": "opak"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 165943750,
+                "duration": 4974580,
+                "text": "derken"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 170918330,
+                "duration": 3316250,
+                "text": "hangi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 174234580,
+                "duration": 6122500,
+                "text": "ışınımdan"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 180357080,
+                "duration": 2678750,
+                "text": "söz"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 183035830,
+                "duration": 4974160,
+                "text": "ettiğimizi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 188010000,
+                "duration": 6760000,
+                "text": "bilmeliyiz"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 206122500,
+                "duration": 2933750,
+                "text": "Bir"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 211734580,
+                "duration": 4847080,
+                "text": "nesnenin"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 216709160,
+                "duration": 4336660,
+                "text": "görünür"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 221173330,
+                "duration": 3061250,
+                "text": "ışığı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 224234580,
+                "duration": 7908330,
+                "text": "durdurması"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 234183750,
+                "duration": 3571250,
+                "text": "bütün"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 237755000,
+                "duration": 5229580,
+                "text": "ışınımları"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 242984580,
+                "duration": 5229580,
+                "text": "durdurduğu"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 248214160,
+                "duration": 4847080,
+                "text": "anlamına"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 253061250,
+                "duration": 5740000,
+                "text": "gelmez"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 270152910,
+                "duration": 3699160,
+                "text": "Lumi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 275000000,
+                "duration": 1658330,
+                "text": "bu"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 276658330,
+                "duration": 3571250,
+                "text": "bileti"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 280229580,
+                "duration": 2933750,
+                "text": "ayrı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 283163330,
+                "duration": 2678330,
+                "text": "rafa"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 285841660,
+                "duration": 6505000,
+                "text": "kaldırıyor"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 294897910,
+                "duration": 6250000,
+                "text": "gözümüzle"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 301147910,
+                "duration": 7652910,
+                "text": "görebildiğimiz"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 309056250,
+                "duration": 2933330,
+                "text": "ışığın"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 311989580,
+                "duration": 5612080,
+                "text": "yolculuğuna"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 317602080,
+                "duration": 5995000,
+                "text": "dönüyoruz"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 335204160,
+                "duration": 8163330,
+                "text": "Pencere"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 344897910,
+                "duration": 4974580,
+                "text": "karton"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 349872500,
+                "duration": 1275410,
+                "text": "ve"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 351147910,
+                "duration": 3571250,
+                "text": "duvar"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 354719580,
+                "duration": 12882500,
+                "text": "karşılaştırmalarımızda"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 367602080,
+                "duration": 7652910,
+                "text": "kullandığımız"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 375765410,
+                "duration": 2423330,
+                "text": "ışık"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 378188750,
+                "duration": 2550830,
+                "text": "türü"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 380739580,
+                "duration": 2295830,
+                "text": "yine"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 383035830,
+                "duration": 3826250,
+                "text": "görünür"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 386862080,
+                "duration": 3443750,
+                "text": "ışık"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 401913330,
+                "duration": 1530410,
+                "text": "Bu"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 405739580,
+                "duration": 4336660,
+                "text": "ayrımı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 410076660,
+                "duration": 3953750,
+                "text": "gölge"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 414030410,
+                "duration": 4209160,
+                "text": "deneyinde"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 418239580,
+                "duration": 1147910,
+                "text": "de"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 419387910,
+                "duration": 6505000,
+                "text": "koruyoruz"
+              }
+            ],
+            "from": 0
+          }
+        ],
+        "from": 3698,
+        "frames": 1312
+      },
+      {
+        "id": "k4",
+        "title": "Karanlığın sahnesi",
+        "kind": "theater",
+        "caption": "Engellenen yollar gölgeyi kurar.",
+        "speaker": "filiz",
+        "text": "Lumi bir gölge tiyatrosu açıyor. Noktasal kaynaktan çıkan düz yolların önüne opak bir daire geliyor. Arkada kaynaktan doğrudan ışık alamayan bölge tam gölgeyi oluşturuyor. Perdeye paralel daire levha daireye, kare levha kareye benzeyen iz bırakıyor. El kuklalarının sırrı da ışığı engelleyen dış sınırları değiştirmek. Gölge, cismin rengini taşımaz. Üstelik yalnız opak maddeler gölge oluşturmaz: yarı saydam veya saydam cisimlerin de daha zayıf, daha az belirgin gölgeleri olabilir. Camın gölgesini fark etmek zor olsa da yok saymayız.",
+        "parts": [
+          {
+            "speaker": "filiz",
+            "text": "Lumi bir gölge tiyatrosu açıyor. Noktasal kaynaktan çıkan düz yolların önüne opak bir daire geliyor. Arkada kaynaktan doğrudan ışık alamayan bölge tam gölgeyi oluşturuyor. Perdeye paralel daire levha daireye, kare levha kareye benzeyen iz bırakıyor. El kuklalarının sırrı da ışığı engelleyen dış sınırları değiştirmek. Gölge, cismin rengini taşımaz. Üstelik yalnız opak maddeler gölge oluşturmaz: yarı saydam veya saydam cisimlerin de daha zayıf, daha az belirgin gölgeleri olabilir. Camın gölgesini fark etmek zor olsa da yok saymayız.",
+            "headline": "Karanlığın sahnesi",
+            "detail": "Engellenen yollar gölgeyi kurar.",
+            "audio": "audio/fen/madde-isik/kurz-k4-0-745c8ceb9f.mp3",
+            "frames": 1240,
+            "seconds": 41.328,
+            "words": [
+              {
+                "type": "WordBoundary",
+                "offset": 1010000,
+                "duration": 3316250,
+                "text": "Lumi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 4326660,
+                "duration": 1275410,
+                "text": "bir"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 5602080,
+                "duration": 3826660,
+                "text": "gölge"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 9556250,
+                "duration": 5994580,
+                "text": "tiyatrosu"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 15550830,
+                "duration": 5102080,
+                "text": "açıyor"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 31377500,
+                "duration": 5484580,
+                "text": "Noktasal"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 36862080,
+                "duration": 5867500,
+                "text": "kaynaktan"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 42729580,
+                "duration": 3443750,
+                "text": "çıkan"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 46173330,
+                "duration": 2550830,
+                "text": "düz"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 48724580,
+                "duration": 4591660,
+                "text": "yolların"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 53443750,
+                "duration": 3316250,
+                "text": "önüne"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 56760000,
+                "duration": 3061250,
+                "text": "opak"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 59949160,
+                "duration": 1275410,
+                "text": "bir"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 61224580,
+                "duration": 3954160,
+                "text": "daire"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 65178750,
+                "duration": 4464160,
+                "text": "geliyor"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 80867500,
+                "duration": 4336660,
+                "text": "Arkada"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 85204160,
+                "duration": 5995000,
+                "text": "kaynaktan"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 91199160,
+                "duration": 4591660,
+                "text": "doğrudan"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 95918330,
+                "duration": 2806250,
+                "text": "ışık"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 98724580,
+                "duration": 4846660,
+                "text": "alamayan"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 103571250,
+                "duration": 3571250,
+                "text": "bölge"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 107270410,
+                "duration": 2295830,
+                "text": "tam"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 109693750,
+                "duration": 4081660,
+                "text": "gölgeyi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 113775410,
+                "duration": 7270410,
+                "text": "oluşturuyor"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 132397910,
+                "duration": 4081660,
+                "text": "Perdeye"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 136734580,
+                "duration": 4336660,
+                "text": "paralel"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 141071250,
+                "duration": 3954160,
+                "text": "daire"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 145025410,
+                "duration": 3316250,
+                "text": "levha"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 148341660,
+                "duration": 5612080,
+                "text": "daireye"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 155612080,
+                "duration": 2806250,
+                "text": "kare"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 158418330,
+                "duration": 3443750,
+                "text": "levha"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 161862080,
+                "duration": 3188750,
+                "text": "kareye"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 165050830,
+                "duration": 4974580,
+                "text": "benzeyen"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 170152910,
+                "duration": 1658330,
+                "text": "iz"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 171811250,
+                "duration": 5484580,
+                "text": "bırakıyor"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 189285830,
+                "duration": 1530410,
+                "text": "El"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 191326660,
+                "duration": 6505000,
+                "text": "kuklalarının"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 197831660,
+                "duration": 3188750,
+                "text": "sırrı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 201020410,
+                "duration": 1530410,
+                "text": "da"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 202678750,
+                "duration": 3826250,
+                "text": "ışığı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 206505000,
+                "duration": 7142910,
+                "text": "engelleyen"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 213647910,
+                "duration": 2040830,
+                "text": "dış"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 215688750,
+                "duration": 4847080,
+                "text": "sınırları"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 220535830,
+                "duration": 6760000,
+                "text": "değiştirmek"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 246428750,
+                "duration": 4847080,
+                "text": "Gölge"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 252423330,
+                "duration": 4464160,
+                "text": "cismin"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 256887910,
+                "duration": 4209160,
+                "text": "rengini"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 261097080,
+                "duration": 5995000,
+                "text": "taşımaz"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 277678750,
+                "duration": 4209160,
+                "text": "Üstelik"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 281887910,
+                "duration": 3953750,
+                "text": "yalnız"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 285841660,
+                "duration": 2550830,
+                "text": "opak"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 288520410,
+                "duration": 5357080,
+                "text": "maddeler"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 293877500,
+                "duration": 3061250,
+                "text": "gölge"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 296938750,
+                "duration": 7652910,
+                "text": "oluşturmaz"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 307270410,
+                "duration": 2040830,
+                "text": "yarı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 309311250,
+                "duration": 4974580,
+                "text": "saydam"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 314413330,
+                "duration": 2933750,
+                "text": "veya"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 317729580,
+                "duration": 4336660,
+                "text": "saydam"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 322066250,
+                "duration": 5357080,
+                "text": "cisimlerin"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 327423330,
+                "duration": 1275410,
+                "text": "de"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 328699160,
+                "duration": 2295830,
+                "text": "daha"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 330995000,
+                "duration": 3826660,
+                "text": "zayıf"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 336479580,
+                "duration": 2806250,
+                "text": "daha"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 339285830,
+                "duration": 1913330,
+                "text": "az"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 341199160,
+                "duration": 3954160,
+                "text": "belirgin"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 345408330,
+                "duration": 5101660,
+                "text": "gölgeleri"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 350510000,
+                "duration": 5612080,
+                "text": "olabilir"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 371811250,
+                "duration": 3061250,
+                "text": "Camın"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 375127500,
+                "duration": 5867500,
+                "text": "gölgesini"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 380995000,
+                "duration": 2678330,
+                "text": "fark"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 383673330,
+                "duration": 3443750,
+                "text": "etmek"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 387245000,
+                "duration": 2295830,
+                "text": "zor"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 389540830,
+                "duration": 2933750,
+                "text": "olsa"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 392474580,
+                "duration": 1275410,
+                "text": "da"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 393750000,
+                "duration": 1785830,
+                "text": "yok"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 395535830,
+                "duration": 6122500,
+                "text": "saymayız"
+              }
+            ],
+            "from": 0
+          }
+        ],
+        "from": 5010,
+        "frames": 1240
+      },
+      {
+        "id": "k5",
+        "title": "Gölgeyi büyüten raylar",
+        "kind": "zoomrails",
+        "caption": "Bir konumu değiştir, sonucu karşılaştır.",
+        "speaker": "ibrahim",
+        "text": "Sahnede üç istasyon var: noktasal kaynak, opak cisim, perde. Önce cisimle perde yerinde duruyor; kaynak cisme yaklaşınca gölge büyüyor. Sonra kaynağı ve perdeyi sabitliyoruz; cismi kaynağa yaklaştırınca gölge büyüyor. Cismi perdeye yaklaştırınca küçülüyor. Lumi her denemede yalnız bir istasyonu oynatıyor; böylece değişimin nedenini izleyebiliyoruz. Işık yolları cismin kenarlarından geçerek perdedeki sınırı belirliyor. Gölgeyi anlamak için malzemenin ışık geçişine, cismin dış biçimine ve üç istasyonun birbirine uzaklığına birlikte bak. Aynı cisim farklı büyüklükte gölgeler bırakabilir.",
+        "parts": [
+          {
+            "speaker": "ibrahim",
+            "text": "Sahnede üç istasyon var: noktasal kaynak, opak cisim, perde. Önce cisimle perde yerinde duruyor; kaynak cisme yaklaşınca gölge büyüyor. Sonra kaynağı ve perdeyi sabitliyoruz; cismi kaynağa yaklaştırınca gölge büyüyor. Cismi perdeye yaklaştırınca küçülüyor. Lumi her denemede yalnız bir istasyonu oynatıyor; böylece değişimin nedenini izleyebiliyoruz. Işık yolları cismin kenarlarından geçerek perdedeki sınırı belirliyor. Gölgeyi anlamak için malzemenin ışık geçişine, cismin dış biçimine ve üç istasyonun birbirine uzaklığına birlikte bak. Aynı cisim farklı büyüklükte gölgeler bırakabilir.",
+            "headline": "Gölgeyi büyüten raylar",
+            "detail": "Bir konumu değiştir, sonucu karşılaştır.",
+            "audio": "audio/fen/madde-isik/kurz-k5-0-b1440bd023.mp3",
+            "frames": 1386,
+            "seconds": 46.176,
+            "words": [
+              {
+                "type": "WordBoundary",
+                "offset": 1010000,
+                "duration": 7142910,
+                "text": "Sahnede"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 8535830,
+                "duration": 1530410,
+                "text": "üç"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 10321250,
+                "duration": 6377500,
+                "text": "istasyon"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 16699160,
+                "duration": 2295830,
+                "text": "var"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 21418330,
+                "duration": 5995000,
+                "text": "noktasal"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 27413330,
+                "duration": 4591660,
+                "text": "kaynak"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 33535830,
+                "duration": 3316250,
+                "text": "opak"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 36979580,
+                "duration": 4209160,
+                "text": "cisim"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 42209160,
+                "duration": 4209160,
+                "text": "perde"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 58163330,
+                "duration": 3826660,
+                "text": "Önce"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 63010000,
+                "duration": 4847080,
+                "text": "cisimle"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 67984580,
+                "duration": 3571250,
+                "text": "perde"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 71556250,
+                "duration": 3953750,
+                "text": "yerinde"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 75510000,
+                "duration": 4336660,
+                "text": "duruyor"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 82270410,
+                "duration": 4719580,
+                "text": "kaynak"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 86990000,
+                "duration": 3953750,
+                "text": "cisme"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 90943750,
+                "duration": 5740000,
+                "text": "yaklaşınca"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 96683750,
+                "duration": 3826250,
+                "text": "gölge"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 100510000,
+                "duration": 3826660,
+                "text": "büyüyor"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 116709160,
+                "duration": 5740000,
+                "text": "Sonra"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 123086660,
+                "duration": 4974580,
+                "text": "kaynağı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 128061250,
+                "duration": 1275410,
+                "text": "ve"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 129464160,
+                "duration": 4464160,
+                "text": "perdeyi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 133928750,
+                "duration": 9311250,
+                "text": "sabitliyoruz"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 145025410,
+                "duration": 3443750,
+                "text": "cismi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 148469580,
+                "duration": 4081250,
+                "text": "kaynağa"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 152550830,
+                "duration": 7525410,
+                "text": "yaklaştırınca"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 160076660,
+                "duration": 3826250,
+                "text": "gölge"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 163902910,
+                "duration": 3954160,
+                "text": "büyüyor"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 180102080,
+                "duration": 5102080,
+                "text": "Cismi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 185331660,
+                "duration": 4719160,
+                "text": "perdeye"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 190050830,
+                "duration": 7397910,
+                "text": "yaklaştırınca"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 197449160,
+                "duration": 5484580,
+                "text": "küçülüyor"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 215050830,
+                "duration": 4336660,
+                "text": "Lumi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 220025410,
+                "duration": 2550830,
+                "text": "her"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 222576660,
+                "duration": 4591660,
+                "text": "denemede"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 227168330,
+                "duration": 4209160,
+                "text": "yalnız"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 231377500,
+                "duration": 1658330,
+                "text": "bir"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 233035830,
+                "duration": 5739580,
+                "text": "istasyonu"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 238775410,
+                "duration": 6377500,
+                "text": "oynatıyor"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 247576660,
+                "duration": 5229580,
+                "text": "böylece"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 252806250,
+                "duration": 5357080,
+                "text": "değişimin"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 258163330,
+                "duration": 4209160,
+                "text": "nedenini"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 262372500,
+                "duration": 9056250,
+                "text": "izleyebiliyoruz"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 282908330,
+                "duration": 4591660,
+                "text": "Işık"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 287500000,
+                "duration": 4209160,
+                "text": "yolları"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 291709160,
+                "duration": 3826660,
+                "text": "cismin"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 295535830,
+                "duration": 8163330,
+                "text": "kenarlarından"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 303826660,
+                "duration": 4336660,
+                "text": "geçerek"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 308290830,
+                "duration": 5484580,
+                "text": "perdedeki"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 313775410,
+                "duration": 3571250,
+                "text": "sınırı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 317347080,
+                "duration": 5612080,
+                "text": "belirliyor"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 335076660,
+                "duration": 8290830,
+                "text": "Gölgeyi"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 343367500,
+                "duration": 4209160,
+                "text": "anlamak"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 347704160,
+                "duration": 2678330,
+                "text": "için"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 350382500,
+                "duration": 6632500,
+                "text": "malzemenin"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 357142910,
+                "duration": 2806250,
+                "text": "ışık"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 359949160,
+                "duration": 6250000,
+                "text": "geçişine"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 368877500,
+                "duration": 4081660,
+                "text": "cismin"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 372959160,
+                "duration": 2295830,
+                "text": "dış"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 375255000,
+                "duration": 5102080,
+                "text": "biçimine"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 380357080,
+                "duration": 1402910,
+                "text": "ve"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 382015410,
+                "duration": 1658330,
+                "text": "üç"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 383928750,
+                "duration": 6632500,
+                "text": "istasyonun"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 390561250,
+                "duration": 4719160,
+                "text": "birbirine"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 395280410,
+                "duration": 5867500,
+                "text": "uzaklığına"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 401147910,
+                "duration": 4336660,
+                "text": "birlikte"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 405484580,
+                "duration": 2806250,
+                "text": "bak"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 419770410,
+                "duration": 4719160,
+                "text": "Aynı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 424489580,
+                "duration": 3699160,
+                "text": "cisim"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 428188750,
+                "duration": 4209160,
+                "text": "farklı"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 432397910,
+                "duration": 5229580,
+                "text": "büyüklükte"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 437627500,
+                "duration": 5740000,
+                "text": "gölgeler"
+              },
+              {
+                "type": "WordBoundary",
+                "offset": 443367500,
+                "duration": 6505000,
+                "text": "bırakabilir"
+              }
+            ],
+            "from": 0
+          }
+        ],
+        "from": 6250,
+        "frames": 1386
+      }
+    ],
+    "lessonFrames": 7636,
+    "durationInFrames": 7636
+  },
+  "shorts": [
+    {
+      "question": "Noktasal ışık kaynağı ve perde sabitken opak cisim kaynağa yaklaştırılıyor. Perdedeki tam gölge nasıl değişir?",
+      "answer": "Doğru cevap B. Tam gölge büyür. Kaynak ve perde sabitken cisim kaynağa yaklaştığında, kenarlardan geçen ışık yolları perdede daha büyük bir sınır oluşturur.",
+      "choices": [
+        "Küçülür",
+        "Büyür",
+        "Aynı kalır",
+        "Tamamen kaybolur"
+      ],
+      "correct": 1,
+      "topic": "MADDE VE IŞIK",
+      "visual": "shortdistance",
+      "q": {
+        "audio": "audio/fen/madde-isik/short-1-q-865d62094f.mp3",
+        "frames": 281,
+        "seconds": 9.36,
+        "words": [
+          {
+            "type": "WordBoundary",
+            "offset": 1010000,
+            "duration": 8290830,
+            "text": "Noktasal"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 9300830,
+            "duration": 2550830,
+            "text": "ışık"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 11852080,
+            "duration": 4847080,
+            "text": "kaynağı"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 16699160,
+            "duration": 1402910,
+            "text": "ve"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 18229580,
+            "duration": 3699160,
+            "text": "perde"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 21928750,
+            "duration": 7015410,
+            "text": "sabitken"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 29326660,
+            "duration": 3188750,
+            "text": "opak"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 32515410,
+            "duration": 3188750,
+            "text": "cisim"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 35704160,
+            "duration": 3954160,
+            "text": "kaynağa"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 39658330,
+            "duration": 8163330,
+            "text": "yaklaştırılıyor"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 59949160,
+            "duration": 6505000,
+            "text": "Perdedeki"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 66454160,
+            "duration": 2678750,
+            "text": "tam"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 69260000,
+            "duration": 3571250,
+            "text": "gölge"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 72831660,
+            "duration": 3698750,
+            "text": "nasıl"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 76530410,
+            "duration": 5102080,
+            "text": "değişir"
+          }
+        ]
+      },
+      "a": {
+        "audio": "audio/fen/madde-isik/short-1-a-2d5ac46fa0.mp3",
+        "frames": 366,
+        "seconds": 12.192,
+        "words": [
+          {
+            "type": "WordBoundary",
+            "offset": 1010000,
+            "duration": 5612080,
+            "text": "Doğru"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 6622500,
+            "duration": 4081660,
+            "text": "cevap"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 11214160,
+            "duration": 1658330,
+            "text": "B"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 13892910,
+            "duration": 2678750,
+            "text": "Tam"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 16699160,
+            "duration": 3571250,
+            "text": "gölge"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 20270410,
+            "duration": 3188750,
+            "text": "büyür"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 35586660,
+            "duration": 6505000,
+            "text": "Kaynak"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 42091660,
+            "duration": 1402910,
+            "text": "ve"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 43622500,
+            "duration": 3698750,
+            "text": "perde"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 47321250,
+            "duration": 6760000,
+            "text": "sabitken"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 54081660,
+            "duration": 3443750,
+            "text": "cisim"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 57525410,
+            "duration": 3826660,
+            "text": "kaynağa"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 61352080,
+            "duration": 8035830,
+            "text": "yaklaştığında"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 71811250,
+            "duration": 7652910,
+            "text": "kenarlardan"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 79464160,
+            "duration": 3699160,
+            "text": "geçen"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 83163330,
+            "duration": 2933750,
+            "text": "ışık"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 86224580,
+            "duration": 3826660,
+            "text": "yolları"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 90178750,
+            "duration": 4591660,
+            "text": "perdede"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 94770410,
+            "duration": 2423330,
+            "text": "daha"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 97193750,
+            "duration": 2423330,
+            "text": "büyük"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 99617500,
+            "duration": 1912910,
+            "text": "bir"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 101530410,
+            "duration": 2933750,
+            "text": "sınır"
+          },
+          {
+            "type": "WordBoundary",
+            "offset": 104464160,
+            "duration": 5484580,
+            "text": "oluşturur"
+          }
+        ]
+      },
+      "qEnd": 281,
+      "reveal": 431,
+      "answerEnd": 797,
+      "durationInFrames": 842
+    }
+  ]
+}

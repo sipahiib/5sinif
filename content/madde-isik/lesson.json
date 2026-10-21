@@ -1,0 +1,265 @@
+{
+  "sourceFiles": [
+    "IMG_4181.jpg",
+    "IMG_4182.jpg",
+    "IMG_4183.jpg",
+    "IMG_4184.jpg"
+  ],
+  "main": [
+    {
+      "id": "karsilastir",
+      "title": "Her madde aynı mı geçirir?",
+      "kind": "compare",
+      "parts": [
+        {
+          "speaker": "filiz",
+          "text": "Aynı güneş ışığı üç aracın penceresine ulaşsın. Birinin penceresi temiz cam, diğerinin yarı saydam plastik poşet, üçüncüsününki kartonla kaplı olsun. Camlı aracın içi aydınlık, poşetli aracın içi daha loş olur. Karton kaplı pencereden ise içeri doğrudan ışık geçmez.",
+          "headline": "Cam • poşet • karton",
+          "detail": "Aynı ışık, farklı sonuç"
+        },
+        {
+          "speaker": "filiz",
+          "text": "Evlerde tül ve kalın perdeyi farklı amaçlarla kullanmamız da bununla ilgilidir. Gün ışığının ne kadarını içeri almak istediğimizi seçeriz. Maddeler ışığı aynı oranda geçirmez. Işığı geçirme özelliklerine göre saydam, yarı saydam ve saydam olmayan, yani opak olarak sınıflandırılır.",
+          "headline": "Üç temel grup",
+          "detail": "Saydam • yarı saydam • opak"
+        }
+      ]
+    },
+    {
+      "id": "saydam",
+      "title": "Saydam maddeler",
+      "kind": "transparent",
+      "parts": [
+        {
+          "speaker": "ibrahim",
+          "text": "Üzerine gelen görünür ışığın büyük bölümünü geçiren ve arkasındaki cisimlerin net görülmesini sağlayan maddelere saydam madde denir. Temiz pencere camından dışarı baktığımızda ağacın yapraklarını seçebiliriz. Cam arada olsa bile ayrıntılar görünür; yalnızca aydınlık görmekten daha fazlası vardır.",
+          "headline": "Işık geçer, ayrıntı görünür",
+          "detail": "Saydam maddelerin arkasını net görürüz."
+        },
+        {
+          "speaker": "ibrahim",
+          "text": "Temiz hava, duru su, renksiz şeffaf plastik ve temiz cam saydam örnekleridir. Burada örneklerin özellikleri önemlidir: her plastik şeffaf değildir, her su da duru değildir. Bir maddeyi yalnız adına bakarak değil, ışığı nasıl geçirdiğini ve arkasını nasıl gösterdiğini inceleyerek sınıflandırırız.",
+          "headline": "Cam • hava • şeffaf plastik • su",
+          "detail": "Örneğin türüne ve durumuna bak."
+        }
+      ]
+    },
+    {
+      "id": "yari-saydam",
+      "title": "Yarı saydam maddeler",
+      "kind": "translucent",
+      "parts": [
+        {
+          "speaker": "filiz",
+          "text": "Gelen ışığın bir kısmını geçiren, fakat arkasındaki ayrıntıları net göstermeyen maddeler yarı saydamdır. Buzlu camın ardında aydınlık veya bir siluet görebiliriz; yüzün ayrıntılarını seçemeyiz. Burada ışık geçmesi, görüntünün net olmasıyla aynı şey değildir. İki özelliği birlikte değerlendirmeliyiz.",
+          "headline": "Işık geçer, ayrıntı kaybolur",
+          "detail": "Yarı saydam: aydınlık var, net görüntü yok."
+        },
+        {
+          "speaker": "filiz",
+          "text": "Buzlu cam, bazı plastik poşetler, yağlı kâğıt ve içi kabarcıklı ya da bulanık buz bu gruba örnek olabilir. Ancak temiz ve berrak buz saydam olabilir. Poşetin malzemesi, rengi ve kalınlığı da sonucu değiştirir. Örnekleri bütün buzlara veya bütün poşetlere genellemeyelim.",
+          "headline": "Buzlu cam • poşet • buz • yağlı kâğıt",
+          "detail": "Bütün buzlar ve poşetler aynı değildir."
+        }
+      ]
+    },
+    {
+      "id": "opak",
+      "title": "Opak maddeler",
+      "kind": "opaque",
+      "parts": [
+        {
+          "speaker": "ibrahim",
+          "text": "Üzerine gelen görünür ışığı diğer tarafa geçirmeyen maddelere saydam olmayan ya da opak madde denir. Tahta, duvar, karton ve mukavva günlük örneklerdir. Kartonu gözümüzle bir nesnenin arasına koyduğumuzda, nesneden gelen ışığın doğrudan gözümüze ulaşmasını engelleriz ve arkasını göremeyiz.",
+          "headline": "Görünür ışık geçmez",
+          "detail": "Tahta • duvar • karton • mukavva"
+        },
+        {
+          "speaker": "ibrahim",
+          "text": "Opak olmak, maddenin mutlaka siyah olması anlamına gelmez. Beyaz bir duvar da opaktır. Işık yüzeyden yansıyabilir veya madde tarafından soğurulabilir; ama içinden karşı tarafa geçmez. Böylece renk ile ışık geçirme özelliğinin farklı ölçütler olduğunu anlarız. Açık renkli karton da opak olabilir.",
+          "headline": "Renk, saydamlık ölçütü değildir.",
+          "detail": "Beyaz duvar da opaktır."
+        }
+      ]
+    },
+    {
+      "id": "yapi",
+      "title": "Madde ve yapı sonucu değiştirir",
+      "kind": "structure",
+      "parts": [
+        {
+          "speaker": "filiz",
+          "text": "Bir cismin ışığı geçirip geçirmemesi, yapıldığı maddeye ve yapısına bağlıdır. Yüzeyin pürüzlendirilmesi, renk verilmesi veya iç yapının değişmesi aynı adı taşıyan iki örneğin farklı davranmasına yol açabilir. Temiz düz cam net görüntü verirken buzlu cam ayrıntıları dağıtır.",
+          "headline": "Madde • yüzey • iç yapı",
+          "detail": "Aynı ad, her zaman aynı özellik değildir."
+        },
+        {
+          "speaker": "filiz",
+          "text": "Kalınlık da geçen ışık miktarını etkileyebilir. Fakat kalın bir camın mutlaka yarı saydam olacağını söyleyemeyiz. Kalın ve berrak cam yine net görüntü verebilir. Daha az ışık geçmesi tek başına yeterli değildir; arkasındaki görüntünün netliğine de bakarız. Sınıflandırmayı gözlenen örneğe göre yaparız.",
+          "headline": "Kalın cam her zaman yarı saydam değildir.",
+          "detail": "Işık miktarıyla birlikte netliği incele."
+        }
+      ]
+    },
+    {
+      "id": "sis",
+      "title": "Ortamın saydamlığı",
+      "kind": "fog",
+      "parts": [
+        {
+          "speaker": "ibrahim",
+          "text": "Bu özellik yalnız katı eşyalarda görülmez; ışığın ilerlediği ortam için de geçerlidir. Sis olmayan temiz havada uzaktaki nesneleri daha rahat seçeriz. Sisli havada ise küçük su damlacıkları ışığı farklı yönlere saçar. Far ışığının yolu ve çevredeki nesneler farklı görünür.",
+          "headline": "Temiz hava ve sisli hava",
+          "detail": "Sis damlacıkları ışığı saçar."
+        },
+        {
+          "speaker": "ibrahim",
+          "text": "Sis yoğunlaştıkça uzak nesnelerden gözümüze doğrudan ulaşan ışık azalır ve görüş zorlaşır. Bu nedenle sisli ortam yarı saydam gibi davranabilir; çok yoğun olduğunda arkası görünmeyebilir. Buradaki sınıflandırma ortamın yoğunluğuna ve baktığımız mesafeye bağlıdır. Havanın her koşulda aynı açıklıkta olduğunu varsaymayız.",
+          "headline": "Yoğun sis, daha zor görüş",
+          "detail": "Ortamın yoğunluğu ve mesafe önemlidir."
+        }
+      ]
+    },
+    {
+      "id": "x-isinlari",
+      "title": "NOT: Görünür ışık ve X ışınları",
+      "kind": "xray",
+      "parts": [
+        {
+          "speaker": "filiz",
+          "text": "Not: Buraya kadar saydamlık ve opaklığı görünür ışık için konuştuk. X ışınları, yani röntgen ışınları, görünür ışıktan farklıdır. Görünür ışığa opak olan bazı yapılardan geçebilirler. Örneğin insan vücudundaki bazı dokular X ışınlarını geçirebilir; bütün dokular aynı miktarda geçirmez.",
+          "headline": "NOT • X ışınları farklıdır.",
+          "detail": "Görünür ışığa opak bazı yapılardan geçebilir."
+        },
+        {
+          "speaker": "filiz",
+          "text": "Bu bilgi, opaklığın hangi ışınımdan söz ettiğimize bağlı olduğunu gösterir. Bir tahtanın görünür ışığı geçirmediğini öğrenmek, bütün ışınım türleri hakkında aynı sonucu vermemize yetmez. Dersimizdeki cam, perde ve gölge karşılaştırmalarına dönerken yeniden görünür ışığı esas alıyoruz. Röntgen ışınlarını gözümüzle göremeyiz.",
+          "headline": "Opaklık, ışınım türüne bağlıdır.",
+          "detail": "Bu dersteki gölgeler: görünür ışık"
+        }
+      ]
+    },
+    {
+      "id": "tam-golge",
+      "title": "Tam gölge nasıl oluşur?",
+      "kind": "shadow",
+      "parts": [
+        {
+          "speaker": "ibrahim",
+          "text": "Işık kaynağının önüne opak bir cisim koyduğumuzda, cismin arkasında kaynaktan doğrudan ışık alamayan bir bölge oluşur. Bu karanlık bölgeye tam gölge denir. Işık aynı homojen ortamda doğrusal ilerlediği ve opak cisimden geçemediği için arkasındaki bölgeye doğrudan ulaşamaz.",
+          "headline": "Opak engelin arkasında tam gölge",
+          "detail": "Doğrusal yayılma + ışığı geçirmeyen cisim"
+        },
+        {
+          "speaker": "ibrahim",
+          "text": "Bir lamba, el ve duvar düşünelim. Elin engellediği ışık yolları duvarda karanlık bir alan bırakır. Elimizi farklı biçimlere soktuğumuzda kuş veya başka bir hayvanı andıran gölgeler oluşturabiliriz. Gölgede gördüğümüz şey elin rengi değil, ışığın ulaşamadığı bölgenin dış sınırıdır.",
+          "headline": "Elin biçimi, gölgenin sınırını değiştirir.",
+          "detail": "Kaynak → opak cisim → perde"
+        }
+      ]
+    },
+    {
+      "id": "golgenin-sekli",
+      "title": "Gölgenin biçimi ve belirginliği",
+      "kind": "shape",
+      "parts": [
+        {
+          "speaker": "filiz",
+          "text": "Gölgenin sınırı cismin ışığı hangi bölgelerde engellediğine bağlıdır; bu yüzden cisme benzer. Noktasal kaynakla kurulan basit düzende, perdeye paralel bir daire levha daire, kare levha kare gölge verir. Cismin duruşu değişirse gölgenin biçimi de değişebilir.",
+          "headline": "Gölge, cismin dış sınırını taşır.",
+          "detail": "Daire → daire / Kare → kare"
+        },
+        {
+          "speaker": "filiz",
+          "text": "Gölge yalnız opak cisimlerde görülmez. Yarı saydam ve saydam cisimlerin de gölgeleri olabilir; ancak bunlar opak cisimlerin gölgeleri kadar koyu ve belirgin olmayabilir. Saydam camın oluşturduğu zayıf gölgeyi fark etmek zor olabilir. Dolayısıyla saydam madde hiç gölge oluşturmaz demek doğru değildir.",
+          "headline": "Saydam cisimlerin de gölgesi olabilir.",
+          "detail": "Gölge zayıf veya daha az belirgin olabilir."
+        }
+      ]
+    },
+    {
+      "id": "uzaklik",
+      "title": "Uzaklık değişirse gölge değişir",
+      "kind": "distance",
+      "parts": [
+        {
+          "speaker": "ibrahim",
+          "text": "Şimdi noktasal ışık kaynağı, opak cisim ve perde aynı doğrultuda olsun. Cisimle perde sabitken kaynağı cisme yaklaştırırsak perdedeki tam gölge büyür. Işık yolları cismin kenarlarından daha geniş açılarla geçer. Her karşılaştırmada yalnız bir konumu değiştirerek sonuca bakalım.",
+          "headline": "Kaynak cisme yaklaşır → gölge büyür",
+          "detail": "Cisim ve perde sabit."
+        },
+        {
+          "speaker": "ibrahim",
+          "text": "İkinci denemede kaynakla perde sabit kalsın. Cismi kaynağa yaklaştırdığımızda gölge yine büyür; perdeye yaklaştırdığımızda küçülür. Böylece gölgenin büyüklüğünün yalnız cismin boyuna bağlı olmadığını görürüz. Madde ışığı geçirir mi, dış sınırı nasıldır, kaynakla cisim ve perde nerede durur? Gölgeyi bu sorularla açıklarız.",
+          "headline": "Cisim kaynağa yaklaşır → gölge büyür",
+          "detail": "Kaynak ve perde sabit."
+        }
+      ]
+    }
+  ],
+  "kurz": [
+    {
+      "id": "k0",
+      "title": "Lumi’nin ışık gümrüğü",
+      "kind": "gates",
+      "caption": "Işık geçişi: açık, dağınık, kapalı.",
+      "speaker": "filiz",
+      "text": "Lumi üç kapılı bir ışık gümrüğü kuruyor. İlk kapıdan geçen ışık, arkasındaki yıldızın ayrıntılarını koruyor: saydam kapı. İkincisinde aydınlık var, yıldızın çizgileri bulanık: yarı saydam kapı. Üçüncüsü görünür ışığı geçirmiyor: opak kapı. Penceresi temiz camla kaplı araç aydınlık olurken, yarı saydam poşetle kaplı olan daha loş kalır; karton kaplı pencereden doğrudan ışık geçmez. Tül ile kalın perdeyi seçerken de içeri girecek ışığı ve dışarıdan görünmeyi düşünürüz. Ölçüt kapının rengi değil, ışığın ve görüntünün başına gelenlerdir."
+    },
+    {
+      "id": "k1",
+      "title": "Örnekleri kontrol et",
+      "kind": "samples",
+      "caption": "Malzemenin adı tek başına yetmez.",
+      "speaker": "ibrahim",
+      "text": "Şimdi Lumi’nin örnek bandı ilerliyor. Temiz hava, duru su, şeffaf plastik ve temiz cam net görüş sağlayabilir. Buzlu cam, yağlı kâğıt, bazı poşetler ve bulanık buzda ise ayrıntılar kaybolur. Tahta, duvar, karton ve mukavva görünür ışığın yolunu kapatır. Fakat bütün plastikleri veya bütün buzları aynı kutuya atamayız. Berrak buz saydam olabilir. Yapı, yüzey, renk ve kalınlık sonucu etkiler. Kalın cam da mutlaka yarı saydam değildir; kalın ama berrak bir camın arkasını hâlâ net görebiliriz."
+    },
+    {
+      "id": "k2",
+      "title": "Görüş denizinde sis",
+      "kind": "fogsea",
+      "caption": "Sis artınca doğrudan görüş azalır.",
+      "speaker": "filiz",
+      "text": "Lumi’nin gözlem gemisi önce temiz havada ilerliyor; uzaktaki işaret net. Sonra minik sis damlacıkları sahneye doluşuyor. Damlacıklar ışığı farklı yönlere saçar; uzaktaki işaretten gelen doğrudan ışık azalır. Sis yoğunlaştıkça görüş zorlaşır, ortam yarı saydam gibi davranabilir; çok yoğun olduğunda arkası görünmeyebilir. Sonuç, sisin yoğunluğuna ve baktığımız uzaklığa da bağlıdır. Demek ki yalnız elde tuttuğumuz eşyalar değil, içinden baktığımız ortamlar da ışığın geçişini etkiler. Araba farının sisli ve temiz havadaki görünüşünün değişmesi bunun günlük bir örneğidir."
+    },
+    {
+      "id": "k3",
+      "title": "Işınım için farklı bilet",
+      "kind": "spectrum",
+      "caption": "NOT • X ışınları görünür ışık değildir.",
+      "speaker": "ibrahim",
+      "text": "Işık gümrüğünde şimdi farklı bir bilet var: X ışını. Not: Röntgen ışınları görünür ışık değildir ve görünür ışığa opak bazı yapılardan geçebilir. Vücuttaki dokular bunları aynı miktarda geçirmez. Yani opak derken hangi ışınımdan söz ettiğimizi bilmeliyiz. Bir nesnenin görünür ışığı durdurması, bütün ışınımları durdurduğu anlamına gelmez. Lumi bu bileti ayrı rafa kaldırıyor; gözümüzle görebildiğimiz ışığın yolculuğuna dönüyoruz. Pencere, karton ve duvar karşılaştırmalarımızda kullandığımız ışık türü yine görünür ışık. Bu ayrımı gölge deneyinde de koruyoruz."
+    },
+    {
+      "id": "k4",
+      "title": "Karanlığın sahnesi",
+      "kind": "theater",
+      "caption": "Engellenen yollar gölgeyi kurar.",
+      "speaker": "filiz",
+      "text": "Lumi bir gölge tiyatrosu açıyor. Noktasal kaynaktan çıkan düz yolların önüne opak bir daire geliyor. Arkada kaynaktan doğrudan ışık alamayan bölge tam gölgeyi oluşturuyor. Perdeye paralel daire levha daireye, kare levha kareye benzeyen iz bırakıyor. El kuklalarının sırrı da ışığı engelleyen dış sınırları değiştirmek. Gölge, cismin rengini taşımaz. Üstelik yalnız opak maddeler gölge oluşturmaz: yarı saydam veya saydam cisimlerin de daha zayıf, daha az belirgin gölgeleri olabilir. Camın gölgesini fark etmek zor olsa da yok saymayız."
+    },
+    {
+      "id": "k5",
+      "title": "Gölgeyi büyüten raylar",
+      "kind": "zoomrails",
+      "caption": "Bir konumu değiştir, sonucu karşılaştır.",
+      "speaker": "ibrahim",
+      "text": "Sahnede üç istasyon var: noktasal kaynak, opak cisim, perde. Önce cisimle perde yerinde duruyor; kaynak cisme yaklaşınca gölge büyüyor. Sonra kaynağı ve perdeyi sabitliyoruz; cismi kaynağa yaklaştırınca gölge büyüyor. Cismi perdeye yaklaştırınca küçülüyor. Lumi her denemede yalnız bir istasyonu oynatıyor; böylece değişimin nedenini izleyebiliyoruz. Işık yolları cismin kenarlarından geçerek perdedeki sınırı belirliyor. Gölgeyi anlamak için malzemenin ışık geçişine, cismin dış biçimine ve üç istasyonun birbirine uzaklığına birlikte bak. Aynı cisim farklı büyüklükte gölgeler bırakabilir."
+    }
+  ],
+  "shorts": [
+    {
+      "question": "Noktasal ışık kaynağı ve perde sabitken opak cisim kaynağa yaklaştırılıyor. Perdedeki tam gölge nasıl değişir?",
+      "answer": "Doğru cevap B. Tam gölge büyür. Kaynak ve perde sabitken cisim kaynağa yaklaştığında, kenarlardan geçen ışık yolları perdede daha büyük bir sınır oluşturur.",
+      "choices": [
+        "Küçülür",
+        "Büyür",
+        "Aynı kalır",
+        "Tamamen kaybolur"
+      ],
+      "correct": 1,
+      "topic": "MADDE VE IŞIK",
+      "visual": "shortdistance"
+    }
+  ]
+}
