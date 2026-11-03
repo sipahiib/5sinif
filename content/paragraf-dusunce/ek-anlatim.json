@@ -1,0 +1,11 @@
+{
+ "kurz": [
+  {"speaker":"filiz","title":"CÜMLE İSTASYONU","text":"Bir paragrafın cümleleri karıştığında önce hepsini oku. Ortak konuyu bul: Bu cümleler hep birlikte ne anlatıyor? Şimdi konuyu tanıtan ve kendinden önce bir açıklama gerektirmeyen bir başlangıç cümlesi ara."},
+  {"speaker":"ibrahim","title":"ZAMAN VE MANTIK","text":"Bir olay anlatılıyorsa neler önce, neler sonra olmuş, düşün. Bir düşünce açıklanıyorsa fikirleri anlam ilişkilerine göre sırala. Örneğin o yüzden gibi bir ifade, kendinden önce bir neden aratır. Sonunda bütün cümleleri sırayla oku; seçenekler varsa onlarla da kontrol et."},
+  {"speaker":"filiz","title":"TANIM KAPISI","text":"Yazarlar bir düşünceyi anlaşılır kılmak ve okuru etkilemek için farklı yollar kullanır. Tanımlama, bir varlığın ya da kavramın ne olduğunu açıklar. Pusula yön bulmaya yarayan bir araçtır. Bu cümle pusula nedir sorusuna cevap verir."},
+  {"speaker":"ibrahim","title":"KARŞILAŞTIRMA","text":"Karşılaştırmada en az iki varlık veya durum, ortak bir özellik bakımından ele alınır. Bu çanta ötekinden daha ağır. Burada iki çantanın ağırlıkları karşılaştırılıyor. Benzerlik de farklılık da karşılaştırmanın konusu olabilir."},
+  {"speaker":"filiz","title":"BENZETME","text":"Benzetmede bir özelliği daha belirgin anlatmak için başka bir varlıktan yararlanırız. Kar gibi beyaz bulutlar derken bulutların beyazlığı kara benzetilir. Yalnızca gibi sözcüğüne değil, kurulan ortak özelliğe de dikkat et."},
+  {"speaker":"ibrahim","title":"ÖRNEK BAHÇESİ","text":"Örnekleme, söylenen düşünceyi somut örneklerle açıklar. Bazı meyveler C vitamini içerir; portakal ve çilek buna örnektir. Mesela, söz gelimi, söz gelişi ve örneğin sözleri ipucu olabilir. Tanımlama açıklar, karşılaştırma kıyaslar, benzetme ortak niteliği belirginleştirir; örnekleme düşünceyi örneklerle somutlaştırır."}
+ ],
+ "short": {"question":"Kütüphane, kitapların korunduğu ve okurlara sunulduğu yerdir. Bu cümlede hangi düşünceyi geliştirme yolu kullanılmıştır?", "answer":"Doğru cevap C. Cümle kütüphanenin ne olduğunu açıkladığı için tanımlamadır."}
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "01",
+    "title": "Paragraf oluşturma",
+    "speaker": "Filiz",
+    "seconds": 29.184,
+    "audioFrames": 876
+  },
+  {
+    "id": "02",
+    "title": "Ev örneği",
+    "speaker": "İbrahim",
+    "seconds": 28.152,
+    "audioFrames": 845
+  },
+  {
+    "id": "03",
+    "title": "Yolculuk örneği",
+    "speaker": "Filiz",
+    "seconds": 24.144,
+    "audioFrames": 725
+  },
+  {
+    "id": "04",
+    "title": "Düşünceyi geliştirme",
+    "speaker": "İbrahim",
+    "seconds": 14.568,
+    "audioFrames": 438
+  },
+  {
+    "id": "05",
+    "title": "Tanımlama",
+    "speaker": "Filiz",
+    "seconds": 17.688,
+    "audioFrames": 531
+  },
+  {
+    "id": "06",
+    "title": "Karşılaştırma",
+    "speaker": "İbrahim",
+    "seconds": 19.08,
+    "audioFrames": 573
+  },
+  {
+    "id": "07",
+    "title": "Benzetme",
+    "speaker": "Filiz",
+    "seconds": 20.256,
+    "audioFrames": 608
+  },
+  {
+    "id": "08",
+    "title": "Örnekleme",
+    "speaker": "İbrahim",
+    "seconds": 33.048,
+    "audioFrames": 992
+  }
+]

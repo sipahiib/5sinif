@@ -1,0 +1,104 @@
+{
+  "main": [
+    {
+      "title": "Üç noktayla başlayalım",
+      "caption": "A, B ve C noktalarını işaretle.",
+      "visual": "points",
+      "speaker": "filiz",
+      "text": "Bir çokgen oluşturalım. Aynı doğru üzerinde olmayan üç farklı nokta seçelim ve onlara A, B ve C adlarını verelim. Şimdi bu noktaları sırayla birleştirelim."
+    },
+    {
+      "title": "Noktaları birleştir",
+      "caption": "AB + BC + CA → kapalı üçgen",
+      "visual": "triangle",
+      "speaker": "ibrahim",
+      "text": "A ile B'yi, B ile C'yi ve son olarak C ile A'yı doğru parçalarıyla birleştirdiğimizde kapalı bir üçgen elde ederiz. Her doğru parçası bir kenardır."
+    },
+    {
+      "title": "Kenarlar ve köşeler",
+      "caption": "Doğru parçaları birleşir ve şekil kapanır.",
+      "visual": "parts",
+      "speaker": "filiz",
+      "text": "Çokgenler, uç uca birleşen doğru parçalarının oluşturduğu kapalı şekillerdir. Doğru parçalarına kenar, kenarların birleştiği noktalara köşe deriz. Üçgende üç kenar ve üç köşe bulunur."
+    },
+    {
+      "title": "Adını kenar sayısı belirler",
+      "caption": "3 üçgen · 4 dörtgen · 6 altıgen · 8 sekizgen",
+      "visual": "names",
+      "speaker": "ibrahim",
+      "text": "Bir çokgeni adlandırmak için kenarlarını sayarız. Üç kenarlı üçgen, dört kenarlı dörtgen, altı kenarlı altıgen ve sekiz kenarlı sekizgendir. Köşe sayısı da kenar sayısına eşittir."
+    },
+    {
+      "title": "Düzgün çokgen nedir?",
+      "caption": "Bütün kenarlar eşit VE bütün açılar eşit.",
+      "visual": "regular",
+      "speaker": "filiz",
+      "text": "Düzgün çokgende iki koşul birlikte sağlanır. Bütün kenar uzunlukları eşittir ve bütün açı ölçüleri eşittir. Yalnızca kenarların ya da yalnızca açıların eşit olması yeterli değildir."
+    },
+    {
+      "title": "İki düzgün çokgen örneği",
+      "caption": "Eşkenar üçgen ve kare",
+      "visual": "examples",
+      "speaker": "ibrahim",
+      "text": "Eşkenar üçgende üç kenar ve üç açı kendi aralarında eşittir. Karede de dört kenar eşittir ve dört açının her biri dik açıdır. Bu yüzden ikisi de düzgün çokgendir."
+    },
+    {
+      "title": "Altıgen ve sekizgen",
+      "caption": "Çokgenler kenar sayılarına göre adlandırılır.",
+      "visual": "sixeight",
+      "speaker": "filiz",
+      "text": "Bu şekillerin kenarlarını sayalım. Bir, iki, üç, dört, beş, altı: altıgen. Diğerinde sekiz kenar var: sekizgen. Kenarları ve açıları da eşitse bunlara düzgün altıgen ve düzgün sekizgen deriz."
+    },
+    {
+      "title": "Çember bir çokgen mi?",
+      "caption": "Çember eğridir; doğru parçalarından oluşmaz.",
+      "visual": "circle",
+      "speaker": "ibrahim",
+      "text": "Düzgün çokgenin kenar sayısı arttıkça şekli çembere yaklaşabilir. Fakat çemberin kendisi eğridir; doğru parçalarından oluşmaz. Bu nedenle çember bir çokgen değildir."
+    }
+  ],
+  "kurz": [
+    {
+      "title": "Çizgiler bir şekle dönüşür",
+      "caption": "Üç doğru parçası birleşir, üçgen oluşur.",
+      "visual": "triangle",
+      "speaker": "filiz",
+      "text": "Üç noktayı doğru parçalarıyla sırayla birleştirip şekli kapatalım. İşte üç kenarlı bir çokgen: üçgen!"
+    },
+    {
+      "title": "Kenarları say!",
+      "caption": "6 kenar: altıgen · 8 kenar: sekizgen",
+      "visual": "sixeight",
+      "speaker": "ibrahim",
+      "text": "Bir çokgenin adını kenar sayısı belirler. Altı kenar altıgeni, sekiz kenar sekizgeni oluşturur. Her köşe iki kenarın birleştiği yerdir."
+    },
+    {
+      "title": "Düzgün olmanın iki koşulu",
+      "caption": "Eşit kenarlar + eşit açılar",
+      "visual": "regular",
+      "speaker": "filiz",
+      "text": "Düzgün bir çokgende bütün kenarlar eşit uzunlukta ve bütün açılar eşit ölçüdedir. Kare ve eşkenar üçgen buna örnektir."
+    },
+    {
+      "title": "Kareyi keşfet",
+      "caption": "4 eşit kenar · 4 eşit açı",
+      "visual": "examples",
+      "speaker": "ibrahim",
+      "text": "Kareyi inceleyelim. Dört kenarının uzunlukları eşittir. Ayrıca dört açısı da dik açıdır ve ölçüleri eşittir. İki koşulu da sağladığı için kare düzgün bir çokgendir."
+    },
+    {
+      "title": "Üçgenin köşeleri",
+      "caption": "Kenarlar köşelerde buluşur.",
+      "visual": "parts",
+      "speaker": "filiz",
+      "text": "Üçgenin kenarları köşelerde buluşur. Üç kenar ve üç köşe sayarız. Bir çokgende kenar sayısı ile köşe sayısı her zaman aynıdır. Şeklin kapalı olması da önemlidir."
+    },
+    {
+      "title": "Peki ya çember?",
+      "caption": "Çembere yaklaşmak, çember olmak değildir.",
+      "visual": "circle",
+      "speaker": "ibrahim",
+      "text": "Kenar sayısı arttıkça düzgün çokgen çembere yaklaşır. Ama çember eğridir; doğru parçalarından oluşmadığı için çokgen değildir."
+    }
+  ]
+}

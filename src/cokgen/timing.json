@@ -1,0 +1,23 @@
+{
+  "qEnd": 61,
+  "reveal": 211,
+  "answerFrom": 203,
+  "answerEnd": 368,
+  "total": 428,
+  "audio": {
+    "question": {
+      "duration": 3.12,
+      "start": 0.213083,
+      "end": 2.014625
+    },
+    "answer": {
+      "duration": 6.624,
+      "start": 0.276292,
+      "end": 5.499625
+    }
+  },
+  "lines": {
+    "question": "Şekildeki çokgenin adı nedir?",
+    "answer": "Doğru cevap B, altıgen. Çünkü bu çokgenin altı kenarı vardır."
+  }
+}
