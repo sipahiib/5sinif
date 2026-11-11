@@ -1,0 +1,14 @@
+{
+ "main":[
+ {"title":"İsim nedir?","text":"Varlıkları ve kavramları karşılayan sözcüklere isim ya da ad denir. Kitap bir varlığın, sevgi ise bir kavramın adıdır. İsimleri farklı özelliklerine göre inceleyebiliriz.","visual":"KİTAP  ·  SEVGİ","detail":"İsimler varlıkları ve kavramları karşılar."},
+ {"title":"Tür yani cins adı","text":"Aynı türden varlıkların ortak adına tür adı, yani cins adı denir. Şehir, ülke, dil, nehir, kitap ve insan sözcükleri cins adlarına örnektir.","visual":"şehir  ·  ülke  ·  nehir","detail":"Aynı türün ortak adı: cins adı"},
+ {"title":"Özel ad","text":"Bir varlığı kendi türündeki diğer varlıklardan ayıran özel adlar vardır. Ankara bir şehrin, Türkiye bir ülkenin, Kızılırmak bir nehrin özel adıdır. İngilizce, Çalıkuşu ve Ahmet de özel adlardır. Özel adlar büyük harfle başlar.","visual":"şehir → Ankara","detail":"Tür adı: şehir   •   Özel ad: Ankara"},
+ {"title":"Somut ad","text":"Beş duyumuzdan en az biriyle algılayabildiğimiz varlıkların adları somuttur. Masa, kitap, kuzu, hava ve ışık somut adlara örnektir. Bir varlığı somut saymak için beş duyunun hepsiyle algılamak gerekmez; bir tanesi yeterlidir.","visual":"KİTAP  ·  IŞIK  ·  HAVA","detail":"Beş duyudan en az biriyle algılanabilir."},
+ {"title":"Soyut ad","text":"Beş duyumuzun hiçbiriyle algılayamadığımız kavramların adları soyuttur. Sevgi, korku, öfke, sevinç ve rüya soyut adlardır. Örneğin sevgiyi hissederiz; ama onu beş duyumuzla algılayamayız.","visual":"SEVGİ  ·  KORKU","detail":"Beş duyuyla algılanamaz; düşünce veya duygu olabilir."},
+ {"title":"Tekil ad","text":"Sayıca bir varlığı ya da kavramı karşılayan adlar tekildir. Ağaç, bulut, sevgi ve mevsim tekil adlara örnektir.","visual":"ağaç","detail":"Tekil: bir varlık veya kavram"},
+ {"title":"Çoğul ad","text":"Sayıca birden fazla varlığı karşılayan adlar çoğuldur. Türkçede lar ve ler çoğul ekleridir. Ağaçlar, bulutlar, sevgiler ve mevsimler çoğul adlara örnektir.","visual":"ağaç + lar = ağaçlar","detail":"Çoğul ekleri: -lar / -ler"},
+ {"title":"Topluluk adı","text":"Çoğul eki almadan birden fazla varlığın oluşturduğu grubu karşılayan adlara topluluk adı denir. Ordu, halk, sürü, kurul, takım ve komisyon topluluk adıdır. Takım, tek bir grubu; takımlar ise birden fazla grubu anlatır.","visual":"oyuncular  →  takım","detail":"Bir grup: takım   •   Birden fazla grup: takımlar"},
+ {"title":"Bir ismi farklı yönlerden incele","text":"Aynı isim farklı ölçütlere göre sınıflandırılabilir. Sevgi bir cins adıdır; duyu organlarıyla algılanamadığı için soyut, bir kavramı karşıladığı için tekildir.","visual":"sevgi","detail":"Cins  •  Soyut  •  Tekil"}
+ ],
+ "short":{"question":"Aşağıdakilerden hangisi topluluk adıdır?","answer":"Doğru cevap C: takım. Takım sözcüğü, çoğul eki almadan birden fazla kişinin oluşturduğu grubu anlatır.","choices":["Oyuncu","Oyuncular","Takım","Kalemler"],"correct":2}
+}

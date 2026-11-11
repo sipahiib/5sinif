@@ -1,0 +1,99 @@
+{
+  "main": [
+    {
+      "title": "Rakamlar ve doğal sayılar",
+      "text": "Sayıları yazmak için sıfırdan dokuza kadar on rakam kullanırız. Sayma sayıları birden başlar ve sürer. Doğal sayılar ise sıfırı da içerir.",
+      "visual": "0 1 2 3 4 5 6 7 8 9",
+      "detail": "Sayma: 1, 2, 3, …   •   Doğal: 0, 1, 2, 3, …",
+      "audio": "audio/matematik/sayilar/main-0.mp3",
+      "frames": 348,
+      "from": 0,
+      "duration": 360
+    },
+    {
+      "title": "Basamaklar ve bölükler",
+      "text": "Bir doğal sayıda rakamın bulunduğu yere basamak denir. Basamaklar sağdan sola doğru üçerli gruplandırılır. Her gruba bölük denir. Bölükler, gruptaki en küçük basamağa göre adlandırılır.",
+      "visual": "369  |  257",
+      "detail": "Binler bölüğü              Birler bölüğü",
+      "audio": "audio/matematik/sayilar/main-1.mp3",
+      "frames": 496,
+      "from": 360,
+      "duration": 508
+    },
+    {
+      "title": "Basamak adları",
+      "text": "Üç yüz altmış dokuz bin iki yüz elli yedi sayısında sağdan başlayarak basamaklar birler, onlar, yüzler, binler, on binler ve yüz binlerdir.",
+      "visual": "3     6     9  |  2     5     7",
+      "detail": "Yüz bin • On bin • Bin   |   Yüz • On • Bir",
+      "audio": "audio/matematik/sayilar/main-2.mp3",
+      "frames": 310,
+      "from": 868,
+      "duration": 322
+    },
+    {
+      "title": "Sayıları yazalım ve okuyalım",
+      "text": "Sayılar yazılırken bölükler arasında boşluk bırakılır. Sayı okunurken her bölükteki sayı ve ardından bölük adı söylenir. Birler bölüğünden sonra bölük adı söylenmez. Yüz seksen beş bin sekiz yüz yirmi altı böyle okunur. Sayı adları yazıyla yazılırken sözcükler ayrı yazılır.",
+      "visual": "185  |  826",
+      "detail": "yüz seksen beş bin   sekiz yüz yirmi altı",
+      "audio": "audio/matematik/sayilar/main-3.mp3",
+      "frames": 677,
+      "from": 1190,
+      "duration": 689
+    },
+    {
+      "title": "Sayı değeri ve basamak değeri",
+      "text": "Bir rakamın sayı değeri kendisidir. Basamak değeri ise rakamın değeri ile bulunduğu basamağın değerinin çarpımıdır. Yedi yüz yirmi dokuzda yedinin basamak değeri yedi yüz, ikinin yirmi, dokuzun dokuzdur.",
+      "visual": "729   =   700 + 20 + 9",
+      "detail": "Sayı değerleri: 7, 2, 9  •  Basamak değerleri: 700, 20, 9",
+      "audio": "audio/matematik/sayilar/main-4.mp3",
+      "frames": 471,
+      "from": 1879,
+      "duration": 483
+    },
+    {
+      "title": "Doğal sayıyı çözümleyelim",
+      "text": "Bir doğal sayıyı rakamlarının basamak değerleri toplamı biçiminde yazmaya çözümleme denir. Yedi yüz beş bin dört yüz elli üç sayısı; yedi yüz bin, beş bin, dört yüz, elli ve üçün toplamıdır. On binler basamağında sıfır vardır.",
+      "visual": "705 453",
+      "detail": "700 000 + 5 000 + 400 + 50 + 3",
+      "audio": "audio/matematik/sayilar/main-5.mp3",
+      "frames": 512,
+      "from": 2362,
+      "duration": 524
+    },
+    {
+      "title": "Sayıları karşılaştıralım",
+      "text": "Önce basamak sayılarına bakarız. Basamak sayısı fazla olan doğal sayı daha büyüktür. Basamak sayıları eşitse soldaki en büyük basamaktan başlayıp aynı basamaktaki rakamları karşılaştırırız. Rakamlar eşitse sağa doğru devam ederiz. İlk farklı basamaktaki rakamı büyük olan sayı daha büyüktür.",
+      "visual": "705 453   >   704 999",
+      "detail": "İlk farklı basamak: 5 bin > 4 bin",
+      "audio": "audio/matematik/sayilar/main-6.mp3",
+      "frames": 669,
+      "from": 2886,
+      "duration": 681
+    }
+  ],
+  "short": {
+    "question": "729 sayısında 2 rakamının basamak değeri kaçtır?",
+    "answer": "Doğru cevap C: yirmi. İki, onlar basamağında olduğu için iki çarpı on, yirmi eder.",
+    "choices": [
+      "2",
+      "7",
+      "20",
+      "200"
+    ],
+    "correct": 2,
+    "q": {
+      "audio": "audio/matematik/sayilar/short-q.mp3",
+      "frames": 150
+    },
+    "a": {
+      "audio": "audio/matematik/sayilar/short-a.mp3",
+      "frames": 240
+    },
+    "qEnd": 150,
+    "reveal": 300,
+    "answerEnd": 540,
+    "duration": 600
+  },
+  "lessonFrames": 3567,
+  "duration": 3777
+}

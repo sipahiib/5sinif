@@ -69,7 +69,7 @@ const Orb: React.FC<{x: number; y: number; size: number; delay: number; color: s
   return <div style={{position: 'absolute', left: x, top: y + float, width: size, height: size, borderRadius: '50%', background: color, opacity: .52, boxShadow: `0 10px 24px ${color}`}}/>;
 };
 
-export const CtaOptionOne: React.FC<{whiteBackground?: boolean}> = ({whiteBackground = false}) => {
+export const CtaOptionOne: React.FC<{whiteBackground?: boolean; safeCharacters?: boolean}> = ({whiteBackground = false, safeCharacters = false}) => {
   const frame = useCurrentFrame();
   const {fps} = useVideoConfig();
   const cardIn = spring({frame, fps, config: {damping: 17, stiffness: 82, mass: .8}});
@@ -126,8 +126,8 @@ export const CtaOptionOne: React.FC<{whiteBackground?: boolean}> = ({whiteBackgr
       </div>
     </div>
 
-    <GifCharacter name="filiz" x={102} y={125} scale={1.12} animate={false}/>
-    <GifCharacter name="ibrahim" x={858} y={125} scale={1.12} flip animate={false}/>
+    <GifCharacter name="filiz" x={safeCharacters ? 126 : 102} y={125} scale={safeCharacters ? 1 : 1.12} animate={false}/>
+    <GifCharacter name="ibrahim" x={safeCharacters ? 834 : 858} y={125} scale={safeCharacters ? 1 : 1.12} flip animate={false}/>
 
     {frame >= 42 && <Pointer x={cursorX} y={cursorY} pressed={pressed}/>} 
     <Burst start={72} x={413} y={311} color={colors.blue}/>

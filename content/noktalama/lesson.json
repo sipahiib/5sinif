@@ -1,0 +1,90 @@
+{
+  "main": [
+    {
+      "title": "İki nokta: örnek ve açıklama",
+      "text": "İki nokta, ardından örnek ya da açıklama verilecek cümlenin sonuna konur. Çantamda üç şey var: kitap, kalem, defter. Şunu unutma: Düzenli okumak dilimizi geliştirir.",
+      "example": "Çantamda üç şey var: kitap, kalem, defter.",
+      "detail": "İki noktadan sonra örnek veya açıklama gelir."
+    },
+    {
+      "title": "İki nokta: ses ve konuşma",
+      "text": "Ses bilgisinde uzun ünlüyü göstermek için de iki nokta kullanılır. Aile sözcüğünün söylenişinde uzun a, a iki nokta biçiminde gösterilebilir. Bu, sözcüğün normal yazımı değil, ses gösterimidir. Karşılıklı konuşmalarda konuşanı belirten sözlerden sonra da iki nokta konur: Öğretmen: Günaydın!",
+      "example": "Öğretmen: Günaydın!",
+      "detail": "a:ile, bir ses gösterimidir; normal yazım aile şeklindedir."
+    },
+    {
+      "title": "İki nokta: konuşma ve adres",
+      "text": "Edebî eserlerde konuşma bölümünden önceki ifadenin sonunda iki nokta kullanılabilir. Örneğin, çocuk seslendi: Ardından konuşma çizgisiyle yeni satırda Merhaba! yazabiliriz. Genel Ağ adreslerinde de iki nokta vardır: h t t p iki nokta bölü bölü.",
+      "example": "Çocuk seslendi:\n— Merhaba!",
+      "detail": "Adres örneği: http://tdk.org.tr"
+    },
+    {
+      "title": "Üç nokta: seslenme",
+      "text": "Üç nokta, seslenmelerde anlatımı pekiştirebilir. Örneğin, Ali... Ali, buraya gel! Soru veya ünlem işaretinden sonra üç nokta yerine iki nokta konulması yeterlidir. Bak, örneğimizde ünlemden sonra iki nokta var.",
+      "example": "Dikkat!..",
+      "detail": "NOT: Soru veya ünlem işaretinden sonra iki nokta yeterlidir."
+    },
+    {
+      "title": "Eksik bırakılan cevap",
+      "text": "Karşılıklı konuşmalarda eksik ya da yetersiz bırakılan cevapların sonunda üç nokta kullanılır. Ne zaman geleceksin? Haftaya... Unutma: Üç nokta yerine iki veya üçten fazla nokta kullanılmaz. Soru ve ünlem işaretinden sonraki az önce gördüğümüz kullanım ayrıdır.",
+      "example": "— Ne zaman?\n— Haftaya...",
+      "detail": "NOT: Üç nokta yerine iki veya üçten fazla nokta kullanılmaz."
+    },
+    {
+      "title": "Uzun çizgi: konuşma",
+      "text": "Yazıda satır başına alınan konuşmaları göstermek için uzun çizgi kullanılır. Bu işarete konuşma çizgisi de denir. Her yeni konuşmacının sözü yeni satırda ve uzun çizgiyle başlar.",
+      "example": "— Eski şehri gezdin mi?\n— Evet, gezdim.",
+      "detail": "Her yeni konuşmacı için yeni satır ve uzun çizgi."
+    },
+    {
+      "title": "Üç nokta: eksik cümle",
+      "text": "Üç nokta anlatım olarak tamamlanmamış cümlelerin sonuna konur. Mesela, Keşke o gün sen de bizimle... Cümlenin devamı söylenmemiştir. Bazen açık yazılmak istenmeyen kelime ya da bölümlerin yerine de üç nokta konur.",
+      "example": "Keşke o gün sen de...",
+      "detail": "Tamamlanmamış söz; açık yazılmayan bölüm."
+    },
+    {
+      "title": "Alıntıda ve hayal gücünde",
+      "text": "Alıntılarda baştan, ortadan ya da sondan alınmayan kelime ve bölümler üç noktayla gösterilebilir. Üç nokta, sözün geri kalanını okuyucunun hayaline bırakmak veya ifadeye güç katmak için de kullanılır: Sana uğurlar olsun... Ayrılıyor yolumuz!",
+      "example": "Sana uğurlar olsun...",
+      "detail": "Alıntıda atlanan bölüm veya söylenmeyen devam."
+    }
+  ],
+  "kurz": [
+    {
+      "title": "Noktalama bir yön işareti",
+      "text": "Bir yazıda noktalama işaretleri, okura yolu gösterir. Üç farklı işarete bakalım: iki nokta, konuşma çizgisi ve üç nokta. Her biri okura başka bir ipucu verir.",
+      "visual": 3
+    },
+    {
+      "title": "İki nokta kapıyı açar",
+      "text": "İki nokta, ardından gelecek örnekleri veya açıklamayı haber verir. Sepette meyveler var: elma, armut, erik. Konuşan kişinin adından sonra da iki nokta gelebilir; Öğretmen: Günaydın! Ses bilgisinde uzun ünlüyü ve internet adreslerini gösterirken de bu işarete rastlarız.",
+      "visual": 0
+    },
+    {
+      "title": "Yeni konuşmacı, yeni çizgi",
+      "text": "Satır başında uzun çizgi gördüğünde bir konuşmacının sözünü okuyorsun. Yeni konuşmacı başlayınca yeni satıra geçilir ve yeniden uzun çizgi konur. Bu yüzden ona konuşma çizgisi de denir.",
+      "visual": 1
+    },
+    {
+      "title": "Sözün devamı sende",
+      "text": "Üç nokta tamamlanmamış sözleri, eksik cevapları veya alıntıda atlanan kısımları gösterebilir. Bazen anlatımı güçlendirir, bazen devamını hayaline bırakır. Açıkça yazılmak istenmeyen bir bölüm yerine de kullanılır.",
+      "visual": 2
+    },
+    {
+      "title": "Nokta sayısına dikkat",
+      "text": "Üç nokta üç tanedir; iki veya üçten fazla noktayla yazılmaz. Ancak soru ya da ünlem işaretinden sonra iki nokta yeterlidir. İşaretlere dikkat etmek, yazının anlamını daha kolay kavramamızı sağlar.",
+      "visual": 4
+    }
+  ],
+  "short": {
+    "question": "Bir konuşmacının sözünü satır başında hangi işaret gösterir?",
+    "answer": "Doğru cevap C: uzun çizgi. Satır başındaki uzun çizgi, konuşma çizgisi olarak da adlandırılır.",
+    "choices": [
+      "Virgül",
+      "İki nokta",
+      "Uzun çizgi",
+      "Noktalı virgül"
+    ],
+    "correct": 2
+  }
+}
