@@ -6,6 +6,8 @@ import {LessonVideo} from './LessonVideo';
 import {getLesson, getLessonDurationInFrames} from './lesson-manifest';
 import {Nokta, NoktaConfig} from './nokta/Nokta';
 import {DogruParcasi, DogruParcasiConfig} from './dogruparcasi/DogruParcasi';
+import {Kurz as MezopotamyaKurz, kurzDuration as mezopotamyaKurzDuration, Main as Mezopotamya, mainDuration as mezopotamyaDuration, Short as MezopotamyaShort} from './mezopotamya/Video';
+import mezopotamyaTimings from './mezopotamya/timings.json';
 
 const genericLesson = getLesson('ay');
 
@@ -52,5 +54,8 @@ export const Root = () => (
       width={DogruParcasiConfig.width}
       height={DogruParcasiConfig.height}
     />
+    <Composition id="Mezopotamya" component={Mezopotamya} durationInFrames={mezopotamyaDuration()} fps={30} width={960} height={540}/>
+    <Composition id="MezopotamyaKurz" component={MezopotamyaKurz} durationInFrames={mezopotamyaKurzDuration()} fps={30} width={960} height={540}/>
+    <Composition id="MezopotamyaShorts" component={MezopotamyaShort} durationInFrames={mezopotamyaTimings.shorts[0].frames} fps={30} width={1080} height={1920}/>
   </>
 );
